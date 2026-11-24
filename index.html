@@ -21,6 +21,7 @@
   <nav class="topnav">
     <a href="#mapa" data-i18n="nav_mapa">Mapa</a>
     <a href="#directorio" data-i18n="nav_directorio">Directorio</a>
+    <a href="#ranking" data-i18n="nav_ranking">Ranking</a>
     <a href="#narradores" data-i18n="nav_narradores">Narradores</a>
     <a href="#garzon" data-i18n="nav_garzon">Garzón Céspedes</a>
     <a href="#libros" data-i18n="nav_libros">Libros</a>
@@ -43,7 +44,6 @@
     <p class="hero-note" data-i18n="hero_note">Un registro en construcción, con datos verificados. Lo no verificado se marca como tal.</p>
     <div class="stats" id="stats">
       <div class="stat"><span class="stat-num" id="stat-fest">—</span><span class="stat-label" data-i18n="stat_fest">festivales en el mundo</span></div>
-      <div class="stat"><span class="stat-num" id="stat-col">—</span><span class="stat-label" data-i18n="stat_col">en Colombia</span></div>
       <div class="stat"><span class="stat-num" id="stat-narr">—</span><span class="stat-label" data-i18n="stat_narr">narradores en el mundo</span></div>
       <div class="stat"><span class="stat-num" id="stat-libros">—</span><span class="stat-label" data-i18n="stat_libros">libros verificados</span></div>
       <div class="stat"><span class="stat-num" id="stat-prensa">—</span><span class="stat-label" data-i18n="stat_prensa">artículos de prensa</span></div>
@@ -95,7 +95,6 @@
         </select>
       </label>
       <label class="check"><input type="checkbox" id="toggle-world" checked> <span data-i18n="toggle_world">Festivales del mundo</span></label>
-      <label class="check"><input type="checkbox" id="toggle-colombia" checked> <span data-i18n="toggle_colombia">Colombia (144)</span></label>
       <label class="check"><input type="checkbox" id="toggle-miticos"> <span data-i18n="toggle_miticos">Lugares míticos</span></label>
     </div>
     <div id="map" aria-label="Mapa mundial de festivales de narración oral"></div>
@@ -127,22 +126,31 @@
       </select>
     </div>
     <p class="dir-count" id="dir-count"></p>
-    <div id="dir-list" class="fest-grid"></div>
-
-    <h3 class="subsection" data-i18n="col_title">Colombia — 144 festivales</h3>
-    <div class="callout callout-warning">
-      <p data-i18n="col_warn">Investigación de Fredy Ayala (2026), beca de investigación en artes, Ministerio de las Culturas de Colombia. La fuente registra la vigencia de cada festival solo como un punto de color, sin etiqueta en el texto: por eso la vigencia individual NO está disponible en esta página. Conteos de la fuente: <strong>52 vigentes, 67 no vigentes y 25 por confirmar</strong>.</p>
-      <p><a href="https://form.jotform.com/263127228482054" target="_blank" rel="noopener" data-i18n="col_register">Registrar o completar un festival (formulario de la investigación)</a></p>
-    </div>
-    <div class="dir-search">
-      <input type="search" id="col-search" data-i18n-ph="col_search_ph" placeholder="Buscar festival o municipio en Colombia…">
-    </div>
-    <p class="dir-count" id="col-count"></p>
-    <div id="col-list" class="col-list"></div>
+    <div id="dir-list"></div>
 
     <h3 class="subsection" data-i18n="mentions_title">Menciones con datos insuficientes</h3>
     <p class="section-intro" data-i18n="mentions_intro">Festivales mencionados en las fuentes, sin datos suficientes para una ficha completa.</p>
     <ul id="mentions-list" class="mentions"></ul>
+  </section>
+
+  <!-- RANKING: DONDE HAY MAS NARRACION ORAL -->
+  <section class="section" id="ranking">
+    <h2 data-i18n="ranking_title">Dónde hay más narración oral</h2>
+    <p class="section-intro" data-i18n="ranking_intro">Los lugares con más festivales de narración oral, contados a partir de los datos de este mapa (370 festivales únicos).</p>
+    <div class="ranking-grid">
+      <div>
+        <h3 class="subsection" data-i18n="ranking_countries_h">Por país</h3>
+        <ol class="ranking-list" id="ranking-countries"></ol>
+        <p class="muted" data-i18n="ranking_countries_note">México empata con Portugal y Rusia, con 6 festivales cada uno.</p>
+      </div>
+      <div>
+        <h3 class="subsection" data-i18n="ranking_cities_h">Por ciudad</h3>
+        <ol class="ranking-list" id="ranking-cities"></ol>
+        <p class="muted" data-i18n="ranking_cities_note">Con 3 festivales cada una: La Habana, Lima, Nairobi, Tunja y Bucaramanga.</p>
+      </div>
+    </div>
+    <p class="muted" data-i18n="ranking_method">Cómo se contó: festivales únicos por país y por ciudad o municipio registrado; un festival presente en varios municipios cuenta en cada uno. Los 144 festivales de Colombia provienen de la investigación exhaustiva de Fredy Ayala (2026, beca del Ministerio de las Culturas de Colombia), por eso Colombia encabeza el ranking: otros países pueden estar subrepresentados en este registro. La vigencia individual de los festivales de Colombia no está disponible en la fuente (52 vigentes, 67 no vigentes y 25 por confirmar).</p>
+    <p><a href="https://form.jotform.com/263127228482054" target="_blank" rel="noopener" data-i18n="ranking_register">Registrar o completar un festival (formulario de la investigación)</a></p>
   </section>
 
   <!-- NARRADORES -->
@@ -272,7 +280,7 @@
   <!-- LIBROS -->
   <section class="section" id="libros">
     <h2 data-i18n="books_title">Libros de narradores</h2>
-    <p class="section-intro" data-i18n="books_intro">Libros verificados (título, año y editorial) de nueve autores narradores, empezando por Marcela Sabio. Los títulos con año o editorial sin verificar se marcan como tales.</p>
+    <p class="section-intro" data-i18n="books_intro">Catálogo público: 120 libros (96 verificados y 24 con año o editorial sin verificar) de nueve autores narradores, con enlace para buscar cada título.</p>
     <div id="books-list"></div>
   </section>
 

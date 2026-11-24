@@ -178,6 +178,14 @@ a:hover { text-decoration: underline; }
 .garzon-quote { font-family: "Roboto Slab", serif; font-size: 1.15rem; font-style: italic; border-left: 4px solid var(--lime); margin: 1rem 0 1.5rem; padding: .5rem 0 .5rem 1rem; }
 .col-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: .5rem 1.5rem; }
 .col-item { padding: .4rem 0; border-bottom: 1px solid var(--border); font-size: .95rem; }
+.relato { background: #F4FBEA; border-left: 4px solid var(--lime); border-radius: 0 var(--radius) var(--radius) 0; padding: .7rem .9rem; margin: .7rem 0 0; font-size: .95rem; }
+.relato p { margin: .25rem 0; }
+.relato-label { font-weight: 700; color: var(--slate); }
+.relato-note { font-size: .8rem; font-style: italic; }
+.relato-popup { margin-top: .5rem; font-size: .9rem; line-height: 1.5; }
+.ranking-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .5rem 2rem; }
+.ranking-list { font-size: 1.05rem; line-height: 1.9; margin: .25rem 0 .5rem; padding-left: 1.4rem; }
+.ranking-list li::marker { font-weight: 700; color: var(--orange); }
 .col-item strong { color: var(--slate); }
 .col-item .col-year { color: var(--orange); font-weight: 700; }
 .col-item .col-lugar { color: var(--text); }
@@ -242,4 +250,6 @@ footer {
   .stat-num { font-size: 1.4rem; }
   .fest-grid { grid-template-columns: 1fr; }
   .press-grid { grid-template-columns: 1fr; }
+  .ranking-grid { grid-template-columns: 1fr; }
+  .col-list { grid-template-columns: 1fr; }
 }

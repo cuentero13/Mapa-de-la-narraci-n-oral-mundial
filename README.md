@@ -24,21 +24,24 @@ data/
   festivales-mundo.json   237 fichas de festivales del mundo (122 países y territorios; 11 de Colombia también están en colombia.json)
   colombia.json           144 festivales de Colombia (investigación Fredy Ayala, 2026)
   narradores.json         168 narradores de la RIC (Costa Rica 24, Argentina 141 + 3 en memoria)
-  libros.json             96 libros verificados de 9 autores narradores
-  libros-parciales.json   16 títulos con año o editorial sin verificar
+  libros.json             96 libros verificados de 9 autores narradores (con enlace para buscar cada título)
+  libros-parciales.json   24 títulos con año o editorial sin verificar (incluidos 8 de Liliana Cinetto sin año)
   prensa.json             12 artículos de prensa verificados
   menciones.json          163 menciones (tradición oral fuerte sin festival verificable)
   destacados.json         Festival Puro Cuento (CR), Red Internacional de Cuentacuentos, Marcela Sabio
   miticos.json            23 lugares míticos (capa aparte, apagada por defecto)
 ```
 
-Secciones: mapa con filtros, directorio con buscador, narradores, sección
-«El hombre que reinventó la oralidad» (Francisco Garzón Céspedes y el
-fenómeno de la narración oral en América Latina), libros, prensa y
-administración. La capa de lugares míticos (Tartaria, Lemuria, los 9 reinos
-nórdicos, Macondo, El Dorado, Shangri-La, Atlántida y otros) es independiente
-de los festivales reales: tiene su propio interruptor, está apagada por
-defecto y nunca entra en los conteos.
+Secciones: mapa con filtros, directorio mundial único con buscador (las 144
+fichas de Colombia van en el mismo listado, sin sección propia), ranking
+«Dónde hay más narración oral», narradores, sección «El hombre que
+reinventó la oralidad» (Francisco Garzón Céspedes y el fenómeno de la
+narración oral en América Latina), libros (catálogo público completo de 120),
+prensa y administración. Cada ficha de festival lleva un relato tradicional
+corto de su zona, marcado como tal. La capa de lugares míticos (Tartaria,
+Lemuria, los 9 reinos nórdicos, Macondo, El Dorado, Shangri-La, Atlántida y
+otros) es independiente de los festivales reales: tiene su propio interruptor,
+está apagada por defecto y nunca entra en los conteos.
 
 ## Datos
 
@@ -47,7 +50,16 @@ verificado se muestra como «sin verificar» o se omite; nunca se inventa.
 
 - Total mundial deduplicado: **370 festivales únicos** (237 del mundo + 144 de
   Colombia, menos 11 que aparecen en ambas listas; las fichas duplicadas llevan
-  `en_colombia: true` en festivales-mundo.json).
+  `en_colombia: true` en festivales-mundo.json). En el directorio y en el mapa
+  cada festival se muestra una sola vez.
+- Ranking «Dónde hay más narración oral» (contado 24-nov-2026 desde el
+  dataset): por país, Colombia 144, España 14, Argentina 8, Brasil 8 y
+  México 6 (empatado con Portugal y Rusia); por ciudad, Bogotá 36,
+  Medellín 12, Cali 9, Lomé (Togo) 4 y Pasto 4.
+- Relatos: las 381 fichas (237 mundo + 144 Colombia) llevan un relato
+  tradicional corto de su zona (campo `relato`: título, texto y zona),
+  mostrado en la tarjeta y en el popup del festival. Es un cuento o leyenda
+  tradicional del territorio, no un dato del festival.
 - Logo de la Fundación: PNG transparente del sitio oficial
   (festivalpurocuento.com), con la versión de Drive (lh3) como respaldo si
   falla la carga.

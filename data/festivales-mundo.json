@@ -27,7 +27,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 19.432,
   "lng": -99.133,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda de México)",
+   "texto": "Dicen que en las noches de luna, junto a los canales de Xochimilco, se escucha un llanto que hiela la sangre: «¡Ay, mis hijos!». Es La Llorona, una mujer que, según la leyenda, ahogó a sus hijos en el río y fue condenada a vagar eternamente buscándolos. Vestida de blanco, cruza las calles y las orillas del agua, y quien la escucha de cerca sabe que la desgracia anda rondando.",
+   "zona": "Ciudad de México, México"
+  }
  },
  {
   "id": "mundo-002",
@@ -58,7 +63,12 @@
   "lng": -100.812,
   "coord_aprox": false,
   "foto": "https://www.celaya.gob.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-1.36.27-PM-1.jpeg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "El Charro Negro (leyenda de Guanajuato)",
+   "texto": "En los caminos solitarios de Guanajuato, al caer la noche, aparece un jinete vestido de negro, montado en un caballo azabache. Es el Charro Negro, un hombre que vendió su alma al diablo a cambio de riqueza y ahora vaga condenado, ofreciendo bolsas de oro a quien se atreva a hablarle. Quien acepta su dinero, dicen, queda atado a él para siempre y nunca vuelve a encontrar el camino a casa.",
+   "zona": "Guanajuato, México"
+  }
  },
  {
   "id": "mundo-003",
@@ -89,7 +99,12 @@
   "lng": -98.759,
   "coord_aprox": false,
   "foto": "https://sic.cultura.gob.mx/images/141317",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "Los duendes de Huasca (leyenda de Hidalgo)",
+   "texto": "En los bosques y las minas de Huasca, en Hidalgo, viven los duendes: seres pequeños, de sombrero grande y barba larga, que guardan los tesoros escondidos bajo la tierra. Cuentan que se aparecen a los mineros y a los viajeros, les hacen travesuras y les esconden las herramientas. Si alguien los trata con respeto y les deja un poco de comida, los duendes lo ayudan; si los ofende, lo pierden en el monte hasta el amanecer.",
+   "zona": "Huasca de Ocampo, Hidalgo, México"
+  }
  },
  {
   "id": "mundo-004",
@@ -118,7 +133,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 23.249,
   "lng": -106.411,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Cueva del Diablo (leyenda de Mazatlán)",
+   "texto": "En el malecón de Mazatlán, frente al mar, se abre la Cueva del Diablo. Cuenta la leyenda que durante un carnaval, dos jóvenes siguieron a un hombre elegante hasta la entrada de la cueva y nunca volvieron a salir: aquel desconocido era el mismísimo Lucifer. Desde entonces, los pescadores aseguran que de noche se ve una luz roja en su interior y se percibe un olor a azufre que advierte a quien se acerque.",
+   "zona": "Mazatlán, Sinaloa, México"
+  }
  },
  {
   "id": "mundo-005",
@@ -146,7 +166,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 21.125,
   "lng": -101.686,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Callejón del Beso (leyenda de Guanajuato)",
+   "texto": "En Guanajuato, un callejón tan estrecho que los balcones casi se tocan guarda una historia de amor prohibido. Allí vivían Ana y Carlos, dos enamorados separados por el padre de ella, que los vigilaba sin descanso. Una noche, desde balcones opuestos, los jóvenes se besaron por última vez antes de que el padre, furioso, acabara con la vida de su hija. Dicen que quien besa a su amor en ese callejón tendrá siete años de buena suerte.",
+   "zona": "Guanajuato, México"
+  }
  },
  {
   "id": "mundo-006",
@@ -176,7 +201,12 @@
   "lat": 20.449,
   "lng": -97.328,
   "coord_aprox": false,
-  "facebook": "https://facebook.com/anibalcuentos"
+  "facebook": "https://facebook.com/anibalcuentos",
+  "relato": {
+   "titulo": "Los Voladores de Papantla (leyenda totonaca)",
+   "texto": "Hace mucho tiempo, una gran sequía castigaba a Papantla. Cinco hombres subieron a lo alto de un árbol sagrado y se lanzaron al vacío atados por los pies, girando como aves alrededor del mástil, mientras el músico tocaba la flauta en la punta. El ritual, cuentan los abuelos totonacos, hizo llover de nuevo sobre los campos. Desde entonces, los Voladores de Papantla giran entre el cielo y la tierra para pedir lluvia y fertilidad.",
+   "zona": "Papantla, Veracruz, México"
+  }
  },
  {
   "id": "mundo-007",
@@ -207,7 +237,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 23.113,
   "lng": -82.366,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Giraldilla (leyenda de La Habana)",
+   "texto": "En lo alto del Castillo de la Real Fuerza, en La Habana, gira la Giraldilla, una veleta con figura de mujer. Cuenta la leyenda que es Isabel de Bobadilla, esposa del gobernador Hernando de Soto, quien quedó esperando su regreso de la expedición a la Florida. Isabel subía cada día a la torre a mirar el mar, y al morir, su espíritu quedó allí, convertido en bronce, mirando siempre hacia el horizonte por si su amado volvía.",
+   "zona": "La Habana, Cuba"
+  }
  },
  {
   "id": "mundo-008",
@@ -237,7 +272,12 @@
   "completitud": "PARCIAL",
   "lat": 23.113,
   "lng": -82.366,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Giraldilla (leyenda de La Habana)",
+   "texto": "En lo alto del Castillo de la Real Fuerza, en La Habana, gira la Giraldilla, una veleta con figura de mujer. Cuenta la leyenda que es Isabel de Bobadilla, esposa del gobernador Hernando de Soto, quien quedó esperando su regreso de la expedición a la Florida. Isabel subía cada día a la torre a mirar el mar, y al morir, su espíritu quedó allí, convertido en bronce, mirando siempre hacia el horizonte por si su amado volvía.",
+   "zona": "La Habana, Cuba"
+  }
  },
  {
   "id": "mundo-009",
@@ -266,7 +306,12 @@
   "completitud": "PARCIAL",
   "lat": 23.113,
   "lng": -82.366,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Giraldilla (leyenda de La Habana)",
+   "texto": "En lo alto del Castillo de la Real Fuerza, en La Habana, gira la Giraldilla, una veleta con figura de mujer. Cuenta la leyenda que es Isabel de Bobadilla, esposa del gobernador Hernando de Soto, quien quedó esperando su regreso de la expedición a la Florida. Isabel subía cada día a la torre a mirar el mar, y al morir, su espíritu quedó allí, convertido en bronce, mirando siempre hacia el horizonte por si su amado volvía.",
+   "zona": "La Habana, Cuba"
+  }
  },
  {
   "id": "mundo-010",
@@ -295,7 +340,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 23.113,
   "lng": -82.366,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Giraldilla (leyenda de La Habana)",
+   "texto": "En lo alto del Castillo de la Real Fuerza, en La Habana, gira la Giraldilla, una veleta con figura de mujer. Cuenta la leyenda que es Isabel de Bobadilla, esposa del gobernador Hernando de Soto, quien quedó esperando su regreso de la expedición a la Florida. Isabel subía cada día a la torre a mirar el mar, y al morir, su espíritu quedó allí, convertido en bronce, mirando siempre hacia el horizonte por si su amado volvía.",
+   "zona": "La Habana, Cuba"
+  }
  },
  {
   "id": "mundo-011",
@@ -324,7 +374,12 @@
   "completitud": "PARCIAL",
   "lat": 20.021,
   "lng": -75.829,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Virgen de la Caridad del Cobre (leyenda de Santiago de Cuba)",
+   "texto": "En 1612, dos hermanos indígenas y un niño esclavo salieron a pescar en la bahía de Nipe y encontraron flotando sobre las aguas una imagen de la Virgen María con un letrero que decía: «Yo soy la Virgen de la Caridad». La llevaron al pueblo del Cobre, junto a Santiago, y allí se quedó para siempre. Desde entonces, la Cachita, como la llaman los cubanos, es la patrona de Cuba y protectora de todos sus hijos.",
+   "zona": "El Cobre, Santiago de Cuba, Cuba"
+  }
  },
  {
   "id": "mundo-012",
@@ -353,7 +408,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 14.072,
   "lng": -87.192,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Sucia (leyenda de Honduras)",
+   "texto": "En los ríos y quebradas de Honduras, al caer la tarde, aparece La Sucia: una mujer hermosa, de vestido blanco y pelo largo, que lava ropa en la orilla. Los hombres que se acercan, atraídos por su belleza, la siguen hasta que ella se vuelve y muestra su verdadero rostro: una cara de caballo, horrible y espantosa. Dicen que es el alma de una mujer que murió sin casarse y que ahora asusta a los borrachos y mujeriegos que andan de noche.",
+   "zona": "Tegucigalpa, Honduras"
+  }
  },
  {
   "id": "mundo-013",
@@ -383,7 +443,12 @@
   "lng": -90.506,
   "coord_aprox": false,
   "foto": "https://static.wixstatic.com/media/dac7fb_51716f0c7ffc4cb883977dafdf70eabd~mv2.jpg/v1/fill/w_435,h_585,al_c,q_80,enc_avif,quality_auto/PAGINA_W-01.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "El Sombrerón (leyenda de Guatemala)",
+   "texto": "En las calles de Guatemala, de noche, anda el Sombrerón: un hombrecito de sombrero enorme, guitarra en mano y botas con espuelas de plata. Le gusta enamorar a las muchachas de pelo largo y ojos grandes, y les canta serenatas hasta dejarlas enfermas de amor y sin comer. Para espantarlo, las abuelas aconsejan cortarles el pelo a las niñas y poner tijeras bajo la almohada, porque el Sombrerón no soporta el filo del metal.",
+   "zona": "Ciudad de Guatemala, Guatemala"
+  }
  },
  {
   "id": "mundo-014",
@@ -412,7 +477,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 13.692,
   "lng": -89.218,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Siguanaba (leyenda de El Salvador)",
+   "texto": "En El Salvador, junto a los ríos y las pilas, se aparece la Siguanaba: una mujer de vestido blanco y pelo negro que cubre su rostro. Los hombres que la siguen, creyendo que es una bella muchacha, descubren al acercarse que tiene cara de caballo y uñas largas como garras. Dicen que es el espíritu de una mujer castigada por sus pecados, condenada a vagar de noche asustando a los borrachos y a los infieles que andan fuera de casa.",
+   "zona": "El Salvador"
+  }
  },
  {
   "id": "mundo-015",
@@ -446,7 +516,12 @@
   "foto_fuente": "wikimedia",
   "facebook": "https://www.facebook.com/festivalcac",
   "youtube": "https://www.youtube.com/@centroamericacuenta",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "La Cegua (leyenda de Nicaragua)",
+   "texto": "En Nicaragua, la Cegua es una mujer hermosa que se aparece de noche en los caminos solitarios a los hombres mujeriegos. Lleva un vestido blanco y el pelo suelto, y los invita a acompañarla. Pero cuando el hombre se acerca para besarla, ella se quita el velo y muestra su verdadero rostro: una calavera de caballo con los ojos encendidos. El susto, cuentan los abuelos, deja loco o muerto a quien se atreve a seguirla.",
+   "zona": "Managua, Nicaragua"
+  }
  },
  {
   "id": "mundo-016",
@@ -476,7 +551,12 @@
   "lat": 18.466,
   "lng": -66.106,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/festivaldelapalabraoficial"
+  "facebook": "https://www.facebook.com/festivaldelapalabraoficial",
+  "relato": {
+   "titulo": "La Garita del Diablo (leyenda de San Juan)",
+   "texto": "En el castillo de San Felipe del Morro, en San Juan, hay una garita solitaria que mira al mar. Cuenta la leyenda que un soldado español desapareció de su puesto una noche, sin dejar rastro, y que desde entonces su fantasma vigila desde la garita. Los centinelas que lo han visto dicen que el diablo se lo llevó por abandonar su guardia para ver a su amada. Por eso la llaman la Garita del Diablo.",
+   "zona": "San Juan, Puerto Rico"
+  }
  },
  {
   "id": "mundo-017",
@@ -513,7 +593,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/Vivapalabracuenteros",
   "youtube": "https://www.youtube.com/vivapalabracuenteros",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "La Madremonte (leyenda de Antioquia)",
+   "texto": "En los montes de Antioquia vive la Madremonte, una mujer enorme cubierta de hojas, musgo y bejucos, con los ojos encendidos como brasas. Es la madre del monte y protege los bosques, los ríos y los animales. Cuentan que castiga a quienes talan árboles sin permiso o cazan sin necesidad: los pierde en la selva con gritos y remolinos, y solo los suelta si prometen respetar la montaña y no volver a dañarla.",
+   "zona": "Antioquia, Colombia"
+  }
  },
  {
   "id": "mundo-018",
@@ -543,7 +628,12 @@
   "lat": 7.119,
   "lng": -73.122,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "El Mohán (leyenda de Santander)",
+   "texto": "En las orillas del río Magdalena, en Santander, vive el Mohán: un hombre viejo, barbudo y cubierto de pelo, que fuma tabaco y pesca con redes de oro. Cuentan que se roba a las muchachas que lavan en el río y que hace naufragar las canoas de los pescadores que no le dejan ofrendas. Los bogas le temen, pero también lo respetan, porque dicen que el Mohán conoce todos los secretos del río y protege sus aguas.",
+   "zona": "Santander, Colombia"
+  }
  },
  {
   "id": "mundo-019",
@@ -575,7 +665,12 @@
   "coord_aprox": false,
   "en_colombia": true,
   "foto": "https://elcaribecuenta.com.co/cdn/shop/files/Mesa_de_trabajo_1_copia_58a803ea-be60-4f24-a43e-8063ab8ba7be.png",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda del Caribe colombiano)",
+   "texto": "En el Caribe colombiano cuentan que un pescador de Plato, en el Magdalena, quería espiar a las mujeres que se bañaban en el río y le pidió a un brujo que lo convirtiera en caimán. El hechizo salió a medias: su cuerpo se volvió de caimán, pero su cabeza quedó de hombre. Desde entonces, el Hombre Caimán nada por el río Magdalena buscando a su familia, y los pescadores dicen que aún se le ve asomando la cabeza entre las aguas.",
+   "zona": "Caribe colombiano"
+  }
  },
  {
   "id": "mundo-020",
@@ -606,7 +701,12 @@
   "lat": 4.711,
   "lng": -74.072,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "El Dorado (leyenda de Guatavita)",
+   "texto": "En la laguna de Guatavita, cerca de Bogotá, los muiscas celebraban la coronación de su cacique: cubierto de polvo de oro, el jefe se sumergía en las aguas mientras su pueblo arrojaba ofrendas de oro y esmeraldas. Los españoles oyeron el relato y buscaron por siglos la ciudad de El Dorado, un reino entero hecho de oro. Nunca lo encontraron, pero la laguna guarda todavía, dicen, los tesoros que el pueblo muisca ofreció a sus dioses.",
+   "zona": "Laguna de Guatavita, Cundinamarca, Colombia"
+  }
  },
  {
   "id": "mundo-021",
@@ -636,7 +736,12 @@
   "lat": 4.711,
   "lng": -74.072,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca de la sabana de Bogotá)",
+   "texto": "Cuentan los muiscas de la sabana de Bogotá que Bochica, un anciano de barba blanca y manto luminoso, llegó a enseñarles a cultivar, a tejer y a vivir en paz. Cuando las aguas del río Funza inundaron la sabana, Bochica golpeó con su bastón la roca y abrió el Salto del Tequendama, por donde escaparon las aguas. Antes de partir hacia el oriente, prometió que volvería, y los muiscas aún esperan su regreso.",
+   "zona": "Bogotá, Colombia"
+  }
  },
  {
   "id": "mundo-022",
@@ -666,7 +771,12 @@
   "lat": 3.437,
   "lng": -76.522,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "El Duende (leyenda del Valle del Cauca)",
+   "texto": "En el Valle del Cauca, los abuelos advierten a los niños que no anden solos por los cañaduzales al mediodía, porque allí vive el Duende: un hombrecito de sombrero grande, sonrisa burlona y pies al revés. Le gusta esconder las cosas, trenzarles el pelo a los caballos y perder a los caminantes en el monte. Para ahuyentarlo, hay que llevar sal en el bolsillo o rezar, porque el Duende no soporta ni la sal ni las oraciones.",
+   "zona": "Valle del Cauca, Colombia"
+  }
  },
  {
   "id": "mundo-023",
@@ -700,7 +810,12 @@
   "foto": "https://static.wixstatic.com/media/821322_01274bf0b9c646c785c220e65af5456b~mv2.png/v1/fill/w_1920,h_1452,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/821322_01274bf0b9c646c785c220e65af5456b~mv2.png",
   "foto_fuente": "oficial",
   "youtube": "https://www.youtube.com/@akuentajui",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "Francisco el Hombre (leyenda de La Guajira)",
+   "texto": "En La Guajira cuentan que Francisco el Hombre, un juglar vallenato, se encontró una noche en el camino con el diablo, que lo retó a un duelo de acordeón. El diablo tocaba como nadie, pero Francisco, con el alma en las manos, tocó el Credo al revés y cantó con tal fuerza que el diablo huyó derrotado entre los cardones. Desde entonces, dicen, Francisco el Hombre es el padre del vallenato y ningún acordeonero le teme al diablo.",
+   "zona": "La Guajira, Colombia"
+  }
  },
  {
   "id": "mundo-024",
@@ -732,7 +847,12 @@
   "coord_aprox": false,
   "en_colombia": true,
   "youtube": "https://www.youtube.com/@casateatrocolombia",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "La Candileja (leyenda del Huila)",
+   "texto": "En el Huila, de noche, aparece la Candileja: una bola de fuego que flota sobre los caminos y los potreros, con tres llamas que se mueven como si bailaran. Cuentan que es el alma en pena de una mujer que abandonó a sus hijos y ahora los busca sin descanso, ardiendo entre los matorrales. Los campesinos le temen, porque dicen que si la Candileja te alumbra el camino, te lleva con ella, y nadie vuelve a verte.",
+   "zona": "Huila, Colombia"
+  }
  },
  {
   "id": "mundo-025",
@@ -762,7 +882,12 @@
   "lat": 10.391,
   "lng": -75.479,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "La India Catalina (leyenda de Cartagena)",
+   "texto": "En Cartagena cuentan la historia de la India Catalina, una mujer indígena que fue llevada de niña a Santo Domingo y regresó como intérprete de los españoles. Catalina ayudó a pacificar a su pueblo y enseñó a los conquistadores las costumbres de la tierra, pero su corazón quedó partido entre dos mundos. Hoy, su estatua en bronce, obra del escultor Eladio Gil, es uno de los símbolos más queridos de Cartagena de Indias.",
+   "zona": "Cartagena de Indias, Colombia"
+  }
  },
  {
   "id": "mundo-026",
@@ -790,7 +915,12 @@
   "lat": 3.437,
   "lng": -76.522,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del Valle del Cauca)",
+   "texto": "En los bosques del Valle del Cauca vive la Madremonte, guardiana de las selvas y de las aguas. Cuentan que aparece como una mujer gigante vestida de hojas, con ramas en lugar de brazos, y que su grito retumba por los cañaverales cuando alguien daña el monte. A los cazadores y taladores los castiga con fiebres y extravíos; a quienes respetan la naturaleza, los deja pasar en paz por sus caminos.",
+   "zona": "Valle del Cauca, Colombia"
+  }
  },
  {
   "id": "mundo-027",
@@ -818,7 +948,12 @@
   "lat": 1.213,
   "lng": -77.281,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "En Nariño, junto a Pasto, se extiende la laguna de La Cocha, un espejo de agua rodeado de montañas. Cuenta la leyenda que en su fondo vive una sirena que canta en las noches de luna y atrae a los pescadores, y que en la isla de La Corota, en el centro de la laguna, se esconden tesoros de los antiguos. Los abuelos dicen que la laguna es sagrada y que hay que pedirle permiso antes de pescar en sus aguas.",
+   "zona": "Nariño, Colombia"
+  }
  },
  {
   "id": "mundo-028",
@@ -850,7 +985,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 10.064,
   "lng": -69.333,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Silbón (leyenda de los Llanos)",
+   "texto": "En los Llanos venezolanos, de noche, se escucha un silbido que sube y baja: «¡Sííí… booo…!». Es el Silbón, el alma en pena de un hijo que mató a su padre y fue condenado por su abuelo a cargar sus huesos en un saco, para siempre. Cuentan que si el silbido se escucha lejos, el Silbón está cerca, y si se escucha cerca, está lejos. Y que visita las casas para llevarse a los borrachos y a los mujeriegos.",
+   "zona": "Llanos venezolanos"
+  }
  },
  {
   "id": "mundo-029",
@@ -877,7 +1017,12 @@
   "completitud": "PARCIAL",
   "lat": 10.48,
   "lng": -66.903,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Sayona (leyenda de Venezuela)",
+   "texto": "En Venezuela, la Sayona es una mujer de vestido blanco que aparece en los caminos a los hombres infieles y mujeriegos. Les pide que la lleven en su caballo y, cuando ya van andando, muestra su verdadero rostro: una calavera con los dientes afilados y los ojos de fuego. Dicen que fue una mujer que, engañada por su esposo, mató a su madre y fue maldecida por ella a vagar eternamente asustando a los hombres que traicionan a sus mujeres.",
+   "zona": "Venezuela"
+  }
  },
  {
   "id": "mundo-030",
@@ -906,7 +1051,12 @@
   "lng": -78.467,
   "coord_aprox": false,
   "foto": "https://quitoeterno.org/wp-content/uploads/2025/12/MishkiShimi01-1024x683.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "Cantuña (leyenda de Quito)",
+   "texto": "En Quito, cuando se construía la iglesia de San Francisco, el indio Cantuña prometió terminar el atrio en una noche a cambio de su pago. Viendo que no alcanzaría, hizo un pacto con el diablo: las almas de los condenados le ayudarían a colocar las piedras. Al amanecer faltaba una sola piedra, y Cantuña se salvó: el diablo no pudo llevarse su alma. Por eso, cuentan, en el atrio de San Francisco falta una piedra hasta hoy.",
+   "zona": "Quito, Ecuador"
+  }
  },
  {
   "id": "mundo-031",
@@ -941,7 +1091,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/CorpoImaginario",
   "youtube": "https://www.youtube.com/channel/UC5ecWsSj7utJ3ZQ7HaliC6A",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "La Dama Tapada (leyenda de Guayaquil)",
+   "texto": "En Guayaquil, a medianoche, aparece la Dama Tapada: una mujer de vestido negro y velo que cubre su rostro, con un perfume dulce que atrae a los trasnochadores y mujeriegos. Los hombres la siguen por las calles hasta el cementerio, donde ella se da vuelta y levanta el velo: su rostro es una calavera que huele a muerte. Pocos sobreviven al susto, y los que lo cuentan juran no volver a caminar solos de noche.",
+   "zona": "Guayaquil, Ecuador"
+  }
  },
  {
   "id": "mundo-032",
@@ -970,7 +1125,12 @@
   "completitud": "PARCIAL",
   "lat": -1.249,
   "lng": -78.616,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Mama Tungurahua (leyenda de Ambato)",
+   "texto": "En Ambato cuentan que el volcán Tungurahua es una madre celosa que protege a sus hijos, los pueblos de sus faldas. Cuando los hombres dañan la tierra o se olvidan de sus costumbres, la Mama ruge, lanza ceniza y tiembla la tierra para recordarles quién manda. Pero también es generosa: sus laderas fértiles dan maíz, frutas y flores. Por eso, los ambateños le llevan ofrendas y le piden permiso antes de sembrar.",
+   "zona": "Ambato, Ecuador"
+  }
  },
  {
   "id": "mundo-033",
@@ -1000,7 +1160,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -1.076,
   "lng": -80.361,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La Tunda (leyenda de Manabí)",
+   "texto": "En Manabí y en toda la costa ecuatoriana, las madres advierten a los niños que no se alejen del monte, porque allí vive la Tunda: una mujer de un solo pie en forma de molinillo, que se transforma en un familiar querido para engañar a los niños desobedientes y llevárselos al monte. Los entretiene con camarones y juegos hasta perderlos. Solo se les puede rescatar rezando y tocando música, porque la Tunda no soporta los rezos ni el sonido del bombo.",
+   "zona": "Manabí, Ecuador"
+  }
  },
  {
   "id": "mundo-034",
@@ -1031,7 +1196,12 @@
   "completitud": "PARCIAL",
   "lat": -34.603,
   "lng": -58.381,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Dama de Blanco de la Recoleta (leyenda de Buenos Aires)",
+   "texto": "En el cementerio de la Recoleta, en Buenos Aires, yace Rufina Cambaceres, una joven que murió en 1902 y fue enterrada viva por error, según cuenta la leyenda. Su familia, al abrir la tumba días después, encontró marcas de sus uñas en la tapa del ataúd. Desde entonces, dicen que su fantasma, vestido de blanco, camina entre las bóvedas del cementerio en las noches de luna, buscando a quien la dejó encerrada.",
+   "zona": "Buenos Aires, Argentina"
+  }
  },
  {
   "id": "mundo-035",
@@ -1063,7 +1233,12 @@
   "completitud": "PARCIAL",
   "lat": -34.603,
   "lng": -58.381,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Dama de Blanco de la Recoleta (leyenda de Buenos Aires)",
+   "texto": "En el cementerio de la Recoleta, en Buenos Aires, yace Rufina Cambaceres, una joven que murió en 1902 y fue enterrada viva por error, según cuenta la leyenda. Su familia, al abrir la tumba días después, encontró marcas de sus uñas en la tapa del ataúd. Desde entonces, dicen que su fantasma, vestido de blanco, camina entre las bóvedas del cementerio en las noches de luna, buscando a quien la dejó encerrada.",
+   "zona": "Buenos Aires, Argentina"
+  }
  },
  {
   "id": "mundo-036",
@@ -1092,7 +1267,12 @@
   "completitud": "PARCIAL",
   "lat": -34.603,
   "lng": -58.381,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Dama de Blanco de la Recoleta (leyenda de Buenos Aires)",
+   "texto": "En el cementerio de la Recoleta, en Buenos Aires, yace Rufina Cambaceres, una joven que murió en 1902 y fue enterrada viva por error, según cuenta la leyenda. Su familia, al abrir la tumba días después, encontró marcas de sus uñas en la tapa del ataúd. Desde entonces, dicen que su fantasma, vestido de blanco, camina entre las bóvedas del cementerio en las noches de luna, buscando a quien la dejó encerrada.",
+   "zona": "Buenos Aires, Argentina"
+  }
  },
  {
   "id": "mundo-037",
@@ -1122,7 +1302,12 @@
   "completitud": "PARCIAL",
   "lat": -31.42,
   "lng": -64.189,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Salamanca (leyenda de Córdoba)",
+   "texto": "En Córdoba, Argentina, cuentan que en una cueva del monte se celebra la Salamanca: una fiesta secreta donde el diablo, convertido en un gaucho elegante, enseña a tocar la guitarra, a bailar y a domar potros a quienes hacen un pacto con él. Los que asisten salen sabiendo más que nadie, pero pagan con su alma. Por eso, los abuelos advierten: si escuchas música en el monte de noche, no te acerques, porque es la Salamanca.",
+   "zona": "Córdoba, Argentina"
+  }
  },
  {
   "id": "mundo-038",
@@ -1150,7 +1335,12 @@
   "completitud": "PARCIAL",
   "lat": -31.42,
   "lng": -64.189,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Salamanca (leyenda de Córdoba)",
+   "texto": "En Córdoba, Argentina, cuentan que en una cueva del monte se celebra la Salamanca: una fiesta secreta donde el diablo, convertido en un gaucho elegante, enseña a tocar la guitarra, a bailar y a domar potros a quienes hacen un pacto con él. Los que asisten salen sabiendo más que nadie, pero pagan con su alma. Por eso, los abuelos advierten: si escuchas música en el monte de noche, no te acerques, porque es la Salamanca.",
+   "zona": "Córdoba, Argentina"
+  }
  },
  {
   "id": "mundo-039",
@@ -1179,7 +1369,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -31.092,
   "lng": -64.487,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Uritorco (leyenda de Córdoba)",
+   "texto": "En Capilla del Monte, Córdoba, se levanta el cerro Uritorco, una montaña sagrada para los antiguos comechingones. Cuentan que en su cumbre vive el espíritu del cacique Uritorco, que protege el valle y que se enoja con truenos y luces extrañas cuando alguien profana la montaña. Los caminantes dicen que el cerro tiene una energía especial, que cura y que también pierde a quien sube sin respeto.",
+   "zona": "Córdoba, Argentina"
+  }
  },
  {
   "id": "mundo-040",
@@ -1206,7 +1401,12 @@
   "completitud": "PARCIAL",
   "lat": -32.946,
   "lng": -60.639,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La luz mala (leyenda de la pampa santafesina)",
+   "texto": "En la pampa santafesina, cerca de Rosario, los paisanos conocen la luz mala: una lucecita que flota sobre los campos en las noches sin luna, sobre todo donde hubo entierros. Cuentan que es el alma en pena de un muerto que no descansa, o el fuego de un tesoro escondido bajo la tierra. Quien la sigue, dicen, se pierde en el campo; quien reza y se aleja, se salva. Por eso, de noche, nadie persigue la luz mala.",
+   "zona": "Santa Fe, Argentina"
+  }
  },
  {
   "id": "mundo-041",
@@ -1233,7 +1433,12 @@
   "completitud": "PARCIAL",
   "lat": -32.946,
   "lng": -60.639,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La luz mala (leyenda de la pampa santafesina)",
+   "texto": "En la pampa santafesina, cerca de Rosario, los paisanos conocen la luz mala: una lucecita que flota sobre los campos en las noches sin luna, sobre todo donde hubo entierros. Cuentan que es el alma en pena de un muerto que no descansa, o el fuego de un tesoro escondido bajo la tierra. Quien la sigue, dicen, se pierde en el campo; quien reza y se aleja, se salva. Por eso, de noche, nadie persigue la luz mala.",
+   "zona": "Santa Fe, Argentina"
+  }
  },
  {
   "id": "mundo-042",
@@ -1267,7 +1472,12 @@
   "foto": "https://chilecuentos.cl/wp-content/uploads/2026/09/web-chilecuentos.jpg",
   "foto_fuente": "oficial",
   "youtube": "https://www.youtube.com/embed/2EjkdvFN0XA",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "La Quintrala (leyenda de Santiago de Chile)",
+   "texto": "En el Santiago colonial vivió Catalina de los Ríos y Lisperguer, la Quintrala: una mujer hermosa, rica y temida, dueña de haciendas y de una crueldad legendaria. Cuentan que azotaba a sus esclavos y que hizo matar a quienes la contradecían, y que su alma quedó penando por sus crímenes. Dicen que su fantasma, vestido de rojo, aún se aparece en las casonas viejas de Santiago buscando perdón que nunca llega.",
+   "zona": "Santiago de Chile, Chile"
+  }
  },
  {
   "id": "mundo-043",
@@ -1296,7 +1506,12 @@
   "lat": -33.047,
   "lng": -71.612,
   "coord_aprox": false,
-  "facebook": "https://facebook.com/people/El-Puerto-Cuenta-el-Cuento/61573229091549/"
+  "facebook": "https://facebook.com/people/El-Puerto-Cuenta-el-Cuento/61573229091549/",
+  "relato": {
+   "titulo": "La Cueva del Chivato (leyenda de Valparaíso)",
+   "texto": "En Valparaíso, al pie del cerro Concepción, existió la Cueva del Chivato: una gruta oscura donde, según la leyenda, el diablo se transformaba en un chivo enorme de ojos rojos que salía de noche a atrapar a los marineros y caminantes. Quien caía en sus cuernos desaparecía para siempre en la cueva. La gruta fue dinamitada para abrir la calle Esmeralda, pero los porteños aseguran que en las noches de viento aún se escucha el bramido del Chivato.",
+   "zona": "Valparaíso, Chile"
+  }
  },
  {
   "id": "mundo-044",
@@ -1326,7 +1541,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -34.901,
   "lng": -56.164,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La luz mala (leyenda del campo uruguayo)",
+   "texto": "En el campo uruguayo, los paisanos conocen la luz mala: una llamita que baila sobre los pastizales en las noches oscuras, sobre todo cerca de los cementerios y los lugares donde hubo muertes. Dicen que es el alma de un difunto que no descansa o la señal de un tesoro enterrado. Los viejos advierten que no hay que seguirla, porque quien persigue la luz mala se pierde entre los campos y no encuentra el camino de vuelta.",
+   "zona": "Uruguay"
+  }
  },
  {
   "id": "mundo-045",
@@ -1353,7 +1573,12 @@
   "completitud": "PARCIAL",
   "lat": -34.901,
   "lng": -56.164,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Lobizón (leyenda del Río de la Plata)",
+   "texto": "En el Río de la Plata cuentan que el séptimo hijo varón de una familia se convierte en lobizón: un hombre lobo que los viernes de luna llena se transforma en un animal peludo que vaga por los campos y los cementerios. De día es un hombre normal, pero de noche aúlla y busca carne. Para romper la maldición, dicen los abuelos, hay que bautizar al niño en siete iglesias, con siete padrinos distintos.",
+   "zona": "Río de la Plata, Uruguay"
+  }
  },
  {
   "id": "mundo-046",
@@ -1383,7 +1608,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -25.263,
   "lng": -57.575,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Pombero (leyenda de Paraguay)",
+   "texto": "En Paraguay, el Pombero es un hombrecito moreno, de pies al revés y sombrero de paja, que vive en el monte y protege a los pájaros y a los animales. Cuentan que silba de noche y que le gusta el tabaco, la miel y la caña. Si le dejas una ofrenda, cuida tu casa y tus cultivos; si lo ofendes o no le das nada, te esconde las cosas, te asusta a los caballos y te silba al oído hasta dejarte sin dormir.",
+   "zona": "Paraguay"
+  }
  },
  {
   "id": "mundo-047",
@@ -1411,7 +1641,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -25.263,
   "lng": -57.575,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Jasy Jatere (leyenda guaraní de Paraguay)",
+   "texto": "En la mitología guaraní, Jasy Jatere es un niño rubio de ojos azules que vaga por los yerbales al mediodía, con una varita mágica en la mano. Cuentan que es hijo de la Luna y que duerme la siesta en las plantaciones de yerba mate. A los niños desobedientes que andan solos por el monte los secuestra con su varita y los pierde entre los árboles. Por eso, las madres paraguayas advierten: a la hora de la siesta, nadie sale de casa.",
+   "zona": "Paraguay"
+  }
  },
  {
   "id": "mundo-048",
@@ -1439,7 +1674,12 @@
   "completitud": "PARCIAL",
   "lat": -25.263,
   "lng": -57.575,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Luisón (leyenda guaraní de Paraguay)",
+   "texto": "En Paraguay cuentan que el Luisón es uno de los siete hijos monstruosos de Tau y Keraná: un hombre alto y feo, con aspecto de perro y olor a muerte, que vaga por los cementerios y los basurales. Es el señor de la muerte y anuncia las desgracias: cuando el Luisón pasa, dicen, alguien del pueblo va a morir. Los abuelos advierten que no hay que mirarlo a los ojos, porque su mirada trae la muerte.",
+   "zona": "Paraguay"
+  }
  },
  {
   "id": "mundo-049",
@@ -1473,7 +1713,12 @@
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2021-06-11%2C_30_edici%C3%B3n_del_Marat%C3%B3n_de_Cuentos_de_Guadalajara_-_51241606080.jpg/1280px-2021-06-11%2C_30_edici%C3%B3n_del_Marat%C3%B3n_de_Cuentos_de_Guadalajara_-_51241606080.jpg",
   "foto_fuente": "wikimedia",
   "youtube": "https://www.youtube.com/watch?v=5bOV4OPLPHk",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Los amantes de Guadalajara (leyenda de Guadalajara)",
+   "texto": "Cuenta la leyenda que en el siglo XIII, en un callejón de Guadalajara, se amaron dos jóvenes de distinta religión y cultura: él, cristiano; ella, judía. Se encontraban en secreto, entre las piedras del callejón, hasta que sus familias descubrieron el romance y los separaron para siempre. Dicen que las almas de los amantes aún se buscan por las calles viejas de la ciudad, y que quien pasa por el callejón escucha sus susurros de amor.",
+   "zona": "Guadalajara, España"
+  }
  },
  {
   "id": "mundo-050",
@@ -1502,7 +1747,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 27.905,
   "lng": -15.447,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La princesa Tenesoya (leyenda de Gran Canaria)",
+   "texto": "En Gran Canaria cuentan la historia de la princesa Tenesoya, una joven aborigen que se bañaba con sus doncellas en los charcos de Bañaderos. Una expedición castellana la sorprendió y la llevó cautiva a Lanzarote, donde la bautizaron como Luisa y la casaron con un noble. Tenesoya nunca olvidó su isla ni a su gente, y su historia, entre la historia y la leyenda, es una de las más tristes y recordadas de Gran Canaria.",
+   "zona": "Gran Canaria, España"
+  }
  },
  {
   "id": "mundo-051",
@@ -1535,7 +1785,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/cuentoslossilos",
   "youtube": "https://www.youtube.com/watch?v=76btEjwswfo",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "El Drago de Icod (leyenda de Tenerife)",
+   "texto": "En Icod de los Vinos, en Tenerife, crece el Drago Milenario, un árbol enorme y retorcido que, según la leyenda, nació de la sangre de un dragón. Cuentan que hace siglos, un dragón vivía en la isla y aterrorizaba a los guanches, hasta que un guerrero lo venció y su sangre cayó a la tierra, de donde brotó el drago. Su savia roja, llamada sangre de drago, recuerda todavía aquella batalla.",
+   "zona": "Tenerife, España"
+  }
  },
  {
   "id": "mundo-052",
@@ -1564,7 +1819,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 40.942,
   "lng": -4.108,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El diablo y el Acueducto (leyenda de Segovia)",
+   "texto": "Cuenta la leyenda de Segovia que una joven aguadora, cansada de subir cada día con su cántaro hasta lo alto de la ciudad, hizo un pacto con el diablo: si él construía un acueducto antes de que cantara el gallo, le entregaría su alma. El diablo trabajó toda la noche colocando piedra sobre piedra, pero cuando faltaba la última, cantó el gallo y la joven se salvó. El diablo, furioso, dejó el acueducto sin terminar.",
+   "zona": "Segovia, España"
+  }
  },
  {
   "id": "mundo-053",
@@ -1594,7 +1854,12 @@
   "completitud": "PARCIAL",
   "lat": 43.133,
   "lng": -2.077,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Basajaun (leyenda del País Vasco)",
+   "texto": "En los bosques del País Vasco vive el Basajaun, el señor del bosque: un gigante peludo y bondadoso que protege los árboles, los rebaños y a los pastores. Cuentan que avisa con silbidos cuando se acerca una tormenta o un lobo, y que enseñó a los hombres a cultivar el trigo y a trabajar el hierro. Los pastores le dejan ofrendas de pan y queso en las cuevas, porque el Basajaun cuida de quien respeta el monte.",
+   "zona": "País Vasco, España"
+  }
  },
  {
   "id": "mundo-054",
@@ -1625,7 +1890,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/festivalatlantica/",
   "youtube": "https://www.youtube.com/channel/UCybGqXgBwX8oh7HOk0y6HRg",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "La Santa Compaña (leyenda de Galicia)",
+   "texto": "En Galicia, de noche, camina la Santa Compaña: una procesión de almas en pena, vestidas de blanco y con cirios encendidos, que recorren los caminos buscando a quien se ha de morir. Al frente va un vivo, condenado a guiarla, que lleva una cruz y un caldero de agua bendita. Quien se cruza con la Compaña debe apartarse y trazar un círculo en el suelo, o quedará condenado a unirse a la procesión para siempre.",
+   "zona": "Galicia, España"
+  }
  },
  {
   "id": "mundo-055",
@@ -1657,7 +1927,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/FestivalMuntdeMots",
   "youtube": "http://www.youtube.com/user/festivalmuntdemots",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "Sant Jordi y el dragón (leyenda de Cataluña)",
+   "texto": "Cuenta la leyenda catalana que en Montblanc, un dragón terrible devoraba los rebaños y exigía que le entregaran personas en sacrificio. Un día le tocó a la princesa, y cuando el dragón iba a devorarla, apareció Sant Jordi, un caballero que lo atravesó con su lanza. De la sangre del dragón brotó un rosal de rosas rojas, y Sant Jordi le entregó una rosa a la princesa. Por eso, cada 23 de abril, Cataluña celebra el día de Sant Jordi con libros y rosas.",
+   "zona": "Barcelona, España"
+  }
  },
  {
   "id": "mundo-056",
@@ -1688,7 +1963,12 @@
   "lng": -2.137,
   "coord_aprox": false,
   "foto": "https://dpalabrafestival.com/wp-content/uploads/2025/02/NRRFST.DPL25_WEB-SES_HOLA-1024x512.png",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "La Cruz del Diablo (leyenda de Cuenca)",
+   "texto": "En Cuenca, junto a la ermita de las Angustias, se levanta la Cruz del Diablo. Cuenta la leyenda que un joven enamorado, Diego, paseaba de noche con una hermosa mujer llamada Diana, hasta que descubrió que bajo su vestido tenía patas de cabra: era el mismísimo diablo disfrazado. Aterrorizado, Diego se abrazó a la cruz y el diablo le clavó las garras en la piedra al intentar atraparlo. Dicen que la marca de sus garras aún se ve en la cruz.",
+   "zona": "Cuenca, España"
+  }
  },
  {
   "id": "mundo-057",
@@ -1717,7 +1997,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 40.482,
   "lng": -3.364,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Los Santos Niños Justo y Pastor (leyenda de Alcalá de Henares)",
+   "texto": "En Alcalá de Henares, en tiempos de los romanos, vivían dos niños hermanos, Justo y Pastor, que estudiaban en la escuela y soñaban con ser mártires por su fe. Cuando el gobernador Daciano ordenó perseguir a los cristianos, los niños se presentaron ante él y confesaron su fe sin miedo. Fueron azotados y degollados en el campo Laudable, y su sangre, cuenta la leyenda, regó la tierra donde hoy se levanta la catedral de Alcalá.",
+   "zona": "Alcalá de Henares, España"
+  }
  },
  {
   "id": "mundo-058",
@@ -1746,7 +2031,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 38.598,
   "lng": -0.051,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Mascarat (leyenda de Altea)",
+   "texto": "Entre Altea y Calpe, en Alicante, se abre el barranco del Mascarat, un desfiladero que durante siglos fue paso obligado de viajeros y diligencias. Cuenta la leyenda que allí actuaba un bandolero enmascarado, el Mascarat, que asaltaba a los viajeros aprovechando lo estrecho del camino. Nadie supo quién era: unos dicen que era un morisco huido, otros, que el mismísimo Judas. Su nombre quedó para siempre en la montaña y en el barranco.",
+   "zona": "Altea, Alicante, España"
+  }
  },
  {
   "id": "mundo-059",
@@ -1777,7 +2067,12 @@
   "lng": -3.371,
   "coord_aprox": false,
   "foto": "https://festivalesdeubeda.com/wp-content/uploads/2022/12/EUSC-cartel-2014.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "El Lagarto de la Magdalena (leyenda de Jaén)",
+   "texto": "En Jaén, junto a la fuente de la Magdalena, vivía un lagarto enorme que se comía a las ovejas y atemorizaba a quienes iban por agua. Un pastor, harto del monstruo, rellenó la piel de un cordero con yesca encendida y se la ofreció al lagarto, que la devoró y murió abrasado por dentro. Otras versiones cuentan que fue un preso condenado a muerte quien mató al lagarto con un saco de pólvora, a cambio de su libertad.",
+   "zona": "Jaén, España"
+  }
  },
  {
   "id": "mundo-060",
@@ -1808,7 +2103,12 @@
   "coord_aprox": false,
   "foto": "https://veranodecuento.com/wp-content/uploads/2021/02/dibujo-Verano-de-cuento.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/festivalveranodecuento"
+  "facebook": "https://www.facebook.com/festivalveranodecuento",
+  "relato": {
+   "titulo": "La Virgen de Candelaria (leyenda de Tenerife)",
+   "texto": "En Tenerife, antes de la llegada de los españoles, dos pastores guanches encontraron en la playa de Chimisay una imagen de madera de una mujer con un niño en brazos. La llevaron a la cueva de Achbinico, donde los guanches la adoraron como a una diosa. Cuando llegaron los castellanos, reconocieron en ella a la Virgen María y la llamaron la Virgen de Candelaria, patrona de Canarias, que aún hoy recibe a miles de peregrinos.",
+   "zona": "Tenerife, España"
+  }
  },
  {
   "id": "mundo-061",
@@ -1838,7 +2138,12 @@
   "lng": 1.272,
   "coord_aprox": false,
   "foto": "https://cdnebasnet.com/data/cache/opt_jpg/cms/segamots/uploads/images/5-450182089-1400x1400.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "La bruja Margarida (leyenda de Cervera)",
+   "texto": "En Cervera, en la Segarra, hay un callejón estrecho que llaman el Carreró de les Bruixes, el callejón de las brujas. Cuenta la leyenda que en el siglo XIII, una mujer llamada Margarida fue acusada de brujería y colgada en ese callejón. Desde entonces, las brujas se reunían allí en las noches de luna llena, y el lugar quedó marcado para siempre. Cada agosto, Cervera celebra el Aquelarre, una fiesta de fuego y diablos en honor a aquella leyenda.",
+   "zona": "Cervera, Cataluña, España"
+  }
  },
  {
   "id": "mundo-062",
@@ -1866,7 +2171,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 38.269,
   "lng": -0.698,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Venida de la Virgen (leyenda de Elche)",
+   "texto": "En Elche cuentan que en 1265, un guardacostas encontró en la playa una caja flotando en el mar. Al abrirla, halló una imagen de la Virgen de la Asunción y un texto con las palabras de la fiesta que debía celebrarse en su honor. La imagen fue llevada en procesión hasta la ciudad, entre cantos y alegría, y desde entonces, cada 15 de agosto, Elche celebra la Venida de la Virgen con la representación del Misteri, su fiesta más querida.",
+   "zona": "Elche, España"
+  }
  },
  {
   "id": "mundo-063",
@@ -1895,7 +2205,12 @@
   "lat": 38.015,
   "lng": -7.863,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/bibliotecamunicipaldebeja"
+  "facebook": "https://www.facebook.com/bibliotecamunicipaldebeja",
+  "relato": {
+   "titulo": "La Moura encantada (leyenda del Alentejo)",
+   "texto": "En el Alentejo cuentan que en las noches de San Juan, junto a las fuentes y los castillos en ruinas, aparecen las mouras encantadas: mujeres hermosas, de largos cabellos dorados, que peinan su pelo con peines de oro y guardan tesoros escondidos. Quien se acerca a una moura debe responder a su enigma o romper su hechizo; si lo logra, recibe el tesoro, y si falla, queda encantado para siempre en el lugar.",
+   "zona": "Alentejo, Portugal"
+  }
  },
  {
   "id": "mundo-064",
@@ -1923,7 +2238,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 38.697,
   "lng": -9.314,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Moura de Lisboa (leyenda de Lisboa)",
+   "texto": "En Lisboa cuentan que en las noches de luna llena, junto a las murallas del castillo de San Jorge, aparece una moura encantada: una mujer mora de belleza imposible que llora por su reino perdido y guarda un tesoro bajo las piedras. Los pescadores y los viejos del barrio dicen que quien escuche su canto debe alejarse, porque su voz hechiza a los hombres y los pierde entre las callejuelas de la Alfama.",
+   "zona": "Lisboa, Portugal"
+  }
  },
  {
   "id": "mundo-065",
@@ -1952,7 +2272,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 38.566,
   "lng": -7.909,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Porta de Moura (leyenda de Évora)",
+   "texto": "En Évora, la Puerta de Moura guarda una vieja leyenda: una mujer mora, de una belleza que enamoraba a cuantos la veían, vivía encantada en la torre junto a la puerta. Cuentan que cada noche salía a peinar sus cabellos de oro a la luz de la luna, esperando a quien rompiera su hechizo con una palabra de amor verdadero. Quien lo intentaba sin ser el elegido, quedaba preso del encantamiento para siempre.",
+   "zona": "Évora, Portugal"
+  }
  },
  {
   "id": "mundo-066",
@@ -1982,7 +2307,12 @@
   "lat": 41.233,
   "lng": -8.621,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/bibliotecamaia"
+  "facebook": "https://www.facebook.com/bibliotecamaia",
+  "relato": {
+   "titulo": "El Gallo de Barcelos (leyenda del Minho)",
+   "texto": "En Barcelos, en el Minho, cuentan que un peregrino gallego fue acusado injustamente de robo y condenado a la horca. Antes de morir, pidió hablar con el juez, que en ese momento comía un gallo asado, y le dijo: «Si soy inocente, ese gallo cantará». El gallo se levantó de la bandeja y cantó tres veces, y el juez, asombrado, liberó al peregrino. Desde entonces, el gallo de Barcelos es el símbolo más famoso de Portugal.",
+   "zona": "Minho, Portugal"
+  }
  },
  {
   "id": "mundo-067",
@@ -2011,7 +2341,12 @@
   "completitud": "PARCIAL",
   "lat": 38.722,
   "lng": -9.139,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "San Vicente y los cuervos (leyenda de Lisboa)",
+   "texto": "En Lisboa cuentan que cuando trasladaron desde el Algarve los restos de San Vicente, dos cuervos acompañaron el barco durante todo el viaje, protegiendo al santo de las tormentas. Al llegar a la ciudad, los cuervos se quedaron a vivir en la catedral, y desde entonces son el símbolo de Lisboa: aparecen en el escudo de la ciudad junto a la barca. Los lisboetas dicen que mientras haya cuervos en la Sé, Lisboa estará protegida.",
+   "zona": "Lisboa, Portugal"
+  }
  },
  {
   "id": "mundo-068",
@@ -2038,7 +2373,12 @@
   "completitud": "PARCIAL",
   "lat": 32.634,
   "lng": -16.923,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda de Machim (leyenda de Madeira)",
+   "texto": "En Madeira cuentan que en el siglo XIV, dos jóvenes ingleses, Robert Machim y Ana d'Arfet, huyeron de Inglaterra porque su amor estaba prohibido. Una tormenta desvió su barco y los llevó hasta una isla verde y desconocida, donde desembarcaron en la bahía que hoy se llama Machico. Ana murió pocos días después, y Machim, de pena, murió a su lado. Los portugueses, al llegar en 1419, encontraron su cruz y dieron a la bahía el nombre de Machim.",
+   "zona": "Madeira, Portugal"
+  }
  },
  {
   "id": "mundo-069",
@@ -2069,7 +2409,12 @@
   "lat": -23.55,
   "lng": -46.633,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/bocadoceu.encontro.internacional"
+  "facebook": "https://www.facebook.com/bocadoceu.encontro.internacional",
+  "relato": {
+   "titulo": "El Saci-Pererê (leyenda de Brasil)",
+   "texto": "En Brasil, el Saci-Pererê es un niño negro de una sola pierna, con gorro rojo y pipa en la boca, que vive en los bosques y en los remolinos de viento. Cuentan que le gusta hacer travesuras: esconde las cosas, enreda el pelo de los caballos, apaga el fuego de la cocina y silba de noche para asustar. Para atraparlo, hay que echar una red en el remolino; y si le quitas el gorro rojo, el Saci te concede un deseo.",
+   "zona": "São Paulo, Brasil"
+  }
  },
  {
   "id": "mundo-070",
@@ -2098,7 +2443,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -19.916,
   "lng": -43.934,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Cuca (leyenda de Minas Gerais)",
+   "texto": "En Minas Gerais, las madres cantan a sus niños: «Duerme, mi niño, que viene la Cuca». La Cuca es una bruja con cabeza de cocodrilo que vive en el monte y se lleva a los niños que no quieren dormir. Cuentan que tiene una cueva llena de tesoros robados y que solo sale de noche, con su voz ronca y sus ojos amarillos. Por eso, en Brasil, ningún niño se atreve a desobedecer cuando escucha la canción de la Cuca.",
+   "zona": "Minas Gerais, Brasil"
+  }
  },
  {
   "id": "mundo-071",
@@ -2131,7 +2481,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/ecohlondrina/",
   "youtube": "https://www.youtube.com/channel/UCU0GI-x8fUqixq_fsXnlxtg",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "El Curupira (leyenda de Paraná)",
+   "texto": "En los bosques de Paraná vive el Curupira, un niño pequeño de pelo de fuego y pies vueltos hacia atrás, que protege los árboles y los animales de la selva. Cuentan que engaña a los cazadores y a los taladores con silbidos y huellas falsas, y los pierde en el monte para que no dañen la naturaleza. Quien respeta el bosque, el Curupira lo deja pasar; quien lo destruye, nunca encuentra el camino de vuelta.",
+   "zona": "Paraná, Brasil"
+  }
  },
  {
   "id": "mundo-072",
@@ -2161,7 +2516,12 @@
   "lng": -38.501,
   "coord_aprox": false,
   "youtube": "https://www.youtube.com/@fpedrocalmon",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "Iemanjá, Madre de las Aguas (leyenda de Bahía)",
+   "texto": "En Bahía, el 2 de febrero, miles de personas van a la playa a honrar a Iemanjá, la Madre de las Aguas, reina del mar en la tradición afrobrasileña. Cuentan que Iemanjá es madre de todos los orixás y protectora de los pescadores y de las madres. La gente le ofrece flores blancas, perfumes y espejos, y le pide protección y buena pesca. Quien la honra con respeto, dicen, vuelve siempre sano del mar.",
+   "zona": "Bahía, Brasil"
+  }
  },
  {
   "id": "mundo-073",
@@ -2189,7 +2549,12 @@
   "completitud": "PARCIAL",
   "lat": -23.55,
   "lng": -46.633,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Boitatá (leyenda de São Paulo)",
+   "texto": "En São Paulo cuentan que el Boitatá es una serpiente de fuego que protege los bosques de quienes los queman. Dicen que nació de una gran serpiente que se comió los ojos de los animales muertos en un incendio, y que ahora brilla en la oscuridad con su cuerpo de llamas. Cuando ve a alguien prendiendo fuego al monte, el Boitatá lo persigue y lo ciega con su luz, para que no vuelva a dañar la selva.",
+   "zona": "São Paulo, Brasil"
+  }
  },
  {
   "id": "mundo-074",
@@ -2216,7 +2581,12 @@
   "completitud": "PARCIAL",
   "lat": -22.906,
   "lng": -43.172,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Mula sin Cabeza (leyenda de Río de Janeiro)",
+   "texto": "En Río de Janeiro cuentan que la Mula sin Cabeza es una mujer que fue maldecida por amar a un sacerdote. Las noches de jueves a viernes, se transforma en una mula sin cabeza, con una llama en lugar del cuello, y galopa por los caminos relinchando y asustando a quien se cruza. Dicen que solo recupera su forma humana al amanecer, y que su maldición se rompe si alguien le quita el freno o le clava una aguja.",
+   "zona": "Río de Janeiro, Brasil"
+  }
  },
  {
   "id": "mundo-075",
@@ -2243,7 +2613,12 @@
   "completitud": "PARCIAL",
   "lat": -25.095,
   "lng": -50.161,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda de Vila Velha (leyenda de Paraná)",
+   "texto": "En Ponta Grossa, en Paraná, se levantan las piedras de Vila Velha, unas formaciones de arenisca que parecen una ciudad en ruinas. Cuenta la leyenda que allí vivió un pueblo antiguo que fue castigado por los dioses y convertido en piedra, con sus casas, sus torres y su castillo. Los guaraníes decían que en las noches de luna se escuchan las voces de aquella ciudad petrificada, que aún espera ser liberada de su hechizo.",
+   "zona": "Paraná, Brasil"
+  }
  },
  {
   "id": "mundo-076",
@@ -2270,7 +2645,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -15.793,
   "lng": -47.882,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Curupira (leyenda del Cerrado)",
+   "texto": "En el Cerrado del Planalto Central vive el Curupira, el guardián del monte: un niño de cabellos de fuego y pies al revés, que conoce cada árbol y cada vereda de la selva. Cuentan que protege a los animales y castiga a los cazadores que matan por placer, confundiéndolos con silbidos y huellas engañosas. Los viejos del campo dicen que el Curupira solo se muestra a quien camina con respeto por la tierra.",
+   "zona": "Planalto Central, Brasil"
+  }
  },
  {
   "id": "mundo-077",
@@ -2301,7 +2681,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -12.046,
   "lng": -77.042,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Cuniraya y Cavillaca (leyenda de Huarochirí)",
+   "texto": "En Huarochirí, cerca de Lima, cuentan que Cuniraya, un dios pobre y astuto, se enamoró de Cavillaca, una diosa hermosa que tejía bajo un lúcumo. Para acercarse a ella, convirtió su semilla en una lúcuma que Cavillaca comió sin saberlo, y quedó embarazada. Cuando nació el niño, Cavillaca huyó con él hacia el mar y se convirtió en piedra, y Cuniraya la siguió para siempre, preguntando por ella a todos los animales del camino.",
+   "zona": "Huarochirí, Lima, Perú"
+  }
  },
  {
   "id": "mundo-078",
@@ -2331,7 +2716,12 @@
   "lat": -12.046,
   "lng": -77.042,
   "coord_aprox": false,
-  "facebook": "https://facebook.com/yosoypurocuento"
+  "facebook": "https://facebook.com/yosoypurocuento",
+  "relato": {
+   "titulo": "La Perricholi (leyenda de Lima)",
+   "texto": "En la Lima colonial vivió Micaela Villegas, la Perricholi: una actriz hermosa y de carácter fuerte que enamoró al virrey Amat. Cuentan que el virrey construyó para ella el paseo de Aguas y la Alameda de los Descalzos, y que la Perricholi, con su ingenio, se burlaba de la corte y defendía a los pobres. Su historia, entre el amor y el escándalo, es una de las más queridas de Lima.",
+   "zona": "Lima, Perú"
+  }
  },
  {
   "id": "mundo-079",
@@ -2362,7 +2752,12 @@
   "lat": -12.046,
   "lng": -77.042,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/TodasLasPalabras"
+  "facebook": "https://www.facebook.com/TodasLasPalabras",
+  "relato": {
+   "titulo": "La Achiqué (leyenda de la costa de Lima)",
+   "texto": "En la costa de Lima cuentan que la Achiqué es una mujer de vestido blanco que se aparece de noche a los pescadores y a los caminantes solitarios. Su llanto se escucha junto al mar y en los arenales, y dicen que es el alma de una mujer que perdió a su hijo en las aguas y lo busca sin descanso. Quien la escucha de cerca, cuentan los abuelos, debe rezar y alejarse, porque su llanto trae mala suerte.",
+   "zona": "Lima, Perú"
+  }
  },
  {
   "id": "mundo-080",
@@ -2391,7 +2786,12 @@
   "lat": -12.046,
   "lng": -77.042,
   "coord_aprox": false,
-  "facebook": "https://facebook.com/people/Narrarte-festival-de-Cuentacuentos/100063754628297/"
+  "facebook": "https://facebook.com/people/Narrarte-festival-de-Cuentacuentos/100063754628297/",
+  "relato": {
+   "titulo": "El Tunche (leyenda de la Amazonía peruana)",
+   "texto": "En la Amazonía peruana, los ribereños temen al Tunche: un espíritu del monte que silba de noche entre los árboles y anuncia la muerte. Cuentan que es el alma de una persona que murió en la selva y no encontró descanso, y que su silbido, que se escucha cada vez más cerca, es señal de que viene a buscar a alguien. Los cazadores dicen que para espantarlo hay que hacer ruido y no responder nunca a su llamado.",
+   "zona": "Amazonía peruana"
+  }
  },
  {
   "id": "mundo-081",
@@ -2418,7 +2818,12 @@
   "completitud": "PARCIAL",
   "lat": null,
   "lng": null,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El conejo en la luna (cuento tradicional de Mesoamérica)",
+   "texto": "En tiempos antiguos, los dioses vieron a un conejo que ofrecía su propio cuerpo como alimento a un viajero hambriento, que en realidad era el dios Quetzalcóatl disfrazado. Conmovido por tanta generosidad, el dios tomó al conejo y lo estampó en la luna para que todos lo recordaran. Por eso, dicen las abuelas, en las noches claras aún se ve la silueta del conejo mirando la Tierra.",
+   "zona": "América Latina"
+  }
  },
  {
   "id": "mundo-082",
@@ -2449,7 +2854,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -16.489,
   "lng": -68.119,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Ekeko (leyenda de La Paz)",
+   "texto": "En La Paz, el Ekeko es el diosecito de la abundancia: un hombrecito cargado de bolsas, ollas, billetes y miniaturas de todo lo que se desea. Cuentan que en la fiesta de la Alasita, el 24 de enero, hay que comprarle las miniaturas de lo que se quiere conseguir —una casa, un auto, dinero— y el Ekeko, si se le trata con cariño y se le ofrece un cigarrillo, hace que el deseo se vuelva realidad durante el año.",
+   "zona": "La Paz, Bolivia"
+  }
  },
  {
   "id": "mundo-083",
@@ -2478,7 +2888,12 @@
   "lat": -17.389,
   "lng": -66.156,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/ATiTeCuento"
+  "facebook": "https://www.facebook.com/ATiTeCuento",
+  "relato": {
+   "titulo": "La Virgen de Urkupiña (leyenda de Cochabamba)",
+   "texto": "En Quillacollo, Cochabamba, cuentan que una niña pastora encontró en el cerro una imagen de la Virgen que le hablaba y le pedía que llevara a la gente hasta allí. La niña, asombrada, repetía: «¡Urkupiña!», que en quechua significa «ya está en el cerro». Desde entonces, cada agosto, miles de peregrinos suben al cerro de Cota a pedirle favores a la Virgen de Urkupiña, patrona de la integración boliviana.",
+   "zona": "Quillacollo, Cochabamba, Bolivia"
+  }
  },
  {
   "id": "mundo-084",
@@ -2508,7 +2923,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -16.505,
   "lng": -68.162,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Tío de la mina (leyenda del Altiplano)",
+   "texto": "En el Altiplano boliviano, los mineros honran al Tío, el dueño del interior de la mina: un diablo de cuernos y ojos de vidrio que vive bajo la tierra y guarda los minerales. Cuentan que hay que ofrecerle coca, alcohol y cigarrillos antes de entrar a trabajar, porque si el Tío se enoja, esconde la veta o provoca derrumbes. Los mineros dicen que el Tío no es malo: es el guardián de la mina y protege a quien lo respeta.",
+   "zona": "Altiplano boliviano"
+  }
  },
  {
   "id": "mundo-085",
@@ -2542,7 +2962,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/StorytellingCenter",
   "youtube": "https://www.youtube.com/user/StorytellingFestival",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "Jack y las habichuelas mágicas (cuento tradicional de los Apalaches)",
+   "texto": "En las montañas Apalaches, el joven Jack cambió la vaca de su madre por unas habichuelas mágicas. Al sembrarlas, creció una planta tan alta que llegaba al cielo. Jack subió y encontró el castillo de un gigante que guardaba una gallina de huevos de oro y un arpa que cantaba sola. Con astucia, Jack bajó con los tesoros, cortó la planta y el gigante cayó. Desde entonces, su familia nunca pasó hambre.",
+   "zona": "Apalaches, Estados Unidos"
+  }
  },
  {
   "id": "mundo-086",
@@ -2576,7 +3001,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/StorytellingToronto",
   "youtube": "https://www.youtube.com/@storytellingtoronto",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "Nanabozho y el gran diluvio (leyenda anishinaabe)",
+   "texto": "Hace mucho tiempo, el héroe Nanabozho vivía junto a los Grandes Lagos. Un día, las aguas cubrieron la tierra y solo Nanabozho sobrevivió, flotando sobre un tronco con los animales. Envió al castor, a la nutria y al pato a buscar tierra bajo el agua, pero ninguno lo logró. Por fin, la pequeña rata almizclera emergió con un puñado de lodo en las patas. Nanabozho lo sopló, y de ese lodo nació de nuevo la tierra.",
+   "zona": "Grandes Lagos, Canadá"
+  }
  },
  {
   "id": "mundo-087",
@@ -2610,7 +3040,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/FestivalConteMontreal",
   "youtube": "https://www.youtube.com/FestivalConteQC",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "La Chasse-galerie, la canoa voladora (leyenda de Quebec)",
+   "texto": "En las noches de invierno de Quebec, unos leñadores atrapados en el bosque hicieron un pacto con el diablo: su canoa volaría por el cielo para llevarlos a casa por Año Nuevo, a cambio de no pronunciar el nombre de Dios ni tocar una cruz. La canoa surcó las nubes entre risas, pero uno de ellos, asustado, gritó una blasfemia y la canoa cayó al bosque. Dicen que aún se ve volar en las noches claras.",
+   "zona": "Quebec, Canadá"
+  }
  },
  {
   "id": "mundo-088",
@@ -2643,7 +3078,12 @@
   "coord_aprox": true,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/1/11/2018.08.20_Festival_du_conte_de_Vassivi%C3%A8re_%C2%A9jacques_Crouzel.jpg",
   "foto_fuente": "wikimedia",
-  "facebook": "https://www.facebook.com/profile.php?id=100057358993887"
+  "facebook": "https://www.facebook.com/profile.php?id=100057358993887",
+  "relato": {
+   "titulo": "La Rigole du Diable (leyenda del Lemosín)",
+   "texto": "En Royère-de-Vassivière, un monje santo quiso desviar un arroyo y pidió ayuda al Diablo, que aceptó construir el canal en una sola noche, de medianoche al canto del gallo. Si terminaba, se llevaría el alma del monje; si no, trabajaría gratis. El Diablo cavó sin descanso, pero el monje, astuto, imitó el canto del gallo antes del amanecer. El Diablo huyó furioso y el canal quedó a medias, como aún se ve hoy.",
+   "zona": "Lemosín, Francia"
+  }
  },
  {
   "id": "mundo-089",
@@ -2673,7 +3113,12 @@
   "coord_aprox": false,
   "foto": "https://www.amac-parole.com/wp-content/uploads/2026/03/affiche-Paroles-en-festival-2026-petite.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/parole.amac"
+  "facebook": "https://www.facebook.com/parole.amac",
+  "relato": {
+   "titulo": "El pueblo bajo el lago (leyenda de las Cevenas)",
+   "texto": "En las Cevenas, junto a la Ardèche, cuentan que un pueblo entero despreció a un peregrino y lo apedreó, sin darle pan ni agua. Solo una viuda pobre, que vivía de la leche de su única cabra, lo acogió en su casa. El peregrino le tomó la mano y la alejó del pueblo. Cuando la viuda miró atrás, el pueblo había desaparecido bajo las aguas y en su lugar brillaba un lago. Tres piedras marcan aún el lugar donde ella se sentó a ordeñar su cabra.",
+   "zona": "Cevenas y Ardèche, Francia"
+  }
  },
  {
   "id": "mundo-090",
@@ -2700,7 +3145,12 @@
   "completitud": "PARCIAL",
   "lat": 44.016,
   "lng": 1.354,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Gargantua (leyenda de Occitania)",
+   "texto": "Gargantua, el gigante bonachón de los cuentos del suroeste de Francia, recorría los campos de Occitania con pasos tan grandes que cada pisada abría un valle y cada piedra que escupía se convertía en un cerro. Un día, sediento tras comer seis bueyes asados, bebió de un trago todo un río y dejó secos los molinos. Los campesinos, entre el susto y la risa, aprendieron que con el gigante convenía más compartir la mesa que enfrentarlo, porque su apetito no tenía fondo.",
+   "zona": "Occitania, Francia"
+  }
  },
  {
   "id": "mundo-091",
@@ -2729,7 +3179,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 41.902,
   "lng": 12.496,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Rómulo y Remo (leyenda de Roma)",
+   "texto": "En las orillas del Tíber, una loba encontró a dos gemelos abandonados en una cesta: Rómulo y Remo, hijos del dios Marte. La loba los amamantó en su cueva y un pastor los crio después como hijos suyos. Ya hombres, los hermanos decidieron fundar una ciudad en aquel lugar, pero discutieron por quién le daría nombre y por dónde levantar las murallas. Rómulo venció a su hermano y llamó Roma a la ciudad, que con el tiempo se convirtió en la capital de un imperio.",
+   "zona": "Roma, Italia"
+  }
  },
  {
   "id": "mundo-092",
@@ -2756,7 +3211,12 @@
   "completitud": "PARCIAL",
   "lat": 56.419,
   "lng": 40.453,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Vasilisa y Baba Yaga (cuento tradicional ruso)",
+   "texto": "Vasilisa, una muchacha rusa, fue enviada por su madrastra al bosque a pedir fuego a Baba Yaga, la bruja que vivía en una cabaña sobre patas de gallina. La vieja la puso a trabajar: limpiar la casa, separar el trigo y la amapola, y lavar la ropa. Con ayuda de su muñequita mágica, Vasilisa terminó cada tarea antes del amanecer. Baba Yaga, entre admirada y furiosa, le dio una calavera con brasas encendidas, cuyo fuego quemó a la madrastra y a sus hijas, y Vasilisa quedó libre.",
+   "zona": "Rusia"
+  }
  },
  {
   "id": "mundo-093",
@@ -2784,7 +3244,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 56.5,
   "lng": 60.817,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Señora de la Montaña de Cobre (leyenda de los Urales)",
+   "texto": "En los montes Urales, los mineros cuentan que la Señora de la Montaña de Cobre guarda las piedras preciosas y las vetas de malaquita. Se aparece como una mujer de ojos verdes, vestida de cobre y con una corona de piedras brillantes. Al minero honrado le muestra el camino del mineral; al codicioso lo extravía en los túneles oscuros hasta que pierde el juicio. Por eso, antes de bajar a la mina, los viejos mineros la saludaban con respeto y nunca tomaban más de lo necesario.",
+   "zona": "Urales, Rusia"
+  }
  },
  {
   "id": "mundo-094",
@@ -2811,7 +3276,12 @@
   "completitud": "PARCIAL",
   "lat": 45.424,
   "lng": 36.964,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La princesa rana (cuento tradicional ruso)",
+   "texto": "Un zar ruso ordenó a sus tres hijos disparar una flecha: donde cayera, allí encontrarían esposa. La flecha del menor, Iván, cayó en un pantano y la recogió una rana. Iván se casó con ella entre las burlas de todos, pero la rana, al caer la noche, se quitaba la piel y se convertía en Vasilisa, una princesa sabia y hermosa. Iván, impaciente, quemó la piel de rana para retenerla, pero Vasilisa desapareció y tuvo que buscarla hasta el reino del inmortal Koschei para recuperarla.",
+   "zona": "Kubán, Rusia"
+  }
  },
  {
   "id": "mundo-095",
@@ -2838,7 +3308,12 @@
   "completitud": "PARCIAL",
   "lat": 53.019,
   "lng": 158.648,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Kutkh, el gran Cuervo (leyenda de Kamchatka)",
+   "texto": "Kutkh, el gran Cuervo de Kamchatka, creó el mundo a su manera: dejó caer una pluma al volar y de ella nació la península; con sus pasos abrió los ríos y con su pico rompió las piedras que encerraban la luz. El sol y la luna estaban escondidos, y Kutkh, astuto y tramposo, los liberó para que alumbraran a los hombres. Por eso los volcanes y los ríos bravos de Kamchatka recuerdan su carácter caprichoso: Kutkh ayuda a los hombres, pero también se burla de ellos cuando le place.",
+   "zona": "Kamchatka, Rusia"
+  }
  },
  {
   "id": "mundo-096",
@@ -2867,7 +3342,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 67.94,
   "lng": 32.911,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Stallo, el gigante sami (leyenda de la península de Kola)",
+   "texto": "En las tierras sami de la península de Kola cuentan que Stallo, un gigante torpe y codicioso, bajaba de las montañas con su saco para robar renos y atrapar a los pastores. Era enorme y fuerte, pero poco listo: los sami lo engañaban con trucos, le hacían cargar piedras imposibles o lo dejaban dormido al sol, donde se convertía en piedra. Por eso en la tundra aún se ven rocas solitarias que, según los ancianos, son gigantes Stallo petrificados por su propia necedad.",
+   "zona": "Península de Kola, Rusia"
+  }
  },
  {
   "id": "mundo-097",
@@ -2895,7 +3375,12 @@
   "completitud": "PARCIAL",
   "lat": 30.849,
   "lng": 120.914,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda de la Serpiente Blanca (cuento tradicional de Zhejiang)",
+   "texto": "Junto al Lago del Oeste vivía Bai Suzhen, una serpiente blanca que, tras mil años de práctica, tomó forma de mujer y se enamoró del joven Xu Xian. Se casaron y vivieron felices, hasta que un monje reveló su secreto y la encerró bajo la pagoda Leifeng. Pero su amor fue más fuerte: su hijo la liberó años después y la familia volvió a reunirse junto al lago.",
+   "zona": "Zhejiang, China"
+  }
  },
  {
   "id": "mundo-098",
@@ -2922,7 +3407,12 @@
   "completitud": "PARCIAL",
   "lat": 37.482,
   "lng": 117.495,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Meng Jiangnü y la Gran Muralla (leyenda de Shandong)",
+   "texto": "En tiempos del primer emperador, el joven Fan Xiliang fue llevado a la fuerza a construir la Gran Muralla. Su esposa Meng Jiangnü, sin noticias de él, cosió ropas de abrigo y caminó meses hasta el muro. Al llegar supo que había muerto de agotamiento. Lloró tanto y tan amargamente que un tramo de la muralla se desplomó, dejando al descubierto sus huesos.",
+   "zona": "Shandong, China"
+  }
  },
  {
   "id": "mundo-099",
@@ -2951,7 +3441,12 @@
   "completitud": "PARCIAL",
   "lat": 28.804,
   "lng": 113.078,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Qu Yuan y el río Miluo (leyenda de Hunan)",
+   "texto": "El poeta Qu Yuan, desterrado por envidias de la corte, vagaba desconsolado por las orillas del río Miluo. Al ver su reino perdido, se ató una piedra al cuerpo y se arrojó a las aguas. Los pescadores salieron en sus barcas a buscarlo, golpeando tambores para espantar a los peces y arrojando arroz para que no tocaran su cuerpo. Así nació la fiesta del Bote del Dragón.",
+   "zona": "Hunan, China"
+  }
  },
  {
   "id": "mundo-100",
@@ -2978,7 +3473,12 @@
   "completitud": "PARCIAL",
   "lat": 25.551,
   "lng": 113.685,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Liu Hai y el sapo dorado (cuento tradicional de China)",
+   "texto": "El inmortal Liu Hai paseaba con su ristra de monedas cuando encontró un sapo de tres patas que vivía en un estanque y escupía veneno contra los aldeanos. Liu Hai lo pescó con un hilo de monedas de oro y, en lugar de castigarlo, lo domó: desde entonces el sapo lo sigue, escupiendo monedas para ayudar a los pobres. Por eso su figura trae suerte y prosperidad a las casas.",
+   "zona": "China"
+  }
  },
  {
   "id": "mundo-101",
@@ -3010,7 +3510,12 @@
   "coord_aprox": false,
   "foto": "https://festivalpurocuento.com/wp-content/uploads/2023/02/Evento-Los-Cuentos-Viven-la-Plaza-768x432.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/fundacionfestivalpurocuento/"
+  "facebook": "https://www.facebook.com/fundacionfestivalpurocuento/",
+  "relato": {
+   "titulo": "La Segua (leyenda de Costa Rica)",
+   "texto": "En Costa Rica, la Segua es una mujer hermosa que se aparece de noche en los caminos a los hombres mujeriegos. Lleva un vestido blanco y un velo que cubre su rostro, y les pide que la lleven en su caballo. Pero al subir, el hombre descubre que tiene cara de caballo, con los dientes grandes y los ojos de fuego. Cuentan que es el alma de una mujer castigada por su vanidad, condenada a asustar a los hombres que andan de noche buscando amores.",
+   "zona": "San José, Costa Rica"
+  }
  },
  {
   "id": "mundo-102",
@@ -3039,7 +3544,12 @@
   "lng": -83.865,
   "coord_aprox": false,
   "youtube": "https://www.youtube.com/embed/G4dhfFvLEtA",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "La Virgen de los Ángeles (leyenda de Cartago)",
+   "texto": "En Cartago cuentan que en 1635, una niña llamada Juana Pereira encontró sobre una piedra una pequeña imagen de la Virgen María, de color oscuro, a la que llamaron la Negrita. La imagen, por más que la llevaran a la iglesia, volvía siempre a la piedra donde apareció. Por eso, los cartagineses le construyeron allí su santuario, y cada 2 de agosto miles de peregrinos caminan hasta la Basílica de los Ángeles a pedirle un milagro.",
+   "zona": "Cartago, Costa Rica"
+  }
  },
  {
   "id": "mundo-103",
@@ -3068,7 +3578,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 10.016,
   "lng": -84.217,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Cadejo (leyenda de Costa Rica)",
+   "texto": "En Costa Rica, el Cadejo es un perro enorme de ojos rojos que aparece de noche a los caminantes solitarios. Cuentan que hay dos: el Cadejo blanco, que protege a los borrachos y a los niños perdidos y los acompaña hasta su casa, y el Cadejo negro, que es el diablo y persigue a quien anda en malos pasos. Los abuelos dicen que si un Cadejo te sigue, no corras: camina despacio, reza, y al llegar a tu casa, se irá.",
+   "zona": "Alajuela, Costa Rica"
+  }
  },
  {
   "id": "mundo-104",
@@ -3100,7 +3615,12 @@
   "lng": 36.8219,
   "coord_aprox": false,
   "foto": "https://www.zamaleoact.org/data/files/stageperformance.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "El león y la liebre (cuento de África Oriental)",
+   "texto": "Cada mañana, el león de la sabana exigía que un animal se presentara para ser devorado. Cuando le tocó el turno a la liebre, esta llegó tarde y dijo que otro león, más grande, la había retenido en el camino. Furioso, el león le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un pozo profundo. Al asomarse, el león vio su propio reflejo en el agua, rugió contra él y se lanzó dentro. Así, la pequeña liebre salvó a todos los animales con su astucia.",
+   "zona": "Kenia / África Oriental"
+  }
  },
  {
   "id": "mundo-105",
@@ -3132,7 +3652,12 @@
   "coord_aprox": false,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/5/53/Storymoja_Hay_Festival_%287998757049%29.jpg",
   "foto_fuente": "wikimedia",
-  "facebook": "https://www.facebook.com/story.moja/"
+  "facebook": "https://www.facebook.com/story.moja/",
+  "relato": {
+   "titulo": "El león y la liebre (cuento de África Oriental)",
+   "texto": "Cada mañana, el león de la sabana exigía que un animal se presentara para ser devorado. Cuando le tocó el turno a la liebre, esta llegó tarde y dijo que otro león, más grande, la había retenido en el camino. Furioso, el león le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un pozo profundo. Al asomarse, el león vio su propio reflejo en el agua, rugió contra él y se lanzó dentro. Así, la pequeña liebre salvó a todos los animales con su astucia.",
+   "zona": "Kenia / África Oriental"
+  }
  },
  {
   "id": "mundo-106",
@@ -3163,7 +3688,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/TheMoth",
   "youtube": "https://www.youtube.com/TheMoth",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "El león y la liebre (cuento de África Oriental)",
+   "texto": "Cada mañana, el león de la sabana exigía que un animal se presentara para ser devorado. Cuando le tocó el turno a la liebre, esta llegó tarde y dijo que otro león, más grande, la había retenido en el camino. Furioso, el león le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un pozo profundo. Al asomarse, el león vio su propio reflejo en el agua, rugió contra él y se lanzó dentro. Así, la pequeña liebre salvó a todos los animales con su astucia.",
+   "zona": "Kenia / África Oriental"
+  }
  },
  {
   "id": "mundo-107",
@@ -3194,7 +3724,12 @@
   "lng": 32.5825,
   "coord_aprox": false,
   "youtube": "https://www.youtube.com/watch?v=Sv9nAvKO8sQ",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Kintu y Nambi (mito de Buganda)",
+   "texto": "Dicen en Buganda que el primer hombre, Kintu, vivía solo en la tierra con su vaca. Un día bajó del cielo Nambi, hija del dios Ggulu, y se enamoró de él. Su padre puso a Kintu tres pruebas: comer una comida imposible, encontrar su propia vaca entre un rebaño y construir una casa en una noche. Kintu las superó con ayuda de Nambi y se casaron. Así, cuentan los baganda, comenzaron los hombres sobre la tierra.",
+   "zona": "Buganda, Uganda / África Oriental"
+  }
  },
  {
   "id": "mundo-108",
@@ -3222,7 +3757,12 @@
   "completitud": "PARCIAL",
   "lat": 1.714,
   "lng": 33.611,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "El león y la liebre (cuento de África Oriental)",
+   "texto": "Cada mañana, el león de la sabana exigía que un animal se presentara para ser devorado. Cuando le tocó el turno a la liebre, esta llegó tarde y dijo que otro león, más grande, la había retenido en el camino. Furioso, el león le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un pozo profundo. Al asomarse, el león vio su propio reflejo en el agua, rugió contra él y se lanzó dentro. Así, la pequeña liebre salvó a todos los animales con su astucia.",
+   "zona": "Teso, Uganda / África Oriental"
+  }
  },
  {
   "id": "mundo-109",
@@ -3250,7 +3790,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -1.9403,
   "lng": 29.8739,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La liebre y el león (cuento de Ruanda)",
+   "texto": "En Ruanda cuentan que la liebre, pequeña pero muy lista, fue llamada por el león, que exigía un animal cada día para comer. La liebre llegó tarde y dijo que otro león, más grande, la había retenido en el camino. El león, furioso, le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un lago y le mostró el agua. El león vio su reflejo, rugió contra él y saltó dentro. La liebre salvó a todos con su astucia.",
+   "zona": "Ruanda / África Oriental"
+  }
  },
  {
   "id": "mundo-110",
@@ -3280,7 +3825,12 @@
   "lng": 29.8739,
   "coord_aprox": false,
   "foto": "https://www.umuragebooksfestival.org/cms/upload/6a4e357457d7c.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "La liebre y el león (cuento de Ruanda)",
+   "texto": "En Ruanda cuentan que la liebre, pequeña pero muy lista, fue llamada por el león, que exigía un animal cada día para comer. La liebre llegó tarde y dijo que otro león, más grande, la había retenido en el camino. El león, furioso, le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un lago y le mostró el agua. El león vio su reflejo, rugió contra él y saltó dentro. La liebre salvó a todos con su astucia.",
+   "zona": "Ruanda / África Oriental"
+  }
  },
  {
   "id": "mundo-111",
@@ -3307,7 +3857,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 0.048,
   "lng": 18.26,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La tortuga y el leopardo (cuento del Congo)",
+   "texto": "En el bosque del Congo cuentan que el leopardo se burlaba de la tortuga por su lentitud y la retó a una carrera hasta el río. La tortuga aceptó, pero antes colocó a sus hermanas, todas iguales a ella, a lo largo del camino. Cada vez que el leopardo corría y gritaba, una tortuga respondía desde más adelante. El leopardo corrió sin descanso hasta agotarse, mientras la tortuga llegaba tranquila a la meta. Desde entonces, nadie se burla de la tortuga en el bosque.",
+   "zona": "Río Congo, RD del Congo / África Central"
+  }
  },
  {
   "id": "mundo-112",
@@ -3337,7 +3892,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -4.769,
   "lng": 11.866,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El mono y el leopardo (cuento del Congo)",
+   "texto": "Cuentan junto al río Congo que el leopardo invitó al mono a comer, pero puso la comida en lo alto de un árbol al que solo él podía subir. El mono, sin enfadarse, invitó al leopardo a su casa al día siguiente y sirvió la comida dentro de un agujero estrecho, donde solo cabía su mano pequeña. El leopardo se marchó hambriento y avergonzado. Desde entonces, en el Congo se dice que quien se burla de otro acaba burlado.",
+   "zona": "Congo / África Central"
+  }
  },
  {
   "id": "mundo-113",
@@ -3364,7 +3924,12 @@
   "completitud": "PARCIAL",
   "lat": 2.03,
   "lng": 15.9,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La tortuga y el elefante (cuento del pueblo baka)",
+   "texto": "En el bosque de los baka cuentan que el elefante pisoteaba los senderos y se reía de la pequeña tortuga. Un día, la tortuga le propuso un tira y afloja: ató una liana a su caparazón y el otro extremo, sin que él lo supiera, a un árbol enorme. El elefante tiró con todas sus fuerzas hasta caer de rodillas, mientras la tortuga ni se movía. El elefante aprendió a respetar a los pequeños, y el bosque volvió a tener paz.",
+   "zona": "Sur de Camerún / pueblo baka"
+  }
  },
  {
   "id": "mundo-114",
@@ -3392,7 +3957,12 @@
   "completitud": "PARCIAL",
   "lat": 3.848,
   "lng": 11.502,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La tortuga consejera del león (cuento de Camerún)",
+   "texto": "En Camerún cuentan que el león reunió a los animales y declaró que el más rápido sería su consejero. La tortuga, que todos creían lenta, aceptó el reto y pidió correr al amanecer. Durante la noche, colocó a sus parientes a lo largo del camino. Cuando el león corría, siempre oía la voz de la tortuga por delante. Al llegar a la meta, la tortuga ya lo esperaba. El león, admirado, la nombró su consejera para siempre.",
+   "zona": "Camerún / África Central"
+  }
  },
  {
   "id": "mundo-115",
@@ -3420,7 +3990,12 @@
   "lat": 3.848,
   "lng": 11.502,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/profile.php?id=100064520089744"
+  "facebook": "https://www.facebook.com/profile.php?id=100064520089744",
+  "relato": {
+   "titulo": "La tortuga consejera del león (cuento de Camerún)",
+   "texto": "En Camerún cuentan que el león reunió a los animales y declaró que el más rápido sería su consejero. La tortuga, que todos creían lenta, aceptó el reto y pidió correr al amanecer. Durante la noche, colocó a sus parientes a lo largo del camino. Cuando el león corría, siempre oía la voz de la tortuga por delante. Al llegar a la meta, la tortuga ya lo esperaba. El león, admirado, la nombró su consejera para siempre.",
+   "zona": "Camerún / África Central"
+  }
  },
  {
   "id": "mundo-116",
@@ -3447,7 +4022,12 @@
   "completitud": "PARCIAL",
   "lat": -25.9692,
   "lng": 32.5732,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El conejo y la hiena (cuento de Mozambique)",
+   "texto": "En Mozambique cuentan que el conejo y la hiena sembraron juntos un campo de maíz. Cuando llegó la cosecha, la hiena quiso quedarse con todo y amenazó al conejo. El conejo le propuso repartir el maíz según quien saltara más lejos. La hiena saltó con fuerza, pero el conejo, más listo, ya había escondido el maíz en su madriguera. La hiena se fue con las manos vacías y el conejo compartió la cosecha con los demás animales.",
+   "zona": "Mozambique / África Austral"
+  }
  },
  {
   "id": "mundo-117",
@@ -3476,7 +4056,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -20.7914,
   "lng": 16.7117,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El chacal y el león (cuento del pueblo san)",
+   "texto": "Los san de Namibia cuentan que el león presumía de ser el más fuerte y obligaba al chacal a cazar para él. Un día, el chacal le dijo que había visto a un animal mucho más grande y feroz al otro lado de la colina. El león corrió a enfrentarlo y encontró solo su propio rugido devuelto por las rocas. Mientras tanto, el chacal se comió la caza tranquilamente. Desde entonces, el león caza solo y el chacal ríe en la noche.",
+   "zona": "Namibia / pueblo san"
+  }
  },
  {
   "id": "mundo-118",
@@ -3503,7 +4088,12 @@
   "completitud": "PARCIAL",
   "lat": -15.3875,
   "lng": 28.3228,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Kalulu y el gran tira y afloja (cuento chewa)",
+   "texto": "En Zambia cuentan que Kalulu, la liebre, estaba cansada de que el elefante y el hipopótamo presumieran de ser los más fuertes. Cortó una liana larguísima y retó al elefante a un tira y afloja, y luego hizo lo mismo con el hipopótamo en el río. Cuando dio la señal, los dos gigantes tiraron con todas sus fuerzas, cada uno creyendo que luchaba contra la liebre. Al caer la tarde, ambos se rindieron, agotados. Kalulu sonrió: la astucia había vencido a la fuerza.",
+   "zona": "Zambia / África Austral"
+  }
  },
  {
   "id": "mundo-119",
@@ -3530,7 +4120,12 @@
   "completitud": "PARCIAL",
   "lat": -13.9626,
   "lng": 33.7741,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Kalulu, la liebre perezosa, y el pozo (cuento chewa)",
+   "texto": "En Malaui cuentan que, durante una gran sequía, los animales cavaron juntos un pozo. Todos trabajaron menos Kalulu, la liebre, que se negó a ayudar. De noche, Kalulu venía a beber y ensuciaba el agua. Los animales pusieron guardias, pero la liebre los engañaba con miel hasta atarlos. Al final, la tortuga se untó el lomo con resina pegajosa y atrapó a Kalulu sentado sobre ella. La liebre fue castigada y, dicen, por eso las liebres tienen la cola corta.",
+   "zona": "Malaui / pueblo chewa"
+  }
  },
  {
   "id": "mundo-120",
@@ -3558,7 +4153,12 @@
   "completitud": "PARCIAL",
   "lat": -13.9626,
   "lng": 33.7741,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Kalulu, la liebre perezosa, y el pozo (cuento chewa)",
+   "texto": "En Malaui cuentan que, durante una gran sequía, los animales cavaron juntos un pozo. Todos trabajaron menos Kalulu, la liebre, que se negó a ayudar. De noche, Kalulu venía a beber y ensuciaba el agua. Los animales pusieron guardias, pero la liebre los engañaba con miel hasta atarlos. Al final, la tortuga se untó el lomo con resina pegajosa y atrapó a Kalulu sentado sobre ella. La liebre fue castigada y, dicen, por eso las liebres tienen la cola corta.",
+   "zona": "Malaui / pueblo chewa"
+  }
  },
  {
   "id": "mundo-121",
@@ -3589,7 +4189,12 @@
   "lat": -17.8252,
   "lng": 31.0335,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/litfestharare"
+  "facebook": "https://www.facebook.com/litfestharare",
+  "relato": {
+   "titulo": "Tsuro, la liebre astuta, y el león (cuento shona)",
+   "texto": "Los shona de Zimbabue cuentan que Tsuro, la liebre, era el animal más astuto de la sabana. Un día, el león le ordenó que le trajera comida o sería devorado. Tsuro le dijo que un león mayor le había robado la caza y vivía en un pozo cercano. El león, furioso, se asomó al pozo y vio su propio reflejo en el agua. Rugió y saltó dentro para luchar contra su rival. Tsuro se alejó riendo, y los animales celebraron su ingenio.",
+   "zona": "Zimbabue / pueblo shona"
+  }
  },
  {
   "id": "mundo-122",
@@ -3620,7 +4225,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -29.8587,
   "lng": 31.0218,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Uthlakanyana y el león (cuento zulú)",
+   "texto": "Los zulúes cuentan que Uthlakanyana, un hombrecillo astuto nacido ya hablando, vivía de engañar a los animales grandes. Un día, el león lo retó a ver quién rugía más fuerte. Uthlakanyana aceptó, pero escondió un avispero tras una roca. Cuando el león rugió, el hombrecillo agitó el avispero y las avispas picaron al león, que huyó despavorido. Uthlakanyana se rió: no siempre vence el más fuerte, sino el más listo.",
+   "zona": "Sudáfrica / pueblo zulú"
+  }
  },
  {
   "id": "mundo-123",
@@ -3650,7 +4260,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -25.7479,
   "lng": 28.2293,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El chacal y el león (cuento de Sudáfrica)",
+   "texto": "En Sudáfrica cuentan que el león ordenó al chacal que le trajera carne cada día. El chacal, cansado, le dijo que al otro lado del río vivía un león mucho más grande que quería robarle el trono. El león cruzó el río furioso y encontró solo su reflejo en el agua. Mientras rugía contra su imagen, el chacal se comió la carne tranquilamente. El león volvió avergonzado, y el chacal ya no tuvo que servirle nunca más.",
+   "zona": "Sudáfrica / África Austral"
+  }
  },
  {
   "id": "mundo-124",
@@ -3678,7 +4293,12 @@
   "lat": -26.2041,
   "lng": 28.0473,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/TABNPC"
+  "facebook": "https://www.facebook.com/TABNPC",
+  "relato": {
+   "titulo": "El chacal y el león (cuento de Sudáfrica)",
+   "texto": "En Sudáfrica cuentan que el león ordenó al chacal que le trajera carne cada día. El chacal, cansado, le dijo que al otro lado del río vivía un león mucho más grande que quería robarle el trono. El león cruzó el río furioso y encontró solo su reflejo en el agua. Mientras rugía contra su imagen, el chacal se comió la carne tranquilamente. El león volvió avergonzado, y el chacal ya no tuvo que servirle nunca más.",
+   "zona": "Sudáfrica / África Austral"
+  }
  },
  {
   "id": "mundo-125",
@@ -3705,7 +4325,12 @@
   "completitud": "PARCIAL",
   "lat": -6.7924,
   "lng": 39.2083,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El león y la liebre (cuento de África Oriental)",
+   "texto": "Cada mañana, el león de la sabana exigía que un animal se presentara para ser devorado. Cuando le tocó el turno a la liebre, esta llegó tarde y dijo que otro león, más grande, la había retenido en el camino. Furioso, el león le ordenó que lo llevara ante su rival. La liebre lo condujo hasta un pozo profundo. Al asomarse, el león vio su propio reflejo en el agua, rugió contra él y se lanzó dentro. Así, la pequeña liebre salvó a todos los animales con su astucia.",
+   "zona": "Costa suajili, Tanzania / África Oriental"
+  }
  },
  {
   "id": "mundo-126",
@@ -3732,7 +4357,12 @@
   "completitud": "PARCIAL",
   "lat": -24.406,
   "lng": 25.495,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La luna en el pozo (cuento tsuana)",
+   "texto": "Los tsuana de Botsuana cuentan que el chacal convenció al león de que la luna reflejada en el pozo era un gran queso. El león, goloso, quiso comérselo y metió la cabeza en el agua, pero solo encontró agua fría. El chacal se rió y le dijo que el queso se había escapado por el fondo. El león, enfadado, persiguió al chacal hasta el amanecer, pero el chacal, más rápido y más listo, se perdió entre los arbustos.",
+   "zona": "Botsuana / pueblo tsuana"
+  }
  },
  {
   "id": "mundo-127",
@@ -3760,7 +4390,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -29.624,
   "lng": 27.507,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Senkatana y el monstruo (leyenda sotho)",
+   "texto": "Los sotho de Lesoto cuentan que un monstruo terrible, Kammapa, devoraba a las personas y los animales. Un héroe llamado Senkatana, nacido de forma milagrosa, decidió enfrentarlo. Con su lanza y su valor, entró en la panza del monstruo y liberó a todos los que habían sido tragados. El pueblo celebró su victoria con cantos y danzas. Desde entonces, Senkatana es recordado en Lesoto como el héroe que venció al miedo.",
+   "zona": "Lesoto / pueblo sotho"
+  }
  },
  {
   "id": "mundo-128",
@@ -3793,7 +4428,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/WorldStorytellingCafe",
   "youtube": "https://www.youtube.com/embed/dFBOgsHFFKk",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "El pescador y el genio (Las mil y una noches)",
+   "texto": "En Las mil y una noches se cuenta que un pobre pescador sacó del mar una jarra de cobre sellada. Al abrirla, salió un genio enorme que quiso matarlo por haberlo liberado tarde. El pescador, asustado, le preguntó con astucia cómo un ser tan grande había cabido en una jarra tan pequeña. El genio, orgulloso, se metió de nuevo dentro para demostrarlo. El pescador cerró la jarra rápidamente y la devolvió al mar.",
+   "zona": "Marruecos / Magreb"
+  }
  },
  {
   "id": "mundo-129",
@@ -3821,7 +4461,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 36.7167,
   "lng": 4.05,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "El león y el chacal (cuento amazige)",
+   "texto": "Los amaziges de Cabilia cuentan que el león y el chacal cazaban juntos y repartían la presa. Un día, el león se quedó con todo y el chacal se fue hambriento. A la mañana siguiente, el chacal le dijo que había visto un rebaño enorme al otro lado de la montaña. El león corrió tras él y cayó en un barranco. El chacal comió tranquilo y, desde entonces, en Cabilia se dice que la astucia vale más que la fuerza.",
+   "zona": "Cabilia, Argelia / pueblo amazige"
+  }
  },
  {
   "id": "mundo-130",
@@ -3849,7 +4494,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 30.0444,
   "lng": 31.2357,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Isis y Osiris (mito del antiguo Egipto)",
+   "texto": "En el antiguo Egipto se contaba que Osiris, rey bueno y justo, fue asesinado por su hermano Set, que esparció su cuerpo por todo el país. Su esposa Isis, diosa de la magia, recorrió Egipto recogiendo cada parte y lo devolvió a la vida. Su hijo Horus creció y vengó a su padre, venciendo a Set. Por eso, en Egipto, Isis es símbolo del amor fiel y Horus, del triunfo del bien sobre el mal.",
+   "zona": "Egipto"
+  }
  },
  {
   "id": "mundo-131",
@@ -3877,7 +4527,12 @@
   "completitud": "PARCIAL",
   "lat": 36.45,
   "lng": 10.7333,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El chacal y el león (cuento del Magreb)",
+   "texto": "En Túnez cuentan que el león y el chacal acordaron cazar juntos y repartir la presa a medias. El león, sin embargo, se comía siempre la mejor parte. Un día, el chacal le aseguró que al otro lado de la duna había un animal mucho mayor que él. El león corrió a buscarlo y se perdió en el desierto. El chacal se quedó con la caza y, desde entonces, nadie en Túnez confía en quien rompe un trato.",
+   "zona": "Túnez / Magreb"
+  }
  },
  {
   "id": "mundo-132",
@@ -3905,7 +4560,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 14.7167,
   "lng": -17.4677,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Soundiata Keita (epopeya mandinga)",
+   "texto": "Los griots del pueblo mandinga cantan la historia de Soundiata Keita, un niño que no podía caminar y del que todos se burlaban. Un día, apoyado en un bastón de hierro, se puso en pie y arrancó un baobab con sus propias manos. De mayor, reunió a los pueblos mandingas y venció al rey hechicero Soumaoro en la batalla de Kirina. Así fundó el Imperio de Malí, y su epopeya aún se canta en Senegal, Malí y Guinea.",
+   "zona": "Senegal / pueblo mandinga"
+  }
  },
  {
   "id": "mundo-133",
@@ -3933,7 +4593,12 @@
   "completitud": "PARCIAL",
   "lat": 12.6392,
   "lng": -8.0029,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Soundiata Keita (epopeya mandinga)",
+   "texto": "Los griots del pueblo mandinga cantan la historia de Soundiata Keita, un niño que no podía caminar y del que todos se burlaban. Un día, apoyado en un bastón de hierro, se puso en pie y arrancó un baobab con sus propias manos. De mayor, reunió a los pueblos mandingas y venció al rey hechicero Soumaoro en la batalla de Kirina. Así fundó el Imperio de Malí, y su epopeya aún se canta en Senegal, Malí y Guinea.",
+   "zona": "Malí / pueblo mandinga"
+  }
  },
  {
   "id": "mundo-134",
@@ -3962,7 +4627,12 @@
   "lng": 1.2228,
   "coord_aprox": false,
   "foto": "http://images.populus.ch/pixdir/fe/fesconte/IMGA.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "Anansi y la calabaza de la sabiduría (cuento de África Occidental)",
+   "texto": "En África Occidental cuentan que Anansi, la araña, reunió toda la sabiduría del mundo en una calabaza para quedársela solo. Intentó esconderla en lo alto de un árbol, atándola delante de él, pero no podía trepar. Su hijo le aconsejó atarla a la espalda, y Anansi, furioso al ver que hasta un niño sabía más que él, soltó la calabaza. Se rompió contra el suelo y la sabiduría se esparció por el mundo.",
+   "zona": "Togo / África Occidental"
+  }
  },
  {
   "id": "mundo-135",
@@ -3990,7 +4660,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.1375,
   "lng": 1.2228,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y la calabaza de la sabiduría (cuento de África Occidental)",
+   "texto": "En África Occidental cuentan que Anansi, la araña, reunió toda la sabiduría del mundo en una calabaza para quedársela solo. Intentó esconderla en lo alto de un árbol, atándola delante de él, pero no podía trepar. Su hijo le aconsejó atarla a la espalda, y Anansi, furioso al ver que hasta un niño sabía más que él, soltó la calabaza. Se rompió contra el suelo y la sabiduría se esparció por el mundo.",
+   "zona": "Togo / África Occidental"
+  }
  },
  {
   "id": "mundo-136",
@@ -4018,7 +4693,12 @@
   "completitud": "PARCIAL",
   "lat": 6.1375,
   "lng": 1.2228,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y la calabaza de la sabiduría (cuento de África Occidental)",
+   "texto": "En África Occidental cuentan que Anansi, la araña, reunió toda la sabiduría del mundo en una calabaza para quedársela solo. Intentó esconderla en lo alto de un árbol, atándola delante de él, pero no podía trepar. Su hijo le aconsejó atarla a la espalda, y Anansi, furioso al ver que hasta un niño sabía más que él, soltó la calabaza. Se rompió contra el suelo y la sabiduría se esparció por el mundo.",
+   "zona": "Togo / África Occidental"
+  }
  },
  {
   "id": "mundo-137",
@@ -4045,7 +4725,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.1375,
   "lng": 1.2228,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y la calabaza de la sabiduría (cuento de África Occidental)",
+   "texto": "En África Occidental cuentan que Anansi, la araña, reunió toda la sabiduría del mundo en una calabaza para quedársela solo. Intentó esconderla en lo alto de un árbol, atándola delante de él, pero no podía trepar. Su hijo le aconsejó atarla a la espalda, y Anansi, furioso al ver que hasta un niño sabía más que él, soltó la calabaza. Se rompió contra el suelo y la sabiduría se esparció por el mundo.",
+   "zona": "Togo / África Occidental"
+  }
  },
  {
   "id": "mundo-138",
@@ -4074,7 +4759,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.3703,
   "lng": 2.3912,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Legba y el sombrero de dos colores (cuento fon)",
+   "texto": "Los fon de Benín cuentan que Legba, el travieso mensajero de los dioses, se paseaba con un sombrero mitad blanco y mitad negro. Dos campesinos que trabajaban a ambos lados del camino discutieron sobre el color del sombrero: uno juraba que era blanco y el otro, que era negro. Legba se rió y les mostró que ambos tenían razón. Desde entonces, en Benín se dice que la verdad tiene más de un lado.",
+   "zona": "Benín / pueblo fon"
+  }
  },
  {
   "id": "mundo-139",
@@ -4103,7 +4793,12 @@
   "lat": 6.3703,
   "lng": 2.3912,
   "coord_aprox": true,
-  "facebook": "https://www.facebook.com/KatoulatiFestival"
+  "facebook": "https://www.facebook.com/KatoulatiFestival",
+  "relato": {
+   "titulo": "Legba y el sombrero de dos colores (cuento fon)",
+   "texto": "Los fon de Benín cuentan que Legba, el travieso mensajero de los dioses, se paseaba con un sombrero mitad blanco y mitad negro. Dos campesinos que trabajaban a ambos lados del camino discutieron sobre el color del sombrero: uno juraba que era blanco y el otro, que era negro. Legba se rió y les mostró que ambos tenían razón. Desde entonces, en Benín se dice que la verdad tiene más de un lado.",
+   "zona": "Benín / pueblo fon"
+  }
  },
  {
   "id": "mundo-140",
@@ -4132,7 +4827,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 5.3599,
   "lng": -4.0083,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y las historias del cielo (cuento akan)",
+   "texto": "En Ghana cuentan que, hace mucho tiempo, todas las historias pertenecían al dios del cielo, Nyame. Anansi, la araña, quiso comprarlas y Nyame le pidió a cambio tres cosas imposibles: un enjambre de avispas, una pitón viva y un leopardo. Con astucia, Anansi capturó a los tres y se los llevó al cielo. Nyame cumplió su promesa y le entregó las historias. Por eso, en Ghana, los cuentos se llaman 'cuentos de Anansi'.",
+   "zona": "Costa de Marfil / pueblo akan"
+  }
  },
  {
   "id": "mundo-141",
@@ -4159,7 +4859,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 5.3599,
   "lng": -4.0083,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y las historias del cielo (cuento akan)",
+   "texto": "En Ghana cuentan que, hace mucho tiempo, todas las historias pertenecían al dios del cielo, Nyame. Anansi, la araña, quiso comprarlas y Nyame le pidió a cambio tres cosas imposibles: un enjambre de avispas, una pitón viva y un leopardo. Con astucia, Anansi capturó a los tres y se los llevó al cielo. Nyame cumplió su promesa y le entregó las historias. Por eso, en Ghana, los cuentos se llaman 'cuentos de Anansi'.",
+   "zona": "Costa de Marfil / pueblo akan"
+  }
  },
  {
   "id": "mundo-142",
@@ -4188,7 +4893,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 9.6412,
   "lng": -13.5784,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Soundiata Keita (epopeya mandinga)",
+   "texto": "Los griots del pueblo mandinga cantan la historia de Soundiata Keita, un niño que no podía caminar y del que todos se burlaban. Un día, apoyado en un bastón de hierro, se puso en pie y arrancó un baobab con sus propias manos. De mayor, reunió a los pueblos mandingas y venció al rey hechicero Soumaoro en la batalla de Kirina. Así fundó el Imperio de Malí, y su epopeya aún se canta en Senegal, Malí y Guinea.",
+   "zona": "Guinea / pueblo mandinga"
+  }
  },
  {
   "id": "mundo-143",
@@ -4215,7 +4925,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 8.4844,
   "lng": -13.2343,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y la calabaza de la sabiduría (cuento de África Occidental)",
+   "texto": "En África Occidental cuentan que Anansi, la araña, reunió toda la sabiduría del mundo en una calabaza para quedársela solo. Intentó esconderla en lo alto de un árbol, atándola delante de él, pero no podía trepar. Su hijo le aconsejó atarla a la espalda, y Anansi, furioso al ver que hasta un niño sabía más que él, soltó la calabaza. Se rompió contra el suelo y la sabiduría se esparció por el mundo.",
+   "zona": "Sierra Leona / África Occidental"
+  }
  },
  {
   "id": "mundo-144",
@@ -4243,7 +4958,12 @@
   "completitud": "PARCIAL",
   "lat": 13.6434,
   "lng": 4.0286,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La tortuga y el león (cuento hausa)",
+   "texto": "Los hausa de Níger cuentan que la tortuga retó al león a una carrera hasta el río. El león se rió, seguro de su velocidad, pero la tortuga había colocado a sus hermanas, todas iguales a ella, a lo largo del camino. Cada vez que el león preguntaba quién iba delante, una tortuga respondía desde más adelante. El león corrió hasta agotarse, y la tortuga llegó primera a la meta. Desde entonces, nadie subestima a la tortuga.",
+   "zona": "Níger / pueblo hausa"
+  }
  },
  {
   "id": "mundo-145",
@@ -4271,7 +4991,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 5.6037,
   "lng": -0.187,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y las historias del cielo (cuento akan)",
+   "texto": "En Ghana cuentan que, hace mucho tiempo, todas las historias pertenecían al dios del cielo, Nyame. Anansi, la araña, quiso comprarlas y Nyame le pidió a cambio tres cosas imposibles: un enjambre de avispas, una pitón viva y un leopardo. Con astucia, Anansi capturó a los tres y se los llevó al cielo. Nyame cumplió su promesa y le entregó las historias. Por eso, en Ghana, los cuentos se llaman 'cuentos de Anansi'.",
+   "zona": "Ghana / pueblo akan"
+  }
  },
  {
   "id": "mundo-146",
@@ -4301,7 +5026,12 @@
   "lng": 3.3792,
   "coord_aprox": false,
   "youtube": "https://www.youtube.com/watch?v=Nv7RfcOaNNs",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Cómo la tortuga se rompió el caparazón (cuento yoruba)",
+   "texto": "Los yoruba de Nigeria cuentan que la tortuga, Ijapa, era tan glotona que comía en todas las fiestas del cielo y de la tierra. Un día, los pájaros, cansados de su egoísmo, le quitaron las plumas prestadas mientras volaba y la dejaron caer desde el cielo. La tortuga cayó sobre las piedras y su caparazón liso se rompió en mil pedazos. Cuando se curó, quedó lleno de grietas. Por eso, dicen los yoruba, la tortuga tiene el caparazón agrietado.",
+   "zona": "Nigeria / pueblo yoruba"
+  }
  },
  {
   "id": "mundo-147",
@@ -4329,7 +5059,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.5244,
   "lng": 3.3792,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Cómo la tortuga se rompió el caparazón (cuento yoruba)",
+   "texto": "Los yoruba de Nigeria cuentan que la tortuga, Ijapa, era tan glotona que comía en todas las fiestas del cielo y de la tierra. Un día, los pájaros, cansados de su egoísmo, le quitaron las plumas prestadas mientras volaba y la dejaron caer desde el cielo. La tortuga cayó sobre las piedras y su caparazón liso se rompió en mil pedazos. Cuando se curó, quedó lleno de grietas. Por eso, dicen los yoruba, la tortuga tiene el caparazón agrietado.",
+   "zona": "Nigeria / pueblo yoruba"
+  }
  },
  {
   "id": "mundo-148",
@@ -4359,7 +5094,12 @@
   "lat": 14.9167,
   "lng": -23.6047,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/profile.php?id=61588202052513"
+  "facebook": "https://www.facebook.com/profile.php?id=61588202052513",
+  "relato": {
+   "titulo": "Nho Lobo y las plumas prestadas (cuento de Cabo Verde)",
+   "texto": "En Cabo Verde cuentan que Nho Lobo, el lobo, se enteró de una fiesta en una isla vecina y pidió plumas prestadas a los pájaros para volar hasta allí. Al llegar, descubrió que no era una fiesta sino un baile, y, hambriento y furioso, insultó a cada ave que bailaba. Una a una, las aves le quitaron sus plumas hasta dejarlo solo en la roca, sin poder volver. Por eso en Cabo Verde se dice que la codicia insulta a quien te ayuda.",
+   "zona": "Cabo Verde"
+  }
  },
  {
   "id": "mundo-149",
@@ -4389,7 +5129,12 @@
   "lng": -1.5197,
   "coord_aprox": false,
   "foto": "https://babavillage.net/assets/images/gallery/baba2.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "La princesa Yennenga (leyenda mossi)",
+   "texto": "Los mossi de Burkina Faso cuentan que la princesa Yennenga era una gran guerrera, pero su padre, el rey, no le permitía casarse. Una noche huyó disfrazada de hombre, montada en su caballo. En el bosque encontró al cazador Rialé, se enamoraron y tuvieron un hijo, Ouedraogo, que significa 'semental'. Ouedraogo creció y fundó el reino mossi. Por eso Yennenga es recordada como la madre del pueblo mossi.",
+   "zona": "Burkina Faso / pueblo mossi"
+  }
  },
  {
   "id": "mundo-150",
@@ -4419,7 +5164,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 31.8974,
   "lng": 54.3569,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Rostam y Sohrab (del Shahnameh)",
+   "texto": "En el Shahnameh, el libro de los reyes de Persia, se cuenta que el héroe Rostam tuvo un hijo, Sohrab, al que nunca conoció. Años después, ambos se encontraron en el campo de batalla, sin saber quién era el otro. Lucharon durante días y Rostam, vencedor, hirió de muerte a su rival. Solo entonces Sohrab le mostró el amuleto que su madre le había dado. Rostam lloró a su hijo, y su dolor aún se canta en Irán.",
+   "zona": "Irán / Persia"
+  }
  },
  {
   "id": "mundo-151",
@@ -4449,7 +5199,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 37.2242,
   "lng": 67.273,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Alpamysh, el héroe de la estepa (epopeya uzbeka)",
+   "texto": "El héroe Alpamysh ganó la mano de la bella Barchin venciendo en las pruebas de los pretendientes. Poco después partió a luchar y cayó prisionero de los kalmukos durante siete años. Al volver, disfrazado de pastor, encontró a Barchin a punto de casarse con un usurpador. Tomó su arco, venció al enemigo y devolvió la paz a su tribu.",
+   "zona": "Termez, Uzbekistán"
+  }
  },
  {
   "id": "mundo-152",
@@ -4480,7 +5235,12 @@
   "lat": 35.8242,
   "lng": 127.148,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/sorifestival"
+  "facebook": "https://www.facebook.com/sorifestival",
+  "relato": {
+   "titulo": "Chunhyang, la fiel doncella (leyenda de Jeolla)",
+   "texto": "En Namwon vivía Chunhyang, hija de una cantante, que se enamoró del joven noble Mongryong. Se casaron en secreto, pero él partió a la capital y un gobernador corrupto quiso obligarla a servirle. Chunhyang se negó y fue encarcelada y torturada. Mongryong regresó como inspector real, castigó al gobernador y la liberó: su fidelidad se canta aún hoy en toda Corea.",
+   "zona": "Jeolla, Corea del Sur"
+  }
  },
  {
   "id": "mundo-153",
@@ -4510,7 +5270,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 25.3463,
   "lng": 55.4209,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El pescador y el genio (Las mil y una noches)",
+   "texto": "En Las mil y una noches se cuenta que un pobre pescador sacó del mar una jarra de cobre sellada. Al abrirla, salió un genio enorme que quiso matarlo por haberlo liberado tarde. El pescador, asustado, le preguntó con astucia cómo un ser tan grande había cabido en una jarra tan pequeña. El genio, orgulloso, se metió de nuevo dentro para demostrarlo. El pescador cerró la jarra rápidamente y la devolvió al mar.",
+   "zona": "Emiratos Árabes Unidos / Golfo Pérsico"
+  }
  },
  {
   "id": "mundo-154",
@@ -4541,7 +5306,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 31.9454,
   "lng": 35.9284,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Alí Babá y los cuarenta ladrones (Las mil y una noches)",
+   "texto": "En Las mil y una noches se cuenta que Alí Babá, un pobre leñador, descubrió la cueva de cuarenta ladrones, que se abría con las palabras 'Ábrete, Sésamo'. Entró, cargó oro y volvió a casa en secreto. Su hermano, envidioso, quiso hacer lo mismo, pero olvidó las palabras mágicas y quedó atrapado en la cueva. Alí Babá, en cambio, vivió con prudencia, y su criada Morgiana lo salvó de los ladrones.",
+   "zona": "Jordania / Levante"
+  }
  },
  {
   "id": "mundo-155",
@@ -4569,7 +5339,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 41.0076,
   "lng": 28.7785,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Nasreddín y el caldero que parió (cuento de Nasreddín)",
+   "texto": "En Turquía cuentan que Nasreddín Hodja pidió prestado un caldero a su vecino y, al devolverlo, le entregó también un caldero pequeño. 'Tu caldero ha parido', le dijo. El vecino, encantado, aceptó el regalo. Días después, Nasreddín pidió el caldero de nuevo y ya no lo devolvió. Cuando el vecino protestó, Nasreddín respondió: 'Si pudo parir, también pudo morir'. Y el vecino se quedó sin caldero.",
+   "zona": "Turquía"
+  }
  },
  {
   "id": "mundo-156",
@@ -4600,7 +5375,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 41.003,
   "lng": 44.65,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "David de Sasún (epopeya armenia)",
+   "texto": "David de Sasún, héroe de la epopeya armenia, nació con una fuerza prodigiosa y creció entre pastores sin conocer su origen. Cuando los enemigos árabes exigieron tributo a su pueblo, David tomó la espada de su padre, la maza relámpago, y los derrotó él solo en el campo de batalla. Pero su fuerza era también su condena: cada golpe suyo partía la tierra, y por eso los ancianos dicen que David duerme aún en las montañas, esperando el día en que Armenia vuelva a necesitarlo.",
+   "zona": "Armenia"
+  }
  },
  {
   "id": "mundo-157",
@@ -4629,7 +5409,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 41.7151,
   "lng": 44.8271,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La fundación de Tiflis (leyenda de Georgia)",
+   "texto": "El rey Vajtang Gorgasali cazaba en los bosques donde hoy se levanta Tiflis cuando su halcón atrapó un faisán y ambas aves cayeron en un manantial. El agua estaba tan caliente que las aves murieron abrasadas, y el rey descubrió asombrado las fuentes termales sulfurosas que brotaban de la tierra. Mandó talar el bosque y fundar allí una ciudad, a la que llamó Tiflis, que en georgiano antiguo significa «lugar cálido», por aquellas aguas que aún hoy alimentan sus famosos baños.",
+   "zona": "Tiflis, Georgia"
+  }
  },
  {
   "id": "mundo-158",
@@ -4657,7 +5442,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 39.7767,
   "lng": 30.5206,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Nasreddín y la luna en el pozo (cuento de Nasreddín)",
+   "texto": "En Turquía cuentan que una noche Nasreddín Hodja vio la luna reflejada en el pozo y creyó que se había caído al agua. Bajó un cubo con una cuerda para rescatarla, pero el cubo se enganchó en una piedra. Tiró con todas sus fuerzas hasta que la cuerda se soltó y cayó de espaldas. Al mirar al cielo, vio la luna en su sitio y sonrió: 'Al menos la he salvado', dijo.",
+   "zona": "Turquía"
+  }
  },
  {
   "id": "mundo-159",
@@ -4688,7 +5478,12 @@
   "lng": 72.2427,
   "coord_aprox": true,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/6/66/Manas_Ordo_near_Talas.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "Manas, el gran héroe kirguís (epopeya de Talas)",
+   "texto": "Cuando los kirguises vivían dispersos y oprimidos, nació Manas, un niño de fuerza prodigiosa. Reunió a las cuarenta tribus en un solo pueblo, las condujo a su tierra y las defendió de los invasores. Murió luchando, pero su esposa Kanykei guardó su memoria y su hijo Semetey continuó su obra. Su epopeya, cantada por los manaschi, es el alma del pueblo kirguís.",
+   "zona": "Talas, Kirguistán"
+  }
  },
  {
   "id": "mundo-160",
@@ -4715,7 +5510,12 @@
   "completitud": "PARCIAL",
   "lat": 41.0082,
   "lng": 28.9784,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Nasreddín y el caldero que parió (cuento de Nasreddín)",
+   "texto": "En Turquía cuentan que Nasreddín Hodja pidió prestado un caldero a su vecino y, al devolverlo, le entregó también un caldero pequeño. 'Tu caldero ha parido', le dijo. El vecino, encantado, aceptó el regalo. Días después, Nasreddín pidió el caldero de nuevo y ya no lo devolvió. Cuando el vecino protestó, Nasreddín respondió: 'Si pudo parir, también pudo morir'. Y el vecino se quedó sin caldero.",
+   "zona": "Turquía"
+  }
  },
  {
   "id": "mundo-161",
@@ -4744,7 +5544,12 @@
   "lng": 129.6755,
   "coord_aprox": false,
   "youtube": "https://www.youtube.com/watch?v=Lo_YgFu-OsA",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Nyurgun Bootur (el Olonkho de Yakutia)",
+   "texto": "En la epopeya yakuta del Olonkho, el héroe Nyurgun Bootur nace del Sol para defender el Mundo Medio de los demonios del inframundo, los abaasy. Montado en su caballo alado, cruza nueve cielos y nueve tierras, lucha contra gigantes de hierro y rescata a la bella Tuyaaryma. Sus hazañas se cantaban durante noches enteras junto al fuego, y por eso el Olonkho no es solo un relato: es la memoria viva del pueblo sakha, que guarda en sus versos el origen del mundo y sus valores.",
+   "zona": "Yakutia, Rusia"
+  }
  },
  {
   "id": "mundo-162",
@@ -4772,7 +5577,12 @@
   "completitud": "PARCIAL",
   "lat": 21.4858,
   "lng": 39.1925,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Simbad el Marino (Las mil y una noches)",
+   "texto": "En Las mil y una noches se cuenta que Simbad el Marino, mercader de Bagdad, vivió siete viajes llenos de peligros. En uno de ellos llegó a una isla que resultó ser una ballena dormida; en otro, escapó del ave Roc, tan grande que oscurecía el sol. En cada viaje perdió su fortuna y en cada regreso la recuperó con astucia y valor. Por eso, en los puertos del mar Rojo, Simbad es el símbolo del viajero que nunca se rinde.",
+   "zona": "Arabia Saudí / mar Rojo"
+  }
  },
  {
   "id": "mundo-163",
@@ -4800,7 +5610,12 @@
   "completitud": "PARCIAL",
   "lat": 35.9772,
   "lng": 136.4833,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La grulla agradecida (cuento tradicional de Japón)",
+   "texto": "Un pobre campesino encontró una grulla herida por una flecha y la curó con ternura. Días después, una hermosa mujer llegó a su casa y se casó con él. Cada noche tejía una tela maravillosa encerrada en su cuarto, pidiendo que nadie mirara. Una noche, el campesino espió por la rendija: vio a la grulla arrancándose las plumas para tejer. Avergonzada, la grulla voló para siempre.",
+   "zona": "Japón"
+  }
  },
  {
   "id": "mundo-164",
@@ -4832,7 +5647,12 @@
   "lng": 77.209,
   "coord_aprox": false,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Giriraj_Singh%2C_the_Minister_of_State_for_Home_Affairs%2C_Shri_Kiren_Rijiju_and_other_dignitaries_at_the_inauguration_of_the_three_day_%E2%80%98Kathakar_International_Storytellers_Festival%E2%80%99%2C_in_New_Delhi.jpg/1280px-thumbnail.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "El Ramayana: Rama y Sita (epopeya de la India)",
+   "texto": "El príncipe Rama fue desterrado al bosque con su esposa Sita y su hermano Lakshmana. El demonio Ravana, rey de Lanka, raptó a Sita y la llevó a su isla. Con la ayuda del mono Hanuman y un ejército de monos, Rama construyó un puente sobre el mar, derrotó a Ravana y rescató a Sita. Su regreso se celebra con luces en toda la India.",
+   "zona": "India"
+  }
  },
  {
   "id": "mundo-165",
@@ -4865,7 +5685,12 @@
   "coord_aprox": false,
   "foto": "https://www.udaipurtales.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-01-at-13.30.28_0cbe8e71.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/UdaipurTales"
+  "facebook": "https://www.facebook.com/UdaipurTales",
+  "relato": {
+   "titulo": "Dhola y Maru (leyenda de Rajastán)",
+   "texto": "Los príncipes Dhola y Maru se casaron siendo niños, pero al crecer Dhola olvidó aquel matrimonio y se casó con otra princesa. Maru, que lo amaba, le hizo llegar su recuerdo a través de los cantos de unos músicos. Dhola partió de inmediato a buscarla, y en el camino una serpiente picó a Maru. Un yogui la devolvió a la vida con su música, y los amantes por fin se reunieron.",
+   "zona": "Rajastán, India"
+  }
  },
  {
   "id": "mundo-166",
@@ -4895,7 +5720,12 @@
   "lat": 28.6139,
   "lng": 77.209,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/bookaroolitfest"
+  "facebook": "https://www.facebook.com/bookaroolitfest",
+  "relato": {
+   "titulo": "El mono y el cocodrilo (cuento del Panchatantra)",
+   "texto": "Un mono vivía en un árbol de manzanas junto al río y cada día regalaba frutas a un cocodrilo, que se hizo su amigo. La esposa del cocodrilo, envidiosa, le pidió el corazón del mono para comérselo. El cocodrilo lo llevó al río, pero el mono, astuto, dijo que había dejado su corazón en el árbol. Al volver a la orilla, saltó a su rama y nunca más confió en él.",
+   "zona": "India"
+  }
  },
  {
   "id": "mundo-167",
@@ -4922,7 +5752,12 @@
   "completitud": "PARCIAL",
   "lat": 23.2599,
   "lng": 77.4126,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La tortuga y los gansos (cuento del Panchatantra)",
+   "texto": "Una tortuga vivía en un estanque que se secaba y pidió a dos gansos amigos que la llevaran a otro lago. Los gansos la sujetaron por un palo con el pico y le advirtieron: no hables, o caerás. La tortuga voló feliz entre las nubes, pero al oír a unos niños burlarse, abrió la boca para responder... y cayó. Quien no escucha un buen consejo, paga las consecuencias.",
+   "zona": "India"
+  }
  },
  {
   "id": "mundo-168",
@@ -4952,7 +5787,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 33.6844,
   "lng": 73.0479,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Heer Ranjha (leyenda del Punjab)",
+   "texto": "Heer, la más bella de su aldea, se enamoró de Ranjha, un joven que tocaba la flauta junto al río Chenab. Su familia, opuesta al matrimonio, la casó con otro hombre. Ranjha se hizo jogui y vagó buscándola hasta encontrarla. Cuando por fin iban a reunirse, la familia de Heer envenenó su comida y ambos murieron. Dicen que sus tumbas, juntas, aún se visitan en Punjab.",
+   "zona": "Punjab, Pakistán"
+  }
  },
  {
   "id": "mundo-169",
@@ -4982,7 +5822,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 23.8103,
   "lng": 90.4125,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Kiranmala y el pájaro de oro (cuento bengalí)",
+   "texto": "Tres hermanas prometieron al rey casarse con él; la menor, envidiada por las otras, dio a luz a dos niños y una niña, Arun, Barun y Kiranmala, que fueron abandonados en el bosque. Criados por un brahmán, crecieron sin saber que eran príncipes. Kiranmala, disfrazada de príncipe, subió a la Montaña Mágica, siguió al pájaro de oro y con el agua de la vida devolvió la vida a sus hermanos.",
+   "zona": "Bengala, Bangladés"
+  }
  },
  {
   "id": "mundo-170",
@@ -5011,7 +5856,12 @@
   "completitud": "PARCIAL",
   "lat": 6.9271,
   "lng": 79.8612,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El ciervo dorado (cuento jataka de Sri Lanka)",
+   "texto": "En un bosque vivía un ciervo de pelaje dorado que salvó a un mercader de ahogarse. El hombre prometió guardar el secreto, pero el rey ofreció una recompensa por el animal y el mercader lo delató. Cuando los cazadores rodearon al ciervo, este habló con voz humana y contó la traición. Avergonzado, el rey lo dejó libre y prohibió cazar en aquel bosque para siempre.",
+   "zona": "Sri Lanka"
+  }
  },
  {
   "id": "mundo-171",
@@ -5040,7 +5890,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 16.1866,
   "lng": 103.3012,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La serpiente Naga del Mekong (leyenda de Isan)",
+   "texto": "En las aldeas del noreste, junto al Mekong, la gente cuenta que bajo el río vive Phaya Naga, la gran serpiente que protege las aguas. Cada año, en la luna llena de octubre, salen del río bolas de fuego que suben al cielo: son los huevos de fuego de la Naga. Quien los ve con respeto recibe buena pesca y lluvias; quien se burla, pierde el camino de vuelta.",
+   "zona": "Isan, Tailandia"
+  }
  },
  {
   "id": "mundo-172",
@@ -5069,7 +5924,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -6.2088,
   "lng": 106.8456,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda del lago Toba (leyenda de Sumatra)",
+   "texto": "Un pescador se casó con una hermosa mujer que era en realidad un pez, con la condición de no revelar jamás su secreto. Tuvieron un hijo, Samosir, que era glotón y desobediente. Un día, enfadado, el padre le gritó que era hijo de un pez. La madre, traicionada, lloró y las aguas cubrieron el valle: así nació el gran lago Toba, con la isla Samosir en el centro.",
+   "zona": "Sumatra, Indonesia"
+  }
  },
  {
   "id": "mundo-173",
@@ -5096,7 +5956,12 @@
   "completitud": "PARCIAL",
   "lat": -6.2088,
   "lng": 106.8456,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bawang Merah y Bawang Putih (cuento tradicional de Indonesia)",
+   "texto": "Bawang Putih era una niña buena y trabajadora, pero su madrastra y su hermanastra Bawang Merah la maltrataban y la cargaban de tareas. Un día, lavando en el río, perdió la ropa de su hermanastra y siguió a un pez mágico que la llevó a la casa de una anciana. Allí recibió un regalo: una calabaza llena de joyas. La envidia de su hermanastra no tardó en castigarse sola.",
+   "zona": "Indonesia"
+  }
  },
  {
   "id": "mundo-174",
@@ -5124,7 +5989,12 @@
   "completitud": "PARCIAL",
   "lat": 5.4141,
   "lng": 100.3288,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda de Mahsuri (leyenda de Langkawi)",
+   "texto": "En la isla de Langkawi vivía Mahsuri, una mujer de gran belleza y bondad, casada con un guerrero que partió a la guerra. Un celoso jefe la acusó falsamente de adulterio y fue condenada a muerte. Al clavarse el puñal, su sangre brotó blanca como la leche, prueba de su inocencia. Antes de morir, maldijo la isla con siete generaciones de mala suerte.",
+   "zona": "Langkawi, Malasia"
+  }
  },
  {
   "id": "mundo-175",
@@ -5158,7 +6028,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/StoryFestSG",
   "youtube": "https://www.youtube.com/embed/aedop6EDTKo",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Sang Nila Utama y el león (leyenda de Singapur)",
+   "texto": "El príncipe Sang Nila Utama navegaba buscando un lugar para fundar su reino cuando una tormenta lo arrojó a una isla desconocida. Al pisar la playa, vio un animal majestuoso de pelaje rojizo que creyó un león. Tomándolo por buen augurio, fundó allí su ciudad y la llamó Singapura, la ciudad del león. Así nació Singapur.",
+   "zona": "Singapur"
+  }
  },
  {
   "id": "mundo-176",
@@ -5191,7 +6066,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/storyfestsg/",
   "youtube": "https://www.youtube.com/@StoryFestSingapore",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "El ataque de los peces espada (leyenda de Singapur)",
+   "texto": "Una vez, las costas de Singapur se llenaron de peces espada que saltaban del mar y herían a los pescadores. El joven Hang Nadim propuso clavar troncos de plátano en la playa: los peces quedaron ensartados en los troncos y la gente se salvó. Pero los ministros, envidiosos de su ingenio, convencieron al sultán de ejecutarlo. La isla perdió a su joven más sabio.",
+   "zona": "Singapur"
+  }
  },
  {
   "id": "mundo-177",
@@ -5221,7 +6101,12 @@
   "lat": 14.5794,
   "lng": 120.9822,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/harayafestival"
+  "facebook": "https://www.facebook.com/harayafestival",
+  "relato": {
+   "titulo": "Malakas y Maganda (mito de creación filipino)",
+   "texto": "En el principio, el mundo era solo mar y cielo. Un pájaro picoteó un tallo de bambú que flotaba sobre las olas hasta partirlo en dos: de un lado salió Malakas, el hombre fuerte, y del otro Maganda, la mujer hermosa. Juntos poblaron las islas y tuvieron muchos hijos, de los que descienden todos los filipinos. Por eso el bambú es sagrado en Filipinas.",
+   "zona": "Filipinas"
+  }
  },
  {
   "id": "mundo-178",
@@ -5253,7 +6138,12 @@
   "coord_aprox": true,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hirinugyaw-Suguidanonay_Festival_02.jpg/1280px-Hirinugyaw-Suguidanonay_Festival_02.jpg",
   "foto_fuente": "wikimedia",
-  "facebook": "https://www.facebook.com/people/Hirinugyaw-Suguidanonay-Festival/61566994119156/"
+  "facebook": "https://www.facebook.com/people/Hirinugyaw-Suguidanonay-Festival/61566994119156/",
+  "relato": {
+   "titulo": "Los diez datus de Panay (leyenda de Panay)",
+   "texto": "Hace siglos, diez jefes borneanos huyeron de un rey tirano y cruzaron el mar hasta llegar a Panay. Allí se encontraron con el jefe ati Marikudo, que les vendió las tierras bajas a cambio de un salakot de oro y un collar de perlas. Los datus repartieron la isla entre ellos y fundaron sus pueblos; los ati subieron a las montañas. Así comenzó la historia de Panay.",
+   "zona": "Panay, Filipinas"
+  }
  },
  {
   "id": "mundo-179",
@@ -5281,7 +6171,12 @@
   "lat": 18.1986,
   "lng": 120.5924,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/INorteFestivalofFestivals"
+  "facebook": "https://www.facebook.com/INorteFestivalofFestivals",
+  "relato": {
+   "titulo": "Biag ni Lam-ang (epopeya de Ilocos)",
+   "texto": "Lam-ang nació hablando y eligió su propio nombre. De niño partió a buscar a su padre, desaparecido en la guerra, y en el camino venció a un gigante y a una serpiente. Se bañó en el río y los peces murieron por el olor de su cuerpo; su amada Ines Kannoyan lo vio y se enamoraron. Murió devorado por un pez enorme, pero sus huesos, recogidos por un gallo mágico, volvieron a la vida.",
+   "zona": "Ilocos, Filipinas"
+  }
  },
  {
   "id": "mundo-180",
@@ -5309,7 +6204,12 @@
   "completitud": "PARCIAL",
   "lat": 4.9031,
   "lng": 114.9398,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Awang Alak Betatar funda Brunéi (leyenda de Brunéi)",
+   "texto": "Awang Alak Betatar y sus trece hermanos, hijos de un ser celestial, llegaron en barca a la desembocadura del río Brunéi. Al pisar tierra, Awang exclamó: «¡Baru nah!», «¡aquí mismo!». Allí fundó su reino y se convirtió en el primer sultán, Muhammad Shah. De aquella exclamación, cuentan, nació el nombre de Brunéi.",
+   "zona": "Brunéi"
+  }
  },
  {
   "id": "mundo-181",
@@ -5339,7 +6239,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 31.865,
   "lng": 35.215,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Juha y el burro (cuento de Juha)",
+   "texto": "En Palestina cuentan que Juha iba al mercado montado en su burro mientras su hijo caminaba detrás. La gente lo criticó por no dejar montar al niño. Entonces Juha bajó y subió al hijo, y lo criticaron por no respetar a su padre. Luego montaron los dos, y los criticaron por cargar al pobre animal. Juha sonrió: 'Hagas lo que hagas, siempre habrá quien critique', dijo.",
+   "zona": "Palestina / Levante"
+  }
  },
  {
   "id": "mundo-182",
@@ -5368,7 +6273,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 22.999,
   "lng": 120.227,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda del lago Sol y Luna (leyenda de Taiwán)",
+   "texto": "Hace mucho tiempo, dos dragones malvados robaron el sol y la luna y los escondieron bajo el lago, dejando al mundo en tinieblas. El joven cazador Da Jian y su esposa decidieron enfrentarlos: con fuego y astucia, los dragones murieron y el sol y la luna volvieron al cielo. Desde entonces, el lago lleva su nombre: Sol y Luna.",
+   "zona": "Taiwán"
+  }
  },
  {
   "id": "mundo-183",
@@ -5401,7 +6311,12 @@
   "lng": 44.065,
   "coord_aprox": false,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/ASC_Leiden_-_van_de_Bruinhorst_Collection_-_Somaliland_2019_-_4346_-_Large_billboard_on_a_street_advertising_the_Hargeysa_12th_International_Book_Fair_20-25_July_2019%2C_Somaliland.jpg/1280px-thumbnail.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "Dhegdheer, la de las orejas largas (cuento somalí)",
+   "texto": "En la tradición oral somalí se cuenta que Dhegdheer, 'la de las orejas largas', era una ogresa que oía hasta el sonido más leve y cazaba niños en las aldeas. Una vez, una niña lista la engañó llevándola junto al río, donde el ruido del agua confundía su oído. Los aldeanos aprovecharon para atraparla y el pueblo quedó libre de su miedo. Por eso, en Somalilandia, el cuento advierte contra la codicia y el egoísmo.",
+   "zona": "Somalilandia / pueblo somalí"
+  }
  },
  {
   "id": "mundo-184",
@@ -5429,7 +6344,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 42.663,
   "lng": 21.166,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Rozafa (leyenda albanesa)",
+   "texto": "Tres hermanos albaneses levantaban de día las murallas de un castillo, pero cada noche los muros se venían abajo. Un anciano les dijo que el castillo solo se sostendría si emparedaban viva a la primera esposa que les llevara la comida. Los dos hermanos mayores avisaron a sus mujeres, pero el menor calló. Llegó Rozafa, su esposa, que aceptó el sacrificio con una condición: que dejaran fuera un ojo, un pecho y un pie, para seguir mirando, amamantando y meciendo a su hijo pequeño.",
+   "zona": "Albania y Kosovo"
+  }
  },
  {
   "id": "mundo-185",
@@ -5459,7 +6379,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 35.186,
   "lng": 33.382,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El nacimiento de Afrodita (mito de Chipre)",
+   "texto": "Según el mito, Crono arrojó al mar los restos de Urano y de la espuma nació Afrodita, diosa del amor y la belleza. Las olas la llevaron primero a Citera y después a las costas de Chipre, donde pisó tierra junto a la roca de Petra tou Romiou. Al tocar la arena, bajo sus pies brotaron flores y el mar brilló con una luz distinta. Desde entonces Chipre es la isla de Afrodita, y en Pafos se levantó su santuario célebre, visitado por peregrinos de todo el mundo antiguo.",
+   "zona": "Chipre"
+  }
  },
  {
   "id": "mundo-186",
@@ -5487,7 +6412,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 43.48,
   "lng": 40.54,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Ritsa y sus hermanos (leyenda del lago Ritsa)",
+   "texto": "En el valle donde hoy está el lago Ritsa vivía una joven llamada Ritsa con sus tres hermanos, Agepsta, Atsetuka y Pshegishkha, que cazaban en las montañas. Un día, los bandidos Gega e Iupshara la raptaron al oírla cantar. Sus hermanos acudieron en su ayuda, pero Pshegishkha lanzó su espada, falló y el valle se inundó, convirtiéndose en lago. Ritsa cayó a las aguas y sus hermanos, de pena, se convirtieron en las montañas que aún hoy protegen su descanso.",
+   "zona": "Lago Ritsa, Abjasia"
+  }
  },
  {
   "id": "mundo-187",
@@ -5517,7 +6447,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 64.181,
   "lng": -51.694,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Sedna, la Madre del Mar (leyenda inuit de Groenlandia)",
+   "texto": "Sedna, la Madre del Mar de los inuit, era una joven que se casó con un ave que la llevó a un nido sucio y frío. Su padre fue a rescatarla en su kayak, pero las aves levantaron una tormenta y, temiendo por su vida, la arrojó al mar. Al agarrarse Sedna a la borda, su padre le cortó los dedos, que se convirtieron en focas, morsas y ballenas. Desde el fondo del mar, Sedna gobierna a los animales marinos y solo el chamán puede calmarla peinando su cabello.",
+   "zona": "Groenlandia"
+  }
  },
  {
   "id": "mundo-188",
@@ -5547,7 +6482,12 @@
   "lng": -6.77,
   "coord_aprox": false,
   "foto": "https://static.wixstatic.com/media/91acff_9a83ed9391ce449788514731d177f167~mv2.jpg/v1/fill/w_839,h_311,al_c,lg_1,q_80,enc_avif,quality_auto/91acff_9a83ed9391ce449788514731d177f167~mv2.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "Kópakonan, la mujer foca (leyenda de las Islas Feroe)",
+   "texto": "En Mikladalur, en la isla de Kalsoy, cuentan que las focas salen del mar una noche al año, se quitan la piel y bailan en la playa como personas. Un granjero robó la piel de la más hermosa y la obligó a casarse con él; vivieron juntos y tuvieron hijos, pero ella no dejaba de mirar el mar. Un día el hombre olvidó la llave del arcón donde guardaba la piel, ella la recuperó y volvió al océano, y maldijo a los hombres, condenados a morir ahogados o despeñados.",
+   "zona": "Islas Feroe"
+  }
  },
  {
   "id": "mundo-189",
@@ -5576,7 +6516,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 18.466,
   "lng": -66.106,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Garita del Diablo (leyenda de San Juan)",
+   "texto": "En el castillo de San Felipe del Morro, en San Juan, hay una garita solitaria que mira al mar. Cuenta la leyenda que un soldado español desapareció de su puesto una noche, sin dejar rastro, y que desde entonces su fantasma vigila desde la garita. Los centinelas que lo han visto dicen que el diablo se lo llevó por abandonar su guardia para ver a su amada. Por eso la llaman la Garita del Diablo.",
+   "zona": "San Juan, Puerto Rico"
+  }
  },
  {
   "id": "mundo-190",
@@ -5608,7 +6553,12 @@
   "coord_aprox": false,
   "foto": "https://www.sisf.org.uk/wp-content/uploads/2026/11/DSC02837_Edit-1-1024x683.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/ScotStoryFest"
+  "facebook": "https://www.facebook.com/ScotStoryFest",
+  "relato": {
+   "titulo": "Tam Lin (balada de Escocia)",
+   "texto": "Tam Lin, un joven caballero escocés, quedó atrapado por la reina de las hadas en el bosque de Carterhaugh y debía pagarle un tributo cada siete años. Janet, una doncella valiente, se enamoró de él y supo que para liberarlo debía sostenerlo entre sus brazos en la noche de Halloween, sin soltarlo aunque se transformara en serpiente, en oso, en hierro candente o en león. Janet aguantó cada transformación sin soltarlo, y al amanecer Tam Lin volvió a ser hombre y quedó libre para siempre.",
+   "zona": "Escocia, Reino Unido"
+  }
  },
  {
   "id": "mundo-191",
@@ -5636,7 +6586,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 51.883,
   "lng": -3.995,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La Dama del Lago Llyn y Fan Fach (leyenda de Gales)",
+   "texto": "Un joven pastor de Llandeilo vio salir del lago Llyn y Fan Fach a una mujer, la Dama del Lago, y se enamoró de ella. La dama aceptó casarse con él con una condición: si él la golpeaba tres veces sin motivo, ella volvería al lago con todo su ganado. Vivieron felices y tuvieron hijos, pero un día, en una boda y en un funeral, el esposo la golpeó tres veces. La dama llamó a su ganado, se despidió de sus hijos y desapareció para siempre bajo las aguas.",
+   "zona": "Llandeilo, Gales, Reino Unido"
+  }
  },
  {
   "id": "mundo-192",
@@ -5668,7 +6623,12 @@
   "coord_aprox": true,
   "foto": "https://www.festivalattheedge.org/wp-content/uploads/Bromyard_Trees-and-Path-photo-1030x773.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/fatestorytelling"
+  "facebook": "https://www.facebook.com/fatestorytelling",
+  "relato": {
+   "titulo": "Jack y las habichuelas mágicas (cuento tradicional inglés)",
+   "texto": "Jack, un muchacho de Inglaterra, cambió la vaca de su madre por unas habichuelas mágicas que su madre tiró furiosa por la ventana. Al amanecer, una planta subía hasta las nubes, y Jack trepó por ella hasta llegar al castillo de un ogro que guardaba una gallina de huevos de oro y un arpa que cantaba sola. Jack robó los tesoros, bajó a toda prisa y cortó el tallo con un hacha: el ogro cayó con la planta y Jack y su madre vivieron desde entonces sin pasar hambre.",
+   "zona": "Inglaterra, Reino Unido"
+  }
  },
  {
   "id": "mundo-193",
@@ -5700,7 +6660,12 @@
   "coord_aprox": true,
   "foto": "https://capeclearstorytelling.com/wp-content/uploads/2021/04/A-scenic-view-of-Cape-Clear-in-Co.-Cork-24.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/capeclearstorytellingfestival/"
+  "facebook": "https://www.facebook.com/capeclearstorytellingfestival/",
+  "relato": {
+   "titulo": "Oisín y el Tír na nÓg (leyenda de Irlanda)",
+   "texto": "Oisín, hijo del héroe Finn, cazaba en la costa de Irlanda cuando apareció Niamh, una mujer de cabellos llegada del Tír na nÓg, la Tierra de la Juventud, donde nadie envejece ni muere. Oisín montó en su caballo y cruzó el mar con ella, viviendo trescientos años que para él fueron tres. Un día quiso volver a ver a su tierra, pero al poner un pie en Irlanda se convirtió en un anciano, porque el tiempo, que no lo había tocado en el otro mundo, lo alcanzó de golpe.",
+   "zona": "Irlanda"
+  }
  },
  {
   "id": "mundo-194",
@@ -5729,7 +6694,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 53.201,
   "lng": -6.098,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La banshee (leyenda de Irlanda)",
+   "texto": "En Irlanda cuentan que la banshee, la mujer del otro mundo, anuncia la muerte de una familia con su llanto en la noche. Es una mujer de cabellos y vestido gris que se peina junto a un río o aparece en la ventana de la casa. Su grito no se escucha igual: a veces es un lamento suave y a veces un alarido que hiela la sangre. Quien oye a la banshee sabe que alguien va a morir, y por eso se la teme y se la respeta.",
+   "zona": "Irlanda"
+  }
  },
  {
   "id": "mundo-195",
@@ -5761,7 +6731,12 @@
   "coord_aprox": false,
   "foto": "https://i0.wp.com/www.villagestorytelling.org.uk/wp-content/uploads/2024/11/Website-Banner-1-1.png?resize=1280%2C286&ssl=1",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/TheVillageStorytellingCentre"
+  "facebook": "https://www.facebook.com/TheVillageStorytellingCentre",
+  "relato": {
+   "titulo": "El kelpie (leyenda de Escocia)",
+   "texto": "En los lagos y ríos de Escocia vive el kelpie, un caballo de agua de crines enredadas que se aparece como un caballo negro junto a la orilla. Quien lo monta queda pegado a su lomo y el kelpie se lanza al agua para ahogarlo en lo profundo. Solo se le puede vencer con una brida mágica o atrapándolo con un lazo, porque su fuerza es la de diez caballos. Por eso los viejos escoceses advertían a los niños: nunca montes un caballo que encuentres solo junto al agua.",
+   "zona": "Escocia, Reino Unido"
+  }
  },
  {
   "id": "mundo-196",
@@ -5791,7 +6766,12 @@
   "lng": 4.9041,
   "coord_aprox": false,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Opening_Amsterdam_Storytelling_Festival_2022.jpg/1280px-Opening_Amsterdam_Storytelling_Festival_2022.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "El Holandés Errante (leyenda de los Países Bajos)",
+   "texto": "El Holandés Errante es el barco fantasma de las leyendas de los Países Bajos: su capitán, maldecido por desafiar a Dios en medio de una tormenta, fue condenado a navegar los mares para siempre sin llegar jamás a puerto. Su barco, con las velas rotas y una luz espectral, aparece en las noches de tormenta ante los marineros, que lo toman por un mal presagio. Quien lo ve sabe que la travesía traerá desgracia, porque el capitán sigue buscando un puerto que nunca encontrará.",
+   "zona": "Países Bajos"
+  }
  },
  {
   "id": "mundo-197",
@@ -5824,7 +6804,12 @@
   "foto": "https://erzaehlkunst.com/wp-content/uploads/2024/05/festival_erzaehlkunst_blau-edited-1.png",
   "foto_fuente": "oficial",
   "youtube": "https://www.youtube.com/embed/sMbn3Xdl1gA",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "El flautista de Hamelín (leyenda de Alemania)",
+   "texto": "En Hamelín, un pueblo de Alemania, una plaga de ratas invadió las casas y los graneros, y el alcalde prometió una recompensa a quien las ahuyentara. Llegó un flautista de capa colorida que, con su música, atrajo a todas las ratas hasta el río, donde se ahogaron. Pero el alcalde se negó a pagarle lo prometido. Entonces el flautista tocó otra melodía y los niños del pueblo lo siguieron bailando hasta desaparecer tras él dentro de una montaña, de donde nunca volvieron.",
+   "zona": "Alemania"
+  }
  },
  {
   "id": "mundo-198",
@@ -5852,7 +6837,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 47.3769,
   "lng": 8.5417,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Guillermo Tell (leyenda de Suiza)",
+   "texto": "Guillermo Tell, cazador de los Alpes suizos, se negó a inclinarse ante el sombrero del tirano Gessler, colgado en la plaza como símbolo de su poder. Gessler lo condenó a disparar una flecha sobre una manzana puesta en la cabeza de su propio hijo, y Tell acertó sin herirlo. Cuando el tirano le preguntó por qué llevaba una segunda flecha, Tell respondió que era para él si fallaba. Después, en una emboscada en el lago, Tell mató a Gessler y los cantones suizos recuperaron su libertad.",
+   "zona": "Suiza"
+  }
  },
  {
   "id": "mundo-199",
@@ -5881,7 +6871,12 @@
   "lat": 50.8503,
   "lng": 4.3517,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/otourdescontes"
+  "facebook": "https://www.facebook.com/otourdescontes",
+  "relato": {
+   "titulo": "Manneken Pis salva Bruselas (leyenda de Bruselas)",
+   "texto": "Durante un asedio, los enemigos colocaron una mecha encendida junto a las murallas de Bruselas para volar la ciudad. Un niño pequeño, llamado Juliaanske, que paseaba por allí, vio la mecha y, sin pensarlo, apagó el fuego orinando sobre ella. La ciudad se salvó gracias a él, y desde entonces su estatua, el Manneken Pis, vigila Bruselas.",
+   "zona": "Bruselas, Bélgica"
+  }
  },
  {
   "id": "mundo-200",
@@ -5910,7 +6905,12 @@
   "lat": 59.9139,
   "lng": 10.7522,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/Fortellerfestivalen/"
+  "facebook": "https://www.facebook.com/Fortellerfestivalen/",
+  "relato": {
+   "titulo": "Askeladden y los trolls (cuento tradicional de Noruega)",
+   "texto": "Askeladden, el menor de tres hermanos en los cuentos de Noruega, era tenido por holgazán porque se quedaba junto al fuego mientras sus hermanos salían a buscar fortuna. Pero cuando el rey prometió a su hija a quien trajera agua de la fuente de la vida, fueron los hermanos mayores quienes fracasaron ante los trolls del camino. Askeladden, en cambio, compartió su comida con los animales, engañó a los trolls con astucia y trajo el agua: la bondad y la picardía valían más que la fuerza.",
+   "zona": "Noruega"
+  }
  },
  {
   "id": "mundo-201",
@@ -5943,7 +6943,12 @@
   "foto_fuente": "wikimedia",
   "facebook": "https://www.facebook.com/sagobygden",
   "youtube": "https://www.youtube.com/channel/UCs8XGdu86MkBqdr8RUB3OQg",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "El cuerno y la flauta de Ljungby (leyenda de Småland)",
+   "texto": "En Ljungby cuentan que un caballero se perdió en el bosque y llegó a una cueva donde los trolls celebraban una fiesta. Una doncella troll le ofreció un cuerno de plata para beber y una flauta de marfil, advirtiéndole que no bebiera ni soplara. El caballero, desconfiado, derramó la bebida tras de sí y guardó el cuerno y la flauta, que se conservan en Ljungby. Los trolls lo persiguieron con furia, pero el caballero escapó, y desde entonces nadie en Småland acepta un trago de manos de un troll.",
+   "zona": "Ljungby, Småland, Suecia"
+  }
  },
  {
   "id": "mundo-202",
@@ -5973,7 +6978,12 @@
   "coord_aprox": true,
   "foto": "https://static.wixstatic.com/media/9cf2a3_d87b5edec29f4e408d3c8bee113e15e7~mv2.jpg/v1/fill/w_2500,h_3333,al_c/9cf2a3_d87b5edec29f4e408d3c8bee113e15e7~mv2.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/profile.php?id=100092327174348"
+  "facebook": "https://www.facebook.com/profile.php?id=100092327174348",
+  "relato": {
+   "titulo": "Peer Gynt y los trolls de Dovre (leyenda de Noruega)",
+   "texto": "Peer Gynt, el joven fanfarrón de Gudbrandsdalen, en el valle junto al lago Mjøsa, presumía de cazar renos y de cabalgar con los trolls de las montañas de Dovre. Una noche, borracho de orgullo, entró en la corte del rey de los trolls y prometió casarse con su hija a cambio de riquezas, pero al amanecer huyó cuando vio que los trolls querían sacarle los ojos para hacerlo uno de ellos. Peer escapó, pero su huida le costó años de vagar por el mundo buscando ser él mismo.",
+   "zona": "Gudbrandsdalen, Noruega"
+  }
  },
  {
   "id": "mundo-203",
@@ -6004,7 +7014,12 @@
   "coord_aprox": false,
   "foto": "https://festiwalopowiadania.pl/media/2019/09/Festiwal_2019_plakat.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/festiwalopowiadania/"
+  "facebook": "https://www.facebook.com/festiwalopowiadania/",
+  "relato": {
+   "titulo": "La Sirena de Varsovia (leyenda de Polonia)",
+   "texto": "La Sirena de Varsovia, guardiana del río Vístula, llegó nadando desde el mar Báltico con su hermana, que siguió hasta Copenhague. Los pescadores de Varsovia la oían cantar y, enamorados de su voz, decidieron liberarla cuando un mercader quiso encerrarla para exhibirla. Agradecida, la sirena prometió proteger la ciudad para siempre: por eso empuña una espada y un escudo en el escudo de Varsovia, dispuesta a defender a sus habitantes de todo enemigo que llegue por el río o por tierra.",
+   "zona": "Varsovia, Polonia"
+  }
  },
  {
   "id": "mundo-204",
@@ -6032,7 +7047,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 43.5081,
   "lng": 16.4402,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Diocleciano y sus coles (leyenda de Split)",
+   "texto": "El emperador Diocleciano, nacido en Dalmacia, gobernó Roma más de veinte años y fue el único emperador que se retiró en vida: en el año 305 dejó el trono y se fue a vivir a su palacio junto al mar, en Split. Cuando sus colegas le rogaron que volviera a gobernar el imperio, se dice que respondió que si vieran las coles que cultivaba con sus manos en su huerto, no volverían a pedírselo. Prefirió sus coles y su retiro junto al Adriático a todo el poder de Roma.",
+   "zona": "Split, Croacia"
+  }
  },
  {
   "id": "mundo-205",
@@ -6062,7 +7082,12 @@
   "lng": 22.9444,
   "coord_aprox": false,
   "foto": "https://action-art.gr/wp-content/uploads/2026/10/1.1-oles_parastaseisMAIN-POSTER-WEB.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "La sirena de Salónica (leyenda de Grecia)",
+   "texto": "Tesalónica, hermana de Alejandro Magno, no soportó la muerte de su hermano y se arrojó al mar, donde se convirtió en sirena. Desde entonces, la sirena de Salónica detiene a los barcos y pregunta a los marineros: «¿Vive el rey Alejandro?». Si responden que vive y reina, la sirena calma las olas y deja seguir el barco; pero si le dicen que ha muerto, enfurecida, levanta una tormenta que hunde la nave. Por eso los marineros de Salónica siempre responden lo mismo: Alejandro vive, reina y gobierna el mundo.",
+   "zona": "Salónica, Grecia"
+  }
  },
  {
   "id": "mundo-206",
@@ -6090,7 +7115,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 46.1866,
   "lng": 21.3123,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El maestro Manole (leyenda de Rumanía)",
+   "texto": "El maestro Manole, el mejor constructor de Rumanía, levantaba de día los muros de un monasterio, pero cada noche se derrumbaban sin explicación. Un sueño le reveló que la obra solo se sostendría si emparedaba viva a la primera persona que llegara al alba, y esa fue Ana, su propia esposa, que le traía la comida. Manole la emparedó entre lágrimas y el monasterio se alzó hermoso y firme, pero el maestro, al terminarlo, quedó encerrado en el tejado y se arrojó al vacío, convirtiéndose en leyenda.",
+   "zona": "Rumanía"
+  }
  },
  {
   "id": "mundo-207",
@@ -6117,7 +7147,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 58.363,
   "lng": 25.593,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Kalevipoeg (epopeya de Estonia)",
+   "texto": "Kalevipoeg, el hijo gigante del rey Kalev, es el héroe de la epopeya de Estonia: con sus manos abrió lagos, levantó colinas y lanzó piedras que aún se ven en el campo. Luchó contra el diablo Sarvik en el infierno y defendió a su pueblo de los invasores, pero perdió su espada mágica en un río y, al cruzar las aguas, la espada le cortó las piernas. Los dioses lo llevaron a guardar las puertas del infierno, donde espera el día de volver para traer suerte a Estonia.",
+   "zona": "Estonia"
+  }
  },
  {
   "id": "mundo-208",
@@ -6145,7 +7180,12 @@
   "lat": 47.569,
   "lng": 18.404,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/holnemvoltmese"
+  "facebook": "https://www.facebook.com/holnemvoltmese",
+  "relato": {
+   "titulo": "Hunor y Magor y el ciervo blanco (leyenda de Hungría)",
+   "texto": "Hunor y Magor, hijos del rey Nimrod, salieron de caza y persiguieron a un ciervo blanco de cuernos brillantes que nunca se dejaba atrapar. El ciervo los guió durante días por estepas y pantanos hasta una tierra fértil y hermosa, donde desapareció sin dejar rastro. Allí los hermanos encontraron a las hijas del rey de los alanos y se casaron con ellas: de Hunor descienden los hunos y de Magor, los magiares, el pueblo húngaro. Por eso el ciervo blanco sigue siendo el guía sagrado de Hungría.",
+   "zona": "Hungría"
+  }
  },
  {
   "id": "mundo-209",
@@ -6174,7 +7214,12 @@
   "lng": 17.5,
   "coord_aprox": true,
   "youtube": "https://www.youtube.com/watch?v=kXZE321yZjk",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Diva Grabovčeva (leyenda de Blidinje)",
+   "texto": "Diva Grabovčeva era una pastora de Blidinje, en las montañas de Herzegovina, famosa por su belleza y por su fe. Un bey otomano quiso casarse con ella, pero Diva se negó, y el bey, que no aceptaba un no, la persiguió hasta el pie del monte Vran, donde le quitó la vida. Los pastores levantaron sobre su tumba un stećak, una lápida de piedra, y un altar donde aún se celebra misa en su memoria. Diva se convirtió en símbolo de la libertad y la dignidad de su pueblo.",
+   "zona": "Blidinje, Bosnia y Herzegovina"
+  }
  },
  {
   "id": "mundo-210",
@@ -6204,7 +7249,12 @@
   "lat": -33.8688,
   "lng": 151.2093,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/australianstorytellersnsw"
+  "facebook": "https://www.facebook.com/australianstorytellersnsw",
+  "relato": {
+   "titulo": "Tiddalik, la rana gigante (cuento del Tiempo del Sueño)",
+   "texto": "En el Tiempo del Sueño, la rana Tiddalik tenía tanta sed que se bebió toda el agua del mundo: ríos, lagos y mares quedaron secos, y los animales morían de sed. Los animales intentaron hacerla reír para que soltara el agua, y por fin el anguila retorciéndose la hizo soltar una carcajada. El agua salió a borbotones y volvió a llenar la tierra.",
+   "zona": "Australia"
+  }
  },
  {
   "id": "mundo-211",
@@ -6236,7 +7286,12 @@
   "coord_aprox": true,
   "foto": "https://images.squarespace-cdn.com/content/v1/635352ae8cbd8e3dbcc0b3fb/6509f0a8-46f7-40b3-ae13-11ea2da7cd46/Storyfest+2025-Markus-Zusak-Michaela.jpg",
   "foto_fuente": "oficial",
-  "facebook": "https://www.facebook.com/storyfestinc"
+  "facebook": "https://www.facebook.com/storyfestinc",
+  "relato": {
+   "titulo": "La Serpiente Arcoíris (cuento del Tiempo del Sueño)",
+   "texto": "En el Tiempo del Sueño, la gran Serpiente Arcoíris dormía bajo la tierra. Al despertar, se deslizó por el paisaje abriendo valles y ríos con su cuerpo, y donde se detenía a descansar dejaba pozas de agua sagrada. Los pueblos la respetan como creadora del mundo y guardiana del agua: quien la ofende, provoca sequías e inundaciones.",
+   "zona": "Australia"
+  }
  },
  {
   "id": "mundo-212",
@@ -6263,7 +7318,12 @@
   "completitud": "PARCIAL",
   "lat": -34.4248,
   "lng": 150.8931,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda de las Cinco Islas (leyenda dreamtime de Illawarra)",
+   "texto": "Sobre el monte Keira vivía Oola-boola-woo, el Viento del Oeste, con sus seis hijas. Mimosa, la más desobediente, peleaba con sus primas y no obedecía a su padre. Cansado, el viento arrancó la roca donde estaba sentada y la arrojó al mar: se convirtió en una isla. Una a una, sus hermanas corrieron la misma suerte, y hoy son las Cinco Islas frente a Wollongong.",
+   "zona": "Illawarra, Australia"
+  }
  },
  {
   "id": "mundo-213",
@@ -6294,7 +7354,12 @@
   "lng": 145.3867,
   "coord_aprox": false,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Goroka_Show_-_Lastra.jpg/1280px-Goroka_Show_-_Lastra.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "Sanggenyawai, el hombre que se convirtió en ave del paraíso (mito de las Tierras Altas)",
+   "texto": "En las montañas vivía Sanggenyawai, un hombre solitario que compartía su comida con las aves del paraíso. Una mujer llegó a su casa, se casó con él y tuvieron una hija. Al visitar a la familia de ella, Sanggenyawai se negó a salir del bosque y, ante sus ojos, se transformó en un ave de brillantes plumas. Desde entonces, el ave del paraíso es el orgullo de Papúa Nueva Guinea.",
+   "zona": "Tierras Altas, Papúa Nueva Guinea"
+  }
  },
  {
   "id": "mundo-214",
@@ -6325,7 +7390,12 @@
   "lng": 176.2497,
   "coord_aprox": false,
   "foto": "https://kupu.org.nz/cdn/shop/articles/WEB_BLOG_Thumbnail_2025_KUPU_3070_x_1600_px_8_e0cb69e0-8deb-44e3-9ec0-d51d893d8d90_1210x.png?v=1756751369",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "Hinemoa y Tutanekai (leyenda maorí de Rotorua)",
+   "texto": "Hinemoa, hija de un gran jefe, amaba a Tutanekai, un joven de origen humilde que tocaba la flauta al otro lado del lago Rotorua. Su padre le prohibió verlo, así que una noche Hinemoa se ató unas calabazas a la cintura y nadó hasta la isla Mokoia, guiada por el sonido de la flauta. Allí se casaron, y su amor se canta aún en las leyendas maoríes.",
+   "zona": "Rotorua, Nueva Zelanda"
+  }
  },
  {
   "id": "mundo-215",
@@ -6352,7 +7422,12 @@
   "completitud": "PARCIAL",
   "lat": -39.0556,
   "lng": 174.0753,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda del monte Taranaki (leyenda maorí de Taranaki)",
+   "texto": "Hace mucho tiempo, el monte Taranaki vivía junto a los demás volcanes, enamorado del hermoso monte Pihanga. Celoso, el gran Tongariro luchó contra él y lo venció. Herido y avergonzado, Taranaki huyó hacia el oeste durante la noche, abriendo con su paso el río Whanganui, hasta detenerse junto al mar. Allí sigue hoy, mirando hacia su amada perdida.",
+   "zona": "Taranaki, Nueva Zelanda"
+  }
  },
  {
   "id": "mundo-216",
@@ -6382,7 +7457,12 @@
   "lat": 18.5944,
   "lng": -72.3364,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/kontanbatonel"
+  "facebook": "https://www.facebook.com/kontanbatonel",
+  "relato": {
+   "titulo": "Bouki y Malice (cuento tradicional de Haití)",
+   "texto": "En Haití, Bouki y Malice son dos compadres que protagonizan los cuentos más queridos del país: Bouki es fuerte y tragón, pero un poco tonto; Malice es flaco, listo y tramposo. Cuentan que Malice siempre engaña a Bouki para quedarse con la comida, y que Bouki, aunque cae una y otra vez, nunca aprende. Sus historias, contadas de generación en generación, enseñan con risa que la astucia vale más que la fuerza.",
+   "zona": "Puerto Príncipe, Haití"
+  }
  },
  {
   "id": "mundo-217",
@@ -6411,7 +7491,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 17.9712,
   "lng": -76.7936,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi compra todos los cuentos (cuento de Jamaica)",
+   "texto": "Anansi, la araña, quería que todos los cuentos del mundo llevaran su nombre. Fue ante Nyame, el dios del cielo, que guardaba todas las historias, y le ofreció comprarlas. Nyame le pidió a cambio cazar avispas, una pitón y un leopardo. Con astucia, Anansi atrapó a los tres y los llevó al cielo. Nyame cumplió su palabra: desde entonces, todos los cuentos son cuentos de Anansi.",
+   "zona": "Jamaica"
+  }
  },
  {
   "id": "mundo-218",
@@ -6438,7 +7523,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 10.6549,
   "lng": -61.5019,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Papa Bois, guardián del bosque (leyenda de Trinidad)",
+   "texto": "En los bosques de Trinidad vive Papa Bois, un anciano de larga barba cubierto de hojas, con cuernos de venado y pies al revés. Protege a los animales y castiga a los cazadores codiciosos: si alguien caza más de lo necesario, Papa Bois lo pierde en el bosque con el sonido de su cuerno. Los cazadores respetuosos, en cambio, siempre encuentran el camino a casa.",
+   "zona": "Trinidad y Tobago"
+  }
  },
  {
   "id": "mundo-219",
@@ -6466,7 +7556,12 @@
   "completitud": "PARCIAL",
   "lat": 10.6549,
   "lng": -61.5019,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y el tarro de la sabiduría (cuento de Trinidad)",
+   "texto": "Anansi reunió toda la sabiduría del mundo en un tarro y quiso guardarla solo para él, en lo alto de un árbol. Ató el tarro a su barriga y trató de subir, pero el tarro le estorbaba. Su hijo le aconsejó atarlo a la espalda, y Anansi subió sin problemas. Furioso por haber sido superado por un niño, Anansi arrojó el tarro al suelo: la sabiduría se esparció por el mundo para todos.",
+   "zona": "Trinidad y Tobago"
+  }
  },
  {
   "id": "mundo-220",
@@ -6494,7 +7589,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 12.0561,
   "lng": -61.7486,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi y la tortuga (cuento del Caribe)",
+   "texto": "Anansi invitó a la tortuga a cenar, pero le sirvió la comida en una mesa resbaladiza: cada vez que la tortuga estiraba el cuello, resbalaba y no alcanzaba el plato, mientras Anansi se comía todo. Días después, la tortuga invitó a Anansi a su casa bajo el agua y le sirvió en platos que flotaban lejos de su alcance. Anansi aprendió que las burlas se pagan con la misma moneda.",
+   "zona": "Granada"
+  }
  },
  {
   "id": "mundo-221",
@@ -6525,7 +7625,12 @@
   "lng": -60.9875,
   "coord_aprox": false,
   "foto": "https://stlucia.org/wp-content/uploads/2026/09/creol-day-creole-heritage-month.webp",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "Compère Lapin, el conejo astuto (cuento criollo de Santa Lucía)",
+   "texto": "En los cuentos criollos de Santa Lucía, Compère Lapin es un conejo flaco y astuto que siempre engaña a Compère Tigre, mucho más fuerte que él. Un día, el tigre lo retó a ver quién tenía más familia: el conejo reunió a todos sus parientes en el camino y el tigre, al ver tantos conejos, se asustó y huyó. Así, el débil vence al fuerte con astucia, no con fuerza.",
+   "zona": "Santa Lucía"
+  }
  },
  {
   "id": "mundo-222",
@@ -6556,7 +7661,12 @@
   "lng": -88.2167,
   "coord_aprox": false,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Garifuna_Celebration%2C_19th_November%2C_Dangriga%2C_Belize.jpg/1280px-Garifuna_Celebration%2C_19th_November%2C_Dangriga%2C_Belize.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "El Yurumein (relato garífuna de Dangriga)",
+   "texto": "En Dangriga, cada 19 de noviembre, los garífunas recrean el Yurumein: la llegada de sus antepasados a la costa de Belice. Cuentan que en 1797, los garífunas fueron expulsados de San Vicente, su tierra ancestral, y tras un largo viaje por el mar llegaron en canoas a estas playas, liderados por Alejo Beni. Al desembarcar pidieron permiso para quedarse, y hoy sus tambores, su lengua y sus cantos siguen vivos en Dangriga.",
+   "zona": "Dangriga, Belice"
+  }
  },
  {
   "id": "mundo-223",
@@ -6583,7 +7693,12 @@
   "completitud": "PARCIAL",
   "lat": 7.65,
   "lng": -59.25,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La Vieja Higue (leyenda de Guyana)",
+   "texto": "En Guyana cuentan que la Vieja Higue, u Ol' Higue, es una anciana que de día parece una vecina común, pero de noche se quita la piel, la guarda en una calabaza y vuela por el cielo convertida en una bola de fuego. Busca las casas donde duermen los niños para chuparles la sangre. Para detenerla, las abuelas riegan granos de arroz en la puerta: la Higue debe contarlos uno por uno, y el amanecer la sorprende antes de terminar.",
+   "zona": "Guyana"
+  }
  },
  {
   "id": "mundo-224",
@@ -6611,7 +7726,12 @@
   "completitud": "PARCIAL",
   "lat": 6.8013,
   "lng": -58.1551,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Anansi (cuento tradicional del Caribe)",
+   "texto": "En Guyana, como en todo el Caribe, se cuentan las historias de Anansi, la araña astuta: un personaje pequeño y tramposo que con su ingenio vence a los animales más grandes y fuertes. Cuentan que Anansi compró todas las historias del mundo al dios del cielo, pagando con avispas, una serpiente y un leopardo, y desde entonces las historias son de Anansi. Por eso, en el Caribe, cada cuento empieza diciendo: «Esta es una historia de Anansi».",
+   "zona": "Guyana"
+  }
  },
  {
   "id": "mundo-225",
@@ -6639,7 +7759,12 @@
   "completitud": "PARCIAL",
   "lat": 8.9824,
   "lng": -79.5199,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Tulivieja (leyenda de Panamá)",
+   "texto": "En Panamá cuentan que la Tulivieja es una mujer de pelo largo y enredado, con el rostro tapado por su cabellera, que vaga por los ríos y las quebradas buscando a su hijo perdido. Dicen que fue una madre que ahogó a su hijo en el río y fue condenada a buscarlo para siempre, llorando por las noches. Los campesinos aseguran que su llanto se escucha junto al agua, y que nadie debe seguirla, porque quien la sigue se pierde en el monte.",
+   "zona": "Ciudad de Panamá, Panamá"
+  }
  },
  {
   "id": "mundo-226",
@@ -6669,7 +7794,12 @@
   "lng": -77.3504,
   "coord_aprox": false,
   "foto": "https://tempo.cdn.tambourine.com/windsong/media/junkanoo-header-5f85bb0fe4541.jpg",
-  "foto_fuente": "oficial"
+  "foto_fuente": "oficial",
+  "relato": {
+   "titulo": "John Canoe, el príncipe del Junkanoo (leyenda de las Bahamas)",
+   "texto": "Cuentan que John Canoe era un príncipe africano que, vendido como esclavo, llegó a las Bahamas. Cada Navidad, él y los suyos se cubrían de plumas y colores, tocaban tambores y bailaban por las calles para burlarse de sus amos y recordar su tierra. De aquellas fiestas nació el Junkanoo, el desfile que aún hoy llena de música y color las calles de Nasáu.",
+   "zona": "Bahamas"
+  }
  },
  {
   "id": "mundo-227",
@@ -6701,7 +7831,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/ninemorningsfestival",
   "youtube": "https://www.youtube.com/watch?v=I5tTcMpwxJo",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "Yurumein: el viaje de los garífunas (leyenda de San Vicente)",
+   "texto": "Yurumein, la tierra bendita, era el hogar de los garífunas: hijos de africanos náufragos y de caribes de San Vicente. Bajo el mando del jefe Chatoyer resistieron a los británicos, pero en 1797 fueron deportados en barcos hacia Roatán. Muchos murieron en el viaje, pero los que sobrevivieron guardaron su lengua, sus tambores y su memoria. Hoy sus descendientes siguen cantando Yurumein.",
+   "zona": "San Vicente y las Granadinas"
+  }
  },
  {
   "id": "mundo-228",
@@ -6729,7 +7864,12 @@
   "completitud": "PARCIAL",
   "lat": -9.4316,
   "lng": 159.9776,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Los cuatro tiburones guardianes (leyenda de las Islas Salomón)",
+   "texto": "Una tribu buscaba una isla donde vivir cuando cuatro grandes tiburones blancos aparecieron y los guiaron hasta una tierra nueva. Los tiburones se quedaron a vivir alrededor de la isla, protegiendo a la tribu de los invasores. Los isleños creen que los tiburones son sus ancestros reencarnados: por eso los llaman con cantos, les ofrecen conchas y nunca les hacen daño.",
+   "zona": "Islas Salomón"
+  }
  },
  {
   "id": "mundo-229",
@@ -6758,7 +7898,12 @@
   "completitud": "PARCIAL",
   "lat": -16.13,
   "lng": 168.15,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La danza Rom de Ambrym (tradición de Vanuatu)",
+   "texto": "En la isla de Ambrym, los volcanes Marum y Benbow rugen sobre la caldera, y la gente dice que allí viven los espíritus de los antepasados. En la ceremonia de la danza Rom, los hombres se cubren con máscaras de hojas de plátano y representan a esos espíritus, bailando al ritmo de los grandes tambores. Al terminar, las máscaras se destruyen para que los espíritus no persigan a los bailarines.",
+   "zona": "Ambrym, Vanuatu"
+  }
  },
  {
   "id": "mundo-230",
@@ -6787,7 +7932,12 @@
   "lat": -21.1393,
   "lng": -175.2049,
   "coord_aprox": false,
-  "facebook": "https://facebook.com/missheilalapageant"
+  "facebook": "https://facebook.com/missheilalapageant",
+  "relato": {
+   "titulo": "Maui pesca las islas de Tonga (mito polinesio)",
+   "texto": "El semidiós Maui salió a pescar con sus hermanos y lanzó su anzuelo mágico al fondo del mar. El anzuelo se enganchó en algo enorme: tirando con todas sus fuerzas, Maui sacó del agua las islas de Tonga, una tras otra. Sus hermanos, impacientes, cortaron la cuerda antes de tiempo, y por eso las islas quedaron dispersas por el Pacífico. Así nacieron, dicen, las islas de Tonga.",
+   "zona": "Tonga"
+  }
  },
  {
   "id": "mundo-231",
@@ -6815,7 +7965,12 @@
   "completitud": "PARCIAL",
   "lat": 17.1175,
   "lng": -61.8456,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La leyenda del Puente del Diablo (leyenda de Antigua)",
+   "texto": "En la costa de Antigua hay un arco de piedra natural que la gente llama el Puente del Diablo. Cuentan que las almas de los esclavizados que murieron en el mar caminan por él en las noches de luna, y que los jumbies, espíritus burlones, se sientan sobre las rocas a reírse de los vivos. Los pescadores evitan el lugar al caer el sol y dejan ron y tabaco para calmar a los espíritus.",
+   "zona": "Antigua y Barbuda"
+  }
  },
  {
   "id": "mundo-232",
@@ -6842,7 +7997,12 @@
   "completitud": "PARCIAL",
   "lat": 12.4375,
   "lng": -69.9075,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Arua y Corobori descubren Aruba (leyenda de Aruba)",
+   "texto": "El cacique Arua navegaba con su hijo Corobori en busca de sal cuando una tormenta los desvió hasta una isla desconocida. Subieron al cerro Hooiberg y vieron que no era Curazao ni Bonaire: era una tierra nueva, con salinas brillando al sol. Arua decidió quedarse allí con su gente. De su nombre, cuentan, nació el nombre de Aruba.",
+   "zona": "Aruba"
+  }
  },
  {
   "id": "mundo-233",
@@ -6869,7 +8029,12 @@
   "completitud": "PARCIAL",
   "lat": 32.2949,
   "lng": -64.783,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "El cahow, el pájaro diablo (leyenda de las Bermudas)",
+   "texto": "Cuando los primeros marineros llegaron a las Bermudas, de noche se oían unos gritos espantosos que venían de las cuevas: creyeron que la isla estaba habitada por demonios y la llamaron la Isla de los Diablos. En realidad eran los cahows, unas aves marinas que solo anidan en las Bermudas. Hoy el cahow es el ave nacional, símbolo de una isla que dejó de temerle a la noche.",
+   "zona": "Bermudas"
+  }
  },
  {
   "id": "mundo-234",
@@ -6896,7 +8061,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 32.365,
   "lng": -64.67,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "El naufragio del Sea Venture (leyenda de las Bermudas)",
+   "texto": "En 1609, el Sea Venture navegaba hacia Virginia cuando un huracán lo estrelló contra los arrecifes de las Bermudas. Los náufragos creyeron morir en la isla de los diablos, pero encontraron agua, frutas y cerdos salvajes: sobrevivieron y construyeron dos barcas con las que siguieron su viaje. Su historia inspiró La tempestad de Shakespeare, y su recuerdo vive en la isla de St. David's.",
+   "zona": "Bermudas"
+  }
  },
  {
   "id": "mundo-235",
@@ -6923,7 +8093,12 @@
   "completitud": "PARCIAL",
   "lat": 17.3026,
   "lng": -62.793,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La leyenda de Brimstone Hill (leyenda de San Cristóbal)",
+   "texto": "Sobre una colina de roca volcánica, los esclavizados de San Cristóbal levantaron piedra a piedra la fortaleza de Brimstone Hill, llamada el Gibraltar de las Indias Occidentales. Cuando los franceses atacaron en 1782, los constructores quedaron fuera de los muros que ellos mismos habían levantado. La tradición oral dice que la colina aún recuerda: de noche, algo se mueve entre los cañones.",
+   "zona": "San Cristóbal y Nieves"
+  }
  },
  {
   "id": "mundo-236",
@@ -6957,7 +8132,12 @@
   "foto_fuente": "oficial",
   "facebook": "https://www.facebook.com/NevisCulturamaFestival",
   "youtube": "https://www.youtube.com/NevisCulturama",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "Anansi y la roca cubierta de musgo (cuento de Nevis)",
+   "texto": "Anansi encontró en el bosque una roca cubierta de musgo que hacía dormir a quien dijera «¡qué roca tan rara!». Con el truco, robó la comida de todos los animales, uno por uno. Pero cuando quiso engañar al conejo, este vio la trampa y gritó la frase a propósito: Anansi cayó dormido y los animales recuperaron su comida. Desde entonces, en Nevis dicen que a la astucia se le vence con astucia.",
+   "zona": "San Cristóbal y Nieves"
+  }
  },
  {
   "id": "mundo-237",
@@ -6984,6 +8164,11 @@
   "completitud": "PARCIAL",
   "lat": -19.5,
   "lng": 169.33,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La leyenda del volcán Yasur (leyenda de Tanna)",
+   "texto": "El volcán Yasur, en la isla de Tanna, lleva siglos escupiendo fuego sin descanso. La gente de Tanna dice que en su interior vive el espíritu de John Frum, un ser misterioso que un día volverá con regalos para su pueblo. Por eso el volcán es sagrado: se le hacen ofrendas antes de subir, y nadie grita cerca del cráter, para no despertar su ira.",
+   "zona": "Tanna, Vanuatu"
+  }
  }
 ]

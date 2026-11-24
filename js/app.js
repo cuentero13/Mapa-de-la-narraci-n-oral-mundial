@@ -13,7 +13,7 @@
   const STATUS_CLASS = { "activo": "badge-active", "inactivo": "badge-inactive", "sin verificar": "badge-unverified" };
   const STATUS_COLOR = { "activo": "#98C93C", "inactivo": "#EC1C24", "sin verificar": "#FDBD10" };
 
-  let map, worldLayer, colLayer, adminLayer, mythLayer;
+  let map, worldLayer, adminLayer, mythLayer;
 
   // ---------- carga de datos ----------
   async function loadJSON(path) {
@@ -54,7 +54,7 @@
     }
     initFilters();
     renderDirectory();
-    renderColombia();
+    renderRanking();
     renderMentions();
     renderNarrators();
     renderBooks();
@@ -68,7 +68,6 @@
   function renderStats() {
     const overlap = DATA.mundo.filter(f => f.en_colombia).length;
     $("stat-fest").textContent = DATA.mundo.length + DATA.colombia.length - overlap;
-    $("stat-col").textContent = DATA.colombia.length;
     $("stat-narr").textContent = DATA.narradores.length;
     $("stat-libros").textContent = DATA.libros.length;
     $("stat-prensa").textContent = DATA.prensa.length;
@@ -120,8 +119,20 @@
     if (f.fundacion) parts.push(`<div>${t("founded")} ${f.fundacion}</div>`);
     if (f.ediciones_num) parts.push(`<div>${f.ediciones_num} ${t("editions")}</div>`);
     parts.push(`<div>${esc(f.vigencia)}</div>`);
+    if (f.relato) parts.push(`<div class="relato-popup"><strong>${t("relato_label")}: ${esc(f.relato.titulo)}</strong><br>${esc(f.relato.texto)}</div>`);
     if (f.coord_aprox) parts.push(`<div class="aprox">${t("approx")}</div>`);
     parts.push(`<div><a href="#dir-${f.id}">${t("dir_title")}</a></div>`);
+    return parts.join("");
+  }
+
+  function colombiaPopup(c) {
+    const parts = [];
+    parts.push(`<h4>${esc(c.nombre)}</h4>`);
+    parts.push(`<div>${esc(c.municipio)} · ${esc(c.departamento)} · Colombia</div>`);
+    if (c.anio) parts.push(`<div>${c.anio}${c.anio_aprox ? " *" : ""}</div>`);
+    if (c.web) parts.push(`<div><a href="${esc(c.web.startsWith("http") ? c.web : "https://" + c.web)}" target="_blank" rel="noopener">${t("f_web")}</a></div>`);
+    if (c.relato) parts.push(`<div class="relato-popup"><strong>${t("relato_label")}: ${esc(c.relato.titulo)}</strong><br>${esc(c.relato.texto)}</div>`);
+    if (c.coord_aprox) parts.push(`<div class="aprox">${t("approx")}</div>`);
     return parts.join("");
   }
 
@@ -133,27 +144,30 @@
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
     worldLayer = L.layerGroup().addTo(map);
-    colLayer = L.layerGroup().addTo(map);
     adminLayer = L.layerGroup().addTo(map);
     mythLayer = L.layerGroup(); // apagada por defecto: solo se añade con el interruptor
 
     refreshMarkers();
   }
 
+  // Colombia integrada en el mapa mundial: sus fichas se muestran con el
+  // mismo interruptor que el resto. Las 11 fichas de colombia.json que
+  // duplican fichas de mundo (relatos/dedup-colombia-mundo.json) no se
+  // dibujan dos veces: las representa su ficha de mundo.
+  const COL_DUP = new Set(["col-013", "col-022", "col-027", "col-028", "col-033", "col-034", "col-041", "col-048", "col-050", "col-068", "col-119"]);
   function markersFiltered() {
     const country = $("filter-country").value;
     const status = $("filter-status").value;
     const showWorld = $("toggle-world").checked;
-    const showCol = $("toggle-colombia").checked;
     let world = [], col = [];
     if (showWorld) {
       world = DATA.mundo.filter(f => f.lat != null)
         .filter(f => (country === "all" || f.pais === country))
         .filter(f => (status === "all" || f.vigencia === status));
-      if (country === "Colombia") world = [];
-    }
-    if (showCol && (country === "all" || country === "Colombia")) {
-      col = DATA.colombia.filter(c => c.lat != null);
+      // Las fichas de Colombia no tienen vigencia: solo se muestran sin filtro de vigencia.
+      if (status === "all" && (country === "all" || country === "Colombia")) {
+        col = DATA.colombia.filter(c => c.lat != null && !COL_DUP.has(c.id));
+      }
     }
     return { world, col };
   }
@@ -161,7 +175,6 @@
   function refreshMarkers() {
     if (!map) return;
     worldLayer.clearLayers();
-    colLayer.clearLayers();
     adminLayer.clearLayers();
     mythLayer.clearLayers();
     const { world, col } = markersFiltered();
@@ -175,10 +188,8 @@
       }
     });
     col.forEach(c => {
-      const label = c.anio ? `${c.anio}` : "";
       L.marker([c.lat, c.lng], { icon: dotIcon("#F89C1C", c.coord_aprox) })
-        .bindPopup(`<h4>${esc(c.nombre)}</h4><div>${esc(c.municipio)} · ${esc(c.departamento)} · Colombia</div>${label ? `<div>${label}</div>` : ""}${c.coord_aprox ? `<div class="aprox">${t("approx")}</div>` : ""}`)
-        .addTo(colLayer);
+        .bindPopup(colombiaPopup(c)).addTo(worldLayer);
     });
     const n = world.length + col.length;
     $("map-count").textContent = t("map_showing")(n);
@@ -209,14 +220,13 @@
       const oc = document.createElement("option");
       oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
     });
-    ["filter-country", "filter-status", "toggle-world", "toggle-colombia", "toggle-miticos"].forEach(id => {
+    ["filter-country", "filter-status", "toggle-world", "toggle-miticos"].forEach(id => {
       $(id).addEventListener("change", refreshMarkers);
     });
     ["dir-search", "dir-country", "dir-status"].forEach(id => {
       $(id).addEventListener("input", renderDirectory);
       $(id).addEventListener("change", renderDirectory);
     });
-    $("col-search").addEventListener("input", renderColombia);
   }
 
   // ---------- directorio ----------
@@ -240,17 +250,22 @@
     if (f.facebook) media.push(`<a href="${esc(f.facebook)}" target="_blank" rel="noopener">Facebook</a>`);
     if (f.youtube) media.push(`<a href="${esc(f.youtube)}" target="_blank" rel="noopener">${f.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
     const mediaRow = media.length ? `<p class="fest-media">${media.join(" · ")}</p>` : "";
+    const relato = f.relato ? `<div class="relato"><p class="relato-label">📖 ${t("relato_label")} — ${esc(f.relato.zona || "")}</p><p><strong>${esc(f.relato.titulo)}</strong></p><p>${esc(f.relato.texto)}</p><p class="relato-note">${t("relato_note")}</p></div>` : "";
     return `<article class="fest-card" id="dir-${f.id}">
       <div class="fest-card-head"><h3>${esc(f.nombre)}</h3>${badge}</div>
       ${photo}
       <p class="fest-meta">${esc(f.ciudad_pais_texto || [f.ciudad, f.pais].filter(Boolean).join(", "))}${f.itinerante ? " · " + (LANG === "es" ? "itinerante" : "itinerant") : ""}${f.coord_aprox ? ` <span class="aprox">(${t("approx")})</span>` : ""}</p>
       <dl class="fest-fields">${rows.join("")}</dl>
       ${mediaRow}
+      ${relato}
       ${f.nota ? `<p class="homonym-note">${esc(f.nota)}</p>` : ""}
       ${sources ? `<p class="fest-sources">${t("sources")}: ${sources}</p>` : ""}
     </article>`;
   }
 
+  // Directorio mundial único: fichas de mundo (tarjetas) + fichas de
+  // Colombia (filas breves, mismo listado, sin sección propia). Las 11
+  // fichas de Colombia duplicadas en mundo no se repiten.
   function renderDirectory() {
     const q = norm($("dir-search").value.trim());
     const country = $("dir-country").value;
@@ -264,30 +279,31 @@
       }
       return true;
     });
-    $("dir-count").textContent = t("showing_fest")(list.length, DATA.mundo.length);
-    $("dir-list").innerHTML = list.length
-      ? list.map(festCard).join("")
+    const colList = (country === "all" || country === "Colombia") && status === "all"
+      ? DATA.colombia.filter(c => !COL_DUP.has(c.id)).filter(c => {
+          if (!q) return true;
+          return norm([c.nombre, c.municipio, c.departamento, "Colombia"].join(" ")).includes(q);
+        })
+      : [];
+    const total = DATA.mundo.length + DATA.colombia.length - DATA.mundo.filter(f => f.en_colombia).length;
+    $("dir-count").textContent = t("showing_fest")(list.length + colList.length, total);
+    const cards = list.length ? `<div class="fest-grid">${list.map(festCard).join("")}</div>` : "";
+    const cols = colList.length ? `<div class="col-list">${colList.map(colItem).join("")}</div>` : "";
+    $("dir-list").innerHTML = (cards || cols)
+      ? cards + cols
       : `<p>${t("no_results")}</p>`;
   }
 
-  // ---------- Colombia ----------
-  function renderColombia() {
-    const q = norm($("col-search").value.trim());
-    const list = DATA.colombia.filter(c => {
-      if (!q) return true;
-      return norm([c.nombre, c.municipio, c.departamento].join(" ")).includes(q);
-    });
-    $("col-list").innerHTML = list.length ? list.map(c => {
-      const year = c.anio ? `<span class="col-year">${c.anio}${c.anio_aprox ? "*" : ""}</span> · ` : "";
-      const aprox = c.coord_aprox ? ` <span class="aprox">(${t("approx")})</span>` : "";
-      const m = [];
-      if (c.web) m.push(`<a href="${esc(c.web.startsWith("http") ? c.web : "https://" + c.web)}" target="_blank" rel="noopener">Web</a>`);
-      if (c.facebook) m.push(`<a href="${esc(c.facebook)}" target="_blank" rel="noopener">Facebook</a>`);
-      if (c.youtube) m.push(`<a href="${esc(c.youtube)}" target="_blank" rel="noopener">${c.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
-      const media = m.length ? ` <span class="col-media">${m.join(" · ")}</span>` : "";
-      return `<div class="col-item">${year}<strong>${esc(c.nombre)}</strong> — <span class="col-lugar">${esc(c.municipio)} (${esc(c.departamento)})</span>${aprox}${media}</div>`;
-    }).join("") : `<p>${t("no_results")}</p>`;
-    $("col-count").textContent = t("showing_col")(list.length, DATA.colombia.length);
+  function colItem(c) {
+    const year = c.anio ? `<span class="col-year">${c.anio}${c.anio_aprox ? "*" : ""}</span> · ` : "";
+    const aprox = c.coord_aprox ? ` <span class="aprox">(${t("approx")})</span>` : "";
+    const m = [];
+    if (c.web) m.push(`<a href="${esc(c.web.startsWith("http") ? c.web : "https://" + c.web)}" target="_blank" rel="noopener">Web</a>`);
+    if (c.facebook) m.push(`<a href="${esc(c.facebook)}" target="_blank" rel="noopener">Facebook</a>`);
+    if (c.youtube) m.push(`<a href="${esc(c.youtube)}" target="_blank" rel="noopener">${c.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
+    const media = m.length ? ` <span class="col-media">${m.join(" · ")}</span>` : "";
+    const relato = c.relato ? `<div class="relato"><p class="relato-label">📖 ${t("relato_label")} — ${esc(c.relato.zona || "")}</p><p><strong>${esc(c.relato.titulo)}</strong></p><p>${esc(c.relato.texto)}</p><p class="relato-note">${t("relato_note")}</p></div>` : "";
+    return `<div class="col-item" id="dir-${c.id}">${year}<strong>${esc(c.nombre)}</strong> — <span class="col-lugar">${esc(c.municipio)} (${esc(c.departamento)}) · Colombia</span>${aprox}${media}${relato}</div>`;
   }
 
   // ---------- menciones ----------
@@ -324,9 +340,9 @@
     $("books-list").innerHTML = order.map(autor => {
       const g = byAuthor[autor];
       const vItems = g.v.map(b =>
-        `<li><strong>${esc(b.titulo)}</strong> <span class="year">${b.anio || ""}</span> — <span class="ed">${esc(b.editorial || "")}${b.pais ? ", " + esc(b.pais) : ""}</span></li>`).join("");
+        `<li><strong>${esc(b.titulo)}</strong> <span class="year">${b.anio || ""}</span> — <span class="ed">${esc(b.editorial || "")}${b.pais ? ", " + esc(b.pais) : ""}</span>${b.enlace ? ` <a href="${esc(b.enlace)}" target="_blank" rel="noopener">${t("books_search")} →</a>` : ""}</li>`).join("");
       const pItems = g.p.length ? g.p.map(b =>
-        `<li><strong>${esc(b.titulo)}</strong>${b.anio ? ` <span class="year">${b.anio}</span>` : ""} <span class="tag-unverified">${t("unverified_tag")}</span> <span class="ed">${esc(b.falta || "")}</span></li>`).join("") : "";
+        `<li><strong>${esc(b.titulo)}</strong>${b.anio ? ` <span class="year">${b.anio}</span>` : ""} <span class="tag-unverified">${t("unverified_tag")}</span> <span class="ed">${esc(b.falta || "")}</span>${b.enlace ? ` <a href="${esc(b.enlace)}" target="_blank" rel="noopener">${t("books_search")} →</a>` : ""}</li>`).join("") : "";
       return `<div class="book-author"><h3>${esc(autor)} <span class="muted">(${g.v.length} ${t("verified_books")}${g.p.length ? ` · ${g.p.length} ${t("partial_books")}` : ""})</span></h3>
         <ul class="book-list">${vItems}${pItems}</ul></div>`;
     }).join("");
@@ -348,6 +364,21 @@
     }).join("");
   }
 
+  // ---------- ranking: donde hay mas narracion oral ----------
+  // Conteos verificados 24-nov-2026 a partir del dataset (370 festivales
+  // únicos; por ciudad: municipio registrado, sin duplicar las 11 fichas
+  // de Colombia que también están en mundo). Recalcular si cambian los datos.
+  const RANKING = {
+    paises: [["Colombia", 144], ["España", 14], ["Argentina", 8], ["Brasil", 8], ["México", 6]],
+    ciudades: [["Bogotá, Colombia", 36], ["Medellín, Colombia", 12], ["Cali, Colombia", 9], ["Lomé, Togo", 4], ["Pasto, Colombia", 4]]
+  };
+  function renderRanking() {
+    const elP = $("ranking-countries"), elC = $("ranking-cities");
+    if (!elP || !elC) return;
+    elP.innerHTML = RANKING.paises.map(([l, n]) => `<li><strong>${esc(l)}</strong> — ${n} ${t("ranking_fest")}</li>`).join("");
+    elC.innerHTML = RANKING.ciudades.map(([l, n]) => `<li><strong>${esc(l)}</strong> — ${n} ${t("ranking_fest")}</li>`).join("");
+  }
+
   // ---------- idioma ----------
   function bindLanguage() {
     $("lang-es").addEventListener("click", () => setLang("es"));
@@ -357,7 +388,7 @@
     LANG = l;
     applyI18n();
     renderDirectory();
-    renderColombia();
+    renderRanking();
     renderBooks();
     renderPress();
     refreshMarkers();

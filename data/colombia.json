@@ -9,7 +9,12 @@
   "lat": 5.535,
   "lng": -73.367,
   "coord_aprox": false,
-  "web": "https://www.boyaca.gov.co/secretariaculturapatrimonio/"
+  "web": "https://www.boyaca.gov.co/secretariaculturapatrimonio/",
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Boyacá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-002",
@@ -21,7 +26,12 @@
   "lat": 5.424,
   "lng": -75.702,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/EncuentrodelaPalabra"
+  "facebook": "https://www.facebook.com/EncuentrodelaPalabra",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Caldas / Eje Cafetero"
+  }
  },
  {
   "id": "col-003",
@@ -34,7 +44,12 @@
   "lng": -76.302,
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/bugahistorias",
-  "web": "https://www.cirnaola.com"
+  "web": "https://www.cirnaola.com",
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-004",
@@ -45,7 +60,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-005",
@@ -58,7 +78,12 @@
   "lng": -74.072,
   "coord_aprox": false,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Festival_iberoamericano_de_teatro.jpg",
-  "foto_fuente": "wikimedia"
+  "foto_fuente": "wikimedia",
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-006",
@@ -69,7 +94,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-007",
@@ -80,7 +110,12 @@
   "departamento": "nacional",
   "lat": null,
   "lng": null,
-  "coord_aprox": null
+  "coord_aprox": null,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Colombia (ámbito nacional)"
+  }
  },
  {
   "id": "col-008",
@@ -91,7 +126,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-009",
@@ -102,7 +142,12 @@
   "departamento": "Santander",
   "lat": 7.119,
   "lng": -73.122,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Santander"
+  }
  },
  {
   "id": "col-010",
@@ -113,7 +158,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-011",
@@ -124,7 +174,12 @@
   "departamento": "Antioquia",
   "lat": 6.083,
   "lng": -75.333,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-012",
@@ -135,7 +190,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-013",
@@ -147,7 +207,12 @@
   "lat": 7.119,
   "lng": -73.122,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/FundacionAbrapalabra"
+  "facebook": "https://www.facebook.com/FundacionAbrapalabra",
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Santander"
+  }
  },
  {
   "id": "col-014",
@@ -158,7 +223,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-015",
@@ -170,7 +240,12 @@
   "lat": 4.711,
   "lng": -74.072,
   "coord_aprox": false,
-  "web": "https://www.uniandinos.org.co/evento/xlvi-festival-nacional-de-cuenteros-y-comediantes/"
+  "web": "https://www.uniandinos.org.co/evento/xlvi-festival-nacional-de-cuenteros-y-comediantes/",
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-016",
@@ -181,7 +256,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-017",
@@ -192,7 +272,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-018",
@@ -203,7 +288,12 @@
   "departamento": "Boyacá",
   "lat": 5.535,
   "lng": -73.367,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Boyacá"
+  }
  },
  {
   "id": "col-019",
@@ -214,7 +304,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-020",
@@ -227,7 +322,12 @@
   "lng": -75.581,
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/Vivapalabracuentos",
-  "web": "https://www.vivapalabra.com"
+  "web": "https://www.vivapalabra.com",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-021",
@@ -238,7 +338,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.88,
   "lng": -77.031,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Riviel (leyenda del Pacífico)",
+   "texto": "El Riviel es un espíritu de los ríos del Pacífico que aparece de noche como una lucecita azul sobre una canoíta. Dicen que confunde a los pescadores: los hace remar en círculos hasta perder el rumbo y, a veces, vuelca sus canoas. Solo se le espanta rezando y remando hacia la orilla sin mirarlo. Los viejos pescadores de Buenaventura y Tumaco lo conocen bien: cuando la luz azul baila sobre el agua, es mejor recoger las redes y volver a casa.",
+   "zona": "Pacífico colombiano / Buenaventura"
+  }
  },
  {
   "id": "col-022",
@@ -253,7 +358,12 @@
   "facebook": "https://www.facebook.com/Luneta50/",
   "youtube": "https://www.youtube.com/@Luneta50",
   "youtube_tipo": "canal",
-  "web": "https://www.luneta50.org"
+  "web": "https://www.luneta50.org",
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Atlántico / Costa Caribe"
+  }
  },
  {
   "id": "col-023",
@@ -264,7 +374,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-024",
@@ -275,7 +390,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-025",
@@ -286,7 +406,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-026",
@@ -297,7 +422,12 @@
   "departamento": "Boyacá",
   "lat": 5.617,
   "lng": -73.817,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Boyacá"
+  }
  },
  {
   "id": "col-027",
@@ -309,7 +439,12 @@
   "lat": 3.437,
   "lng": -76.522,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/unicuento-encuentrodecuenteros"
+  "facebook": "https://www.facebook.com/unicuento-encuentrodecuenteros",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-028",
@@ -320,7 +455,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-029",
@@ -331,7 +471,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-030",
@@ -342,7 +487,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-031",
@@ -353,7 +503,12 @@
   "departamento": "Boyacá",
   "lat": 5.826,
   "lng": -73.032,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Boyacá"
+  }
  },
  {
   "id": "col-032",
@@ -364,7 +519,12 @@
   "departamento": "La Guajira",
   "lat": 11.544,
   "lng": -72.907,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "La Guajira / Costa Caribe"
+  }
  },
  {
   "id": "col-033",
@@ -377,7 +537,12 @@
   "lng": -75.581,
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/Vivapalabracuentos",
-  "web": "https://www.vivapalabra.com"
+  "web": "https://www.vivapalabra.com",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-034",
@@ -391,7 +556,12 @@
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/akuentajui",
   "youtube": "https://www.youtube.com/@akuentajui",
-  "youtube_tipo": "canal"
+  "youtube_tipo": "canal",
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "La Guajira / Costa Caribe"
+  }
  },
  {
   "id": "col-035",
@@ -402,7 +572,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-036",
@@ -413,7 +588,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-037",
@@ -424,7 +604,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-038",
@@ -435,7 +620,12 @@
   "departamento": "Atlántico",
   "lat": 10.859,
   "lng": -74.781,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Atlántico / Costa Caribe"
+  }
  },
  {
   "id": "col-039",
@@ -446,7 +636,12 @@
   "departamento": "Córdoba",
   "lat": 8.945,
   "lng": -75.442,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Mohan del río Sinú (leyenda del Sinú)",
+   "texto": "En las orillas del río Sinú vive el Mohan, un viejo de cabellos largos y ojos de brasa que fuma un tabaco enorme y pesca con redes de oro. Dicen que se lleva las atarrayas de los pescadores descuidados y asusta a las lavanderas que se quedan solas al atardecer. Solo se le ahuyenta ofreciéndole tabaco y aguardiente. Los pescadores del Sinú lo respetan y no se meten en sus pozos: el río es su casa, y quien entra sin permiso puede no volver a salir.",
+   "zona": "Córdoba / río Sinú"
+  }
  },
  {
   "id": "col-040",
@@ -457,7 +652,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-041",
@@ -468,7 +668,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-042",
@@ -479,7 +684,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-043",
@@ -490,7 +700,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-044",
@@ -501,7 +716,12 @@
   "departamento": "Risaralda",
   "lat": 4.814,
   "lng": -75.694,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Risaralda / Eje Cafetero"
+  }
  },
  {
   "id": "col-045",
@@ -512,7 +732,12 @@
   "departamento": "Atlántico",
   "lat": 10.968,
   "lng": -74.781,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Atlántico / Costa Caribe"
+  }
  },
  {
   "id": "col-046",
@@ -523,7 +748,12 @@
   "departamento": "Meta",
   "lat": 4.142,
   "lng": -73.626,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Florentino y el Diablo (leyenda llanera)",
+   "texto": "Florentino era el mejor coplero de los Llanos, famoso por improvisar versos como nadie. Una noche, camino a un joropo, un jinete vestido de negro lo retó a un contrapunteo. Florentino aceptó y, al verle las pezuñas bajo el pantalón, comprendió que cantaba contra el Diablo, que apostaba su alma. Cantaron toda la noche, copla tras copla, hasta que salió el sol y el Diablo, derrotado, huyó al galope. Desde entonces, en el Llano dicen que ningún verso vale si no se canta con el corazón.",
+   "zona": "Meta / Llanos Orientales"
+  }
  },
  {
   "id": "col-047",
@@ -534,7 +764,12 @@
   "departamento": "Cundinamarca",
   "lat": 4.717,
   "lng": -74.211,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-048",
@@ -547,7 +782,12 @@
   "lng": -75.28,
   "coord_aprox": false,
   "youtube": "https://www.youtube.com/watch?v=Y92veJJI4Sc",
-  "youtube_tipo": "video"
+  "youtube_tipo": "video",
+  "relato": {
+   "titulo": "El Mohan (leyenda del río Magdalena)",
+   "texto": "El Mohan vive en las orillas del río Magdalena, entre las piedras y los remolinos. Es un hombre viejo, de piel cobriza, cabellos largos y ojos de brasa, que fuma un tabaco enorme y pesca con redes de oro. Dicen que roba las redes de los pescadores y se lleva a las lavanderas que se descuidan al atardecer. Solo se le ahuyenta con tabaco y aguardiente. Los pescadores del Magdalena lo respetan: el río es su casa y nadie pesca en sus pozos sin permiso.",
+   "zona": "Huila / río Magdalena"
+  }
  },
  {
   "id": "col-049",
@@ -558,7 +798,12 @@
   "departamento": "Nariño",
   "lat": 1.213,
   "lng": -77.281,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "Cuentan en Nariño que donde hoy está la laguna de La Cocha existían siete ciudades gobernadas por el cacique Pucara y la princesa Lluvia de Estrellas. En una fiesta al Sol, la princesa se enamoró del danzante Munani y abandonó a su esposo. Rechazados por el pueblo, los amantes pidieron agua a un niño y, al derramarse la totuma, el agua creció sin parar hasta inundar el valle. Las siete ciudades quedaron bajo la laguna, y la totuma se convirtió en la isla de La Corota.",
+   "zona": "Nariño / laguna de La Cocha"
+  }
  },
  {
   "id": "col-050",
@@ -569,7 +814,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-051",
@@ -580,7 +830,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-052",
@@ -591,7 +846,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-053",
@@ -602,7 +862,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-054",
@@ -614,7 +879,12 @@
   "lat": 4.438,
   "lng": -75.232,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/FundacionAbrapalabra"
+  "facebook": "https://www.facebook.com/FundacionAbrapalabra",
+  "relato": {
+   "titulo": "El Mohan (leyenda del río Magdalena)",
+   "texto": "El Mohan vive en las orillas del río Magdalena, entre las piedras y los remolinos. Es un hombre viejo, de piel cobriza, cabellos largos y ojos de brasa, que fuma un tabaco enorme y pesca con redes de oro. Dicen que roba las redes de los pescadores y se lleva a las lavanderas que se descuidan al atardecer. Solo se le ahuyenta con tabaco y aguardiente. Los pescadores del Magdalena lo respetan: el río es su casa y nadie pesca en sus pozos sin permiso.",
+   "zona": "Tolima / río Magdalena"
+  }
  },
  {
   "id": "col-055",
@@ -625,7 +895,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-056",
@@ -640,7 +915,12 @@
   "foto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Comparsa_Inaugural_Fiesta_de_las_Artes_Esc%C3%A9nicas.jpg",
   "foto_fuente": "wikimedia",
   "facebook": "https://www.facebook.com/Vivapalabracuentos",
-  "web": "https://www.vivapalabra.com"
+  "web": "https://www.vivapalabra.com",
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-057",
@@ -651,7 +931,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-058",
@@ -662,7 +947,12 @@
   "departamento": "Caquetá",
   "lat": 1.614,
   "lng": -75.606,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El delfín rosado (leyenda amazónica)",
+   "texto": "En los ríos de la Amazonía vive el delfín rosado, un ser encantado que en las noches de fiesta se convierte en un hombre elegante, vestido de blanco y con sombrero. Dicen que sale del agua a bailar, enamora a las muchachas y las lleva al fondo del río, donde tiene su ciudad. Al amanecer vuelve a ser delfín y desaparece entre las ondas. Por eso los pescadores advierten: no hay que seguir a un forastero de sombrero que aparece junto al río al caer la tarde.",
+   "zona": "Caquetá / Amazonía"
+  }
  },
  {
   "id": "col-059",
@@ -673,7 +963,12 @@
   "departamento": "Cundinamarca",
   "lat": 4.861,
   "lng": -74.058,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-060",
@@ -685,7 +980,12 @@
   "lat": 3.584,
   "lng": -76.296,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/venicontameve"
+  "facebook": "https://www.facebook.com/venicontameve",
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-061",
@@ -698,7 +998,12 @@
   "lng": -73.122,
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/soyuncuenteroconboca",
-  "web": "https://www.uncuenteroconboca.com"
+  "web": "https://www.uncuenteroconboca.com",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Santander"
+  }
  },
  {
   "id": "col-062",
@@ -709,7 +1014,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-063",
@@ -722,7 +1032,12 @@
   "lng": -75.581,
   "coord_aprox": false,
   "facebook": "https://www.facebook.com/Vivapalabracuentos",
-  "web": "https://www.vivapalabra.com"
+  "web": "https://www.vivapalabra.com",
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-064",
@@ -733,7 +1048,12 @@
   "departamento": "Cundinamarca",
   "lat": 4.579,
   "lng": -74.217,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-065",
@@ -744,7 +1064,12 @@
   "departamento": "",
   "lat": 11.24,
   "lng": -74.199,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Francisco el Hombre (leyenda vallenata)",
+   "texto": "Francisco el Hombre era un juglar vallenato que recorría los pueblos del Caribe tocando el acordeón. Una noche, de regreso a casa, notó que alguien le respondía cada copla desde la oscuridad, mejor que él. Un relámpago reveló a su rival: era el Diablo, que quería llevarse su alma. Francisco, sin perder el ritmo, cantó el Credo al revés, un verso que el Diablo no pudo responder. El maligno huyó despavorido y Francisco siguió su camino, convertido en leyenda del vallenato.",
+   "zona": "Magdalena y Cesar / Costa Caribe"
+  }
  },
  {
   "id": "col-066",
@@ -755,7 +1080,12 @@
   "departamento": "Norte de Santander",
   "lat": 7.893,
   "lng": -72.507,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Norte de Santander"
+  }
  },
  {
   "id": "col-067",
@@ -766,7 +1096,12 @@
   "departamento": "Boyacá",
   "lat": 5.535,
   "lng": -73.367,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Boyacá"
+  }
  },
  {
   "id": "col-068",
@@ -778,7 +1113,12 @@
   "lat": 1.213,
   "lng": -77.281,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/galerascuent"
+  "facebook": "https://www.facebook.com/galerascuent",
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "Cuentan en Nariño que donde hoy está la laguna de La Cocha existían siete ciudades gobernadas por el cacique Pucara y la princesa Lluvia de Estrellas. En una fiesta al Sol, la princesa se enamoró del danzante Munani y abandonó a su esposo. Rechazados por el pueblo, los amantes pidieron agua a un niño y, al derramarse la totuma, el agua creció sin parar hasta inundar el valle. Las siete ciudades quedaron bajo la laguna, y la totuma se convirtió en la isla de La Corota.",
+   "zona": "Nariño / laguna de La Cocha"
+  }
  },
  {
   "id": "col-069",
@@ -789,7 +1129,12 @@
   "departamento": "Cundinamarca",
   "lat": 4.807,
   "lng": -74.098,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-070",
@@ -800,7 +1145,12 @@
   "departamento": "Magdalena",
   "lat": 11.24,
   "lng": -74.199,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Magdalena / Costa Caribe"
+  }
  },
  {
   "id": "col-071",
@@ -811,7 +1161,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.261,
   "lng": -76.543,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Tunda (leyenda del Pacífico)",
+   "texto": "La Tunda es un ser del monte del Pacífico, una mujer de un pie de molinillo y otro de niño que se lleva a los desobedientes y a los niños sin bautizar. Se aparece con la forma de la madre de su víctima para engañarla y llevarla monte adentro, donde la alimenta con camarones y la emboba con su mal olor. Para rescatar al entundado, los padrinos deben entrar al monte rezando, tocando tambores y disparando al aire hasta que la Tunda suelte a su prisionero.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-072",
@@ -822,7 +1177,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-073",
@@ -833,7 +1193,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-074",
@@ -845,7 +1210,12 @@
   "lat": 2.444,
   "lng": -76.614,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/ErmitaCuenteros"
+  "facebook": "https://www.facebook.com/ErmitaCuenteros",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Cauca"
+  }
  },
  {
   "id": "col-075",
@@ -856,7 +1226,12 @@
   "departamento": "Santander",
   "lat": 6.984,
   "lng": -73.051,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Santander"
+  }
  },
  {
   "id": "col-076",
@@ -868,7 +1243,12 @@
   "lat": 4.142,
   "lng": -73.626,
   "coord_aprox": false,
-  "web": "https://villavicencio.gov.co/en/evento/festival-llanero-de-villavicencio/"
+  "web": "https://villavicencio.gov.co/en/evento/festival-llanero-de-villavicencio/",
+  "relato": {
+   "titulo": "El Silbón (leyenda llanera)",
+   "texto": "En los Llanos se oye a veces un silbido que recorre la sabana de noche: es el Silbón, un ánima alta y flaca que carga un saco con los huesos de su padre. Dicen que de joven mató a su padre y su abuelo lo maldijo a vagar para siempre. Su silbido anuncia su cercanía: si se oye lejos, está cerca, y si se oye cerca, está lejos. Los llaneros rezan y guardan a sus perros cuando lo escuchan, porque trae la muerte a quien lo encuentra en el camino.",
+   "zona": "Meta / Llanos Orientales"
+  }
  },
  {
   "id": "col-077",
@@ -880,7 +1260,12 @@
   "lat": 2.738,
   "lng": -76.324,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/Encuentrodenarrativasysaberesancestrales"
+  "facebook": "https://www.facebook.com/Encuentrodenarrativasysaberesancestrales",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Cauca"
+  }
  },
  {
   "id": "col-078",
@@ -891,7 +1276,12 @@
   "departamento": "Cauca",
   "lat": null,
   "lng": null,
-  "coord_aprox": null
+  "coord_aprox": null,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Cauca"
+  }
  },
  {
   "id": "col-079",
@@ -902,7 +1292,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-080",
@@ -914,7 +1309,12 @@
   "lat": 6.184,
   "lng": -75.599,
   "coord_aprox": false,
-  "web": "https://institutoitagui.gov.co/"
+  "web": "https://institutoitagui.gov.co/",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-081",
@@ -925,7 +1325,12 @@
   "departamento": "Quindío",
   "lat": 4.534,
   "lng": -75.681,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Quindío / Eje Cafetero"
+  }
  },
  {
   "id": "col-082",
@@ -936,7 +1341,12 @@
   "departamento": "Risaralda",
   "lat": 4.814,
   "lng": -75.694,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Risaralda / Eje Cafetero"
+  }
  },
  {
   "id": "col-083",
@@ -947,7 +1357,12 @@
   "departamento": "Nariño",
   "lat": 1.213,
   "lng": -77.281,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "Cuentan en Nariño que donde hoy está la laguna de La Cocha existían siete ciudades gobernadas por el cacique Pucara y la princesa Lluvia de Estrellas. En una fiesta al Sol, la princesa se enamoró del danzante Munani y abandonó a su esposo. Rechazados por el pueblo, los amantes pidieron agua a un niño y, al derramarse la totuma, el agua creció sin parar hasta inundar el valle. Las siete ciudades quedaron bajo la laguna, y la totuma se convirtió en la isla de La Corota.",
+   "zona": "Nariño / laguna de La Cocha"
+  }
  },
  {
   "id": "col-084",
@@ -958,7 +1373,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-085",
@@ -969,7 +1389,12 @@
   "departamento": "Risaralda",
   "lat": 4.814,
   "lng": -75.694,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Risaralda / Eje Cafetero"
+  }
  },
  {
   "id": "col-086",
@@ -980,7 +1405,12 @@
   "departamento": "Cundinamarca",
   "lat": 4.579,
   "lng": -74.217,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-087",
@@ -991,7 +1421,12 @@
   "departamento": "Atlántico",
   "lat": 10.779,
   "lng": -74.853,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Atlántico / Costa Caribe"
+  }
  },
  {
   "id": "col-088",
@@ -1003,7 +1438,12 @@
   "lat": 3.437,
   "lng": -76.522,
   "coord_aprox": false,
-  "web": "https://www.icesi.edu.co/6920-arranca-el-5-festival-de-oralidad-epico/"
+  "web": "https://www.icesi.edu.co/6920-arranca-el-5-festival-de-oralidad-epico/",
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-089",
@@ -1014,7 +1454,12 @@
   "departamento": "Norte de Santander",
   "lat": 7.893,
   "lng": -72.507,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Norte de Santander"
+  }
  },
  {
   "id": "col-090",
@@ -1025,7 +1470,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.261,
   "lng": -76.543,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Tunda (leyenda del Pacífico)",
+   "texto": "La Tunda es un ser del monte del Pacífico, una mujer de un pie de molinillo y otro de niño que se lleva a los desobedientes y a los niños sin bautizar. Se aparece con la forma de la madre de su víctima para engañarla y llevarla monte adentro, donde la alimenta con camarones y la emboba con su mal olor. Para rescatar al entundado, los padrinos deben entrar al monte rezando, tocando tambores y disparando al aire hasta que la Tunda suelte a su prisionero.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-091",
@@ -1037,7 +1487,12 @@
   "lat": 5.535,
   "lng": -73.367,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/teatrocafeamero.2024"
+  "facebook": "https://www.facebook.com/teatrocafeamero.2024",
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Boyacá"
+  }
  },
  {
   "id": "col-092",
@@ -1048,7 +1503,12 @@
   "departamento": "Valle del Cauca",
   "lat": 4.51,
   "lng": -76.234,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-093",
@@ -1059,7 +1519,12 @@
   "departamento": "Huila",
   "lat": 2.934,
   "lng": -75.28,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "El Mohan (leyenda del río Magdalena)",
+   "texto": "El Mohan vive en las orillas del río Magdalena, entre las piedras y los remolinos. Es un hombre viejo, de piel cobriza, cabellos largos y ojos de brasa, que fuma un tabaco enorme y pesca con redes de oro. Dicen que roba las redes de los pescadores y se lleva a las lavanderas que se descuidan al atardecer. Solo se le ahuyenta con tabaco y aguardiente. Los pescadores del Magdalena lo respetan: el río es su casa y nadie pesca en sus pozos sin permiso.",
+   "zona": "Huila / río Magdalena"
+  }
  },
  {
   "id": "col-094",
@@ -1070,7 +1535,12 @@
   "departamento": "Tolima",
   "lat": 4.438,
   "lng": -75.232,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Mohan (leyenda del río Magdalena)",
+   "texto": "El Mohan vive en las orillas del río Magdalena, entre las piedras y los remolinos. Es un hombre viejo, de piel cobriza, cabellos largos y ojos de brasa, que fuma un tabaco enorme y pesca con redes de oro. Dicen que roba las redes de los pescadores y se lleva a las lavanderas que se descuidan al atardecer. Solo se le ahuyenta con tabaco y aguardiente. Los pescadores del Magdalena lo respetan: el río es su casa y nadie pesca en sus pozos sin permiso.",
+   "zona": "Tolima / río Magdalena"
+  }
  },
  {
   "id": "col-095",
@@ -1081,7 +1551,12 @@
   "departamento": "Caldas",
   "lat": 5.07,
   "lng": -75.513,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Caldas / Eje Cafetero"
+  }
  },
  {
   "id": "col-096",
@@ -1092,7 +1567,12 @@
   "departamento": "Nariño",
   "lat": 2.477,
   "lng": -78.114,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Tunda (leyenda del Pacífico)",
+   "texto": "La Tunda es un ser del monte del Pacífico, una mujer de un pie de molinillo y otro de niño que se lleva a los desobedientes y a los niños sin bautizar. Se aparece con la forma de la madre de su víctima para engañarla y llevarla monte adentro, donde la alimenta con camarones y la emboba con su mal olor. Para rescatar al entundado, los padrinos deben entrar al monte rezando, tocando tambores y disparando al aire hasta que la Tunda suelte a su prisionero.",
+   "zona": "Nariño / Pacífico"
+  }
  },
  {
   "id": "col-097",
@@ -1103,7 +1583,12 @@
   "departamento": "Valle del Cauca",
   "lat": 4.409,
   "lng": -76.153,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-098",
@@ -1114,7 +1599,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-099",
@@ -1125,7 +1615,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-100",
@@ -1136,7 +1631,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-101",
@@ -1148,7 +1648,12 @@
   "lat": 5.07,
   "lng": -75.513,
   "coord_aprox": false,
-  "facebook": "https://www.facebook.com/finomanizales2020"
+  "facebook": "https://www.facebook.com/finomanizales2020",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Caldas / Eje Cafetero"
+  }
  },
  {
   "id": "col-102",
@@ -1159,7 +1664,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-103",
@@ -1170,7 +1680,12 @@
   "departamento": "Nariño",
   "lat": 0.825,
   "lng": -77.64,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "Cuentan en Nariño que donde hoy está la laguna de La Cocha existían siete ciudades gobernadas por el cacique Pucara y la princesa Lluvia de Estrellas. En una fiesta al Sol, la princesa se enamoró del danzante Munani y abandonó a su esposo. Rechazados por el pueblo, los amantes pidieron agua a un niño y, al derramarse la totuma, el agua creció sin parar hasta inundar el valle. Las siete ciudades quedaron bajo la laguna, y la totuma se convirtió en la isla de La Corota.",
+   "zona": "Nariño / laguna de La Cocha"
+  }
  },
  {
   "id": "col-104",
@@ -1181,7 +1696,12 @@
   "departamento": "Córdoba",
   "lat": 8.748,
   "lng": -75.881,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Mohan del río Sinú (leyenda del Sinú)",
+   "texto": "En las orillas del río Sinú vive el Mohan, un viejo de cabellos largos y ojos de brasa que fuma un tabaco enorme y pesca con redes de oro. Dicen que se lleva las atarrayas de los pescadores descuidados y asusta a las lavanderas que se quedan solas al atardecer. Solo se le ahuyenta ofreciéndole tabaco y aguardiente. Los pescadores del Sinú lo respetan y no se meten en sus pozos: el río es su casa, y quien entra sin permiso puede no volver a salir.",
+   "zona": "Córdoba / río Sinú"
+  }
  },
  {
   "id": "col-105",
@@ -1192,7 +1712,12 @@
   "departamento": "Norte de Santander",
   "lat": 7.376,
   "lng": -72.648,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Norte de Santander"
+  }
  },
  {
   "id": "col-106",
@@ -1203,7 +1728,12 @@
   "departamento": "Santander",
   "lat": 6.984,
   "lng": -73.051,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Santander"
+  }
  },
  {
   "id": "col-107",
@@ -1214,7 +1744,12 @@
   "departamento": "Atlántico",
   "lat": 10.794,
   "lng": -74.919,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Atlántico / Costa Caribe"
+  }
  },
  {
   "id": "col-108",
@@ -1225,7 +1760,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-109",
@@ -1236,7 +1776,12 @@
   "departamento": "Cundinamarca",
   "lat": 4.579,
   "lng": -74.217,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-110",
@@ -1247,7 +1792,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-111",
@@ -1258,7 +1808,12 @@
   "departamento": "Huila",
   "lat": 1.869,
   "lng": -76.048,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Mohan (leyenda del río Magdalena)",
+   "texto": "El Mohan vive en las orillas del río Magdalena, entre las piedras y los remolinos. Es un hombre viejo, de piel cobriza, cabellos largos y ojos de brasa, que fuma un tabaco enorme y pesca con redes de oro. Dicen que roba las redes de los pescadores y se lleva a las lavanderas que se descuidan al atardecer. Solo se le ahuyenta con tabaco y aguardiente. Los pescadores del Magdalena lo respetan: el río es su casa y nadie pesca en sus pozos sin permiso.",
+   "zona": "Huila / río Magdalena"
+  }
  },
  {
   "id": "col-112",
@@ -1269,7 +1824,12 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-113",
@@ -1280,7 +1840,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-114",
@@ -1291,7 +1856,12 @@
   "departamento": "Nariño",
   "lat": 0.825,
   "lng": -77.64,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "Cuentan en Nariño que donde hoy está la laguna de La Cocha existían siete ciudades gobernadas por el cacique Pucara y la princesa Lluvia de Estrellas. En una fiesta al Sol, la princesa se enamoró del danzante Munani y abandonó a su esposo. Rechazados por el pueblo, los amantes pidieron agua a un niño y, al derramarse la totuma, el agua creció sin parar hasta inundar el valle. Las siete ciudades quedaron bajo la laguna, y la totuma se convirtió en la isla de La Corota.",
+   "zona": "Nariño / laguna de La Cocha"
+  }
  },
  {
   "id": "col-115",
@@ -1303,7 +1873,12 @@
   "lat": 4.711,
   "lng": -74.072,
   "coord_aprox": false,
-  "web": "https://www.unbosque.edu.co/centro-informacion/noticias/inscribete-primer-festival-oralidad-bosque-palabras-mas-palabras-menos"
+  "web": "https://www.unbosque.edu.co/centro-informacion/noticias/inscribete-primer-festival-oralidad-bosque-palabras-mas-palabras-menos",
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-116",
@@ -1314,7 +1889,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-117",
@@ -1325,7 +1905,12 @@
   "departamento": "Bolívar",
   "lat": 10.232,
   "lng": -75.192,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Bolívar / Costa Caribe"
+  }
  },
  {
   "id": "col-118",
@@ -1336,7 +1921,12 @@
   "departamento": "Sucre",
   "lat": 8.811,
   "lng": -74.728,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Sucre / Costa Caribe"
+  }
  },
  {
   "id": "col-119",
@@ -1347,7 +1937,12 @@
   "departamento": "Bolívar",
   "lat": 10.391,
   "lng": -75.479,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Bolívar / Costa Caribe"
+  }
  },
  {
   "id": "col-120",
@@ -1358,7 +1953,12 @@
   "departamento": "Nariño",
   "lat": 1.213,
   "lng": -77.281,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La laguna de La Cocha (leyenda de Nariño)",
+   "texto": "Cuentan en Nariño que donde hoy está la laguna de La Cocha existían siete ciudades gobernadas por el cacique Pucara y la princesa Lluvia de Estrellas. En una fiesta al Sol, la princesa se enamoró del danzante Munani y abandonó a su esposo. Rechazados por el pueblo, los amantes pidieron agua a un niño y, al derramarse la totuma, el agua creció sin parar hasta inundar el valle. Las siete ciudades quedaron bajo la laguna, y la totuma se convirtió en la isla de La Corota.",
+   "zona": "Nariño / laguna de La Cocha"
+  }
  },
  {
   "id": "col-121",
@@ -1370,7 +1970,12 @@
   "lat": 6.244,
   "lng": -75.581,
   "coord_aprox": false,
-  "web": "https://fiestadellibroylacultura.com"
+  "web": "https://fiestadellibroylacultura.com",
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-122",
@@ -1381,7 +1986,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-123",
@@ -1392,7 +2002,12 @@
   "departamento": "Bolívar",
   "lat": 10.391,
   "lng": -75.479,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Bolívar / Costa Caribe"
+  }
  },
  {
   "id": "col-124",
@@ -1403,7 +2018,12 @@
   "departamento": "Atlántico",
   "lat": 10.859,
   "lng": -74.781,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Atlántico / Costa Caribe"
+  }
  },
  {
   "id": "col-125",
@@ -1414,7 +2034,12 @@
   "departamento": "Caldas",
   "lat": 5.044,
   "lng": -75.516,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Caldas / Eje Cafetero"
+  }
  },
  {
   "id": "col-126",
@@ -1425,7 +2050,12 @@
   "departamento": "Nariño",
   "lat": 1.805,
   "lng": -78.764,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Tunda (leyenda del Pacífico)",
+   "texto": "La Tunda es un ser del monte del Pacífico, una mujer de un pie de molinillo y otro de niño que se lleva a los desobedientes y a los niños sin bautizar. Se aparece con la forma de la madre de su víctima para engañarla y llevarla monte adentro, donde la alimenta con camarones y la emboba con su mal olor. Para rescatar al entundado, los padrinos deben entrar al monte rezando, tocando tambores y disparando al aire hasta que la Tunda suelte a su prisionero.",
+   "zona": "Nariño / Pacífico"
+  }
  },
  {
   "id": "col-127",
@@ -1436,7 +2066,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Bogotá"
+  }
  },
  {
   "id": "col-128",
@@ -1447,7 +2082,12 @@
   "departamento": "Norte de Santander",
   "lat": 7.893,
   "lng": -72.507,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Norte de Santander"
+  }
  },
  {
   "id": "col-129",
@@ -1458,7 +2098,12 @@
   "departamento": "Caquetá",
   "lat": 1.614,
   "lng": -75.606,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El delfín rosado (leyenda amazónica)",
+   "texto": "En los ríos de la Amazonía vive el delfín rosado, un ser encantado que en las noches de fiesta se convierte en un hombre elegante, vestido de blanco y con sombrero. Dicen que sale del agua a bailar, enamora a las muchachas y las lleva al fondo del río, donde tiene su ciudad. Al amanecer vuelve a ser delfín y desaparece entre las ondas. Por eso los pescadores advierten: no hay que seguir a un forastero de sombrero que aparece junto al río al caer la tarde.",
+   "zona": "Caquetá / Amazonía"
+  }
  },
  {
   "id": "col-130",
@@ -1469,7 +2114,12 @@
   "departamento": "Huila",
   "lat": 2.196,
   "lng": -75.983,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Mohan (leyenda del río Magdalena)",
+   "texto": "El Mohan vive en las orillas del río Magdalena, entre las piedras y los remolinos. Es un hombre viejo, de piel cobriza, cabellos largos y ojos de brasa, que fuma un tabaco enorme y pesca con redes de oro. Dicen que roba las redes de los pescadores y se lleva a las lavanderas que se descuidan al atardecer. Solo se le ahuyenta con tabaco y aguardiente. Los pescadores del Magdalena lo respetan: el río es su casa y nadie pesca en sus pozos sin permiso.",
+   "zona": "Huila / río Magdalena"
+  }
  },
  {
   "id": "col-131",
@@ -1480,7 +2130,12 @@
   "departamento": "Cundinamarca",
   "lat": 5.198,
   "lng": -74.393,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Cundinamarca"
+  }
  },
  {
   "id": "col-132",
@@ -1491,7 +2146,12 @@
   "departamento": "Bolívar",
   "lat": 10.391,
   "lng": -75.479,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Bolívar / Costa Caribe"
+  }
  },
  {
   "id": "col-133",
@@ -1502,7 +2162,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "Bochica (leyenda muisca del altiplano)",
+   "texto": "Dicen los antiguos muiscas que, cuando el altiplano era una inmensa laguna, llegó Bochica, un anciano de barba blanca que venía del oriente. Enseñó a sembrar, a tejer y a vivir en paz, pero un día las aguas subieron y amenazaron con tragarse los cultivos. Bochica golpeó una roca con su bastón y abrió el salto del Tequendama, por donde escapó el agua. Así nació la sabana, y desde entonces su nombre se recuerda con gratitud.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-134",
@@ -1514,7 +2179,12 @@
   "lat": 5.07,
   "lng": -75.513,
   "coord_aprox": false,
-  "web": "https://festivalnosquedalapalabra.blogspot.com/"
+  "web": "https://festivalnosquedalapalabra.blogspot.com/",
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Caldas / Eje Cafetero"
+  }
  },
  {
   "id": "col-135",
@@ -1525,7 +2195,12 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Sombrerón (leyenda andina)",
+   "texto": "El Sombrerón es un hombrecito de sombrero grande y negro que aparece en las noches por los pueblos andinos. Dicen que le gustan las muchachas de pelo largo y los niños desobedientes: les trenza el cabello mientras duermen y les deja nudos imposibles de deshacer. Monta un caballo negro y toca una guitarra que solo se oye a medianoche. Los abuelos recomiendan dejarle aguardiente o un plato de comida en la puerta para que se entretenga y siga su camino.",
+   "zona": "Antioquia"
+  }
  },
  {
   "id": "col-136",
@@ -1536,7 +2211,12 @@
   "departamento": "Quindío",
   "lat": 4.534,
   "lng": -75.681,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Quindío / Eje Cafetero"
+  }
  },
  {
   "id": "col-137",
@@ -1547,7 +2227,12 @@
   "departamento": "Quindío",
   "lat": 4.534,
   "lng": -75.681,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Quindío / Eje Cafetero"
+  }
  },
  {
   "id": "col-138",
@@ -1558,7 +2243,12 @@
   "departamento": "Quindío",
   "lat": 4.534,
   "lng": -75.681,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "relato": {
+   "titulo": "La Patasola (leyenda de la cordillera)",
+   "texto": "En los cafetales y montes de la cordillera aparece la Patasola, una mujer hermosa que llama a los caminantes con voz dulce. Quien se acerca descubre su secreto: solo tiene una pierna, que termina en una pezuña. Dicen que fue una mujer castigada por traicionar a su marido y ahora vaga buscando compañía. Los arrieros advierten que hay que alejarse de su canto y no seguirla al monte, porque quien la sigue rara vez vuelve a contar la historia.",
+   "zona": "Quindío / Eje Cafetero"
+  }
  },
  {
   "id": "col-139",
@@ -1569,7 +2259,12 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Dorado (leyenda de la laguna de Guatavita)",
+   "texto": "En la laguna de Guatavita, cuentan los muiscas, vivía un cacique que cada cierto tiempo se cubría el cuerpo de polvo de oro y se sumergía en las aguas sagradas. Mientras el pueblo cantaba desde la orilla, él ofrecía esmeraldas y piezas de oro a los dioses. Los españoles oyeron la historia y buscaron durante siglos un reino dorado que nunca existió como ciudad. Pero la leyenda quedó: en Guatavita, el oro era ofrenda, no tesoro.",
+   "zona": "Bogotá / altiplano cundiboyacense"
+  }
  },
  {
   "id": "col-140",
@@ -1580,7 +2275,12 @@
   "departamento": "Putumayo",
   "lat": 0.511,
   "lng": -76.501,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El delfín rosado (leyenda amazónica)",
+   "texto": "En los ríos de la Amazonía vive el delfín rosado, un ser encantado que en las noches de fiesta se convierte en un hombre elegante, vestido de blanco y con sombrero. Dicen que sale del agua a bailar, enamora a las muchachas y las lleva al fondo del río, donde tiene su ciudad. Al amanecer vuelve a ser delfín y desaparece entre las ondas. Por eso los pescadores advierten: no hay que seguir a un forastero de sombrero que aparece junto al río al caer la tarde.",
+   "zona": "Putumayo / Amazonía"
+  }
  },
  {
   "id": "col-141",
@@ -1591,7 +2291,12 @@
   "departamento": "Magdalena",
   "lat": 11.24,
   "lng": -74.199,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "El Hombre Caimán (leyenda de Plato, Magdalena)",
+   "texto": "En Plato, a orillas del Magdalena, vivía Saúl Montenegro, un pescador aficionado a espiar a las mujeres que se bañaban en el río. Para no ser descubierto, un brujo de la Alta Guajira le dio dos pócimas: una roja, que lo convertía en caimán, y una blanca, que lo volvía hombre. Un día, quien debía devolverle su forma se asustó y derramó la pócima blanca: solo le alcanzó a mojar la cabeza. Desde entonces quedó con cuerpo de caimán y cabeza de hombre.",
+   "zona": "Magdalena / Costa Caribe"
+  }
  },
  {
   "id": "col-142",
@@ -1602,7 +2307,12 @@
   "departamento": "Valle del Cauca",
   "lat": 4.264,
   "lng": -75.935,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Madremonte (leyenda del monte)",
+   "texto": "La Madremonte es la guardiana del monte y de las aguas. Dicen los campesinos que es una mujer grande, vestida de hojas y musgo, con un sombrero de ramas que le cubre el rostro. Castiga a quien tala sin permiso, contamina los ríos o maltrata a los animales: los extravía en el monte, levanta tormentas y enturbia las quebradas. Pero protege a quien cuida la tierra. Por eso, antes de entrar al bosque, los viejos piden permiso en voz baja.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-143",
@@ -1613,7 +2323,12 @@
   "departamento": "Valle del Cauca",
   "lat": 4.084,
   "lng": -76.197,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Llorona (leyenda andina)",
+   "texto": "En las noches de luna, por los caminos solitarios y cerca de las quebradas, se escucha un llanto largo que hiela la sangre: es la Llorona. Dicen que fue una mujer que perdió a sus hijos y quedó condenada a buscarlos para siempre, vestida de blanco y con el cabello cubriendo su rostro. Quien la oye debe rezar y seguir su camino sin mirarla. Los abuelos advierten: su llanto anuncia desgracia, pero también recuerda el dolor de una madre.",
+   "zona": "Valle del Cauca"
+  }
  },
  {
   "id": "col-144",
@@ -1624,6 +2339,11 @@
   "departamento": "Nariño",
   "lat": 1.805,
   "lng": -78.764,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "relato": {
+   "titulo": "La Tunda (leyenda del Pacífico)",
+   "texto": "La Tunda es un ser del monte del Pacífico, una mujer de un pie de molinillo y otro de niño que se lleva a los desobedientes y a los niños sin bautizar. Se aparece con la forma de la madre de su víctima para engañarla y llevarla monte adentro, donde la alimenta con camarones y la emboba con su mal olor. Para rescatar al entundado, los padrinos deben entrar al monte rezando, tocando tambores y disparando al aire hasta que la Tunda suelte a su prisionero.",
+   "zona": "Nariño / Pacífico"
+  }
  }
 ]

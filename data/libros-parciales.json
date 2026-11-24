@@ -4,42 +4,48 @@
   "dato_verificado": "Editado por Editorial Ciudad Gótica y el FINO (fuente: elentrerios.com)",
   "falta": "Año de publicación",
   "autor": "Marcela Sabio",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=De+animales%2C+bichos+e+inventos%3A+Secretos+con+%22cierto%22+cuento+%28literatura+y+m%C3%BAsica+para+ni%C3%B1os%29+Marcela+Sabio"
  },
  {
   "titulo": "Bru-jácara (primera ópera para niños escrita en Argentina; estrenada en agosto de 1993, también en Viena, Austria)",
   "dato_verificado": "Se editó en formato libro de cuentos y CD (fuentes: ellitoral.com, 13-jul-2018; indexmedia.com.ar)",
   "falta": "Año y editorial de la edición libro+CD",
   "autor": "Marcela Sabio",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Bru-j%C3%A1cara+%28primera+%C3%B3pera+para+ni%C3%B1os+escrita+en+Argentina%3B+estrenada+en+agosto+de+1993%2C+tambi%C3%A9n+en+Viena%2C+Austria%29+Marcela+Sabio"
  },
  {
   "titulo": "Los maravilladores (libro de narrativa y dramaturgia para niños)",
   "dato_verificado": "Citado en su CV y en elentrerios.com",
   "falta": "Año y editorial",
   "autor": "Marcela Sabio",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Los+maravilladores+%28libro+de+narrativa+y+dramaturgia+para+ni%C3%B1os%29+Marcela+Sabio"
  },
  {
   "titulo": "Al país del cuéntico, cántico, báilico (cuento músico-teatral para niños)",
   "dato_verificado": "Citado en su CV",
   "falta": "Año y editorial",
   "autor": "Marcela Sabio",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Al+pa%C3%ADs+del+cu%C3%A9ntico%2C+c%C3%A1ntico%2C+b%C3%A1ilico+%28cuento+m%C3%BAsico-teatral+para+ni%C3%B1os%29+Marcela+Sabio"
  },
  {
   "titulo": "Poema de amor a lunares",
   "dato_verificado": "Citado en su CV",
   "falta": "Año y editorial",
   "autor": "Marcela Sabio",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Poema+de+amor+a+lunares+Marcela+Sabio"
  },
  {
   "titulo": "Amores de media naranja o de Enamorados y Locos todos tenemos un… Cuento",
   "dato_verificado": "Citado en su CV",
   "falta": "Año y editorial",
   "autor": "Marcela Sabio",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Amores+de+media+naranja+o+de+Enamorados+y+Locos+todos+tenemos+un%E2%80%A6+Cuento+Marcela+Sabio"
  },
  {
   "titulo": "Cuentos mínimos",
@@ -47,7 +53,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": null,
   "autor": "Pep Bruno (Pep Bruno Galán)",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Cuentos+m%C3%ADnimos+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
  },
  {
   "titulo": "Leandro Liendres y otros relatos de la España vacía",
@@ -55,7 +62,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": null,
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Leandro+Liendres+y+otros+relatos+de+la+Espa%C3%B1a+vac%C3%ADa+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
  },
  {
   "titulo": "Unas vacaciones de miedo",
@@ -63,7 +71,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": null,
   "autor": "Carles Cano",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Unas+vacaciones+de+miedo+Carles+Cano"
  },
  {
   "titulo": "Al otro lado del sombrero",
@@ -71,7 +80,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": null,
   "autor": "Carles Cano",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Al+otro+lado+del+sombrero+Carles+Cano"
  },
  {
   "titulo": "Clari y el viento",
@@ -79,7 +89,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": 2004,
   "autor": "Nicolás Buenaventura Vidal",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Clari+y+el+viento+Nicol%C3%A1s+Buenaventura+Vidal"
  },
  {
   "titulo": "Mateo y la palabrota",
@@ -87,7 +98,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": 2007,
   "autor": "Nicolás Buenaventura Vidal",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Mateo+y+la+palabrota+Nicol%C3%A1s+Buenaventura+Vidal"
  },
  {
   "titulo": "Cuando el hombre es su palabra y otros cuentos",
@@ -95,7 +107,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": 2008,
   "autor": "Nicolás Buenaventura Vidal",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Cuando+el+hombre+es+su+palabra+y+otros+cuentos+Nicol%C3%A1s+Buenaventura+Vidal"
  },
  {
   "titulo": "Amaranta Porqué",
@@ -103,7 +116,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": 2008,
   "autor": "Nicolás Buenaventura Vidal",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Amaranta+Porqu%C3%A9+Nicol%C3%A1s+Buenaventura+Vidal"
  },
  {
   "titulo": "El canto de los cántaros",
@@ -111,7 +125,8 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": 2009,
   "autor": "Nicolás Buenaventura Vidal",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=El+canto+de+los+c%C3%A1ntaros+Nicol%C3%A1s+Buenaventura+Vidal"
  },
  {
   "titulo": "La dicha de la palabra dicha",
@@ -119,6 +134,71 @@
   "falta": "Año y/o editorial sin verificar",
   "anio": null,
   "autor": "Nicolás Buenaventura Vidal",
-  "verificado": false
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=La+dicha+de+la+palabra+dicha+Nicol%C3%A1s+Buenaventura+Vidal"
+ },
+ {
+  "titulo": "Cuentos cortitos para leer en un ratito",
+  "dato_verificado": "Editorial Norma (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Cuentos+cortitos+para+leer+en+un+ratito+Liliana+Cinetto"
+ },
+ {
+  "titulo": "Cuentos locos para leer poco a poco",
+  "dato_verificado": "Editorial Norma (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Cuentos+locos+para+leer+poco+a+poco+Liliana+Cinetto"
+ },
+ {
+  "titulo": "Por esta ventana y otros poemas",
+  "dato_verificado": "Editorial Norma (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Por+esta+ventana+y+otros+poemas+Liliana+Cinetto"
+ },
+ {
+  "titulo": "Cuentos de amor, locura y suerte",
+  "dato_verificado": "Editorial Edelvives (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Cuentos+de+amor%2C+locura+y+suerte+Liliana+Cinetto"
+ },
+ {
+  "titulo": "Problemas en el ropero",
+  "dato_verificado": "Editorial Edelvives (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Problemas+en+el+ropero+Liliana+Cinetto"
+ },
+ {
+  "titulo": "La bruja en la burbuja",
+  "dato_verificado": "Editorial Estrada (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=La+bruja+en+la+burbuja+Liliana+Cinetto"
+ },
+ {
+  "titulo": "El tesoro del último dragón",
+  "dato_verificado": "Editorial Sigmar (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=El+tesoro+del+%C3%BAltimo+drag%C3%B3n+Liliana+Cinetto"
+ },
+ {
+  "titulo": "Animalíos",
+  "dato_verificado": "Editorial Sigmar (citado por su biografía, sin año verificado; investigación nov 2026)",
+  "falta": "Año de publicación",
+  "autor": "Liliana Cinetto",
+  "verificado": false,
+  "enlace": "https://books.google.com/books?q=Animal%C3%ADos+Liliana+Cinetto"
  }
 ]
