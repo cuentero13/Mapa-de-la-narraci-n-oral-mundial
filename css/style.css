@@ -152,6 +152,7 @@ a:hover { text-decoration: underline; }
 .dot-unverified { background: var(--amber); }
 .dot-colombia { background: var(--orange); }
 .dot-admin { background: var(--blue); border: 2px solid var(--yellow); }
+.dot-miticos { background: #7C3AED; color: #fff; display: inline-flex; align-items: center; justify-content: center; font-size: .8rem; line-height: 1; border: 2px dashed #fff; box-shadow: 0 0 0 2px #7C3AED; }
 .map-count { font-weight: 500; color: var(--slate); }
 .leaflet-popup-content { font-family: 'Roboto', sans-serif; font-size: .92rem; line-height: 1.45; }
 .leaflet-popup-content h4 { font-family: 'Grandstander', sans-serif; margin: 0 0 .2rem; font-size: 1rem; color: var(--slate); }
@@ -163,6 +164,9 @@ a:hover { text-decoration: underline; }
 .dir-count { font-weight: 500; color: var(--slate); }
 .callout { border-radius: var(--radius); padding: .9rem 1.1rem; margin: .75rem 0 1rem; }
 .callout-warning { background: #FFF7E0; border: 1px solid var(--amber); }
+.miticos-banner { background: #F3EFFF; border: 1px solid #7C3AED; border-radius: var(--radius); padding: .7rem 1rem; margin: .75rem 0; }
+.miticos-banner p { margin: 0; font-size: .95rem; }
+.garzon-quote { font-family: "Roboto Slab", serif; font-size: 1.15rem; font-style: italic; border-left: 4px solid var(--lime); margin: 1rem 0 1.5rem; padding: .5rem 0 .5rem 1rem; }
 .col-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: .5rem 1.5rem; }
 .col-item { padding: .4rem 0; border-bottom: 1px solid var(--border); font-size: .95rem; }
 .col-item strong { color: var(--slate); }

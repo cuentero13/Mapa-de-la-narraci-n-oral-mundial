@@ -13,7 +13,7 @@
   const STATUS_CLASS = { "activo": "badge-active", "inactivo": "badge-inactive", "sin verificar": "badge-unverified" };
   const STATUS_COLOR = { "activo": "#98C93C", "inactivo": "#EC1C24", "sin verificar": "#FDBD10" };
 
-  let map, worldLayer, colLayer, adminLayer;
+  let map, worldLayer, colLayer, adminLayer, mythLayer;
 
   // ---------- carga de datos ----------
   async function loadJSON(path) {
@@ -24,7 +24,7 @@
 
   async function init() {
     try {
-      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados] =
+      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos] =
         await Promise.all([
           loadJSON("festivales-mundo.json"),
           loadJSON("colombia.json"),
@@ -34,8 +34,9 @@
           loadJSON("prensa.json"),
           loadJSON("menciones.json"),
           loadJSON("destacados.json"),
+          loadJSON("miticos.json"),
         ]);
-      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados });
+      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos });
     } catch (e) {
       console.error(e);
       $("dir-list").innerHTML = "<p>No se pudieron cargar los datos. Revisá que los archivos JSON estén en data/.</p>";
@@ -88,6 +89,26 @@
     });
   }
 
+  function mythIcon() {
+    return L.divIcon({
+      className: "map-dot myth-dot",
+      html: `<span style="display:flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#7C3AED;border:2px dashed #fff;box-shadow:0 0 0 2px #7C3AED;color:#fff;font-size:13px;line-height:1;">✦</span>`,
+      iconSize: [26, 26], iconAnchor: [13, 13], popupAnchor: [0, -13]
+    });
+  }
+
+  function mythPopup(m) {
+    const parts = [];
+    parts.push(`<h4>✦ ${esc(m.nombre)}</h4>`);
+    if (m.nombre_original) parts.push(`<div><em>${esc(m.nombre_original)}</em></div>`);
+    parts.push(`<div>${esc(m.ubicacion_referencia || "")}</div>`);
+    parts.push(`<p>${esc(m.descripcion || "")}</p>`);
+    if (m.vinculo_narracion) parts.push(`<p><strong>${t("myth_link_label")}</strong> ${esc(m.vinculo_narracion)}</p>`);
+    const src = (m.fuentes || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, "").split("/")[0])}</a>`).join(" · ");
+    if (src) parts.push(`<p>${t("sources")}: ${src}</p>`);
+    return parts.join("");
+  }
+
   function festivalPopup(f) {
     const parts = [];
     parts.push(`<h4>${esc(f.nombre)}</h4>`);
@@ -111,6 +132,7 @@
     worldLayer = L.layerGroup().addTo(map);
     colLayer = L.layerGroup().addTo(map);
     adminLayer = L.layerGroup().addTo(map);
+    mythLayer = L.layerGroup(); // apagada por defecto: solo se añade con el interruptor
 
     refreshMarkers();
   }
@@ -138,6 +160,7 @@
     worldLayer.clearLayers();
     colLayer.clearLayers();
     adminLayer.clearLayers();
+    mythLayer.clearLayers();
     const { world, col } = markersFiltered();
     world.forEach(f => {
       if (f.administrador) {
@@ -156,6 +179,19 @@
     });
     const n = world.length + col.length;
     $("map-count").textContent = t("map_showing")(n);
+    // Capa mítica: separada, apagada por defecto, fuera de los conteos y filtros
+    const showMyth = $("toggle-miticos") && $("toggle-miticos").checked;
+    if (showMyth && DATA.miticos) {
+      DATA.miticos.filter(m => m.lat != null).forEach(m => {
+        L.marker([m.lat, m.lng], { icon: mythIcon() })
+          .bindPopup(mythPopup(m)).addTo(mythLayer);
+      });
+      mythLayer.addTo(map);
+      $("miticos-banner").hidden = false;
+    } else {
+      map.removeLayer(mythLayer);
+      if ($("miticos-banner")) $("miticos-banner").hidden = true;
+    }
   }
 
   // ---------- filtros del mapa ----------
@@ -170,7 +206,7 @@
       const oc = document.createElement("option");
       oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
     });
-    ["filter-country", "filter-status", "toggle-world", "toggle-colombia"].forEach(id => {
+    ["filter-country", "filter-status", "toggle-world", "toggle-colombia", "toggle-miticos"].forEach(id => {
       $(id).addEventListener("change", refreshMarkers);
     });
     ["dir-search", "dir-country", "dir-status"].forEach(id => {

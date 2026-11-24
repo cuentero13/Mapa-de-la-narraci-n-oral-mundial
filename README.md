@@ -21,15 +21,24 @@ css/style.css       Línea gráfica de festivalpurocuento.com
 js/i18n.js          Traducciones ES/EN de la interfaz (los datos quedan en español)
 js/app.js           Mapa (Leaflet), filtros, buscador y render de secciones
 data/
-  festivales-mundo.json   103 fichas de festivales del mundo (25 países)
+  festivales-mundo.json   237 fichas de festivales del mundo (122 países y territorios)
   colombia.json           144 festivales de Colombia (investigación Fredy Ayala, 2026)
   narradores.json         168 narradores de la RIC (Costa Rica 24, Argentina 141 + 3 en memoria)
   libros.json             96 libros verificados de 9 autores narradores
   libros-parciales.json   16 títulos con año o editorial sin verificar
   prensa.json             12 artículos de prensa verificados
-  menciones.json          11 festivales mencionados sin datos suficientes para ficha
+  menciones.json          163 menciones (tradición oral fuerte sin festival verificable)
   destacados.json         Festival Puro Cuento (CR), Red Internacional de Cuentacuentos, Marcela Sabio
+  miticos.json            23 lugares míticos (capa aparte, apagada por defecto)
 ```
+
+Secciones: mapa con filtros, directorio con buscador, narradores, sección
+«El hombre que reinventó la oralidad» (Francisco Garzón Céspedes y el
+fenómeno de la narración oral en América Latina), libros, prensa y
+administración. La capa de lugares míticos (Tartaria, Lemuria, los 9 reinos
+nórdicos, Macondo, El Dorado, Shangri-La, Atlántida y otros) es independiente
+de los festivales reales: tiene su propio interruptor, está apagada por
+defecto y nunca entra en los conteos.
 
 ## Datos
 
@@ -45,6 +54,14 @@ verificado se muestra como «sin verificar» o se omite; nunca se inventa.
 - Coordenadas a nivel de ciudad. Cuando solo se conoce la capital del
   departamento, el marcador se marca como aproximado; los festivales
   itinerantes no tienen marcador, solo aparecen en el listado.
+- Barrido global (24-nov-2026): cobertura mundial, incluidos estados no
+  reconocidos por la ONU (Taiwán, Palestina, Kosovo, Sahara Occidental,
+  Somalilandia, Transnistria, Abjasia, Osetia del Sur, Chipre del Norte) y
+  territorios (Groenlandia, Islas Feroe, Puerto Rico). Donde no hay festival
+  verificable, el lugar va como mención, no se inventa.
+- La vigencia de cada ficha usa solo tres valores («activo», «inactivo»,
+  «sin verificar»); el detalle («por confirmar», etc.) queda en
+  `vigencia_texto`.
 
 ## Homónimos
 
