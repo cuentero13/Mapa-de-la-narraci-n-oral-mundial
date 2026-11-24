@@ -1,0 +1,150 @@
+/* Traducciones de la interfaz (los datos de festivales quedan siempre en español). */
+const I18N = {
+  es: {
+    brand: "Mapa Mundial de la Narración Oral",
+    nav_mapa: "Mapa", nav_directorio: "Directorio", nav_narradores: "Narradores",
+    nav_libros: "Libros", nav_prensa: "Prensa", nav_administra: "Administra",
+    hero_title: "Mapa Mundial de la Narración Oral",
+    hero_sub: "Festivales de narración oral escénica y cuentería de todo el mundo: su historia, sus fundadores, sus directores, sus ediciones y su vigencia.",
+    hero_note: "Un registro en construcción, con datos verificados. Lo no verificado se marca como tal.",
+    stat_fest: "festivales en el mapa", stat_col: "festivales en Colombia",
+    stat_narr: "narradores listados", stat_libros: "libros verificados", stat_prensa: "artículos de prensa",
+    cta_mapa: "Explorar el mapa", cta_directorio: "Ver el directorio",
+    feat_title: "El festival que administra este mapa",
+    feat_badge: "Administra el mapa",
+    feat_founded: "fundado en",
+    feat_homonym: "No confundir con el «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) ni con el «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima). Son entidades distintas con el mismo nombre.",
+    f_editions: "Ediciones", f_president: "Presidente", f_next: "Próxima edición",
+    f_2026: "Asistencia 2026", f_web: "Sitio web", f_contact: "Contacto",
+    map_title: "El mapa",
+    map_intro: "Cada marcador es un festival. Tocá un marcador para ver su ficha resumida. Los marcadores con borde punteado usan la coordenada de la capital del departamento: la ubicación exacta del municipio está sin verificar.",
+    filter_country: "País", filter_status: "Vigencia",
+    all_countries: "Todos los países", all_status: "Todas",
+    status_active: "Activo", status_inactive: "Inactivo", status_unverified: "Sin verificar",
+    toggle_world: "Festivales del mundo", toggle_colombia: "Colombia (144)",
+    legend_colombia: "Colombia (investigación de Fredy Ayala, 2026)",
+    legend_admin: "Festival Puro Cuento — Costa Rica (administra)",
+    dir_title: "Directorio de festivales",
+    dir_search_ph: "Buscar por nombre, ciudad o país…",
+    col_title: "Colombia — 144 festivales",
+    col_warn: "Investigación de Fredy Ayala (2026), beca de investigación en artes, Ministerio de las Culturas de Colombia. La fuente registra la vigencia de cada festival solo como un punto de color, sin etiqueta en el texto: por eso la vigencia individual NO está disponible en esta página. Conteos de la fuente: 52 vigentes, 67 no vigentes y 25 por confirmar.",
+    col_register: "Registrar o completar un festival (formulario de la investigación)",
+    col_search_ph: "Buscar festival o municipio en Colombia…",
+    mentions_title: "Menciones con datos insuficientes",
+    mentions_intro: "Festivales mencionados en las fuentes, sin datos suficientes para una ficha completa.",
+    narr_title: "Narradores",
+    narr_intro: "Listados de la Red Internacional de Cuentacuentos (RIC), cuentacuentos.eu — portal fundado en el verano de 2009 por Beatriz Montero y Enrique Páez, administrado desde Tenerife. La RIC declara más de 1.000 narradores en 50 países en una sección de su web y más de 1.300 en 57 países en su FAQ; las cifras se citan tal como aparecen en la fuente.",
+    sabio_badge: "Narradora destacada",
+    sabio_bio: "Compositora, actriz, regista y narradora oral escénica. Egresada de la Universidad Nacional del Litoral. Desde 1998 dirige el Grupo Taller Permanente de Narración Oral Escénica PURO CUENTO (Universidad Nacional del Litoral).",
+    sabio_awards: "Premios",
+    sabio_awards_v: "Premio MÁSCARA a la trayectoria teatral (2006); Premio CHAMÁN 2006 de Narración Oral Escénica.",
+    sabio_book: "Libro",
+    sabio_ric: "Ficha en la RIC",
+    sabio_homonym: "Su grupo PURO CUENTO (UNL, Santa Fe, desde 1998) NO es el Festival Internacional Puro Cuento de Costa Rica: son entidades distintas con el mismo nombre.",
+    narr_memoria: "En memoria (fueron miembros de la RIC hasta su fallecimiento): Haydée Guzmán (La Plata), Alicia Mesa Garbín (Buenos Aires), María Rita Joga (Buenos Aires).",
+    books_title: "Libros de narradores",
+    books_intro: "Libros verificados (título, año y editorial) de nueve autores narradores, empezando por Marcela Sabio. Los títulos con año o editorial sin verificar se marcan como tales.",
+    press_title: "Prensa",
+    press_intro: "Artículos de prensa verificados sobre la narración oral y sus festivales.",
+    admin_title: "Administra",
+    admin_text: "Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y su próxima edición es el 10 de marzo de 2028. Esta fundación administra el Mapa Mundial de la Narración Oral.",
+    foot_sources: "Fuentes",
+    foot_sources_v: "Red Internacional de Cuentacuentos (cuentacuentos.eu); investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026, Ministerio de las Culturas de Colombia); fichas de festivales, libros y prensa verificadas en noviembre de 2026; registros de la Fundación Festival Puro Cuento.",
+    foot_construction: "Registro en construcción: los datos no verificados se marcan como tales. Si un dato está mal o falta, escribí a info@festivalpurocuento.com.",
+    // dinámicos
+    founded: "Fundado en", editions: "ediciones", editions_label: "Ediciones",
+    founders: "Fundadores", directors: "Directores", org: "Organiza",
+    sources: "Fuentes", no_web: "sin verificar", approx: "ubicación aproximada (capital del departamento)",
+    showing_fest: (n, total) => `Mostrando ${n} de ${total} festivales del mundo`,
+    showing_col: (n, total) => `Mostrando ${n} de ${total} festivales en Colombia`,
+    map_showing: (n) => `Mostrando ${n} marcadores en el mapa`,
+    no_results: "Sin resultados para esta búsqueda.",
+    unverified: "sin verificar", unverified_tag: "SIN VERIFICAR",
+    verified_books: "libros verificados", partial_books: "títulos con año o editorial sin verificar",
+    read_article: "Leer el artículo", in_memoriam: "En memoria",
+    date_unverified: "fecha sin verificar"
+  },
+  en: {
+    brand: "World Map of Oral Storytelling",
+    nav_mapa: "Map", nav_directorio: "Directory", nav_narradores: "Storytellers",
+    nav_libros: "Books", nav_prensa: "Press", nav_administra: "Administered by",
+    hero_title: "World Map of Oral Storytelling",
+    hero_sub: "Oral storytelling and cuentería festivals from around the world: their history, founders, directors, editions and current status.",
+    hero_note: "A work-in-progress register, built on verified data. Unverified data is flagged as such.",
+    stat_fest: "festivals on the map", stat_col: "festivals in Colombia",
+    stat_narr: "storytellers listed", stat_libros: "verified books", stat_prensa: "press articles",
+    cta_mapa: "Explore the map", cta_directorio: "Browse the directory",
+    feat_title: "The festival that runs this map",
+    feat_badge: "Runs this map",
+    feat_founded: "founded in",
+    feat_homonym: "Not to be confused with Marcela Sabio's «PURO CUENTO» (Universidad Nacional del Litoral, Santa Fe, Argentina, since 1998) or with Peru's «Puro Cuento» (Asociación Cultural Tiempo de Cuentos, Lima). They are different entities sharing a name.",
+    f_editions: "Editions", f_president: "President", f_next: "Next edition",
+    f_2026: "2026 attendance", f_web: "Website", f_contact: "Contact",
+    map_title: "The map",
+    map_intro: "Each marker is a festival. Click a marker to see its summary card. Markers with a dashed border use the coordinates of the department capital: the municipality's exact location is unverified.",
+    filter_country: "Country", filter_status: "Status",
+    all_countries: "All countries", all_status: "All",
+    status_active: "Active", status_inactive: "Inactive", status_unverified: "Unverified",
+    toggle_world: "World festivals", toggle_colombia: "Colombia (144)",
+    legend_colombia: "Colombia (research by Fredy Ayala, 2026)",
+    legend_admin: "Festival Puro Cuento — Costa Rica (runs the map)",
+    dir_title: "Festival directory",
+    dir_search_ph: "Search by name, city or country…",
+    col_title: "Colombia — 144 festivals",
+    col_warn: "Research by Fredy Ayala (2026), arts research grant, Ministry of Cultures of Colombia. The source records each festival's status only as a coloured dot, with no label in the text — so individual status is NOT available on this page. Source counts: 52 active, 67 inactive and 25 to be confirmed.",
+    col_register: "Register or complete a festival (research form)",
+    col_search_ph: "Search festivals or municipalities in Colombia…",
+    mentions_title: "Mentions with insufficient data",
+    mentions_intro: "Festivals mentioned in the sources, without enough data for a full entry.",
+    narr_title: "Storytellers",
+    narr_intro: "Listings from the International Storytellers Network (RIC), cuentacuentos.eu — a portal founded in the summer of 2009 by Beatriz Montero and Enrique Páez, administered from Tenerife. The RIC states over 1,000 storytellers in 50 countries in one section of its site and over 1,300 in 57 countries in its FAQ; the figures are quoted as they appear in the source.",
+    sabio_badge: "Featured storyteller",
+    sabio_bio: "Composer, actress, director and oral storyteller. Graduate of the Universidad Nacional del Litoral. Since 1998 she has directed the Grupo Taller Permanente de Narración Oral Escénica PURO CUENTO (Universidad Nacional del Litoral).",
+    sabio_awards: "Awards",
+    sabio_awards_v: "MÁSCARA Award for lifetime theatre achievement (2006); CHAMÁN 2006 Award for Oral Storytelling.",
+    sabio_book: "Book",
+    sabio_ric: "Profile at the RIC",
+    sabio_homonym: "Her group PURO CUENTO (UNL, Santa Fe, since 1998) is NOT the Festival Internacional Puro Cuento of Costa Rica: they are different entities sharing a name.",
+    narr_memoria: "In memoriam (they were RIC members until their passing): Haydée Guzmán (La Plata), Alicia Mesa Garbín (Buenos Aires), María Rita Joga (Buenos Aires).",
+    books_title: "Storytellers' books",
+    books_intro: "Verified books (title, year and publisher) by nine storyteller-authors, starting with Marcela Sabio. Titles with unverified year or publisher are flagged as such.",
+    press_title: "Press",
+    press_intro: "Verified press articles about oral storytelling and its festivals.",
+    admin_title: "Administered by",
+    admin_text: "Costa Rican oral storytelling foundation. Its Festival Internacional Puro Cuento was born in 2002 and its next edition is on 10 March 2028. This foundation runs the World Map of Oral Storytelling.",
+    foot_sources: "Sources",
+    foot_sources_v: "International Storytellers Network (cuentacuentos.eu); research «Festivales de cuentería en Colombia» by Fredy Ayala (2026, Ministry of Cultures of Colombia); festival, book and press entries verified in November 2026; records of the Fundación Festival Puro Cuento.",
+    foot_construction: "Work-in-progress register: unverified data is flagged as such. If a fact is wrong or missing, write to info@festivalpurocuento.com.",
+    founded: "Founded in", editions: "editions", editions_label: "Editions",
+    founders: "Founders", directors: "Directors", org: "Organised by",
+    sources: "Sources", no_web: "unverified", approx: "approximate location (department capital)",
+    showing_fest: (n, total) => `Showing ${n} of ${total} world festivals`,
+    showing_col: (n, total) => `Showing ${n} of ${total} festivals in Colombia`,
+    map_showing: (n) => `Showing ${n} markers on the map`,
+    no_results: "No results for this search.",
+    unverified: "unverified", unverified_tag: "UNVERIFIED",
+    verified_books: "verified books", partial_books: "titles with unverified year or publisher",
+    read_article: "Read the article", in_memoriam: "In memoriam",
+    date_unverified: "date unverified"
+  }
+};
+let LANG = "es";
+function t(key) {
+  const v = I18N[LANG][key];
+  return typeof v === "function" ? v : v;
+}
+function applyI18n() {
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    const k = el.getAttribute("data-i18n");
+    const v = I18N[LANG][k];
+    if (typeof v === "string") el.textContent = v;
+  });
+  document.querySelectorAll("[data-i18n-ph]").forEach(el => {
+    const k = el.getAttribute("data-i18n-ph");
+    const v = I18N[LANG][k];
+    if (typeof v === "string") el.placeholder = v;
+  });
+  document.documentElement.lang = LANG;
+  document.getElementById("lang-es").classList.toggle("active", LANG === "es");
+  document.getElementById("lang-en").classList.toggle("active", LANG === "en");
+}

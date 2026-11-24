@@ -1,0 +1,39 @@
+{
+ "festival_administrador": {
+  "nombre": "Festival Internacional Puro Cuento",
+  "ciudad": "San José",
+  "pais": "Costa Rica",
+  "lat": 9.928,
+  "lng": -84.09,
+  "fundacion": 2002,
+  "ediciones": 18,
+  "ediciones_texto": "18 ediciones (2002–2026)",
+  "presidente": "Víctor Michael Navarro Hernández",
+  "proxima_edicion": "10 de marzo de 2028",
+  "asistencia_2026": "10.350 asistentes presenciales y 7.190 en escuelas (2026)",
+  "web": "https://festivalpurocuento.com",
+  "contacto": "info@festivalpurocuento.com",
+  "nota": "Administra este mapa. La cifra de 17 ediciones publicada por Delfino.cr (marzo 2026) no se usa: los registros de la Fundación indican 18."
+ },
+ "red": {
+  "nombre": "Red Internacional de Cuentacuentos (RIC)",
+  "web": "https://www.cuentacuentos.eu/",
+  "email": "red@cuentacuentos.eu",
+  "fundacion": "Verano de 2009",
+  "fundadores": "Beatriz Montero y Enrique Páez",
+  "sede_admin": "Tenerife, España",
+  "nota": "Portal sin ánimo de lucro que agrupa narradores y festivales de narración oral. Las cifras de la propia web varían según la sección (más de 1.000 narradores en 50 países / más de 1.300 en 57 países); se citan tal como aparecen en su FAQ."
+ },
+ "marcela_sabio": {
+  "nombre": "Marcela Sabio",
+  "ciudad": "Santa Fe",
+  "pais": "Argentina",
+  "perfil": "Compositora, actriz, regista y narradora oral escénica. Egresada de la Universidad Nacional del Litoral.",
+  "desde": "Desde 1998 dirige el Grupo Taller Permanente de Narración Oral Escénica PURO CUENTO (Universidad Nacional del Litoral).",
+  "premios": "Premio MÁSCARA a la trayectoria teatral (2006); Premio CHAMÁN 2006 de Narración Oral Escénica.",
+  "libro": "Narración oral escénica: El arte de leer el mundo con todo el cuerpo y a viva voz (Editorial Ciudad Gótica, 2011).",
+  "web": "https://marcelasabio.com.ar",
+  "ficha_ric": "http://cuentacuentos.eu/narradores/miembros/argentina/MarcelaSabio.htm",
+  "advertencia": "Su grupo PURO CUENTO (UNL, Santa Fe, desde 1998) NO es el Festival Internacional Puro Cuento de Costa Rica: son entidades distintas con el mismo nombre."
+ }
+}

@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mapa Mundial de la Narración Oral — Fundación Festival Puro Cuento</title>
+<meta name="description" content="Mapa mundial de festivales de narración oral escénica y cuentería: historia, fundadores, directores, ediciones, vigencia, libros y prensa. Administra la Fundación Festival Puro Cuento (Costa Rica).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@700;800&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700&family=Gochi+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#inicio">
+    <img src="https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200" alt="Fundación Festival Puro Cuento" class="brand-logo">
+    <span class="brand-name" data-i18n="brand">Mapa Mundial de la Narración Oral</span>
+  </a>
+  <nav class="topnav">
+    <a href="#mapa" data-i18n="nav_mapa">Mapa</a>
+    <a href="#directorio" data-i18n="nav_directorio">Directorio</a>
+    <a href="#narradores" data-i18n="nav_narradores">Narradores</a>
+    <a href="#libros" data-i18n="nav_libros">Libros</a>
+    <a href="#prensa" data-i18n="nav_prensa">Prensa</a>
+    <a href="#administra" data-i18n="nav_administra">Administra</a>
+  </nav>
+  <div class="lang-switch" role="group" aria-label="Idioma / Language">
+    <button id="lang-es" class="lang-btn active" type="button">ES</button>
+    <button id="lang-en" class="lang-btn" type="button">EN</button>
+  </div>
+</header>
+
+<main id="inicio">
+
+  <!-- HERO -->
+  <section class="hero">
+    <img class="hero-logo" src="https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200" alt="Logo oficial de la Fundación Festival Puro Cuento">
+    <h1 data-i18n="hero_title">Mapa Mundial de la Narración Oral</h1>
+    <p class="hero-sub" data-i18n="hero_sub">Festivales de narración oral escénica y cuentería de todo el mundo: su historia, sus fundadores, sus directores, sus ediciones y su vigencia.</p>
+    <p class="hero-note" data-i18n="hero_note">Un registro en construcción, con datos verificados. Lo no verificado se marca como tal.</p>
+    <div class="stats" id="stats">
+      <div class="stat"><span class="stat-num" id="stat-fest">—</span><span class="stat-label" data-i18n="stat_fest">festivales en el mapa</span></div>
+      <div class="stat"><span class="stat-num" id="stat-col">—</span><span class="stat-label" data-i18n="stat_col">festivales en Colombia</span></div>
+      <div class="stat"><span class="stat-num" id="stat-narr">—</span><span class="stat-label" data-i18n="stat_narr">narradores listados</span></div>
+      <div class="stat"><span class="stat-num" id="stat-libros">—</span><span class="stat-label" data-i18n="stat_libros">libros verificados</span></div>
+      <div class="stat"><span class="stat-num" id="stat-prensa">—</span><span class="stat-label" data-i18n="stat_prensa">artículos de prensa</span></div>
+    </div>
+    <div class="hero-cta">
+      <a class="btn btn-primary" href="#mapa" data-i18n="cta_mapa">Explorar el mapa</a>
+      <a class="btn btn-outline" href="#directorio" data-i18n="cta_directorio">Ver el directorio</a>
+    </div>
+  </section>
+
+  <!-- FESTIVAL DESTACADO / ADMINISTRADOR -->
+  <section class="section featured" id="destacado">
+    <h2 data-i18n="feat_title">El festival que administra este mapa</h2>
+    <article class="fest-card featured-card" id="featured-card">
+      <div class="fest-card-head">
+        <h3>Festival Internacional Puro Cuento</h3>
+        <span class="badge badge-admin" data-i18n="feat_badge">Administra el mapa</span>
+      </div>
+      <p class="fest-meta">San José · Costa Rica · <span data-i18n="feat_founded">fundado en</span> 2002</p>
+      <dl class="fest-fields">
+        <div><dt data-i18n="f_editions">Ediciones</dt><dd>18 <span class="muted">(2002–2026, dato de la Fundación)</span></dd></div>
+        <div><dt data-i18n="f_president">Presidente</dt><dd>Víctor Michael Navarro Hernández</dd></div>
+        <div><dt data-i18n="f_next">Próxima edición</dt><dd>10 de marzo de 2028</dd></div>
+        <div><dt data-i18n="f_2026">Asistencia 2026</dt><dd>10.350 asistentes presenciales y 7.190 en escuelas</dd></div>
+        <div><dt data-i18n="f_web">Sitio web</dt><dd><a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></dd></div>
+        <div><dt data-i18n="f_contact">Contacto</dt><dd><a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a></dd></div>
+      </dl>
+      <p class="homonym-note" data-i18n="feat_homonym">No confundir con el «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) ni con el «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima). Son entidades distintas con el mismo nombre.</p>
+    </article>
+  </section>
+
+  <!-- MAPA -->
+  <section class="section" id="mapa">
+    <h2 data-i18n="map_title">El mapa</h2>
+    <p class="section-intro" data-i18n="map_intro">Cada marcador es un festival. Tocá un marcador para ver su ficha resumida. Los marcadores con borde punteado usan la coordenada de la capital del departamento: la ubicación exacta del municipio está sin verificar.</p>
+    <div class="map-filters">
+      <label><span data-i18n="filter_country">País</span>
+        <select id="filter-country"><option value="all" data-i18n="all_countries">Todos los países</option></select>
+      </label>
+      <label><span data-i18n="filter_status">Vigencia</span>
+        <select id="filter-status">
+          <option value="all" data-i18n="all_status">Todas</option>
+          <option value="activo" data-i18n="status_active">Activo</option>
+          <option value="inactivo" data-i18n="status_inactive">Inactivo</option>
+          <option value="sin verificar" data-i18n="status_unverified">Sin verificar</option>
+        </select>
+      </label>
+      <label class="check"><input type="checkbox" id="toggle-world" checked> <span data-i18n="toggle_world">Festivales del mundo</span></label>
+      <label class="check"><input type="checkbox" id="toggle-colombia" checked> <span data-i18n="toggle_colombia">Colombia (144)</span></label>
+    </div>
+    <div id="map" aria-label="Mapa mundial de festivales de narración oral"></div>
+    <div class="legend">
+      <span><i class="dot dot-active"></i> <span data-i18n="status_active">Activo</span></span>
+      <span><i class="dot dot-inactive"></i> <span data-i18n="status_inactive">Inactivo</span></span>
+      <span><i class="dot dot-unverified"></i> <span data-i18n="status_unverified">Sin verificar</span></span>
+      <span><i class="dot dot-colombia"></i> <span data-i18n="legend_colombia">Colombia (investigación de Fredy Ayala, 2026)</span></span>
+      <span><i class="dot dot-admin"></i> <span data-i18n="legend_admin">Festival Puro Cuento — Costa Rica (administra)</span></span>
+    </div>
+    <p class="map-count" id="map-count"></p>
+  </section>
+
+  <!-- DIRECTORIO -->
+  <section class="section" id="directorio">
+    <h2 data-i18n="dir_title">Directorio de festivales</h2>
+    <div class="dir-search">
+      <input type="search" id="dir-search" data-i18n-ph="dir_search_ph" placeholder="Buscar por nombre, ciudad o país…">
+      <select id="dir-country"><option value="all" data-i18n="all_countries">Todos los países</option></select>
+      <select id="dir-status">
+        <option value="all" data-i18n="all_status">Todas las vigencias</option>
+        <option value="activo" data-i18n="status_active">Activo</option>
+        <option value="inactivo" data-i18n="status_inactive">Inactivo</option>
+        <option value="sin verificar" data-i18n="status_unverified">Sin verificar</option>
+      </select>
+    </div>
+    <p class="dir-count" id="dir-count"></p>
+    <div id="dir-list" class="fest-grid"></div>
+
+    <h3 class="subsection" data-i18n="col_title">Colombia — 144 festivales</h3>
+    <div class="callout callout-warning">
+      <p data-i18n="col_warn">Investigación de Fredy Ayala (2026), beca de investigación en artes, Ministerio de las Culturas de Colombia. La fuente registra la vigencia de cada festival solo como un punto de color, sin etiqueta en el texto: por eso la vigencia individual NO está disponible en esta página. Conteos de la fuente: <strong>52 vigentes, 67 no vigentes y 25 por confirmar</strong>.</p>
+      <p><a href="https://form.jotform.com/263127228482054" target="_blank" rel="noopener" data-i18n="col_register">Registrar o completar un festival (formulario de la investigación)</a></p>
+    </div>
+    <div class="dir-search">
+      <input type="search" id="col-search" data-i18n-ph="col_search_ph" placeholder="Buscar festival o municipio en Colombia…">
+    </div>
+    <p class="dir-count" id="col-count"></p>
+    <div id="col-list" class="col-list"></div>
+
+    <h3 class="subsection" data-i18n="mentions_title">Menciones con datos insuficientes</h3>
+    <p class="section-intro" data-i18n="mentions_intro">Festivales mencionados en las fuentes, sin datos suficientes para una ficha completa.</p>
+    <ul id="mentions-list" class="mentions"></ul>
+  </section>
+
+  <!-- NARRADORES -->
+  <section class="section" id="narradores">
+    <h2 data-i18n="narr_title">Narradores</h2>
+    <p class="section-intro" data-i18n="narr_intro">Listados de la Red Internacional de Cuentacuentos (RIC), <a href="https://www.cuentacuentos.eu/" target="_blank" rel="noopener">cuentacuentos.eu</a> — portal fundado en el verano de 2009 por Beatriz Montero y Enrique Páez, administrado desde Tenerife. La RIC declara más de 1.000 narradores en 50 países en una sección de su web y más de 1.300 en 57 países en su FAQ; las cifras se citan tal como aparecen en la fuente.</p>
+
+    <article class="fest-card featured-card" id="sabio-card">
+      <div class="fest-card-head">
+        <h3>Marcela Sabio</h3>
+        <span class="badge badge-admin" data-i18n="sabio_badge">Narradora destacada</span>
+      </div>
+      <p class="fest-meta">Santa Fe · Argentina</p>
+      <p data-i18n="sabio_bio">Compositora, actriz, regista y narradora oral escénica. Egresada de la Universidad Nacional del Litoral. Desde 1998 dirige el Grupo Taller Permanente de Narración Oral Escénica PURO CUENTO (Universidad Nacional del Litoral).</p>
+      <dl class="fest-fields">
+        <div><dt data-i18n="sabio_awards">Premios</dt><dd data-i18n="sabio_awards_v">Premio MÁSCARA a la trayectoria teatral (2006); Premio CHAMÁN 2006 de Narración Oral Escénica.</dd></div>
+        <div><dt data-i18n="sabio_book">Libro</dt><dd><em>Narración oral escénica: El arte de leer el mundo con todo el cuerpo y a viva voz</em> (Editorial Ciudad Gótica, 2011).</dd></div>
+        <div><dt data-i18n="f_web">Sitio web</dt><dd><a href="https://marcelasabio.com.ar" target="_blank" rel="noopener">marcelasabio.com.ar</a></dd></div>
+        <div><dt data-i18n="sabio_ric">Ficha en la RIC</dt><dd><a href="http://cuentacuentos.eu/narradores/miembros/argentina/MarcelaSabio.htm" target="_blank" rel="noopener">cuentacuentos.eu — Marcela Sabio</a></dd></div>
+      </dl>
+      <p class="homonym-note" data-i18n="sabio_homonym">Su grupo PURO CUENTO (UNL, Santa Fe, desde 1998) NO es el Festival Internacional Puro Cuento de Costa Rica: son entidades distintas con el mismo nombre.</p>
+    </article>
+
+    <div class="narr-columns">
+      <div>
+        <h3 class="subsection">Costa Rica — <span id="narr-cr-count">24</span></h3>
+        <ul id="narr-cr" class="narr-list"></ul>
+      </div>
+      <div>
+        <h3 class="subsection">Argentina — <span id="narr-ar-count">141</span></h3>
+        <ul id="narr-ar" class="narr-list"></ul>
+        <p class="muted" data-i18n="narr_memoria">En memoria (fueron miembros de la RIC hasta su fallecimiento): Haydée Guzmán (La Plata), Alicia Mesa Garbín (Buenos Aires), María Rita Joga (Buenos Aires).</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- LIBROS -->
+  <section class="section" id="libros">
+    <h2 data-i18n="books_title">Libros de narradores</h2>
+    <p class="section-intro" data-i18n="books_intro">Libros verificados (título, año y editorial) de nueve autores narradores, empezando por Marcela Sabio. Los títulos con año o editorial sin verificar se marcan como tales.</p>
+    <div id="books-list"></div>
+  </section>
+
+  <!-- PRENSA -->
+  <section class="section" id="prensa">
+    <h2 data-i18n="press_title">Prensa</h2>
+    <p class="section-intro" data-i18n="press_intro">Artículos de prensa verificados sobre la narración oral y sus festivales.</p>
+    <div id="press-list" class="press-grid"></div>
+  </section>
+
+  <!-- ADMINISTRA -->
+  <section class="section" id="administra">
+    <h2 data-i18n="admin_title">Administra</h2>
+    <div class="admin-card">
+      <img src="https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200" alt="Logo oficial de la Fundación Festival Puro Cuento" class="admin-logo">
+      <div>
+        <h3>Fundación Festival Puro Cuento</h3>
+        <p data-i18n="admin_text">Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y su próxima edición es el 10 de marzo de 2028. Esta fundación administra el Mapa Mundial de la Narración Oral.</p>
+        <p><strong data-i18n="f_contact">Contacto</strong>: <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a> · <a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p><strong data-i18n="foot_sources">Fuentes</strong>: <span data-i18n="foot_sources_v">Red Internacional de Cuentacuentos (cuentacuentos.eu); investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026, Ministerio de las Culturas de Colombia); fichas de festivales, libros y prensa verificadas en noviembre de 2026; registros de la Fundación Festival Puro Cuento.</span></p>
+  <p class="construction" data-i18n="foot_construction">Registro en construcción: los datos no verificados se marcan como tales. Si un dato está mal o falta, escribí a info@festivalpurocuento.com.</p>
+  <p class="muted">Mapa Mundial de la Narración Oral · Fundación Festival Puro Cuento · 2026</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

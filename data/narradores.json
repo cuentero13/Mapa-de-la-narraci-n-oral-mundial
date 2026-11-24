@@ -1,0 +1,1010 @@
+[
+ {
+  "nombre": "Juan Madrigal (Juan Cuentacuentos)",
+  "localidad": "Alajuela",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "José Martínez",
+  "localidad": "Alajuela",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Monito Cuentacuentos (Fabian Campos Chavarria)",
+  "localidad": "Barba – Heredia",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Jeff Cuentero",
+  "localidad": "Heredia",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Lilliam Ocampo (Liliacuentista)",
+  "localidad": "Heredia",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Xavier Sánchez Aguilar (Xavi Cuentero)",
+  "localidad": "Heredia",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Yanuri Villalobos",
+  "localidad": "Heredia",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Luis Fernando Barrantes (El abuelo cuentacuentos)",
+  "localidad": "Nicoya, Guanacaste",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Beto Castillo",
+  "localidad": "Palmares, Alajuela",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Wílmer Oconitrillo Cuentacuentos",
+  "localidad": "Palmares, Alajuela",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana Coralia Fernández",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana Victoria Garro",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Carlos Rubio",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Erick Vega (Erick cuentacuentos)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Fernando Franco León (Francocuentos)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Grupo Cuentofag@s (Daniel Alvarado, Inti Barrantes, Maricruz Campos)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Gustavo Peláez Sierra (El niño Peláez)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Maracatú Cuentacuentos (Michael Navarro y Nidia Valverde)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Mercedes Castro (Efimera Cuentacuentos)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "NarrArte UCR (Fernando Franco, Mario Baldizón, Felipe Bonilla, Jeff Hernández, Jorge Polanco, Giovanni Castillo y Michael Navarro)",
+  "localidad": "San José y San Pedro",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Óscar Contreras (Cantacuentos)",
+  "localidad": "San José (Pavas)",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Tere Borge (CuentaQUEteCUENTO)",
+  "localidad": "San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Inticuentero",
+  "localidad": "San Pedro de Montes de Oca, San José",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Eyder Fonseca Sánchez",
+  "localidad": "Siquirres, Limón",
+  "pais": "Costa Rica",
+  "memoria": false
+ },
+ {
+  "nombre": "Edgardo Ariel Epherra",
+  "localidad": "Bahía Blanca",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Maryta Berenguer",
+  "localidad": "Bahía Blanca",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Norberto Del Prado",
+  "localidad": "Bahía Blanca",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Teresa Prost",
+  "localidad": "Bahía Blanca",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Mabel Cosenza",
+  "localidad": "Banfield (B.A.)",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Cris Bonaudi",
+  "localidad": "Bernal",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Alejandra Alliende",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Alejandra del Bueno",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Alejandra Parets",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Alicia Tamburini (Déjame que te cuente)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Amalia Flores",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Anabelle Castaño",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana Cuevas Unamuno",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana María Cherñak",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana María Oddo",
+  "localidad": "Buenos Aires – Castelar",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana Padovani",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Andrea Blawdziewicz (Storyteller)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Andrea Martinoli",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Bazar de cuentos",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Beatriz Dasso (Déjame que te cuente)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Beatriz Mónaco",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Belén Torras",
+  "localidad": "Buenos Aires – Ramos Mejía",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Betty Ferkel",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Canela Sarasvati",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Cantabuelas San Martín (Andrea Felsenthal — coordinadora —, Graciela María Amelio, Deolinda Sersosimo, Nancy Riveros, Elena Espinosa, Norma Fernández, Marta)",
+  "localidad": "Buenos Aires – San Martín",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Carlos Caparulo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Carlos Cocciolo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Carlos Maps",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ciela Asad",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Claudia Macchi",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Claudia Stella",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Claudio Ledesma (Círculo de cuentacuentos)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Claudio Pansera",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Cuento Rodado (Ana María de Diego, Susana Kowal, Beatriz Massolo, Romina Pietrantuono, Liliana Plos, Ana María Pochet, Alicia Siaba de Bravo)",
+  "localidad": "Buenos Aires – Ramos Mejía",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Cuentos y Encuentros",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Darwin Caballero",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Déjame que te cuente (Sara Lemos, Alicia Tamburini, Renée Tranzillo, Beatriz Dasso, Gabriela Rodríguez y Leticia Loray)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Eliana Bratok",
+  "localidad": "Buenos Aires – Florencio Varela",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Elizabeth Gothelf",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Elva Marinangeli",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Enrique Argumedo Franco",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Fer Narradora (María Fernanda Gómez)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Fernando Cárdenas",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Gabriela Villano",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Geraldina Rayo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Geraldine Ricau",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Giselle Rataus",
+  "localidad": "Buenos Aires – Quilmes",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Gabriela Rodríguez (Déjame que te cuente)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Graciela Deza",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Graciela Sarcone",
+  "localidad": "Buenos Aires – Olivos",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Gustavo Trillo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Hugo Corrias",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Inés Grimland",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Jorge Navarra",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Juan Ignacio Jafella",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Juanjo Decuzzi",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Karina R. García",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "La Luna, Compañía de cuentos (Fer Narradora – Erika Brandauer)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Leticia Loray (Déjame que te cuente)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Las cuentandantes (Juliana Bourbon, Daniela Magnone)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Lili Meier",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Liliana Bonel",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Lily Davila",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Lisi Amondarain",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Lobito Cuentacuentos (Diego Lobo)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Los Palabreros",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marcela Ganapol",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Mª Fernanda Gutiérrez (Caminandocuentos)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Margarita Caffatti Rizzo (Por qué contamos)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "María Héguiz",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marita Von Saltzen",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marta Grzina (Valijita cuentera)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marta Lamare",
+  "localidad": "Buenos Aires – Burzaco",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marta Lorente",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marta Millicay",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Matilde Machiavello (Matu Storyteller)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Norma Lugo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Olga Walter",
+  "localidad": "Buenos Aires – Adrogué",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Pal' Abrazo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Patricia Laura Deandreis",
+  "localidad": "Buenos Aires – San Isidro",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Patricia Orr",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Paula Martin",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Pedro Parcet",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Renée Tranzillo (Déjame que te cuente)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Raúl Cuevas",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ricardo Muriel",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Sara Lemos (Déjame que te cuente)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Sergio Bonomo",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Silvia De Cesare",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Silvia Finder Gam",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Verdevioleta Cuentos (Laura Finguer – Silvina Mennuti)",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Verónica Alvarez Rivera",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Vivi García",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Inés Bombara",
+  "localidad": "Castelar",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ale Oliver Gulle (CuentoPalabra)",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana Rosa Ortiz (Princesa Cuentera)",
+  "localidad": "Córdoba, Capilla del Monte",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Eduardo Chaves (CuentoPalabra)",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Estela Gadea Leiguarda (Toity)",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Nora Maretto",
+  "localidad": "Córdoba, Porteña",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Rubén López",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Silvia Beresovsky",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Sole Rebelles",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Vilma Novick Freyre",
+  "localidad": "Córdoba",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marta Mensa",
+  "localidad": "Don Torcuato",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Liliana Reinoso",
+  "localidad": "General Pico – La Pampa",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Verónica Basualdo",
+  "localidad": "Ingeniero Maschwitz",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Sembradores de Historias",
+  "localidad": "Laferrere, La Matanza, B. Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Carolina Espinosa",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Gazel Zayad",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Gustavo Bonifetto",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Isabel Fraire",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Laura Dippolito",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Mónica Elicabe Urriol (Cuentoencuentro La Plata)",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Roxi Drucker",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Teresita Bustos",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Adelina Gallotti (De caminos y de cuentos)",
+  "localidad": "Mar del Plata, Bs. Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Adriana Leiss (Ilustracuentos)",
+  "localidad": "Mar del Plata, Bs. Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Juliana Mazza (De caminos y de cuentos)",
+  "localidad": "Mar del Plata, Bs. Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Silvia Ferragine",
+  "localidad": "Mar del Plata, Bs. Aires",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marina Castilla (Club de Narradores)",
+  "localidad": "Mendoza",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Grupo Picardías",
+  "localidad": "Neuquén – Patagonia",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ileana Panelo",
+  "localidad": "Neuquén – Patagonia",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Lili Jovanovich",
+  "localidad": "Neuquén – Patagonia",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Edgardo Franzetti",
+  "localidad": "Pinamar",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ramón Farías",
+  "localidad": "Presidencia Roque Sáenz Peña, Chaco",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Cuentacuenteras (Ines Strizzi – Fabiana Burgos – Elizabeth Molino)",
+  "localidad": "Realicó – La Pampa",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Abuelas Cuentacuentos (Fundación Mempo Giardinelli)",
+  "localidad": "Resistencia, Chaco",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Adriana Felicia (Sarna con gusto)",
+  "localidad": "Rosario",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Ana Cao (Las Cuenta cuentos)",
+  "localidad": "Rosario",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Don Abulico Bienes",
+  "localidad": "Rosario",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Melina Pezzoto (NarraenDo)",
+  "localidad": "Rosario",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Teresita Igon (Las Cuentacuentos)",
+  "localidad": "Rosario",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Mariela de la Sota (Marukacuentos)",
+  "localidad": "San Fernando",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Alicia Barberis",
+  "localidad": "Santa Fe",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Marcela Sabio (Puro Cuento)",
+  "localidad": "Santa Fe",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Oscar Nemeth (El Organillero Cuentacuentos)",
+  "localidad": "San Fernando del Valle de Catamarca",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Fabiana Polenta (Compañía Tricletas)",
+  "localidad": "Trenque Lauquen",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Anyela Cuéllar (Pintapalabras)",
+  "localidad": "Viedma",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Alicia Perrig",
+  "localidad": "Villa María",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Graciela Monge",
+  "localidad": "Wilde",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Norma Aparicio",
+  "localidad": "Yerba Buena – Tucumán",
+  "pais": "Argentina",
+  "memoria": false
+ },
+ {
+  "nombre": "Haydée Guzmán",
+  "localidad": "La Plata",
+  "pais": "Argentina",
+  "memoria": true
+ },
+ {
+  "nombre": "Alicia Mesa Garbín",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": true
+ },
+ {
+  "nombre": "María Rita Joga",
+  "localidad": "Buenos Aires",
+  "pais": "Argentina",
+  "memoria": true
+ }
+]
