@@ -21,7 +21,7 @@ css/style.css       Línea gráfica de festivalpurocuento.com
 js/i18n.js          Traducciones ES/EN de la interfaz (los datos quedan en español)
 js/app.js           Mapa (Leaflet), filtros, buscador y render de secciones
 data/
-  festivales-mundo.json   237 fichas de festivales del mundo (122 países y territorios)
+  festivales-mundo.json   237 fichas de festivales del mundo (122 países y territorios; 11 de Colombia también están en colombia.json)
   colombia.json           144 festivales de Colombia (investigación Fredy Ayala, 2026)
   narradores.json         168 narradores de la RIC (Costa Rica 24, Argentina 141 + 3 en memoria)
   libros.json             96 libros verificados de 9 autores narradores
@@ -44,6 +44,13 @@ defecto y nunca entra en los conteos.
 
 Solo datos verificados de la investigación (noviembre de 2026). Todo campo no
 verificado se muestra como «sin verificar» o se omite; nunca se inventa.
+
+- Total mundial deduplicado: **370 festivales únicos** (237 del mundo + 144 de
+  Colombia, menos 11 que aparecen en ambas listas; las fichas duplicadas llevan
+  `en_colombia: true` en festivales-mundo.json).
+- Logo de la Fundación: PNG transparente del sitio oficial
+  (festivalpurocuento.com), con la versión de Drive (lh3) como respaldo si
+  falla la carga.
 
 - Red Internacional de Cuentacuentos: https://www.cuentacuentos.eu/
   (fundada en el verano de 2009 por Beatriz Montero y Enrique Páez).

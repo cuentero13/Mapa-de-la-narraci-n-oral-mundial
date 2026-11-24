@@ -494,7 +494,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-018",
@@ -523,7 +524,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 7.119,
   "lng": -73.122,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-019",
@@ -552,7 +554,8 @@
   "completitud": "PARCIAL",
   "lat": 10.968,
   "lng": -74.781,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-020",
@@ -582,7 +585,8 @@
   "completitud": "PARCIAL",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-021",
@@ -611,7 +615,8 @@
   "completitud": "PARCIAL",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-022",
@@ -640,7 +645,8 @@
   "completitud": "PARCIAL",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-023",
@@ -669,7 +675,8 @@
   "completitud": "PARCIAL",
   "lat": 11.24,
   "lng": -74.199,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-024",
@@ -698,7 +705,8 @@
   "completitud": "PARCIAL",
   "lat": 2.934,
   "lng": -75.28,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-025",
@@ -727,7 +735,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 10.391,
   "lng": -75.479,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-026",
@@ -754,7 +763,8 @@
   "completitud": "PARCIAL",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-027",
@@ -781,7 +791,8 @@
   "completitud": "PARCIAL",
   "lat": 1.213,
   "lng": -77.281,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "en_colombia": true
  },
  {
   "id": "mundo-028",

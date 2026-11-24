@@ -63,8 +63,11 @@
   }
 
   // ---------- estadísticas ----------
+  // Total mundial deduplicado: las fichas de mundo con pais Colombia y
+  // en_colombia=true también están en la lista de Colombia (Fredy Ayala).
   function renderStats() {
-    $("stat-fest").textContent = DATA.mundo.length;
+    const overlap = DATA.mundo.filter(f => f.en_colombia).length;
+    $("stat-fest").textContent = DATA.mundo.length + DATA.colombia.length - overlap;
     $("stat-col").textContent = DATA.colombia.length;
     $("stat-narr").textContent = DATA.narradores.length;
     $("stat-libros").textContent = DATA.libros.length;
