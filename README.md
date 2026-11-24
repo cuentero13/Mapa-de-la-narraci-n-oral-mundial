@@ -21,7 +21,7 @@ css/style.css       Línea gráfica de festivalpurocuento.com
 js/i18n.js          Traducciones ES/EN de la interfaz (los datos quedan en español)
 js/app.js           Mapa (Leaflet), filtros, buscador y render de secciones
 data/
-  festivales-mundo.json   91 fichas de festivales del mundo (22 países)
+  festivales-mundo.json   103 fichas de festivales del mundo (25 países)
   colombia.json           144 festivales de Colombia (investigación Fredy Ayala, 2026)
   narradores.json         168 narradores de la RIC (Costa Rica 24, Argentina 141 + 3 en memoria)
   libros.json             96 libros verificados de 9 autores narradores

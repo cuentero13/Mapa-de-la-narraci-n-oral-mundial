@@ -80,9 +80,18 @@
     });
   }
 
+  function adminIcon() {
+    return L.divIcon({
+      className: "map-dot admin-dot",
+      html: `<span style="display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#00AAE3;border:2px solid #fff;box-shadow:0 0 0 2px #00AAE3;color:#fff;font-size:14px;line-height:1;">★</span>`,
+      iconSize: [28, 28], iconAnchor: [14, 14], popupAnchor: [0, -14]
+    });
+  }
+
   function festivalPopup(f) {
     const parts = [];
     parts.push(`<h4>${esc(f.nombre)}</h4>`);
+    if (f.administrador) parts.push(`<div>★ <a href="#destacado">${t("feat_badge")}</a></div>`);
     parts.push(`<div>${esc(f.ciudad || "")}${f.ciudad && f.pais ? " · " : ""}${esc(f.pais || "")}</div>`);
     if (f.fundacion) parts.push(`<div>${t("founded")} ${f.fundacion}</div>`);
     if (f.ediciones_num) parts.push(`<div>${f.ediciones_num} ${t("editions")}</div>`);
@@ -102,12 +111,6 @@
     worldLayer = L.layerGroup().addTo(map);
     colLayer = L.layerGroup().addTo(map);
     adminLayer = L.layerGroup().addTo(map);
-
-    // Festival administrador (Costa Rica)
-    const adm = DATA.destacados.festival_administrador;
-    L.marker([adm.lat, adm.lng], { icon: dotIcon("#00AAE3", false) })
-      .bindPopup(`<h4>${esc(adm.nombre)}</h4><div>San José · Costa Rica</div><div>${t("founded")} 2002 · 18 ${t("editions")}</div><div><a href="#destacado">${t("feat_badge")}</a></div>`)
-      .addTo(adminLayer);
 
     refreshMarkers();
   }
@@ -134,10 +137,16 @@
     if (!map) return;
     worldLayer.clearLayers();
     colLayer.clearLayers();
+    adminLayer.clearLayers();
     const { world, col } = markersFiltered();
     world.forEach(f => {
-      L.marker([f.lat, f.lng], { icon: dotIcon(STATUS_COLOR[f.vigencia] || "#FDBD10", f.coord_aprox) })
-        .bindPopup(festivalPopup(f)).addTo(worldLayer);
+      if (f.administrador) {
+        L.marker([f.lat, f.lng], { icon: adminIcon() })
+          .bindPopup(festivalPopup(f)).addTo(adminLayer);
+      } else {
+        L.marker([f.lat, f.lng], { icon: dotIcon(STATUS_COLOR[f.vigencia] || "#FDBD10", f.coord_aprox) })
+          .bindPopup(festivalPopup(f)).addTo(worldLayer);
+      }
     });
     col.forEach(c => {
       const label = c.anio ? `${c.anio}` : "";
@@ -145,7 +154,7 @@
         .bindPopup(`<h4>${esc(c.nombre)}</h4><div>${esc(c.municipio)} · ${esc(c.departamento)} · Colombia</div>${label ? `<div>${label}</div>` : ""}${c.coord_aprox ? `<div class="aprox">${t("approx")}</div>` : ""}`)
         .addTo(colLayer);
     });
-    const n = world.length + col.length + 1; // +1 administrador
+    const n = world.length + col.length;
     $("map-count").textContent = t("map_showing")(n);
   }
 
@@ -173,7 +182,7 @@
 
   // ---------- directorio ----------
   function festCard(f) {
-    const badge = `<span class="badge ${STATUS_CLASS[f.vigencia] || "badge-unverified"}">${esc(f.vigencia)}</span>`;
+    const badge = `<span class="badge ${STATUS_CLASS[f.vigencia] || "badge-unverified"}">${esc(f.vigencia)}</span>` + (f.administrador ? ` <span class="badge badge-admin">${t("feat_badge")}</span>` : "");
     const rows = [];
     const add = (label, val, isHtml) => {
       if (val === null || val === undefined || val === "") return;
