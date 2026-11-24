@@ -8,7 +8,8 @@
   "departamento": "Boyacá",
   "lat": 5.535,
   "lng": -73.367,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://www.boyaca.gov.co/secretariaculturapatrimonio/"
  },
  {
   "id": "col-002",
@@ -19,7 +20,8 @@
   "departamento": "Caldas",
   "lat": 5.424,
   "lng": -75.702,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/EncuentrodelaPalabra"
  },
  {
   "id": "col-003",
@@ -30,7 +32,9 @@
   "departamento": "Valle del Cauca",
   "lat": 3.9,
   "lng": -76.302,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/bugahistorias",
+  "web": "https://www.cirnaola.com"
  },
  {
   "id": "col-004",
@@ -52,7 +56,9 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Festival_iberoamericano_de_teatro.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "col-006",
@@ -140,7 +146,8 @@
   "departamento": "Santander",
   "lat": 7.119,
   "lng": -73.122,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/FundacionAbrapalabra"
  },
  {
   "id": "col-014",
@@ -162,7 +169,8 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://www.uniandinos.org.co/evento/xlvi-festival-nacional-de-cuenteros-y-comediantes/"
  },
  {
   "id": "col-016",
@@ -217,7 +225,9 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/Vivapalabracuentos",
+  "web": "https://www.vivapalabra.com"
  },
  {
   "id": "col-021",
@@ -239,7 +249,11 @@
   "departamento": "Atlántico",
   "lat": 10.968,
   "lng": -74.781,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/Luneta50/",
+  "youtube": "https://www.youtube.com/@Luneta50",
+  "youtube_tipo": "canal",
+  "web": "https://www.luneta50.org"
  },
  {
   "id": "col-023",
@@ -294,7 +308,8 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/unicuento-encuentrodecuenteros"
  },
  {
   "id": "col-028",
@@ -360,7 +375,9 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/Vivapalabracuentos",
+  "web": "https://www.vivapalabra.com"
  },
  {
   "id": "col-034",
@@ -371,7 +388,10 @@
   "departamento": "La Guajira",
   "lat": 11.544,
   "lng": -72.907,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/akuentajui",
+  "youtube": "https://www.youtube.com/@akuentajui",
+  "youtube_tipo": "canal"
  },
  {
   "id": "col-035",
@@ -525,7 +545,9 @@
   "departamento": "Huila",
   "lat": 2.934,
   "lng": -75.28,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "youtube": "https://www.youtube.com/watch?v=Y92veJJI4Sc",
+  "youtube_tipo": "video"
  },
  {
   "id": "col-049",
@@ -591,7 +613,8 @@
   "departamento": "Tolima",
   "lat": 4.438,
   "lng": -75.232,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/FundacionAbrapalabra"
  },
  {
   "id": "col-055",
@@ -613,7 +636,11 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Comparsa_Inaugural_Fiesta_de_las_Artes_Esc%C3%A9nicas.jpg",
+  "foto_fuente": "wikimedia",
+  "facebook": "https://www.facebook.com/Vivapalabracuentos",
+  "web": "https://www.vivapalabra.com"
  },
  {
   "id": "col-057",
@@ -657,7 +684,8 @@
   "departamento": "Valle del Cauca",
   "lat": 3.584,
   "lng": -76.296,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/venicontameve"
  },
  {
   "id": "col-061",
@@ -668,7 +696,9 @@
   "departamento": "Santander",
   "lat": 7.119,
   "lng": -73.122,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/soyuncuenteroconboca",
+  "web": "https://www.uncuenteroconboca.com"
  },
  {
   "id": "col-062",
@@ -690,7 +720,9 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/Vivapalabracuentos",
+  "web": "https://www.vivapalabra.com"
  },
  {
   "id": "col-064",
@@ -745,7 +777,8 @@
   "departamento": "Nariño",
   "lat": 1.213,
   "lng": -77.281,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/galerascuent"
  },
  {
   "id": "col-069",
@@ -811,7 +844,8 @@
   "departamento": "Cauca",
   "lat": 2.444,
   "lng": -76.614,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/ErmitaCuenteros"
  },
  {
   "id": "col-075",
@@ -833,7 +867,8 @@
   "departamento": "Meta",
   "lat": 4.142,
   "lng": -73.626,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://villavicencio.gov.co/en/evento/festival-llanero-de-villavicencio/"
  },
  {
   "id": "col-077",
@@ -844,7 +879,8 @@
   "departamento": "Cauca",
   "lat": 2.738,
   "lng": -76.324,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/Encuentrodenarrativasysaberesancestrales"
  },
  {
   "id": "col-078",
@@ -877,7 +913,8 @@
   "departamento": "Antioquia",
   "lat": 6.184,
   "lng": -75.599,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://institutoitagui.gov.co/"
  },
  {
   "id": "col-081",
@@ -965,7 +1002,8 @@
   "departamento": "Valle del Cauca",
   "lat": 3.437,
   "lng": -76.522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://www.icesi.edu.co/6920-arranca-el-5-festival-de-oralidad-epico/"
  },
  {
   "id": "col-089",
@@ -998,7 +1036,8 @@
   "departamento": "Boyacá",
   "lat": 5.535,
   "lng": -73.367,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/teatrocafeamero.2024"
  },
  {
   "id": "col-092",
@@ -1108,7 +1147,8 @@
   "departamento": "Caldas",
   "lat": 5.07,
   "lng": -75.513,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/finomanizales2020"
  },
  {
   "id": "col-102",
@@ -1262,7 +1302,8 @@
   "departamento": "",
   "lat": 4.711,
   "lng": -74.072,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://www.unbosque.edu.co/centro-informacion/noticias/inscribete-primer-festival-oralidad-bosque-palabras-mas-palabras-menos"
  },
  {
   "id": "col-116",
@@ -1328,7 +1369,8 @@
   "departamento": "Antioquia",
   "lat": 6.244,
   "lng": -75.581,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://fiestadellibroylacultura.com"
  },
  {
   "id": "col-122",
@@ -1471,7 +1513,8 @@
   "departamento": "Caldas",
   "lat": 5.07,
   "lng": -75.513,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "web": "https://festivalnosquedalapalabra.blogspot.com/"
  },
  {
   "id": "col-135",

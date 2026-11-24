@@ -235,10 +235,17 @@
     if (f.web) add(t("f_web"), `<a href="${esc(f.web.startsWith("http") ? f.web : "https://" + f.web)}" target="_blank" rel="noopener">${esc(f.web)}</a>`, true);
     if (f.contacto) add(t("f_contact"), f.contacto);
     const sources = (f.fuentes || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, "").split("/")[0])}</a>`).join(" · ");
+    const photo = f.foto ? `<img class="fest-photo" src="${esc(f.foto)}" alt="${esc(f.nombre)}" loading="lazy" onerror="this.remove()">` : "";
+    const media = [];
+    if (f.facebook) media.push(`<a href="${esc(f.facebook)}" target="_blank" rel="noopener">Facebook</a>`);
+    if (f.youtube) media.push(`<a href="${esc(f.youtube)}" target="_blank" rel="noopener">${f.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
+    const mediaRow = media.length ? `<p class="fest-media">${media.join(" · ")}</p>` : "";
     return `<article class="fest-card" id="dir-${f.id}">
       <div class="fest-card-head"><h3>${esc(f.nombre)}</h3>${badge}</div>
+      ${photo}
       <p class="fest-meta">${esc(f.ciudad_pais_texto || [f.ciudad, f.pais].filter(Boolean).join(", "))}${f.itinerante ? " · " + (LANG === "es" ? "itinerante" : "itinerant") : ""}${f.coord_aprox ? ` <span class="aprox">(${t("approx")})</span>` : ""}</p>
       <dl class="fest-fields">${rows.join("")}</dl>
+      ${mediaRow}
       ${f.nota ? `<p class="homonym-note">${esc(f.nota)}</p>` : ""}
       ${sources ? `<p class="fest-sources">${t("sources")}: ${sources}</p>` : ""}
     </article>`;
@@ -273,7 +280,12 @@
     $("col-list").innerHTML = list.length ? list.map(c => {
       const year = c.anio ? `<span class="col-year">${c.anio}${c.anio_aprox ? "*" : ""}</span> · ` : "";
       const aprox = c.coord_aprox ? ` <span class="aprox">(${t("approx")})</span>` : "";
-      return `<div class="col-item">${year}<strong>${esc(c.nombre)}</strong> — <span class="col-lugar">${esc(c.municipio)} (${esc(c.departamento)})</span>${aprox}</div>`;
+      const m = [];
+      if (c.web) m.push(`<a href="${esc(c.web.startsWith("http") ? c.web : "https://" + c.web)}" target="_blank" rel="noopener">Web</a>`);
+      if (c.facebook) m.push(`<a href="${esc(c.facebook)}" target="_blank" rel="noopener">Facebook</a>`);
+      if (c.youtube) m.push(`<a href="${esc(c.youtube)}" target="_blank" rel="noopener">${c.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
+      const media = m.length ? ` <span class="col-media">${m.join(" · ")}</span>` : "";
+      return `<div class="col-item">${year}<strong>${esc(c.nombre)}</strong> — <span class="col-lugar">${esc(c.municipio)} (${esc(c.departamento)})</span>${aprox}${media}</div>`;
     }).join("") : `<p>${t("no_results")}</p>`;
     $("col-count").textContent = t("showing_col")(list.length, DATA.colombia.length);
   }

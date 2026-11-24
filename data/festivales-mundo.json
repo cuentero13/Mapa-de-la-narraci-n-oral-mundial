@@ -44,7 +44,7 @@
   "ediciones_num": 18,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 20–26 sep 2026.",
-  "web": null,
+  "web": "https://www.insmacc.gob.mx",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -56,7 +56,9 @@
   "completitud": "PARCIAL",
   "lat": 20.522,
   "lng": -100.812,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.celaya.gob.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-1.36.27-PM-1.jpeg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-003",
@@ -85,7 +87,9 @@
   "completitud": "PARCIAL",
   "lat": 20.101,
   "lng": -98.759,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://sic.cultura.gob.mx/images/141317",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-004",
@@ -171,7 +175,8 @@
   "completitud": "PARCIAL",
   "lat": 20.449,
   "lng": -97.328,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://facebook.com/anibalcuentos"
  },
  {
   "id": "mundo-007",
@@ -376,7 +381,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 14.634,
   "lng": -90.506,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://static.wixstatic.com/media/dac7fb_51716f0c7ffc4cb883977dafdf70eabd~mv2.jpg/v1/fill/w_435,h_585,al_c,q_80,enc_avif,quality_auto/PAGINA_W-01.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-014",
@@ -422,7 +429,7 @@
   "ediciones_num": 11,
   "vigencia": "activo",
   "vigencia_texto": "activo. Últimas ediciones: Panamá 18–23 may 2026 y Madrid 14–18 sep 2026.",
-  "web": null,
+  "web": "https://www.centroamericacuenta.com",
   "contacto": null,
   "organiza": null,
   "nota": "es un festival literario general (diálogos, libros, cine, crónicas), no un festival de narración oral escénica; se incluye por ser el principal festival de la palabra de la región. Festival itinerante; fundado en Managua.",
@@ -434,7 +441,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 12.114,
   "lng": -86.236,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Presidente_Bernardo_Ar%C3%A9valo_en_entrevista_%E2%80%9CGuatemala_su_lugar_en_el_mundo%E2%80%9D_Festival_Centroam%C3%A9rica_Cuenta.jpg/1280px-Presidente_Bernardo_Ar%C3%A9valo_en_entrevista_%E2%80%9CGuatemala_su_lugar_en_el_mundo%E2%80%9D_Festival_Centroam%C3%A9rica_Cuenta.jpg",
+  "foto_fuente": "wikimedia",
+  "facebook": "https://www.facebook.com/festivalcac",
+  "youtube": "https://www.youtube.com/@centroamericacuenta",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-016",
@@ -463,7 +475,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 18.466,
   "lng": -66.106,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/festivaldelapalabraoficial"
  },
  {
   "id": "mundo-017",
@@ -480,7 +493,7 @@
   "ediciones_num": 24,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 2026.",
-  "web": "http://www.vivapalabra.com/",
+  "web": "https://vivapalabra.com/",
   "contacto": "Calle 55 # 43-63, Medellín; tel. (604) 4951819 / 313 615 0109; correo corporacionculturalvivapalabra@gmail.com; Instagram @vivapalabracuentos; Facebook \"Vivapalabra Cuentos\".",
   "organiza": "Corporación Cultural Vivapalabra.",
   "nota": "antecedente institucional: el Acuerdo 24 de 1998 del Concejo de Medellín institucionalizó un Festival Anual de Cuenteros desde 1999.",
@@ -495,7 +508,12 @@
   "lat": 6.244,
   "lng": -75.581,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "foto": "https://vivapalabra.com/wp-content/uploads/2022/11/canas-al-cuento-2022-1080-1080-px.png",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/Vivapalabracuenteros",
+  "youtube": "https://www.youtube.com/vivapalabracuenteros",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-018",
@@ -542,7 +560,7 @@
   "ediciones_num": 25,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 2026.",
-  "web": null,
+  "web": "https://elcaribecuenta.com.co/",
   "contacto": "Sala Luneta 50, Carrera 63 # 58-44, Barranquilla.",
   "organiza": "Luneta 50.",
   "nota": null,
@@ -555,7 +573,9 @@
   "lat": 10.968,
   "lng": -74.781,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "foto": "https://elcaribecuenta.com.co/cdn/shop/files/Mesa_de_trabajo_1_copia_58a803ea-be60-4f24-a43e-8063ab8ba7be.png",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-020",
@@ -663,7 +683,7 @@
   "ediciones_num": 25,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 2025.",
-  "web": "https://www.akuentajui.com",
+  "web": "https://akuentajui.com/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -676,7 +696,11 @@
   "lat": 11.24,
   "lng": -74.199,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "foto": "https://static.wixstatic.com/media/821322_01274bf0b9c646c785c220e65af5456b~mv2.png/v1/fill/w_1920,h_1452,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/821322_01274bf0b9c646c785c220e65af5456b~mv2.png",
+  "foto_fuente": "oficial",
+  "youtube": "https://www.youtube.com/@akuentajui",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-024",
@@ -706,7 +730,9 @@
   "lat": 2.934,
   "lng": -75.28,
   "coord_aprox": false,
-  "en_colombia": true
+  "en_colombia": true,
+  "youtube": "https://www.youtube.com/@casateatrocolombia",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-025",
@@ -841,7 +867,7 @@
   "ediciones_num": 13,
   "vigencia": "sin verificar",
   "vigencia_texto": "última edición verificada: 2013. Ediciones posteriores no verificadas.",
-  "web": "https://www.ranaencantada.com",
+  "web": "https://ranaencantada.com/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -878,7 +904,9 @@
   "completitud": "SUSTANCIAL",
   "lat": -0.18,
   "lng": -78.467,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://quitoeterno.org/wp-content/uploads/2025/12/MishkiShimi01-1024x683.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-031",
@@ -895,7 +923,7 @@
   "ediciones_num": 11,
   "vigencia": "inactivo",
   "vigencia_texto": "última edición verificada 2014–2015. Vigencia actual no verificada (probablemente inactivo como festival; Arboleda hoy dirige las Jornadas Internacionales de Oralidad y Docencia \"Todo lo que inventamos es cierto\" y la Beca de formación de narradores orales infantiles).",
-  "web": "http://www.corpoimaginario.com",
+  "web": "https://corpoimaginario.com/",
   "contacto": null,
   "organiza": "Corporación Cultural Imaginario.",
   "nota": null,
@@ -908,7 +936,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -2.196,
   "lng": -79.886,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://corpoimaginario.com/wp-content/uploads/2025/10/2web.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/CorpoImaginario",
+  "youtube": "https://www.youtube.com/channel/UC5ecWsSj7utJ3ZQ7HaliC6A",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-032",
@@ -1047,7 +1080,7 @@
   "ediciones_num": 29,
   "vigencia": "activo",
   "vigencia_texto": "activo — última edición verificada: XXIX, mayo 2026.",
-  "web": null,
+  "web": "https://el-libro.org.ar/",
   "contacto": null,
   "organiza": "Fundación El Libro.",
   "nota": null,
@@ -1163,7 +1196,7 @@
   "ediciones_num": 2,
   "vigencia": "activo",
   "vigencia_texto": "activo — 2026.",
-  "web": null,
+  "web": "https://www.rosario.gob.ar/inicio/ii-maraton-de-cuentos-la-comunidad-en-voz",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -1190,7 +1223,7 @@
   "ediciones_num": 1,
   "vigencia": "sin verificar",
   "vigencia_texto": "",
-  "web": null,
+  "web": "https://feriadellibrorosario.gob.ar",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -1217,7 +1250,7 @@
   "ediciones_num": 8,
   "vigencia": "activo",
   "vigencia_texto": "activo — VIII edición 23 oct–7 nov 2026 (Coquimbo 23–24 oct; Magallanes 26–29 oct; Santiago 30 oct–7 nov).",
-  "web": null,
+  "web": "https://chilecuentos.cl",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -1230,7 +1263,11 @@
   "completitud": "SUSTANCIAL",
   "lat": -33.448,
   "lng": -70.669,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://chilecuentos.cl/wp-content/uploads/2026/09/web-chilecuentos.jpg",
+  "foto_fuente": "oficial",
+  "youtube": "https://www.youtube.com/embed/2EjkdvFN0XA",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-043",
@@ -1258,7 +1295,8 @@
   "completitud": "PARCIAL",
   "lat": -33.047,
   "lng": -71.612,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://facebook.com/people/El-Puerto-Cuenta-el-Cuento/61573229091549/"
  },
  {
   "id": "mundo-044",
@@ -1362,10 +1400,9 @@
   "ediciones_num": 1,
   "vigencia": "activo",
   "vigencia_texto": "activo — I edición realizada en 2025; próxima edición presumiblemente 2027 por ser bienal (no verificado).",
-  "web": "https://artesanasdelapalabra.com/encuentros",
   "contacto": "@artesanasdelapalabra; Instagram de la bienal @bienal_de_oralidad_py.",
   "organiza": null,
-  "nota": null,
+  "nota": "Su web anterior (artesanasdelapalabra.com) ya no resuelve; se retiró el enlace.",
   "fuentes": [
    "https://www.abc.com.py/espectaculos/cultura/2025/07/02/narradores-del-mundo-se-dan-cita-en-paraguay-para-la-primera-bienal-de-oralidad-nanohendu/",
    "https://elnacional.com.py/agenda-cultural/paraguay-acogera-bienal-internacional-oralidad-anohendu-n85095",
@@ -1419,7 +1456,7 @@
   "ediciones_num": 34,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 2026.",
-  "web": "https://maratondeloscuentos.org",
+  "web": "https://maratondeloscuentos.org/es/",
   "contacto": "maratoncuentos@gmail.com · inscripcionescuentos@gmail.com · tel. 949 885 229 · WhatsApp inscripciones 650 785 721.",
   "organiza": "Seminario de Literatura Infantil y Juvenil de Guadalajara (SLIJ).",
   "nota": "el Festival de Narración Oral profesional asociado al Maratón existe desde 1997; su directora citada en 2001 era Estrella Ortiz. El Maratón ha sido dos veces récord Guinness (1993 y 1995) y es Fiesta de Interés Turístico Regional (2018).",
@@ -1432,7 +1469,11 @@
   "completitud": "SUSTANCIAL",
   "lat": 40.633,
   "lng": -3.166,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2021-06-11%2C_30_edici%C3%B3n_del_Marat%C3%B3n_de_Cuentos_de_Guadalajara_-_51241606080.jpg/1280px-2021-06-11%2C_30_edici%C3%B3n_del_Marat%C3%B3n_de_Cuentos_de_Guadalajara_-_51241606080.jpg",
+  "foto_fuente": "wikimedia",
+  "youtube": "https://www.youtube.com/watch?v=5bOV4OPLPHk",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-050",
@@ -1478,7 +1519,7 @@
   "ediciones_num": 30,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 30.ª (2025).",
-  "web": "https://www.cuentoslossilos.es",
+  "web": "https://www.cuentoslossilos.es/",
   "contacto": null,
   "organiza": "Asociación Cultural para el Desarrollo y Fomento de la Lectura y el Cuento.",
   "nota": null,
@@ -1491,7 +1532,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 28.365,
   "lng": -16.814,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/cuentoslossilos",
+  "youtube": "https://www.youtube.com/watch?v=76btEjwswfo",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-052",
@@ -1567,7 +1611,7 @@
   "ediciones_num": 13,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 2026.",
-  "web": "https://festivalatlantica.com",
+  "web": "https://festivalatlantica.gal",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -1578,7 +1622,10 @@
   "completitud": "PARCIAL",
   "lat": 42.88,
   "lng": -8.545,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/festivalatlantica/",
+  "youtube": "https://www.youtube.com/channel/UCybGqXgBwX8oh7HOk0y6HRg",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-055",
@@ -1595,7 +1642,7 @@
   "ediciones_num": 14,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 17.ª (2026).",
-  "web": "https://www.muntdemots.org",
+  "web": "http://www.muntdemots.org/2026/",
   "contacto": null,
   "organiza": "Associació Munt de Paraules y Centre Cívic Pati Llimona.",
   "nota": null,
@@ -1607,7 +1654,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 41.387,
   "lng": 2.168,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/FestivalMuntdeMots",
+  "youtube": "http://www.youtube.com/user/festivalmuntdemots",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-056",
@@ -1624,7 +1674,7 @@
   "ediciones_num": 16,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 17.ª (2025).",
-  "web": "https://dpalabrafestival.com",
+  "web": "https://dpalabrafestival.com/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -1636,7 +1686,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 40.07,
   "lng": -2.137,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://dpalabrafestival.com/wp-content/uploads/2025/02/NRRFST.DPL25_WEB-SES_HOLA-1024x512.png",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-057",
@@ -1653,7 +1705,7 @@
   "ediciones_num": 20,
   "vigencia": "sin verificar",
   "vigencia_texto": "presumiblemente activo; última edición verificada: 20.ª (2024). Ediciones 2025–2026 no verificadas.",
-  "web": "https://www.legolas.com.es",
+  "web": "https://www.legolas.com.es/",
   "contacto": null,
   "organiza": "Ayuntamiento de Alcalá de Henares (Concejalía de Cultura) + Légolas.",
   "nota": null,
@@ -1723,7 +1775,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 38.011,
   "lng": -3.371,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://festivalesdeubeda.com/wp-content/uploads/2022/12/EUSC-cartel-2014.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-060",
@@ -1740,7 +1794,7 @@
   "ediciones_num": 17,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 27.ª (2026).",
-  "web": "https://www.veranodecuento.com",
+  "web": "https://veranodecuento.com/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -1751,7 +1805,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 28.478,
   "lng": -16.436,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://veranodecuento.com/wp-content/uploads/2021/02/dibujo-Verano-de-cuento.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/festivalveranodecuento"
  },
  {
   "id": "mundo-061",
@@ -1768,7 +1825,7 @@
   "ediciones_num": 4,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 2026.",
-  "web": null,
+  "web": "https://segamots.cat/",
   "contacto": "Instagram @segamots.",
   "organiza": null,
   "nota": null,
@@ -1779,7 +1836,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 41.669,
   "lng": 1.272,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://cdnebasnet.com/data/cache/opt_jpg/cms/segamots/uploads/images/5-450182089-1400x1400.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-062",
@@ -1824,7 +1883,7 @@
   "ediciones_num": 18,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 18.ª (2026).",
-  "web": null,
+  "web": "https://palavrasandarilhas.wordpress.com",
   "contacto": "palabrasandarilhas.beja@gmail.com (citado en una agenda de 2010 — antigüedad no verificada).",
   "organiza": "Câmara Municipal de Beja, a través de la Biblioteca Municipal José Saramago.",
   "nota": null,
@@ -1835,7 +1894,8 @@
   "completitud": "PARCIAL",
   "lat": 38.015,
   "lng": -7.863,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/bibliotecamunicipaldebeja"
  },
  {
   "id": "mundo-064",
@@ -1852,10 +1912,9 @@
   "ediciones_num": 8,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 8.ª (2025).",
-  "web": "https://www.festivalpassapalavra.pt",
   "contacto": "festivalpassapalavra@gmail.com · tel. 919 101 938 / 968 923 157 · inscripciones: insc.passapalavra@gmail.com.",
   "organiza": "Município de Oeiras; organizado por Contabandistas de Estórias — Associação Cultural, en colaboración con Chão Nosso, CRL y Ouvir e Contar — Associação de Contadores de Histórias.",
-  "nota": null,
+  "nota": "Su web anterior (festivalpassapalavra.pt) hoy muestra otro contenido; se retiró el enlace.",
   "fuentes": [
    "https://www.festivalpassapalavra.pt/comunicadoimprensa",
    "https://bibliotecas.oeiras.pt/festival-passa-palavra/",
@@ -1922,7 +1981,8 @@
   "completitud": "PARCIAL",
   "lat": 41.233,
   "lng": -8.621,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/bibliotecamaia"
  },
  {
   "id": "mundo-067",
@@ -1995,7 +2055,7 @@
   "ediciones_num": 6,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última actividad conocida: 6–15 nov 2026, \"Primeiro Encontro de Narradores e Narradoras na Serra da Mantiqueira\", celebrando los 25 años.",
-  "web": null,
+  "web": "https://bocadoceu.com.br",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2008,7 +2068,8 @@
   "completitud": "SUSTANCIAL",
   "lat": -23.55,
   "lng": -46.633,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/bocadoceu.encontro.internacional"
  },
  {
   "id": "mundo-070",
@@ -2054,7 +2115,7 @@
   "ediciones_num": 15,
   "vigencia": "activo",
   "vigencia_texto": "activo — 15.ª edición en agosto 2026.",
-  "web": "https://ecoh.art.br",
+  "web": "https://ecoh.art.br/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2065,7 +2126,12 @@
   "completitud": "SUSTANCIAL",
   "lat": -23.304,
   "lng": -51.169,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://ecoh.art.br/wp-content/uploads/2023/07/DSF16691-Tapetes-Contadores-1024x683.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/ecohlondrina/",
+  "youtube": "https://www.youtube.com/channel/UCU0GI-x8fUqixq_fsXnlxtg",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-072",
@@ -2082,7 +2148,7 @@
   "ediciones_num": 15,
   "vigencia": "activo",
   "vigencia_texto": "activo — VI edición en abril 2025.",
-  "web": null,
+  "web": "https://www.ba.gov.br/fpc/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2093,7 +2159,9 @@
   "completitud": "PARCIAL",
   "lat": -12.971,
   "lng": -38.501,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "youtube": "https://www.youtube.com/@fpedrocalmon",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-073",
@@ -2250,7 +2318,7 @@
   "ediciones_num": 20,
   "vigencia": "activo",
   "vigencia_texto": "activo — XIII edición en junio 2025. Edición 2026 no verificada.",
-  "web": null,
+  "web": "https://yosoypurocuento.com/",
   "contacto": null,
   "organiza": null,
   "nota": "No confundir: no es el Festival Internacional Puro Cuento de Costa Rica (fundado 2002) ni el PURO CUENTO de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998).",
@@ -2262,7 +2330,8 @@
   "completitud": "PARCIAL",
   "lat": -12.046,
   "lng": -77.042,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://facebook.com/yosoypurocuento"
  },
  {
   "id": "mundo-079",
@@ -2292,7 +2361,8 @@
   "completitud": "SUSTANCIAL",
   "lat": -12.046,
   "lng": -77.042,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/TodasLasPalabras"
  },
  {
   "id": "mundo-080",
@@ -2320,7 +2390,8 @@
   "completitud": "PARCIAL",
   "lat": -12.046,
   "lng": -77.042,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://facebook.com/people/Narrarte-festival-de-Cuentacuentos/100063754628297/"
  },
  {
   "id": "mundo-081",
@@ -2406,7 +2477,8 @@
   "completitud": "SUSTANCIAL",
   "lat": -17.389,
   "lng": -66.156,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/ATiTeCuento"
  },
  {
   "id": "mundo-084",
@@ -2453,7 +2525,7 @@
   "ediciones_num": 53,
   "vigencia": "activo",
   "vigencia_texto": "activo — 53.ª edición en octubre 2026; ~11.000 asistentes anuales.",
-  "web": "https://www.storytellingcenter.net",
+  "web": "https://www.storytellingcenter.net/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2465,7 +2537,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 36.294,
   "lng": -82.475,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.storytellingcenter.net/wp-content/uploads/2018/04/festival-at-night.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/StorytellingCenter",
+  "youtube": "https://www.youtube.com/user/StorytellingFestival",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-086",
@@ -2482,7 +2559,7 @@
   "ediciones_num": 45,
   "vigencia": "activo",
   "vigencia_texto": "activo — 45.ª edición en 2024. Edición 2025–2026 no verificada.",
-  "web": "https://storytellingtoronto.org",
+  "web": "https://storytellingtoronto.org/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2494,7 +2571,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 43.653,
   "lng": -79.383,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://storytellingtoronto.org/resources/Pictures/Storytent%20Apprentice.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/StorytellingToronto",
+  "youtube": "https://www.youtube.com/@storytellingtoronto",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-087",
@@ -2511,7 +2593,7 @@
   "ediciones_num": 30,
   "vigencia": "activo",
   "vigencia_texto": "activo — es el mayor evento de su tipo en Canadá según su sitio oficial; última edición datada en fuentes: 17–26 oct 2025 (según publicación de Maisons de la culture de Montréal).",
-  "web": "https://festival-conte.qc.ca",
+  "web": "https://festival-conte.qc.ca/",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2523,7 +2605,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 45.501,
   "lng": -73.567,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://festival-conte.qc.ca/wp-content/uploads/Bande10PhotosOuverture_FICM2025_web.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/FestivalConteMontreal",
+  "youtube": "https://www.youtube.com/FestivalConteQC",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-088",
@@ -2540,7 +2627,7 @@
   "ediciones_num": 30,
   "vigencia": "activo",
   "vigencia_texto": "activo — edición 2026 programada (22–28 ago 2026).",
-  "web": "http://www.paroles-conteurs.org/wp-content/uploads/2018/06/prog-PdC2018-pour-mail.pdf",
+  "web": "https://www.paroles-conteurs.org",
   "contacto": "Tel. 06.89.94.85.10 (publicado en Petit Futé; vigencia no verificada).",
   "organiza": null,
   "nota": null,
@@ -2553,7 +2640,10 @@
   "completitud": "PARCIAL",
   "lat": 45.788,
   "lng": 1.871,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/1/11/2018.08.20_Festival_du_conte_de_Vassivi%C3%A8re_%C2%A9jacques_Crouzel.jpg",
+  "foto_fuente": "wikimedia",
+  "facebook": "https://www.facebook.com/profile.php?id=100057358993887"
  },
  {
   "id": "mundo-089",
@@ -2570,7 +2660,7 @@
   "ediciones_num": 41,
   "vigencia": "activo",
   "vigencia_texto": "activo — edición 2026 en curso.",
-  "web": null,
+  "web": "https://www.amac-parole.com",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2580,7 +2670,10 @@
   "completitud": "PARCIAL",
   "lat": 44.62,
   "lng": 4.39,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.amac-parole.com/wp-content/uploads/2026/03/affiche-Paroles-en-festival-2026-petite.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/parole.amac"
  },
  {
   "id": "mundo-090",
@@ -2597,7 +2690,7 @@
   "ediciones_num": 30,
   "vigencia": "activo",
   "vigencia_texto": "activo — 30.ª edición en 2026.",
-  "web": null,
+  "web": "https://amismediatheque82.fr",
   "contacto": null,
   "organiza": null,
   "nota": null,
@@ -2902,7 +2995,7 @@
   "ediciones_num": 18,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: mar 2026; próxima edición: 10 mar 2028.",
-  "web": "https://festivalpurocuento.com",
+  "web": "https://festivalpurocuento.com/",
   "contacto": "info@festivalpurocuento.com",
   "organiza": "Fundación Festival Puro Cuento.",
   "nota": "Festival administrador de este mapa. Asistencia 2026: 10.350 asistentes presenciales y 7.190 en escuelas; acumulado aproximado de 200.000 asistentes en 18 ediciones. No confundir con el «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) ni con el «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima).",
@@ -2914,7 +3007,10 @@
   "administrador": true,
   "lat": 9.928,
   "lng": -84.09,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://festivalpurocuento.com/wp-content/uploads/2023/02/Evento-Los-Cuentos-Viven-la-Plaza-768x432.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/fundacionfestivalpurocuento/"
  },
  {
   "id": "mundo-102",
@@ -2941,7 +3037,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 9.837,
   "lng": -83.865,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "youtube": "https://www.youtube.com/embed/G4dhfFvLEtA",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-103",
@@ -3000,7 +3098,9 @@
   "completitud": "SUSTANCIAL",
   "lat": -1.2921,
   "lng": 36.8219,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.zamaleoact.org/data/files/stageperformance.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-105",
@@ -3017,7 +3117,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Próxima edición anunciada: octubre de 2027 (según guía de viajes; fecha y sede por confirmar).",
-  "web": null,
+  "web": "https://www.storymojafestival.co.ke",
   "contacto": null,
   "organiza": "Storymoja Publishers",
   "nota": "Festival literario nacido como festival de narración oral («Storymoja Nyama Choma Storytelling Festival»); el cuento, la poesía y la narración para niños siguen en su programa. Fue Storymoja Hay Festival (2009-2013) en alianza con el Hay Festival.",
@@ -3029,7 +3129,10 @@
   "completitud": "SUSTANCIAL",
   "lat": -1.2921,
   "lng": 36.8219,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/5/53/Storymoja_Hay_Festival_%287998757049%29.jpg",
+  "foto_fuente": "wikimedia",
+  "facebook": "https://www.facebook.com/story.moja/"
  },
  {
   "id": "mundo-106",
@@ -3046,7 +3149,7 @@
   "ediciones_num": 7,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 7 nov 2026 (7.ª Mainstage).",
-  "web": null,
+  "web": "https://themoth.org",
   "contacto": null,
   "organiza": "The Moth (organización sin ánimo de lucro, EE. UU.)",
   "nota": "No es un festival en sentido estricto, sino una serie recurrente de veladas de narración personal en vivo (historias reales, sin notas). Se ficha por ser la plataforma de narración oral en vivo más estable de Nairobi, con talleres de The Moth en Kenia desde hace casi 15 años.",
@@ -3057,7 +3160,10 @@
   "completitud": "PARCIAL",
   "lat": -1.2921,
   "lng": 36.8219,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/TheMoth",
+  "youtube": "https://www.youtube.com/TheMoth",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-107",
@@ -3086,7 +3192,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 0.3476,
   "lng": 32.5825,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "youtube": "https://www.youtube.com/watch?v=Sv9nAvKO8sQ",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-108",
@@ -3131,7 +3239,7 @@
   "ediciones_num": 12,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 13-19 jul 2026 (12.ª).",
-  "web": null,
+  "web": "https://www.ubumuntuartsfestival.com/",
   "contacto": null,
   "organiza": null,
   "nota": "Festival de artes (teatro, música, literatura) centrado en la memoria, la sanación y la humanidad compartida; la narración oral es una de sus líneas programáticas (Día de la Literatura), no el tema exclusivo. «Ubumuntu» significa «ser humano».",
@@ -3170,7 +3278,9 @@
   "completitud": "SUSTANCIAL",
   "lat": -1.9403,
   "lng": 29.8739,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.umuragebooksfestival.org/cms/upload/6a4e357457d7c.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-111",
@@ -3309,7 +3419,8 @@
   "completitud": "PARCIAL",
   "lat": 3.848,
   "lng": 11.502,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/profile.php?id=100064520089744"
  },
  {
   "id": "mundo-116",
@@ -3477,7 +3588,8 @@
   "completitud": "SUSTANCIAL",
   "lat": -17.8252,
   "lng": 31.0335,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/litfestharare"
  },
  {
   "id": "mundo-122",
@@ -3555,7 +3667,7 @@
   "ediciones_num": 2,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: II, oct 2026 (convocatoria verificada).",
-  "web": null,
+  "web": "https://www.thetab.org.za",
   "contacto": null,
   "organiza": "TAB NPC",
   "nota": "Convocatoria de participantes (narradores, artistas, talleristas y puestos de mercado) verificada en formulario Jotform. Sede exacta dentro de Johannesburgo sin verificar.",
@@ -3565,7 +3677,8 @@
   "completitud": "PARCIAL",
   "lat": -26.2041,
   "lng": 28.0473,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/TABNPC"
  },
  {
   "id": "mundo-125",
@@ -3609,7 +3722,7 @@
   "ediciones_num": 2,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: II, 23-28 nov 2026.",
-  "web": null,
+  "web": "https://kvinc.org/events/botswana-poetry-festival-2026/",
   "contacto": null,
   "organiza": "Maruping Poetry Organisation",
   "nota": "Festival internacional de poesía (palabra hablada / poesía oral). Se ficha por ser poesía oral escénica con intercambio cultural; no es un festival de cuento tradicional.",
@@ -3677,7 +3790,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 31.6295,
   "lng": -7.9811,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/WorldStorytellingCafe",
+  "youtube": "https://www.youtube.com/embed/dFBOgsHFFKk",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-129",
@@ -3722,7 +3838,7 @@
   "ediciones_num": 7,
   "vigencia": "sin verificar",
   "vigencia_texto": "por confirmar. Última edición verificada: 7.ª ed. (marzo). No se verificó edición posterior.",
-  "web": null,
+  "web": "https://afca-arts.com/",
   "contacto": null,
   "organiza": "AFCA for Arts and Culture",
   "nota": "'Hakawy' significa 'cuentos' en árabe. Festival infantil de narración a través del teatro, la música, la danza y las artes visuales, con compañías de EE. UU., Reino Unido, Francia, Países Bajos, Alemania y Egipto.",
@@ -3834,7 +3950,7 @@
   "ediciones_num": 16,
   "vigencia": "sin verificar",
   "vigencia_texto": "por confirmar. Última edición verificada: 16.ª ed., septiembre de 2020. No se verificó edición posterior.",
-  "web": "http://www.fesconte.populus.ch",
+  "web": "http://www.fesconte.populus.ch/",
   "contacto": null,
   "organiza": "Ensemble Culturel les Griots Noirs du Togo, con la Compagnie Belerrance (Francia)",
   "nota": "Registrado por UNESCO como experiencia de patrimonio vivo durante la pandemia. Objetivo: salvaguardar y promover el cuento en Togo, África y el mundo.",
@@ -3844,7 +3960,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.1375,
   "lng": 1.2228,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "http://images.populus.ch/pixdir/fe/fesconte/IMGA.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-135",
@@ -3984,7 +4102,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.3703,
   "lng": 2.3912,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "facebook": "https://www.facebook.com/KatoulatiFestival"
  },
  {
   "id": "mundo-140",
@@ -4141,10 +4260,9 @@
   "ediciones_num": 1,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 1.ª ed., 11-13 diciembre 2026.",
-  "web": "https://amplehouse.net/storyfest",
   "contacto": null,
   "organiza": "AMPLE House (Ample House Productions); avalado por la Ghana Tourism Authority y el Ministerio de Turismo, Cultura y Artes Creativas, dentro del programa December in GH 2026",
-  "nota": "Festival familiar de narración ghanesa en todas sus formas: libros, teatro, comida, moda, arte, patrimonio y turismo; seis zonas temáticas, Youth Story Zone y concurso 'Pitch Your Story' (contrato editorial de USD 5.000).",
+  "nota": "Festival familiar de narración ghanesa en todas sus formas: libros, teatro, comida, moda, arte, patrimonio y turismo; seis zonas temáticas, Youth Story Zone y concurso 'Pitch Your Story' (contrato editorial de USD 5.000). Su web anterior (amplehouse.net/storyfest) ya no resuelve; se retiró el enlace.",
   "fuentes": [
    "https://ghanaguardian.com/storyfest-ghana-to-bring-three-day-celebration-of-books-and-culture-to-accra/",
    "https://ghananewsonline.com.gh/storyfest-ghana-ghanas-first-national-literacy-creative-arts-festival-comes-to-accra/",
@@ -4170,7 +4288,7 @@
   "ediciones_num": 14,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 14.ª ed., 19-21 noviembre 2026.",
-  "web": null,
+  "web": "https://www.akefestival.org/",
   "contacto": null,
   "organiza": "Book Buzz Foundation",
   "nota": "Festival literario (no exclusivamente de narración oral) incluido por su programación central de narración: celebra el conocimiento indígena africano, las lenguas y la transmisión oral. Es el principal encuentro literario de África según la prensa nigeriana.",
@@ -4181,7 +4299,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 6.5244,
   "lng": 3.3792,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "youtube": "https://www.youtube.com/watch?v=Nv7RfcOaNNs",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-147",
@@ -4238,7 +4358,8 @@
   "completitud": "PARCIAL",
   "lat": 14.9167,
   "lng": -23.6047,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/profile.php?id=61588202052513"
  },
  {
   "id": "mundo-149",
@@ -4266,7 +4387,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 12.3714,
   "lng": -1.5197,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://babavillage.net/assets/images/gallery/baba2.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-150",
@@ -4356,7 +4479,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 35.8242,
   "lng": 127.148,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/sorifestival"
  },
  {
   "id": "mundo-153",
@@ -4493,7 +4617,7 @@
   "ediciones_num": 6,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición celebrada: 5.ª, 13-15 de junio de 2025; 6.ª anunciada para el 19-21 de junio de 2026.",
-  "web": null,
+  "web": "https://zegfoundation.com/",
   "contacto": null,
   "organiza": "Impact Hub Tbilisi y Coda Story",
   "nota": "ADVERTENCIA DE ALCANCE: ZEG es un festival de narración contemporánea y mediática (periodismo, cine, fotografía, activismo, testimonio personal; «ZEG» significa «pasado mañana» en georgiano), NO de tradición oral folclórica. Se incluye como festival de narración con sede verificada, pero no debe presentarse como festival de cuentería tradicional; Georgia queda sin festival de tradición oral verificado (ver menciones).",
@@ -4562,7 +4686,9 @@
   "completitud": "PARCIAL",
   "lat": 42.5228,
   "lng": 72.2427,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/6/66/Manas_Ordo_near_Talas.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "mundo-160",
@@ -4616,7 +4742,9 @@
   "completitud": "PARCIAL",
   "lat": 62.0355,
   "lng": 129.6755,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "youtube": "https://www.youtube.com/watch?v=Lo_YgFu-OsA",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-162",
@@ -4633,7 +4761,7 @@
   "ediciones_num": 3,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 3.ª, 25 de febrero-15 de marzo de 2026.",
-  "web": null,
+  "web": "https://hayyjameel.org",
   "contacto": null,
   "organiza": "Art Jameel (Hayy Jameel), en colaboración con la Arab Puppet Theatre Foundation",
   "nota": "Programa anual de Ramadán, NO un festival independiente: reinterpreta al hakawati (narrador tradicional árabe) con títeres, teatro de sombras, actuaciones en vivo, talleres y espacios interactivos, a partir de cuentos populares del Hiyaz. Es la única actividad anual de narración oral con nombre, ciudad y ediciones verificables encontrada en Arabia Saudí.",
@@ -4702,7 +4830,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 28.6139,
   "lng": 77.209,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Giriraj_Singh%2C_the_Minister_of_State_for_Home_Affairs%2C_Shri_Kiren_Rijiju_and_other_dignitaries_at_the_inauguration_of_the_three_day_%E2%80%98Kathakar_International_Storytellers_Festival%E2%80%99%2C_in_New_Delhi.jpg/1280px-thumbnail.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "mundo-165",
@@ -4719,7 +4849,7 @@
   "ediciones_num": 8,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición celebrada: 9-11 ene 2026 (7.ª); 8.ª edición anunciada para 8-10 ene 2027.",
-  "web": null,
+  "web": "https://www.udaipurtales.com",
   "contacto": null,
   "organiza": "Udaipur Tales Pvt. Ltd. / My Anchor Foundation (según prensa local 2020)",
   "nota": "Festival dedicado exclusivamente a la narración oral (no es un festival literario): cuento contemporáneo, folclore, dastangoi, historia, misterio y sátira. Segmento 'Honours Unveiled' (desde la 5.ª ed.) homenajea a maestros narradores.",
@@ -4732,7 +4862,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 24.5854,
   "lng": 73.7125,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.udaipurtales.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-01-at-13.30.28_0cbe8e71.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/UdaipurTales"
  },
  {
   "id": "mundo-166",
@@ -4749,7 +4882,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: debut en Colombo (Sri Lanka) en 2024; edición Delhi anual en noviembre.",
-  "web": null,
+  "web": "https://www.bookaroo.in",
   "contacto": null,
   "organiza": "Bookaroo Trust (Delhi)",
   "nota": "Festival de literatura infantil, NO exclusivamente de narración oral: la narración de cuentos (storytelling bajo el baniano, dramatizaciones, Qissebaazi) es uno de sus ejes. Se incluye por su peso en narración oral infantil y su carácter itinerante. Ganó el International Excellence Award de la London Book Fair 2017.",
@@ -4761,7 +4894,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 28.6139,
   "lng": 77.209,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/bookaroolitfest"
  },
  {
   "id": "mundo-167",
@@ -4778,7 +4912,7 @@
   "ediciones_num": 1,
   "vigencia": "activo",
   "vigencia_texto": "activo. 1.ª edición celebrada 16-18 ene 2026; sin 2.ª edición verificada aún.",
-  "web": null,
+  "web": "https://bhopalstoryfest.com",
   "contacto": null,
   "organiza": "Bharat Storytellers en colaboración con Pristine Experience; presentado por Delhi Public School (Bhopal)",
   "nota": "Cuento popular, mitología, narración histórica, musical y visual, y formatos nuevos (astronomía, IA). Ficha PARCIAL: festival muy reciente, una sola edición documentada.",
@@ -4865,7 +4999,7 @@
   "ediciones_num": 1,
   "vigencia": "sin verificar",
   "vigencia_texto": "por confirmar. Una sola edición documentada (2025); sin 2.ª edición verificada.",
-  "web": null,
+  "web": "https://saarcculture.org",
   "contacto": null,
   "organiza": "SAARC Cultural Centre, en colaboración con la Colombo Public Library",
   "nota": "Festival infantil centrado en cuentos populares sudasiáticos: narración de cuentos, talleres y participación de niños de los 9 países SAARC. Ficha PARCIAL: una sola edición conocida.",
@@ -4952,7 +5086,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: 3-4 oct 2026 (gratuita, Biblioteca de Yakarta, Cikini).",
-  "web": null,
+  "web": "https://klubdongeng.id",
   "contacto": null,
   "organiza": "Klub Dongeng (colectivo de narración de Yakarta)",
   "nota": "Fiesta anual comunitaria de narración para niños y familias, con un tema social/ambiental cada año. Ficha PARCIAL: no se verificaron fundadores ni número de ediciones.",
@@ -5019,7 +5153,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 1.3521,
   "lng": 103.8198,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://storyfestsg.com/assets/2026/img/festival-p.webp",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/StoryFestSG",
+  "youtube": "https://www.youtube.com/embed/aedop6EDTKo",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-176",
@@ -5036,7 +5175,7 @@
   "ediciones_num": 7,
   "vigencia": "inactivo",
   "vigencia_texto": "no activo. Última edición documentada: 1-5 sep 2012. Sucedido por StoryFest (2017, ver asia-ss-012).",
-  "web": null,
+  "web": "https://storyfestsg.com",
   "contacto": null,
   "organiza": "National Book Development Council of Singapore",
   "nota": "Predecesor histórico de StoryFest. Celebraba cuentos asiáticos con narradores internacionales y el Asian Congress of Storytellers. Año de fundación inferido de 'séptimo año en 2012', no confirmado en texto explícito.",
@@ -5047,7 +5186,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 1.3521,
   "lng": 103.8198,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://storyfestsg.com/assets/2026/img/festival-p.webp",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/storyfestsg/",
+  "youtube": "https://www.youtube.com/@StoryFestSingapore",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-177",
@@ -5076,7 +5220,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 14.5794,
   "lng": 120.9822,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/harayafestival"
  },
  {
   "id": "mundo-178",
@@ -5093,7 +5238,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Festival anual (24 ene-2 feb); última edición con fecha específica no verificada en las fuentes consultadas.",
-  "web": null,
+  "web": "https://www.municipalityofcalinog.com",
   "contacto": null,
   "organiza": "Parroquia de la Inmaculada Concepción y gobierno local de Calinog",
   "nota": "'Suguidanonay' significa narración (en hiligueino). El festival escenifica por capítulos el épico oral Hinilawod (más de 28.000 versos) del pueblo indígena Panay Bukidnon (Sulod), con cantores (manunuguids) y danza binanog. El Hinilawod está inscrito en el Registro Memoria del Mundo de UNESCO (grabaciones). Festival religioso-cultural, no solo de narración, pero la narración épica es su núcleo identitario.",
@@ -5105,7 +5250,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 11.13,
   "lng": 122.5,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hirinugyaw-Suguidanonay_Festival_02.jpg/1280px-Hirinugyaw-Suguidanonay_Festival_02.jpg",
+  "foto_fuente": "wikimedia",
+  "facebook": "https://www.facebook.com/people/Hirinugyaw-Suguidanonay-Festival/61566994119156/"
  },
  {
   "id": "mundo-179",
@@ -5122,7 +5270,7 @@
   "ediciones_num": 11,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: 11.ª, 16 feb 2024.",
-  "web": null,
+  "web": "https://ilocosnorte.ph/tanok/",
   "contacto": null,
   "organiza": "Gobierno Provincial de Ilocos Norte",
   "nota": "Festival de festivales: los 23 municipios y ciudades de la provincia presentan sus tradiciones, folclore, historia y medios de vida mediante narración a través de danza, música y artes. La edición 2024 giró en torno a las tradiciones orales ilocanas (dallot, canto tradicional).",
@@ -5132,7 +5280,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 18.1986,
   "lng": 120.5924,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/INorteFestivalofFestivals"
  },
  {
   "id": "mundo-180",
@@ -5236,7 +5385,7 @@
   "ediciones_num": 19,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 19.ª, julio 2026, ~10.000 asistentes.",
-  "web": "https://www.hargeysabookfair.com",
+  "web": "https://www.hargeysabookfair.com/",
   "contacto": null,
   "organiza": "Redsea Cultural Foundation / Hargeysa Cultural Centre",
   "nota": "Somalilandia: Estado autodeclarado, sin reconocimiento internacional. Feria del libro, no festival de narración oral puro, pero fundada expresamente para preservar la tradición oral somalí (poesía gabay, narración, teatro) y así lo declara su historia oficial (Rift Valley Institute). Es el mayor evento cultural del Cuerno de África.",
@@ -5250,7 +5399,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 9.56,
   "lng": 44.065,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/ASC_Leiden_-_van_de_Bruinhorst_Collection_-_Somaliland_2019_-_4346_-_Large_billboard_on_a_street_advertising_the_Hargeysa_12th_International_Book_Fair_20-25_July_2019%2C_Somaliland.jpg/1280px-thumbnail.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "mundo-184",
@@ -5394,7 +5545,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 62.01,
   "lng": -6.77,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://static.wixstatic.com/media/91acff_9a83ed9391ce449788514731d177f167~mv2.jpg/v1/fill/w_839,h_311,al_c,lg_1,q_80,enc_avif,quality_auto/91acff_9a83ed9391ce449788514731d177f167~mv2.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-189",
@@ -5440,7 +5593,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 21-31 octubre 2026.",
-  "web": "https://www.sisf.org.uk",
+  "web": "https://www.sisf.org.uk/",
   "contacto": null,
   "organiza": "TRACS / Scottish Storytelling Centre",
   "nota": "Descrito por sus organizadores como la mayor celebración mundial de la narración oral; inspirado en la tradición del ceilidh escocés.",
@@ -5452,7 +5605,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 55.9533,
   "lng": -3.1883,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.sisf.org.uk/wp-content/uploads/2026/11/DSC02837_Edit-1-1024x683.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/ScotStoryFest"
  },
  {
   "id": "mundo-191",
@@ -5497,7 +5653,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 17-19 julio 2026.",
-  "web": "https://www.festivalattheedge.org",
+  "web": "https://www.festivalattheedge.org/",
   "contacto": "info@festivalattheedge.org",
   "organiza": null,
   "nota": "Descrito como el festival de narración oral más antiguo de Inglaterra y el mayor del Reino Unido en su género.",
@@ -5509,7 +5665,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 52.191,
   "lng": -2.505,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://www.festivalattheedge.org/wp-content/uploads/Bromyard_Trees-and-Path-photo-1030x773.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/fatestorytelling"
  },
  {
   "id": "mundo-193",
@@ -5526,7 +5685,7 @@
   "ediciones_num": 32,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición verificada: 5-7 septiembre 2025 (31.ª); premio National Lottery Good Cause Legends 2026.",
-  "web": "https://capeclearstorytelling.com",
+  "web": "https://capeclearstorytelling.com/",
   "contacto": null,
   "organiza": null,
   "nota": "Creado para mantener viva la tradición irlandesa de narración oral; sesiones en inglés e irlandés, en casas de la isla y al aire libre.",
@@ -5538,7 +5697,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 51.433,
   "lng": -9.55,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://capeclearstorytelling.com/wp-content/uploads/2021/04/A-scenic-view-of-Cape-Clear-in-Co.-Cork-24.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/capeclearstorytellingfestival/"
  },
  {
   "id": "mundo-194",
@@ -5555,7 +5717,7 @@
   "ediciones_num": 17,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 7-15 noviembre 2026.",
-  "web": "https://www.mermaidartscentre.ie",
+  "web": "https://www.mermaidartscentre.ie/whats-on/events/category/yarn-storytelling-festival-bray",
   "contacto": null,
   "organiza": "Mermaid Arts Centre",
   "nota": "Festival comunitario sin ánimo de lucro; forma parte de la red Storytellers of Ireland junto a Cape Clear, Glens, Sneem y otros.",
@@ -5596,7 +5758,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 55.864,
   "lng": -4.251,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://i0.wp.com/www.villagestorytelling.org.uk/wp-content/uploads/2024/11/Website-Banner-1-1.png?resize=1280%2C286&ssl=1",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/TheVillageStorytellingCentre"
  },
  {
   "id": "mundo-196",
@@ -5613,7 +5778,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 6-15 noviembre 2026.",
-  "web": null,
+  "web": "https://amsterdamstorytellingfestival.nl",
   "contacto": null,
   "organiza": "Storytelling Centre Amsterdam / Mezrab (entorno)",
   "nota": "Festival internacional en inglés y neerlandés (12 nov dedicado al neerlandés en 2026); del festival nació el Storytelling Centre Amsterdam, ONG independiente desde 2012.",
@@ -5624,7 +5789,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 52.3676,
   "lng": 4.9041,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Opening_Amsterdam_Storytelling_Festival_2022.jpg/1280px-Opening_Amsterdam_Storytelling_Festival_2022.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "mundo-197",
@@ -5653,7 +5820,11 @@
   "completitud": "SUSTANCIAL",
   "lat": 52.52,
   "lng": 13.405,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://erzaehlkunst.com/wp-content/uploads/2024/05/festival_erzaehlkunst_blau-edited-1.png",
+  "foto_fuente": "oficial",
+  "youtube": "https://www.youtube.com/embed/sMbn3Xdl1gA",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-198",
@@ -5670,7 +5841,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última actividad verificada: octubre 2025.",
-  "web": "https://www.geschichtenoase.ch",
+  "web": "https://www.geschichtenoase.ch/",
   "contacto": "info@geschichtenoase.ch",
   "organiza": "International Storytelling Festival Geschichtenoase",
   "nota": "'Oasis urbano de narración': actuaciones en el invernadero florido del Antiguo Jardín Botánico.",
@@ -5709,7 +5880,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 50.8503,
   "lng": 4.3517,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/otourdescontes"
  },
  {
   "id": "mundo-200",
@@ -5726,7 +5898,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: marzo 2026; próxima: 11-14 marzo 2027.",
-  "web": "https://www.fortellerfestivalen.no",
+  "web": "https://www.fortellerfestivalen.no/",
   "contacto": null,
   "organiza": "Fortellersentrum / Fortellerfestivalen",
   "nota": "Festival internacional que celebra, comunica y renueva la tradición oral; sede principal de la narración oral noruega.",
@@ -5737,7 +5909,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 59.9139,
   "lng": 10.7522,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/Fortellerfestivalen/"
  },
  {
   "id": "mundo-201",
@@ -5765,7 +5938,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 56.833,
   "lng": 13.933,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Sagomuseet%2C_Ljungby.jpg/1280px-Sagomuseet%2C_Ljungby.jpg",
+  "foto_fuente": "wikimedia",
+  "facebook": "https://www.facebook.com/sagobygden",
+  "youtube": "https://www.youtube.com/channel/UCs8XGdu86MkBqdr8RUB3OQg",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-202",
@@ -5792,7 +5970,10 @@
   "completitud": "PARCIAL",
   "lat": 60.95,
   "lng": 10.88,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://static.wixstatic.com/media/9cf2a3_d87b5edec29f4e408d3c8bee113e15e7~mv2.jpg/v1/fill/w_2500,h_3333,al_c/9cf2a3_d87b5edec29f4e408d3c8bee113e15e7~mv2.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/profile.php?id=100092327174348"
  },
  {
   "id": "mundo-203",
@@ -5809,7 +5990,7 @@
   "ediciones_num": 21,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 18-22 noviembre 2026.",
-  "web": "https://festiwalopowiadania.pl",
+  "web": "https://festiwalopowiadania.pl/",
   "contacto": null,
   "organiza": "Studnia O. Group (asociación) y Mazovia Institute of Culture (coorganizador desde 2020)",
   "nota": "El evento de narración más importante de Polonia y de Europa Central según sus organizadores; multilingüe (subtítulos e interpretación en escena); incluye la Noche de Cuentos del sábado.",
@@ -5820,7 +6001,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 52.2297,
   "lng": 21.0122,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://festiwalopowiadania.pl/media/2019/09/Festiwal_2019_plakat.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/festiwalopowiadania/"
  },
  {
   "id": "mundo-204",
@@ -5876,7 +6060,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 40.6401,
   "lng": 22.9444,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://action-art.gr/wp-content/uploads/2026/10/1.1-oles_parastaseisMAIN-POSTER-WEB.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-206",
@@ -5958,7 +6144,8 @@
   "completitud": "PARCIAL",
   "lat": 47.569,
   "lng": 18.404,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/holnemvoltmese"
  },
  {
   "id": "mundo-209",
@@ -5985,7 +6172,9 @@
   "completitud": "PARCIAL",
   "lat": 43.62,
   "lng": 17.5,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "youtube": "https://www.youtube.com/watch?v=kXZE321yZjk",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-210",
@@ -6002,7 +6191,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición: 6-8 jun 2025.",
-  "web": "https://australianstorytellers.org.au/conference2025",
+  "web": "https://australianstorytellers.org.au/",
   "contacto": "storynsw@gmail.com",
   "organiza": "Australian Storytelling Guild (NSW) / Australian Storytellers",
   "nota": "Según su web, es la única conferencia internacional en Australia centrada en la tradición y práctica de la narración oral. Sede habitual: St Joseph's, Baulkham Hills, Sídney.",
@@ -6014,7 +6203,8 @@
   "completitud": "PARCIAL",
   "lat": -33.8688,
   "lng": 151.2093,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/australianstorytellersnsw"
  },
  {
   "id": "mundo-211",
@@ -6043,7 +6233,10 @@
   "completitud": "SUSTANCIAL",
   "lat": -35.3167,
   "lng": 150.4333,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://images.squarespace-cdn.com/content/v1/635352ae8cbd8e3dbcc0b3fb/6509f0a8-46f7-40b3-ae13-11ea2da7cd46/Storyfest+2025-Markus-Zusak-Michaela.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/storyfestinc"
  },
  {
   "id": "mundo-212",
@@ -6099,7 +6292,9 @@
   "completitud": "SUSTANCIAL",
   "lat": -6.0833,
   "lng": 145.3867,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Goroka_Show_-_Lastra.jpg/1280px-Goroka_Show_-_Lastra.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "mundo-214",
@@ -6128,7 +6323,9 @@
   "completitud": "SUSTANCIAL",
   "lat": -38.1368,
   "lng": 176.2497,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://kupu.org.nz/cdn/shop/articles/WEB_BLOG_Thumbnail_2025_KUPU_3070_x_1600_px_8_e0cb69e0-8deb-44e3-9ec0-d51d893d8d90_1210x.png?v=1756751369",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-215",
@@ -6184,7 +6381,8 @@
   "completitud": "SUSTANCIAL",
   "lat": 18.5944,
   "lng": -72.3364,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/kontanbatonel"
  },
  {
   "id": "mundo-217",
@@ -6313,7 +6511,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: 26 oct 2025 (Babonneau y Belle Vue); edición 2026 programada para 25 oct 2026.",
-  "web": null,
+  "web": "https://folkresearchcentre.org/heritage-studies/jounen-kweyol/",
   "contacto": null,
   "organiza": "Folk Research Centre (FRC)",
   "nota": "Mayor celebración cultural de Santa Lucía después del jazz: promueve el uso del kwéyòl con música, cocina, artesanía y narración oral (cuentos ancestrales). Se enmarca en las tradiciones de La Rose (Lawoz, 30-31 ago) y La Marguerite (La Magwit, 17 oct), sociedades florales rivales con teatro callejero y sátira.",
@@ -6325,7 +6523,9 @@
   "completitud": "PARCIAL",
   "lat": 14.0101,
   "lng": -60.9875,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://stlucia.org/wp-content/uploads/2026/09/creol-day-creole-heritage-month.webp",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-222",
@@ -6342,7 +6542,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Celebración anual cada 19 de noviembre.",
-  "web": null,
+  "web": "https://www.nationalgarifunacouncil.org",
   "contacto": null,
   "organiza": null,
   "nota": "Celebración de la llegada garífuna a Belice (1832) con recreación del desembarco en canoa (Yurumein), tambores, danza Jankunu y sesiones de narración oral de ancianos (cuentos úraga). La lengua, danza y música garífunas fueron proclamadas por la UNESCO Obra Maestra del Patrimonio Oral e Inmaterial (2001) e inscritas en la Lista Representativa (2008).",
@@ -6354,7 +6554,9 @@
   "completitud": "SUSTANCIAL",
   "lat": 16.9667,
   "lng": -88.2167,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Garifuna_Celebration%2C_19th_November%2C_Dangriga%2C_Belize.jpg/1280px-Garifuna_Celebration%2C_19th_November%2C_Dangriga%2C_Belize.jpg",
+  "foto_fuente": "wikimedia"
  },
  {
   "id": "mundo-223",
@@ -6454,7 +6656,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Desfiles anuales el 26 de diciembre y el 1 de enero. Inscrito por la UNESCO en la Lista Representativa del Patrimonio Cultural Inmaterial (2023).",
-  "web": null,
+  "web": "https://www.bahamas.com/junkanoo",
   "contacto": null,
   "organiza": null,
   "nota": "Festival nacional de Bahamas: desfiles con música, danza, artesanía y narración oral (según UNESCO, los desfiles conservan 'música, actuaciones, narración y artesanía' indígenas). Su nombre se vincula por tradición oral a John Canoe, figura de África occidental. Grupos principales: Valley Boys, Saxons y One Family.",
@@ -6465,7 +6667,9 @@
   "completitud": "PARCIAL",
   "lat": 25.0443,
   "lng": -77.3504,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://tempo.cdn.tambourine.com/windsong/media/junkanoo-header-5f85bb0fe4541.jpg",
+  "foto_fuente": "oficial"
  },
  {
   "id": "mundo-227",
@@ -6482,7 +6686,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: dic 2024-2025 (lanzamiento 2024 en Heritage Square; edición 2025 en curso en diciembre).",
-  "web": null,
+  "web": "https://ninemornings.discoversvg.com",
   "contacto": null,
   "organiza": "SVG Nine Mornings Committee (Ministerio de Cultura, Kingstown)",
   "nota": "Festival navideño único vicentino, de raíz oral: según la tradición oral, deriva de la novena católica de los nueve días antes de Navidad. Actividades de madrugada: baños de mar, serenatas, conciertos callejeros, concursos de villancicos, juegos folclóricos y 'jump-up' de steel band. En 1992 el grupo El Grupo Amistad lo revivió como concierto callejero.",
@@ -6494,7 +6698,10 @@
   "completitud": "SUSTANCIAL",
   "lat": 13.16,
   "lng": -61.2248,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://www.facebook.com/ninemorningsfestival",
+  "youtube": "https://www.youtube.com/watch?v=I5tTcMpwxJo",
+  "youtube_tipo": "video"
  },
  {
   "id": "mundo-228",
@@ -6539,7 +6746,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: 3-4 nov 2026.",
-  "web": null,
+  "web": "https://www.vanuatu.travel/en/about-vanuatu/provinces/tafea/tanna/events-and-festivals-in-tanna/event/60-rom-dance-slow-food-festival",
   "contacto": null,
   "organiza": null,
   "nota": "Festival cultural en Olal con danzas tradicionales (Yeng, Rom Belano, Rom Tamakeh, Roplar), narración oral, demostraciones de magia local y dibujo en arena, método tradicional de transmisión de conocimiento, historia y leyenda. La danza Rom cuenta la lucha eterna del bien contra el mal y evoca a los espíritus ancestrales; los cantos narran historias en dialecto regional.",
@@ -6568,7 +6775,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Celebración anual en julio.",
-  "web": null,
+  "web": "https://www.tongatourism.travel/tonga-stories/post/historic-celebration-ahead-heilala-festival-2026-is-here",
   "contacto": null,
   "organiza": null,
   "nota": "Festival nacional de Tonga en honor a la realeza, con desfiles, danzas (lakalaka, danza y discursos cantados inscrita por la UNESCO en 2008), artesanía y concursos. Es plataforma de narración oral: los ancianos relatan cuentos de historia, leyendas y folclore tonganos; los matāpule (narradores tradicionales) son custodios de los mitos. El lakalaka narra mitos mediante poesía, canto y movimiento.",
@@ -6579,7 +6786,8 @@
   "completitud": "PARCIAL",
   "lat": -21.1393,
   "lng": -175.2049,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "facebook": "https://facebook.com/missheilalapageant"
  },
  {
   "id": "mundo-231",
@@ -6596,7 +6804,7 @@
   "ediciones_num": 1,
   "vigencia": "sin verificar",
   "vigencia_texto": "por confirmar. Última edición documentada: 18 jun 2026.",
-  "web": null,
+  "web": "https://commonwealthfoundation.com/project/in-celebration-of-our-voices/",
   "contacto": null,
   "organiza": "Just Write — Brenda Lee Browne; financiado con una beca de la Commonwealth Foundation",
   "nota": "Festival virtual de narración que celebró las tradiciones orales e historias personales de 22 narradores de Antigua y Barbuda (y un guiño a Dominica), abarcando siete décadas de vida. Documental 'Our Voices' con entrevistas en silla de mimbre. En comentarios se pidió convertirlo en evento anual.",
@@ -6651,7 +6859,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Última edición documentada: oct 2018; el festival se describe como anual.",
-  "web": null,
+  "web": "https://www.gov.bm/articles/gombey-festival",
   "contacto": null,
   "organiza": null,
   "nota": "Festival del Gombey, danza folclórica emblemática de Bermudas (mezcla africana, indígena, caribeña y británica) con máscaras, danza y tambores. Las tradiciones se transmiten oralmente de generación en generación dentro de las troupes; las actuaciones incluyen historias bíblicas, 'freedom dance', 'snake dance' y 'rushing back'. Invitados internacionales en 2018: Shortknee (Granada) y Moko Jumbie (Islas Vírgenes, EE. UU.).",
@@ -6705,7 +6913,7 @@
   "ediciones_num": 1,
   "vigencia": "sin verificar",
   "vigencia_texto": "por confirmar. Última edición documentada: 16 nov 2024.",
-  "web": null,
+  "web": "https://sknis.gov.kn/2024/12/02/griot-brings-traditional-storytelling-experience-to-residents-of-st-kitts-and-nevis/",
   "contacto": null,
   "organiza": "Department of Creative Economy – Cultural Heritage (Gobierno de San Cristóbal y Nieves)",
   "nota": "Velada de narración tradicional al estilo griot de África occidental: el griot Leonard Stapleton narró el Levantamiento de Buckley's (1935), Loughlin Tatem contó historias de jumbies y Kesha Isaac-Adams, cuentos infantiles (Anansi). Ambientación de los años 1940-60, con música (calipso, reggae, soca).",
@@ -6732,7 +6940,7 @@
   "ediciones_num": null,
   "vigencia": "activo",
   "vigencia_texto": "activo. Celebración anual en julio-agosto.",
-  "web": null,
+  "web": "https://www.culturamanevis.com/",
   "contacto": null,
   "organiza": null,
   "nota": "Festival cultural de Nieves: espectáculos de folclore tradicional, masquerade (danzas con tocados de plumas de pavo real), moko jumbies, calipso, teatro y desfile que reescenifica escenas de la historia y el folclore. La narración oral (Anansi, jumbies/duppies, leyendas locales) es parte central de su programación folclórica.",
@@ -6744,7 +6952,12 @@
   "completitud": "SUSTANCIAL",
   "lat": 17.1395,
   "lng": -62.6131,
-  "coord_aprox": false
+  "coord_aprox": false,
+  "foto": "https://www.culturamanevis.com/wp-content/uploads/2026/09/20260804-Culturama-REFiiC-0798.jpg",
+  "foto_fuente": "oficial",
+  "facebook": "https://www.facebook.com/NevisCulturamaFestival",
+  "youtube": "https://www.youtube.com/NevisCulturama",
+  "youtube_tipo": "canal"
  },
  {
   "id": "mundo-237",
