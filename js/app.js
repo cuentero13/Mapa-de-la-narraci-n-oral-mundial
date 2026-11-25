@@ -183,7 +183,7 @@
   function initMap() {
     if (!$("map")) return;
     if (typeof L === "undefined") throw new Error("Leaflet no cargó (CDN no disponible)");
-    map = L.map("map").setView([20, -30], 2);
+    map = L.map("map", { maxBounds: [[-70, -190], [85, 190]], maxBoundsViscosity: 0.8 }).setView([20, -30], 2);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -193,6 +193,12 @@
     mythLayer = L.layerGroup(); // apagada por defecto: solo se añade con el interruptor
 
     refreshMarkers();
+    // Vista inicial: encuadrar los marcadores (el zoom 2 dejaba 2/3 del mapa en gris)
+    try {
+      const b = L.latLngBounds([]);
+      [worldLayer, adminLayer].forEach(layer => layer.eachLayer(l => { if (l.getLatLng) b.extend(l.getLatLng()); }));
+      if (b.isValid()) map.fitBounds(b.pad(0.12), { animate: false, maxZoom: 4 });
+    } catch (e) { /* se queda la vista por defecto */ }
   }
 
   // Colombia integrada en el mapa mundial: sus fichas se muestran con el
@@ -237,7 +243,12 @@
         .bindPopup(colombiaPopup(c)).addTo(worldLayer);
     });
     const n = world.length + col.length;
-    $("map-count").textContent = t("map_showing")(n);
+    const unfiltered = $("filter-country").value === "all" && $("filter-status").value === "all" && $("toggle-world").checked;
+    let sinUbi = 0;
+    if (unfiltered) {
+      sinUbi = DATA.mundo.filter(f => f.lat == null).length + DATA.colombia.filter(c => c.lat == null && !COL_DUP.has(c.id)).length;
+    }
+    $("map-count").textContent = t("map_showing")(n, sinUbi);
     // Capa mítica: separada, apagada por defecto, fuera de los conteos y filtros
     const showMyth = $("toggle-miticos") && $("toggle-miticos").checked;
     if (showMyth && DATA.miticos) {
@@ -263,8 +274,10 @@
         const o = document.createElement("option");
         o.value = p; o.textContent = p; sel.appendChild(o);
       });
-      const oc = document.createElement("option");
-      oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
+      if (!countries.includes("Colombia")) {
+        const oc = document.createElement("option");
+        oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
+      }
     });
     ["filter-country", "filter-status", "toggle-world", "toggle-miticos"].forEach(id => {
       const elM = $(id);
