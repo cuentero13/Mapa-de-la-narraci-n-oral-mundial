@@ -342,7 +342,7 @@ img, video { max-width: 100%; }
   .deco-star { width: 20px; height: 20px; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .deco, .hero-logo, .hero-logo-wrap, .logo-spin, .brand-logo:hover, .admin-logo:hover, .hero-logo:hover { animation: none !important; }
+  .deco, .char, .char *, .hero-logo, .hero-logo-wrap, .logo-spin, .brand-logo:hover, .admin-logo:hover, .hero-logo:hover { animation: none !important; }
 }
 
 /* ---------- Universo + logo que interactúa con el entorno (24-nov-2026, 22:09) ---------- */
@@ -359,3 +359,24 @@ img, video { max-width: 100%; }
 .leaflet-popup-content-wrapper { background: #151D38; color: #fff; }
 .leaflet-popup-tip { background: #151D38; }
 .leaflet-popup-content a { color: #5CC8F5; }
+
+/* Personajes animados de cuentos en el hero (25-nov-2026) */
+.char { position: absolute; pointer-events: none; filter: drop-shadow(0 4px 8px rgba(0,0,0,.35)); }
+.char-narrador { width: 76px; left: 2%; bottom: 3%; animation: char-bob 3.6s ease-in-out infinite; }
+.char-buho { width: 58px; right: 3%; top: 30%; animation: char-bob 4.4s ease-in-out infinite reverse; }
+.char-zorro { width: 68px; right: 7%; bottom: 2%; animation: char-sway 4s ease-in-out infinite; }
+.char-book { transform-box: fill-box; transform-origin: 50% 100%; animation: char-book 2.8s ease-in-out infinite; }
+.char-eyes { transform-box: fill-box; transform-origin: 50% 50%; animation: char-blink 4.8s ease-in-out infinite; }
+.char-wing { transform-box: fill-box; transform-origin: 50% 20%; animation: char-flap 2.6s ease-in-out infinite; }
+.char-tail { transform-box: fill-box; transform-origin: 10% 90%; animation: char-tail 2.4s ease-in-out infinite; }
+@keyframes char-bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+@keyframes char-sway { 0%,100% { transform: rotate(-2deg); } 50% { transform: rotate(2deg) translateY(-4px); } }
+@keyframes char-book { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(.92); } }
+@keyframes char-blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.12); } }
+@keyframes char-flap { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(-7deg); } }
+@keyframes char-tail { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(9deg); } }
+@media (max-width: 720px) {
+  .char-narrador { width: 54px; left: 1%; }
+  .char-buho { width: 42px; right: 2%; top: 24%; }
+  .char-zorro { width: 48px; right: 3%; }
+}
