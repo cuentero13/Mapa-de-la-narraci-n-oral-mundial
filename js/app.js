@@ -323,6 +323,8 @@
       }
       return true;
     });
+    // Por defecto, el Festival Puro Cuento (Costa Rica) va primero.
+    list.sort((a, b) => (a.id === "mundo-101" ? -1 : b.id === "mundo-101" ? 1 : 0));
     const colList = (country === "all" || country === "Colombia") && status === "all"
       ? DATA.colombia.filter(c => !COL_DUP.has(c.id)).filter(c => {
           if (!q) return true;
