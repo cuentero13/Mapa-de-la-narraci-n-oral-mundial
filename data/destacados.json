@@ -1,20 +1,4 @@
 {
- "festival_administrador": {
-  "nombre": "Festival Internacional Puro Cuento",
-  "ciudad": "San José",
-  "pais": "Costa Rica",
-  "lat": 9.928,
-  "lng": -84.09,
-  "fundacion": 2002,
-  "ediciones": 18,
-  "ediciones_texto": "18 ediciones (2002–2026)",
-  "presidente": "Víctor Michael Navarro Hernández",
-  "proxima_edicion": "19.ª edición, 13–21 de marzo de 2027",
-  "asistencia_2026": "10.350 asistentes presenciales y 7.190 en escuelas (2026)",
-  "web": "https://festivalpurocuento.com",
-  "contacto": "info@festivalpurocuento.com",
-  "nota": "Administra este mapa. La cifra de 17 ediciones publicada por Delfino.cr (marzo 2026) no se usa: los registros de la Fundación indican 18."
- },
  "red": {
   "nombre": "Red Internacional de Cuentacuentos (RIC)",
   "web": "https://www.cuentacuentos.eu/",
@@ -34,6 +18,25 @@
   "libro": "Narración oral escénica: El arte de leer el mundo con todo el cuerpo y a viva voz (Editorial Ciudad Gótica, 2011).",
   "web": "https://marcelasabio.com.ar",
   "ficha_ric": "http://cuentacuentos.eu/narradores/miembros/argentina/MarcelaSabio.htm",
-  "advertencia": "Su grupo PURO CUENTO (UNL, Santa Fe, desde 1998) NO es el Festival Internacional Puro Cuento de Costa Rica: son entidades distintas con el mismo nombre."
+  "advertencia": "«PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) y «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima) son entidades distintas del Festival Puro Cuento de Costa Rica, con el mismo nombre. No confundir.",
+  "foto": "https://marcelasabio.com.ar/wp-content/uploads/2024/07/451665222_7835176146566790_451763057423949737_n.jpg",
+  "foto_credito": "sitio web propio de Marcela Sabio",
+  "foto_fuente": "https://marcelasabio.com.ar/xxxv-festival-internacional-de-narracion-oral-cuentalee-mexico-2024/"
+ },
+ "festival_puro_cuento": {
+  "nombre": "Festival Internacional Puro Cuento",
+  "ciudad": "San José",
+  "pais": "Costa Rica",
+  "lat": 9.928,
+  "lng": -84.09,
+  "fundacion": 2002,
+  "ediciones": 18,
+  "ediciones_texto": "18 ediciones (2002–2026)",
+  "presidente": "Víctor Michael Navarro Hernández",
+  "proxima_edicion": "19.ª edición, 13–21 de marzo de 2027",
+  "asistencia_2026": "10.350 asistentes presenciales y 7.190 en escuelas (2026)",
+  "web": "https://festivalpurocuento.com",
+  "contacto": "info@festivalpurocuento.com",
+  "nota": "Festival que impulsa este mapa, junto a la comunidad. La cifra de 17 ediciones publicada por Delfino.cr (marzo 2026) no se usa: los registros de la Fundación indican 18."
  }
 }

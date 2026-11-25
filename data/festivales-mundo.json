@@ -37,7 +37,10 @@
   "cita": [
    "R12",
    "C1"
-  ]
+  ],
+  "foto": "https://www.periodicoenfoque.com.mx/images/notas2019/0719/150719/Festival-Internacional-Cu%C3%A9ntalee-M%C3%A9xico.jpg",
+  "foto_credito": "prensa",
+  "foto_fuente": "https://www.periodicoenfoque.com.mx/cultura?magmadomain=www.periodicoenfoque.com.mx&start=1900"
  },
  {
   "id": "mundo-002",
@@ -67,8 +70,8 @@
   "lat": 20.522,
   "lng": -100.812,
   "coord_aprox": false,
-  "foto": "https://www.celaya.gob.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-1.36.27-PM-1.jpeg",
-  "foto_fuente": "oficial",
+  "foto": "https://bajio.quadratin.com.mx/www/wp-content/uploads/2024/11/celaya2.jpg",
+  "foto_fuente": "https://bajio.quadratin.com.mx/reafirma-alcalde-de-celaya-compromiso-de-apoyar-la-cultura/",
   "relato": {
    "titulo": "El Charro Negro (leyenda de Guanajuato)",
    "texto": "En los caminos solitarios de Guanajuato, al caer la noche, aparece un jinete vestido de negro, montado en un caballo azabache. Es el Charro Negro, un hombre que vendió su alma al diablo a cambio de riqueza y ahora vaga condenado, ofreciendo bolsas de oro a quien se atreva a hablarle. Quien acepta su dinero, dicen, queda atado a él para siempre y nunca vuelve a encontrar el camino a casa.",
@@ -76,7 +79,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "prensa"
  },
  {
   "id": "mundo-003",
@@ -106,8 +110,8 @@
   "lat": 20.101,
   "lng": -98.759,
   "coord_aprox": false,
-  "foto": "https://sic.cultura.gob.mx/images/141317",
-  "foto_fuente": "oficial",
+  "foto": "https://wp.lajornada-hidalgo.prod.andes.news/wp-content/uploads/2022/11/1129-Concluye-Festival-Internacional-de-Narradores-Orales-Cuento-a-cuento-mano-a-mano-en-Pachuca_02.jpg",
+  "foto_fuente": "https://wp.lajornada-hidalgo.prod.andes.news/tag/festival-cuento-a-cuento-mano-a-mano/",
   "relato": {
    "titulo": "Los duendes de Huasca (leyenda de Hidalgo)",
    "texto": "En los bosques y las minas de Huasca, en Hidalgo, viven los duendes: seres pequeños, de sombrero grande y barba larga, que guardan los tesoros escondidos bajo la tierra. Cuentan que se aparecen a los mineros y a los viajeros, les hacen travesuras y les esconden las herramientas. Si alguien los trata con respeto y les deja un poco de comida, los duendes lo ayudan; si los ofende, lo pierden en el monte hasta el amanecer.",
@@ -115,7 +119,8 @@
   },
   "cita": [
    "C2"
-  ]
+  ],
+  "foto_credito": "prensa"
  },
  {
   "id": "mundo-004",
@@ -152,7 +157,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://mazatlaninteractivo.com.mx/wp-content/uploads/2025/11/Concluye-el-Septimo-Festival-de-Cuenta-Historias-El-Guilo-Mentiras-8.jpeg",
+  "foto_credito": "prensa",
+  "foto_fuente": "https://mazatlaninteractivo.com.mx/2025/11/concluye-el-septimo-festival-de-cuenta-historias-el-guilo-mentiras/"
  },
  {
   "id": "mundo-005",
@@ -189,7 +197,10 @@
   },
   "cita": [
    "C3"
-  ]
+  ],
+  "foto": "https://alternativas.culturaleon.com/files/events/Fondo-de-Pantalla.png",
+  "foto_credito": "sitio oficial (Cultura León)",
+  "foto_fuente": "https://alternativas.culturaleon.com/event/festival-internacional-de-cuentacuentos-calzando-palabras-primer-gala-de-cuentacuentos"
  },
  {
   "id": "mundo-006",
@@ -266,7 +277,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://g5noticias.cl/wp-content/uploads/2024/07/Carolina-Diaz-3-scaled.jpeg",
+  "foto_credito": "prensa",
+  "foto_fuente": "https://g5noticias.cl/2024/07/04/actriz-carolina-diaz-es-reconocida-en-cuba-en-el-festival-de-narracion-oral-contarte-2024/"
  },
  {
   "id": "mundo-008",
@@ -304,7 +318,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://oncubanews.com/wp-content/uploads/2021/03/Mayra-1.jpg",
+  "foto_credito": "prensa; EXIF: © 2014 Calixto N. Llanes",
+  "foto_fuente": "https://oncubanews.com/cultura/teatro/celebran-xi-festival-primavera-de-cuentos/"
  },
  {
   "id": "mundo-009",
@@ -341,7 +358,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.isliada.org/static/images/2015/06/narracion-oral.jpg",
+  "foto_credito": "prensa cultural",
+  "foto_fuente": "https://www.isliada.org/comienza-en-cuba-el-festival-internacional-de-narracion-oral/"
  },
  {
   "id": "mundo-010",
@@ -378,7 +398,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://cubarte.cult.cu/media/uploads/2023/07/14/jcb-encuentro-cuentos-para-una-aneja-ciudad-la-habana-1207022-6051_BdmdB5b.jpg",
+  "foto_credito": "portal oficial de cultura (Cubarte)",
+  "foto_fuente": "http://cubarte.cult.cu/periodico-cubarte/cuentos-al-por-mayor-en-la-habana-vieja/"
  },
  {
   "id": "mundo-011",
@@ -452,7 +475,10 @@
   },
   "cita": [
    "C4"
-  ]
+  ],
+  "foto": "https://www.elheraldo.hn/binrepository/467x350/58c0/350d350/none/45933/NVGO/el-21-de-abril-bambu-inicia-el-encue_10514435_20250419125754.jpg",
+  "foto_credito": "prensa",
+  "foto_fuente": "https://www.elheraldo.hn/revistas/siempre/agenda-del-encuentro-internacional-de-cuentacuentos-pa-que-te-cuento-DH25444315"
  },
  {
   "id": "mundo-013",
@@ -482,7 +508,7 @@
   "lng": -90.506,
   "coord_aprox": false,
   "foto": "https://static.wixstatic.com/media/dac7fb_51716f0c7ffc4cb883977dafdf70eabd~mv2.jpg/v1/fill/w_435,h_585,al_c,q_80,enc_avif,quality_auto/PAGINA_W-01.jpg",
-  "foto_fuente": "oficial",
+  "foto_fuente": "https://www.loscomediantes.com/festival",
   "relato": {
    "titulo": "El Sombrerón (leyenda de Guatemala)",
    "texto": "En las calles de Guatemala, de noche, anda el Sombrerón: un hombrecito de sombrero enorme, guitarra en mano y botas con espuelas de plata. Le gusta enamorar a las muchachas de pelo largo y ojos grandes, y les canta serenatas hasta dejarlas enfermas de amor y sin comer. Para espantarlo, las abuelas aconsejan cortarles el pelo a las niñas y poner tijeras bajo la almohada, porque el Sombrerón no soporta el filo del metal.",
@@ -490,7 +516,8 @@
   },
   "cita": [
    "C5"
-  ]
+  ],
+  "foto_credito": "sitio oficial del festival"
  },
  {
   "id": "mundo-014",
@@ -527,7 +554,10 @@
   },
   "cita": [
    "C6"
-  ]
+  ],
+  "foto": "https://vozdeladiaspora.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-4.20.39-PM.jpeg",
+  "foto_credito": "prensa",
+  "foto_fuente": "https://vozdeladiaspora.com/el-arte-de-la-imaginacion-llega-a-el-salvador-con-la-caravana-centroamericana-de-cuentos/"
  },
  {
   "id": "mundo-015",
@@ -557,8 +587,8 @@
   "lat": 12.114,
   "lng": -86.236,
   "coord_aprox": false,
-  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Presidente_Bernardo_Ar%C3%A9valo_en_entrevista_%E2%80%9CGuatemala_su_lugar_en_el_mundo%E2%80%9D_Festival_Centroam%C3%A9rica_Cuenta.jpg/1280px-Presidente_Bernardo_Ar%C3%A9valo_en_entrevista_%E2%80%9CGuatemala_su_lugar_en_el_mundo%E2%80%9D_Festival_Centroam%C3%A9rica_Cuenta.jpg",
-  "foto_fuente": "wikimedia",
+  "foto": "https://assets.laprensagrafica.com/__export/1779484646319/sites/prensagrafica/img/2026/05/22/55278863694_16975062c0_k.jpg_158021514.jpg",
+  "foto_fuente": "https://www.laprensagrafica.com/cultura/centroamerica-se-conto-desde-panama-entre-memoria-migracion-y-literatura-20260522-0058.html",
   "facebook": "https://www.facebook.com/festivalcac",
   "youtube": "https://www.youtube.com/@centroamericacuenta",
   "youtube_tipo": "canal",
@@ -569,7 +599,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "prensa"
  },
  {
   "id": "mundo-016",
@@ -607,7 +638,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.akashicbooks.com/uploads/MayraSantos-Febres-679x800.jpg",
+  "foto_credito": "editorial (página del evento)",
+  "foto_fuente": "http://www.akashicbooks.com/events/mayra-santos-febres-festival-de-la-palabra-old-san-juan-puerto-rico/"
  },
  {
   "id": "mundo-017",
@@ -640,8 +674,8 @@
   "lng": -75.581,
   "coord_aprox": false,
   "en_colombia": true,
-  "foto": "https://vivapalabra.com/wp-content/uploads/2022/11/canas-al-cuento-2022-1080-1080-px.png",
-  "foto_fuente": "oficial",
+  "foto": "https://vivapalabra.com/wp-content/uploads/2024/07/bolivariana-768x768.jpg",
+  "foto_fuente": "https://vivapalabra.com/portfolio-posts/funcion-casa-de-la-cultura-altavista/",
   "facebook": "https://www.facebook.com/Vivapalabracuenteros",
   "youtube": "https://www.youtube.com/vivapalabracuenteros",
   "youtube_tipo": "canal",
@@ -653,7 +687,8 @@
   "duplicado_colombia": "col-033",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "sitio oficial de la Corporación Cultural Vivapalabra"
  },
  {
   "id": "mundo-018",
@@ -664,7 +699,7 @@
   "itinerante": false,
   "fundacion": null,
   "fundacion_texto": null,
-  "fundadores": "grupo gestor que incluyó a Sandra Barrera Ruiz, Francisco \"Pacho\" Centeno, Puno Ardila y Germán Guerrero; con ellos se fundó Corfescu (Corporación Festival de Cuenteros).",
+  "fundadores": "grupo gestor que incluyó a Sandra Barrera Ruiz, Francisco \"Pacho\" Centeno, Puno Ardila Amaya y Germán Guerrero; con ellos se fundó Corfescu (Corporación Festival de Cuenteros).",
   "directores": "Sandra Barrera Ruiz — dirige Corfescu y el festival desde 1998.",
   "ediciones_texto": "20.ª en 2014, 23.ª en 2018, 24.ª en 2019, 25.ª en 2020 (23–30 oct, virtual por pandemia, \"25 años del festival\").",
   "ediciones_num": 20,
@@ -692,7 +727,10 @@
   "duplicado_colombia": "col-013",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.vanguardia.com/resizer/v2/webciudadpalabrbigc4vl275128mg21348278jpg-IQKAH3RE7BBY5P5WU5BXP6IUJM.jpg?auth=66e603ed6d8531089f42a3a93e2a7d3cf920db4289d26365f58a7dd824c04a0a&smart=true&width=1200&height=799&quality=70",
+  "foto_credito": "prensa (Vanguardia, galería 2014)",
+  "foto_fuente": "https://www.vanguardia.com/entretenimiento/galeria/2014/08/23/imagenes-de-la-fiesta-de-abrapalabra-en-bucaramanga/"
  },
  {
   "id": "mundo-019",
@@ -724,8 +762,8 @@
   "lng": -74.781,
   "coord_aprox": false,
   "en_colombia": true,
-  "foto": "https://elcaribecuenta.com.co/cdn/shop/files/Mesa_de_trabajo_1_copia_58a803ea-be60-4f24-a43e-8063ab8ba7be.png",
-  "foto_fuente": "oficial",
+  "foto": "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/inline-images/Mayerlis%20Beltr%C3%A1n.jpg",
+  "foto_fuente": "https://www.radionica.rocks/musica/artistas-colombianos/gran-noche-caribe-una-celebracion-de-mujeres-narradoras-en-la-fiesta-de",
   "relato": {
    "titulo": "El Hombre Caimán (leyenda del Caribe colombiano)",
    "texto": "En el Caribe colombiano cuentan que un pescador de Plato, en el Magdalena, quería espiar a las mujeres que se bañaban en el río y le pidió a un brujo que lo convirtiera en caimán. El hechizo salió a medias: su cuerpo se volvió de caimán, pero su cabeza quedó de hombre. Desde entonces, el Hombre Caimán nada por el río Magdalena buscando a su familia, y los pescadores dicen que aún se le ve asomando la cabeza entre las aguas.",
@@ -734,7 +772,8 @@
   "cita": [
    "C7"
   ],
-  "duplicado_colombia": "col-022"
+  "duplicado_colombia": "col-022",
+  "foto_credito": "prensa pública (RTVC/Radiónica)"
  },
  {
   "id": "mundo-020",
@@ -774,7 +813,10 @@
   "cita": [
    "R15"
   ],
-  "duplicado_colombia": "col-041"
+  "duplicado_colombia": "col-041",
+  "foto": "https://bogota.gov.co/sites/default/files/styles/1050px/public/field/image/Realizan%20en%20Bogot%C3%A1%20el%20Festival%20Internacional%20de%20Cuenteros%20%27Quiero%20cuento%27%20P.jpg",
+  "foto_credito": "portal oficial de la Alcaldía de Bogotá",
+  "foto_fuente": "https://bogota.gov.co/mi-ciudad/bosa/realizan-en-bogota-festival-internacional-de-cuenteros-quiero-cuento"
  },
  {
   "id": "mundo-021",
@@ -813,7 +855,10 @@
   "duplicado_colombia": "col-050",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://republicanaradio.com/wp-content/uploads/2017/07/Festival-de-Cuentos-y-Cuenteros-de-Bogotá-foto-vía-Agora.jpg",
+  "foto_credito": "prensa (Republicana Radio; foto vía Ágora)",
+  "foto_fuente": "https://republicanaradio.com/musica-y-cultura/convocatoria-abierta-participar-festival-cuentos-cuenteros-bogota/"
  },
  {
   "id": "mundo-022",
@@ -852,7 +897,10 @@
   "duplicado_colombia": "col-027",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.usc.edu.co/wp-content/uploads/2023/10/UNICUENT-1.1-768x513.jpeg",
+  "foto_credito": "sitio oficial de la Universidad Santiago de Cali",
+  "foto_fuente": "https://www.usc.edu.co/exito-total-mas-de-2-000-personas-disfrutaron-de-la-magia-literaria-en-la-version-xxvi-de-unicuento/"
  },
  {
   "id": "mundo-023",
@@ -883,8 +931,8 @@
   "lng": -74.199,
   "coord_aprox": false,
   "en_colombia": true,
-  "foto": "https://static.wixstatic.com/media/821322_01274bf0b9c646c785c220e65af5456b~mv2.png/v1/fill/w_1920,h_1452,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/821322_01274bf0b9c646c785c220e65af5456b~mv2.png",
-  "foto_fuente": "oficial",
+  "foto": "https://revistaentornos.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-18-at-2.23.17-PM.jpeg",
+  "foto_fuente": "https://revistaentornos.com/la-palabra-viva-reunio-al-mundo-en-riohacha-durante-el-xxvi-festival-internacional-de-cuenteros-akuentajui/",
   "youtube": "https://www.youtube.com/@akuentajui",
   "youtube_tipo": "canal",
   "relato": {
@@ -895,7 +943,8 @@
   "duplicado_colombia": "col-034",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "prensa regional (Revista EntoRnos)"
  },
  {
   "id": "mundo-024",
@@ -936,7 +985,10 @@
   "cita": [
    "R9"
   ],
-  "duplicado_colombia": "col-048"
+  "duplicado_colombia": "col-048",
+  "foto": "https://lajornadahidalgo.com/resizer/PQMxIPTTUFlkTVmDZBrusbkhDjc=/1200x800/filters:format(webp)/https://wp.lajornada-hidalgo.prod.andes.news/wp-content/uploads/2022/04/CORTESIA.-JORGE-SKINFIELD-7.jpeg",
+  "foto_credito": "prensa (La Jornada Hidalgo; foto de cortesía)",
+  "foto_fuente": "https://lajornadahidalgo.com/contar-cuentos-es-compartir-la-esperanza-jorge-skinfield/"
  },
  {
   "id": "mundo-025",
@@ -947,7 +999,7 @@
   "itinerante": false,
   "fundacion": null,
   "fundacion_texto": null,
-  "fundadores": "fundado por Caza Teatro; directora: Dora Malo (junto a Alberto Borja, \"artífices\" del festival).",
+  "fundadores": "fundado por Caza Teatro; directora: Dora Malo (junto a Alberto Borja († 28-jun-2020), \"artífices\" del festival).",
   "directores": null,
   "ediciones_texto": "V en 2010, X en 2015 (1–5 sep) — anunciada como \"décima y última edición\" del festival (\"Terminamos un ciclo de 15 años trabajando en la ciudad\").",
   "ediciones_num": 1,
@@ -975,7 +1027,10 @@
   "duplicado_colombia": "col-119",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.eluniversal.com.co/resizer/v2/XJGOKAQNG5GC7O4IJIGU5GKNHM.jpg?auth=6de96d97a34ffa48c047e38a0164c521559ea16e6553aa9956e7323c64bbf095&smart=true&width=1200&height=1665&quality=70",
+  "foto_credito": "prensa (El Universal, 2009)",
+  "foto_fuente": "https://www.eluniversal.com.co/cultural/2009/09/01/cartagena-unida-por-el-cuento/"
  },
  {
   "id": "mundo-026",
@@ -1012,7 +1067,10 @@
   "duplicado_colombia": "col-028",
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://90minutos.co/wp-content/uploads/2024/03/%C2%A1Ellas-Cuentan-Encuentro-internacional-de-narradoras-latinoamericanas-en-Cali-.jpg",
+  "foto_credito": "prensa (90 Minutos, 2024)",
+  "foto_fuente": "https://90minutos.co/entretenimiento/ellas-cuentan-encuentro-internacional-de-narradoras-latinoamericanas-en-cali-08-03-2024/amp/"
  },
  {
   "id": "mundo-027",
@@ -1060,7 +1118,7 @@
   "itinerante": false,
   "fundacion": null,
   "fundacion_texto": null,
-  "fundadores": "Mau de Ceballos (María Eugenia Ramos Seijas), el Dr. Segundo Ceballos, su hijo Fidel Ceballos, Elienay (Elianay) González y equipo intergeneracional.",
+  "fundadores": "Mau de Ceballos (María Eugenia Ramos Seijas), el Dr. Segundo Ceballos († jun-2025), su hijo Fidel Ceballos, Elienay (Elianay) González y equipo intergeneracional.",
   "directores": "Elienay González (productor del festival).",
   "ediciones_texto": "XXIX en 2022 (16–23 oct), XXX en 2023 (29 oct–5 nov), XXXII en 2025 (26 oct–4 nov, \"La mujer tiene la palabra\"), XXXIII en 2026 (25 oct–6 nov, \"Palabras, Música y Latidos\"), con más de 60 presentaciones.",
   "ediciones_num": 16,
@@ -1090,7 +1148,10 @@
   },
   "cita": [
    "C8"
-  ]
+  ],
+  "foto": "https://avn.info.ve/wp-content/uploads/2026/10/IMG_2962.jpeg",
+  "foto_credito": "agencia estatal de prensa (AVN, 2026)",
+  "foto_fuente": "https://avn.info.ve/barquisimeto-se-prepara-para-la-clausura-del-festival-internacional-de-la-oralidad/"
  },
  {
   "id": "mundo-029",
@@ -1153,8 +1214,8 @@
   "lat": -0.18,
   "lng": -78.467,
   "coord_aprox": false,
-  "foto": "https://quitoeterno.org/wp-content/uploads/2025/12/MishkiShimi01-1024x683.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://www.ecuraices.com/wp-content/uploads/2026/03/MishkiShimi02-1024x546.webp",
+  "foto_fuente": "https://www.ecuraices.com/cultura/festival-mishki-shimi-2026-convocatoria-narracion-oral/",
   "relato": {
    "titulo": "Cantuña (leyenda de Quito)",
    "texto": "En Quito, cuando se construía la iglesia de San Francisco, el indio Cantuña prometió terminar el atrio en una noche a cambio de su pago. Viendo que no alcanzaría, hizo un pacto con el diablo: las almas de los condenados le ayudarían a colocar las piedras. Al amanecer faltaba una sola piedra, y Cantuña se salvó: el diablo no pudo llevarse su alma. Por eso, cuentan, en el atrio de San Francisco falta una piedra hasta hoy.",
@@ -1162,7 +1223,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "prensa (ECURaices)"
  },
  {
   "id": "mundo-031",
@@ -1193,8 +1255,8 @@
   "lat": -2.196,
   "lng": -79.886,
   "coord_aprox": false,
-  "foto": "https://corpoimaginario.com/wp-content/uploads/2025/10/2web.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://www.eluniverso.com/resizer/v2/RWF6SQQOLNFCXJZGJ3EP6BLGVA.jpg?auth=9e2c21c59a7a5dc013f0c1802dd3f7448f35926679fd9b8b233b037fa2742da8&width=844&height=670&quality=75&smart=true",
+  "foto_fuente": "https://www.eluniverso.com/vida-estilo/2014/08/21/nota/3486661/cerrito-cuentos-estara-3-ciudades/",
   "facebook": "https://www.facebook.com/CorpoImaginario",
   "youtube": "https://www.youtube.com/channel/UC5ecWsSj7utJ3ZQ7HaliC6A",
   "youtube_tipo": "canal",
@@ -1205,7 +1267,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "prensa (El Universo, 2014)"
  },
  {
   "id": "mundo-032",
@@ -1216,7 +1279,7 @@
   "itinerante": false,
   "fundacion": null,
   "fundacion_texto": null,
-  "fundadores": "Maritza Poveda y Elizabeth Pangol Altamirano (\"el proyecto nace como un sueño de la mano de Maritza Poveda y Elizabeth Pangol\").",
+  "fundadores": "Maritza Poveda y Maritza Elizabeth Pangol Altamirano (\"el proyecto nace como un sueño de la mano de Maritza Poveda y Elizabeth Pangol\").",
   "directores": null,
   "ediciones_texto": "6.ª edición en 2019 (16 sep–11 oct, Tungurahua). Coproductor del Mishki Shimi virtual 2021.",
   "ediciones_num": 6,
@@ -1319,7 +1382,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://lavereda.com.ar/wp-content/uploads/2019/09/Cuentacuentos-e1568126007386.jpg",
+  "foto_credito": "prensa (La Vereda)",
+  "foto_fuente": "https://lavereda.com.ar/nueva-edicion-del-festival-internacional-cuentacuentos-palabra-mia/?lang=en"
  },
  {
   "id": "mundo-035",
@@ -1543,7 +1609,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/II-Marat%C3%B3n-de-cuentos.-La-comunidad-en-voz.png.webp?itok=FWbwjXH6",
+  "foto_credito": "sitio oficial municipal (Rosario)",
+  "foto_fuente": "http://www.rosario.gob.ar"
  },
  {
   "id": "mundo-041",
@@ -1578,7 +1647,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.rosarionoticias.gob.ar/library/timthumb/timthumb.php?src=/uploads/fotos/p1fuceg5c6cv6lo745f1kdhl1kc.jpg&h=634&w=950&zc=1",
+  "foto_credito": "prensa oficial municipal (Rosario Noticias)",
+  "foto_fuente": "https://www.rosarionoticias.gob.ar/page/noticias/id/428811/title/Comienza-el-Encuentro-de-Narraci%C3%B3n-Oral-con-la-palabra-como-lugar-del-afecto"
  },
  {
   "id": "mundo-042",
@@ -1609,8 +1681,8 @@
   "lat": -33.448,
   "lng": -70.669,
   "coord_aprox": false,
-  "foto": "https://chilecuentos.cl/wp-content/uploads/2026/09/web-chilecuentos.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://media.biobiochile.cl/wp-content/uploads/2021/07/chilecuentos-e1626376227225.jpeg",
+  "foto_fuente": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2021/07/15/actividades-gratuitas-desde-el-viernes-se-realizara-el-iv-festival-de-narracion-oral-chilecuentos.shtml",
   "youtube": "https://www.youtube.com/embed/2EjkdvFN0XA",
   "youtube_tipo": "video",
   "relato": {
@@ -1620,7 +1692,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "prensa (BioBioChile)"
  },
  {
   "id": "mundo-043",
@@ -1657,7 +1730,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://g5noticias.cl/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-19-at-12.34.05.jpeg",
+  "foto_credito": "prensa (G5 Noticias)",
+  "foto_fuente": "https://g5noticias.cl/2025/11/19/valparaiso-se-llena-de-cuenteras-y-cuenteros-en-el-tercer-festival-de-narracion-oral/"
  },
  {
   "id": "mundo-044",
@@ -1768,7 +1844,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.moopio.com/system/entries/images/003/642/776/original/narradores-se-reuniran-en-asuncion-para-revivir-y-compartir-el-arte-de-contar-cuentos-agencia-ip.png?1684936287",
+  "foto_credito": "cartel oficial (reproducido por Agencia IP / Moopio)",
+  "foto_fuente": "https://www.moopio.com/narradores-se-reuniran-en-asuncion-para-revivir-y-compartir-el-arte-de-contar-cuentos-agencia-ip.html"
  },
  {
   "id": "mundo-047",
@@ -1805,7 +1884,10 @@
   },
   "cita": [
    "C12"
-  ]
+  ],
+  "foto": "https://www.abc.com.py/resizer/v2/IFTGDP3ADVFS3PDOKTNTSITDMQ.JPG?auth=471028175963eded48a245477377f0b17006f7bff7d9eb52d1b548e81ef4a986&width=770&smart=true",
+  "foto_credito": "prensa (ABC Color)",
+  "foto_fuente": "https://www.abc.com.py/espectaculos/cultura/2025/07/02/narradores-del-mundo-se-dan-cita-en-paraguay-para-la-primera-bienal-de-oralidad-nanohendu/"
  },
  {
   "id": "mundo-048",
@@ -1872,8 +1954,8 @@
   "lat": 40.633,
   "lng": -3.166,
   "coord_aprox": false,
-  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2021-06-11%2C_30_edici%C3%B3n_del_Marat%C3%B3n_de_Cuentos_de_Guadalajara_-_51241606080.jpg/1280px-2021-06-11%2C_30_edici%C3%B3n_del_Marat%C3%B3n_de_Cuentos_de_Guadalajara_-_51241606080.jpg",
-  "foto_fuente": "wikimedia",
+  "foto": "https://maratondeloscuentos.org/upload/es/photos/3_medium.jpg",
+  "foto_fuente": "https://maratondeloscuentos.org/es/maraton-cuentos-2016/",
   "youtube": "https://www.youtube.com/watch?v=5bOV4OPLPHk",
   "youtube_tipo": "video",
   "relato": {
@@ -1883,7 +1965,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "web oficial"
  },
  {
   "id": "mundo-050",
@@ -1921,7 +2004,10 @@
   },
   "cita": [
    "R10"
-  ]
+  ],
+  "foto": "https://creativacanaria.com/wp-content/uploads/2026/03/La-narradora-Maricuela-en-una-sesion-de-la-edicion-del-pasado-ano.jpg?x77138",
+  "foto_credito": "prensa",
+  "foto_fuente": "https://maspalomasnews.com/aguimes-celebra-el-festival-de-narracion-oral-mas-antiguo-de-espana-con-seis-narradores-internacionales/"
  },
  {
   "id": "mundo-051",
@@ -1962,7 +2048,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www3.gobiernodecanarias.org/medusa/ecoescuela/cprofes/files/2022/09/festival_cartel_calidad-media-1-724x1024-1.jpeg",
+  "foto_credito": "web institucional (Gobierno de Canarias)",
+  "foto_fuente": "https://www3.gobiernodecanarias.org/medusa/ecoescuela/cprofes/category/cprofes-puerto-del-rosario/comunicacion/?_page=7"
  },
  {
   "id": "mundo-052",
@@ -2037,7 +2126,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://narracionoral.es/images/Calendario_Web/AhozAho26.jpg",
+  "foto_credito": "AEDA (Asociación de Profesionales de la Narración Oral en España)",
+  "foto_fuente": "https://narracionoral.es/index.php/gl/axenda/icalrepeat.detail/2026/03/15/85433/57/ahoz-aho-2026"
  },
  {
   "id": "mundo-054",
@@ -2076,7 +2168,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://santiagoturismo.com/files/full/2024/06/20240621110013_festivalatlantica.jpg",
+  "foto_credito": "turismo municipal",
+  "foto_fuente": "https://santiagoturismo.com/axenda-cultural/atlantica-festival-internacional-de-narracion-oral"
  },
  {
   "id": "mundo-055",
@@ -2116,7 +2211,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://ajuntament.barcelona.cat/ccivics/images/1790950364_Captura%20de%20pantalla%202026-10-02%20161215.jpg",
+  "foto_credito": "Ayuntamiento de Barcelona",
+  "foto_fuente": "https://ajuntament.barcelona.cat/ccivics/fontdelaguatlla/l/25/1192/dates-especials"
  },
  {
   "id": "mundo-056",
@@ -2146,8 +2244,8 @@
   "lat": 40.07,
   "lng": -2.137,
   "coord_aprox": false,
-  "foto": "https://dpalabrafestival.com/wp-content/uploads/2025/02/NRRFST.DPL25_WEB-SES_HOLA-1024x512.png",
-  "foto_fuente": "oficial",
+  "foto": "https://narracionoral.es/images/Calendario_Web/1D73ADE6-9CEC-4106-864C-F4EE246238AB.png",
+  "foto_fuente": "https://narracionoral.es/index.php/en/agenda-en/icalrepeat.detail/2019/02/14/48675/-/xiv-dpalabra-festival",
   "relato": {
    "titulo": "La Cruz del Diablo (leyenda de Cuenca)",
    "texto": "En Cuenca, junto a la ermita de las Angustias, se levanta la Cruz del Diablo. Cuenta la leyenda que un joven enamorado, Diego, paseaba de noche con una hermosa mujer llamada Diana, hasta que descubrió que bajo su vestido tenía patas de cabra: era el mismísimo diablo disfrazado. Aterrorizado, Diego se abrazó a la cruz y el diablo le clavó las garras en la piedra al intentar atraparlo. Dicen que la marca de sus garras aún se ve en la cruz.",
@@ -2155,7 +2253,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "AEDA"
  },
  {
   "id": "mundo-057",
@@ -2192,7 +2291,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.narracionoral.es/images/Calendario_Web/AlcalaCuenta23.jpg",
+  "foto_credito": "AEDA",
+  "foto_fuente": "https://www.narracionoral.es/index.php/gl/axenda/icalrepeat.detail/2023/04/23/83045/-/alcalacuenta-2023"
  },
  {
   "id": "mundo-058",
@@ -2229,7 +2331,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://leoradiofm.com/uploads/blog/resized/600_e58f0ae8d041794391ba987d39d167c6.jpg",
+  "foto_credito": "prensa local",
+  "foto_fuente": "https://leoradiofm.com/es/blog/etiquetas?tags=cultura&page=112"
  },
  {
   "id": "mundo-059",
@@ -2259,8 +2364,8 @@
   "lat": 38.011,
   "lng": -3.371,
   "coord_aprox": false,
-  "foto": "https://festivalesdeubeda.com/wp-content/uploads/2022/12/EUSC-cartel-2014.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://pepbruno.com/images/stories/0_calendario_web/EUSC24.png",
+  "foto_fuente": "https://pepbruno.com (evento \"Cuentos para públicos variados en Úbeda\")",
   "relato": {
    "titulo": "El Lagarto de la Magdalena (leyenda de Jaén)",
    "texto": "En Jaén, junto a la fuente de la Magdalena, vivía un lagarto enorme que se comía a las ovejas y atemorizaba a quienes iban por agua. Un pastor, harto del monstruo, rellenó la piel de un cordero con yesca encendida y se la ofreció al lagarto, que la devoró y murió abrasado por dentro. Otras versiones cuentan que fue un preso condenado a muerte quien mató al lagarto con un saco de pólvora, a cambio de su libertad.",
@@ -2268,7 +2373,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "web del narrador (Pep Bruno)"
  },
  {
   "id": "mundo-060",
@@ -2297,8 +2403,8 @@
   "lat": 28.478,
   "lng": -16.436,
   "coord_aprox": false,
-  "foto": "https://veranodecuento.com/wp-content/uploads/2021/02/dibujo-Verano-de-cuento.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://s3-eu-west-1.amazonaws.com/beta.lagenda/styles/image730x383/s3/images/presentacion-verano-de-cuento-sauzal-2026.jpg?itok=s0FGcd9q",
+  "foto_fuente": "https://lagenda.org/especial/xxvii-verano-de-cuento",
   "facebook": "https://www.facebook.com/festivalveranodecuento",
   "relato": {
    "titulo": "La Virgen de Candelaria (leyenda de Tenerife)",
@@ -2307,7 +2413,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "agenda cultural (La Agenda)"
  },
  {
   "id": "mundo-061",
@@ -2336,8 +2443,8 @@
   "lat": 41.669,
   "lng": 1.272,
   "coord_aprox": false,
-  "foto": "https://cdnebasnet.com/data/cache/opt_jpg/cms/segamots/uploads/images/5-450182089-1400x1400.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://localestudi.cat/wp-content/uploads/2020/12/cartell_segamots.jpg",
+  "foto_fuente": "https://localestudi.cat/portfolio/festival-segamots/",
   "relato": {
    "titulo": "La bruja Margarida (leyenda de Cervera)",
    "texto": "En Cervera, en la Segarra, hay un callejón estrecho que llaman el Carreró de les Bruixes, el callejón de las brujas. Cuenta la leyenda que en el siglo XIII, una mujer llamada Margarida fue acusada de brujería y colgada en ese callejón. Desde entonces, las brujas se reunían allí en las noches de luna llena, y el lugar quedó marcado para siempre. Cada agosto, Cervera celebra el Aquelarre, una fiesta de fuego y diablos en honor a aquella leyenda.",
@@ -2345,7 +2452,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "estudio de diseño del festival"
  },
  {
   "id": "mundo-062",
@@ -2356,7 +2464,7 @@
   "itinerante": false,
   "fundacion": 1994,
   "fundacion_texto": "1994 como FIO (antecedentes: I Muestra Iberoamericana de Narración Oral Escénica 1991; Festival Iberoamericano de Narración Oral Escénica 1992).",
-  "fundadores": "grupo teatral La Carátula (Antonio González Beltrán, fallecido ene-2013); coordinación posterior en manos de su hermano Nazario González Beltrán.",
+  "fundadores": "grupo teatral La Carátula (Antonio González Beltrán, fallecido ene-2013); coordinación posterior en manos de su hermano Nazario González Beltrán († ene-2025).",
   "directores": null,
   "ediciones_texto": null,
   "ediciones_num": null,
@@ -2421,7 +2529,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.cm-beja.pt/util/imgLoader.ashx?w=2471&img=/upload_files/client_id_1/website_id_1/Palavras%20Andarilhas/noite.jpg",
+  "foto_credito": "web municipal (Câmara Municipal de Beja)",
+  "foto_fuente": "https://www.cm-beja.pt/pt/menu/1085/noitesdecontos.aspx"
  },
  {
   "id": "mundo-064",
@@ -2457,7 +2568,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://www.oxigenio.fm/wp-content/uploads/2022/10/Passa-a-Palavra-1-700x350.jpg",
+  "foto_credito": "prensa (Rádio Oxigénio)",
+  "foto_fuente": "https://www.oxigenio.fm/author/radiooxigenio/page/368/"
  },
  {
   "id": "mundo-065",
@@ -2494,7 +2608,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://cimac.pt/wp-content/uploads/2025/09/11ContanrioFestivaldecontoseformasdecontar_1758191470-1120x400.jpg",
+  "foto_credito": "CIMAC (Comunidade Intermunicipal do Alentejo Central)",
+  "foto_fuente": "https://cimac.pt/eventos/11o-contanario-festival-de-contos-e-formas-de-contar/"
  },
  {
   "id": "mundo-066",
@@ -2569,7 +2686,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://ppl.pt/sites/default/files/styles/proj-large/public/projects/img/Copy%20of%20Copy%20of%20P1170766%20-%20Copy.JPG?itok=G4KxLKVe",
+  "foto_credito": "página de micromecenazgo del festival (PPL)",
+  "foto_fuente": "https://ppl.pt/prj/festival-contabandistas"
  },
  {
   "id": "mundo-068",
@@ -2643,7 +2763,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://moemaeregiao.com.br/wp-content/uploads/2024/05/BOCA_DO_CEU_2018_PEDRO_NAPOLITANO_PRATA_028A0336-scaled-e1716222029912.jpg",
+  "foto_credito": "Pedro Napolitano Prata — prensa (Moema e Região)",
+  "foto_fuente": "https://moemaeregiao.com.br/2024/05/20/encontro-de-contadores-de-historias-comeca-hoje-dia-20/"
  },
  {
   "id": "mundo-070",
@@ -2680,7 +2803,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://portalbelohorizonte.com.br/sites/default/files/styles/normal_size/public/arquivos/eventos/2024-08/camila-costa-credito-renato-mangolin-1-1.jpg?itok=eEjfckAr",
+  "foto_credito": "Renato Mangolin (en escena: Camila Costa) — portal oficial de Belo Horizonte",
+  "foto_fuente": "https://portalbelohorizonte.com.br/eventos/mostra/cultural/7a-edicao-candeia-mostra-internacional-de-narracao-artistica"
  },
  {
   "id": "mundo-071",
@@ -2709,8 +2835,8 @@
   "lat": -23.304,
   "lng": -51.169,
   "coord_aprox": false,
-  "foto": "https://ecoh.art.br/wp-content/uploads/2023/07/DSF16691-Tapetes-Contadores-1024x683.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://ecoh.art.br/wp-content/uploads/2026/03/ecohcirculacao_maua_28_2_foto_valeria_felix-5-1-768x532.jpg",
+  "foto_fuente": "https://ecoh.art.br/imprensa/",
   "facebook": "https://www.facebook.com/ecohlondrina/",
   "youtube": "https://www.youtube.com/channel/UCU0GI-x8fUqixq_fsXnlxtg",
   "youtube_tipo": "canal",
@@ -2721,7 +2847,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "Valéria Félix — sitio oficial del ECOH"
  },
  {
   "id": "mundo-072",
@@ -2900,7 +3027,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://dflivre.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-04-at-16.42.44-1536x1023-1.jpeg",
+  "foto_credito": "prensa (DF Livre)",
+  "foto_fuente": "https://dflivre.com/2025/02/05/festival-horizonte-2025-abre-inscricoes-para-contadores-de-historias/"
  },
  {
   "id": "mundo-077",
@@ -2912,7 +3042,7 @@
   "fundacion": 2000,
   "fundacion_texto": "2000 — primer festival en el Centro Cultural de la Pontificia Universidad Católica, como parte del proyecto \"La Aventura de Leer\".",
   "fundadores": "Marissa (Marisa) Amado (Asociación española Palique Cuenteros) y María del Carmen \"Cucha\" del Águila Hidalgo (Asociación Cultural Déjame Que Te Cuente).",
-  "directores": "en 2026 la dirección se atribuye a Cucha del Águila y Mar Amado (hija de Marissa Amado, según el contexto de las fuentes; el parentesco no está verificado en estas fuentes — se consigna solo como aparece el nombre).",
+  "directores": "en 2026 la dirección se atribuye a Cucha del Águila y Marissa Amado («Mar Amado», apócope de Marissa), fundadora/creadora y directora del festival (2000–2017) y fundadora de Palique Cuenteros. Es además socia de MANO (Asociación de narradores orales de Madrid).",
   "ediciones_texto": "XXV edición en agosto 2026 según Mano Alzada (22, 24 y 25 ago 2026, Alianza Francesa). ⚠️ Discrepancia sin resolver: la Agencia Andina, en su nota del 22 ago 2026, la llama \"la número 26\".",
   "ediciones_num": 22,
   "vigencia": "activo",
@@ -2939,7 +3069,10 @@
   },
   "cita": [
    "C9"
-  ]
+  ],
+  "foto": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2026/08/22/001308392W.webp",
+  "foto_credito": "agencia estatal de noticias (Andina, Perú)",
+  "foto_fuente": "https://andina.pe/agencia/noticia-hoy-se-inicia-festival-narracion-oral-dejame-te-cuente-1088716.aspx"
  },
  {
   "id": "mundo-078",
@@ -2959,7 +3092,7 @@
   "web": "https://yosoypurocuento.com/",
   "contacto": null,
   "organiza": null,
-  "nota": "No confundir: no es el Festival Internacional Puro Cuento de Costa Rica (fundado 2002) ni el PURO CUENTO de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998).",
+  "nota": "«PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) y «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima) son entidades distintas del Festival Puro Cuento de Costa Rica, con el mismo nombre. No confundir. «Puro Cuento» es además el nombre de una revista de Mempo Giardinelli (Buenos Aires, 36 ediciones, 1986–1992).",
   "fuentes": [
    "https://andina.pe/AGENCIA/video-todo-que-encontrara-el-rimac-cuando-visite-mistura-43171.aspx/www.iso.org/standard/bit.ly/Procuraduría",
    "https://limaenescena.pe/puro-cuento-en-su-viii-edicion-en-su-viii-edicion/amp/",
@@ -2977,7 +3110,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://ccelima.org/wp/wp-content/uploads/2019/06/Yeniffer-D%C3%ADaz-3-1024x683.jpg",
+  "foto_credito": "Centro Cultural de España en Lima (CCELima)",
+  "foto_fuente": "https://ccelima.org/evento/puro-cuento/"
  },
  {
   "id": "mundo-079",
@@ -3016,7 +3152,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://live.staticflickr.com/5744/21247901933_f6447bc5aa_z.jpg",
+  "foto_credito": "Flickr / blog de Raquel Queizás (fotógrafa)",
+  "foto_fuente": "https://www.raquelqueizas.com/festival-internacional-de-narracion-oral-do-peru-todas-as-palabras-todas-ii/?lang=es"
  },
  {
   "id": "mundo-080",
@@ -3134,7 +3273,10 @@
   "cita": [
    "P3",
    "P12"
-  ]
+  ],
+  "foto": "https://laprensa.bo/sites/default/files/styles/imagen_content/public/portadas/2026-10/fgd.jpg.webp?itok=EHqZLWcQ",
+  "foto_credito": "prensa (La Prensa, Bolivia)",
+  "foto_fuente": "https://laprensa.bo/index.php/apthapi-internacional-de-cuentos-reune-16-narradores"
  },
  {
   "id": "mundo-083",
@@ -3173,7 +3315,10 @@
   "cita": [
    "P9",
    "C10"
-  ]
+  ],
+  "foto": "https://www.opinion.com.bo/media/opinion/images/2025/10/07/2025100722172730433.jpg",
+  "foto_credito": "prensa (Opinión, Cochabamba)",
+  "foto_fuente": "https://www.opinion.com.bo/articulo/cultura/9-anos-tejiendo-historias-festival-internacional-narracion-oral-ti-cuento-vuelve-cochabamba/20251008000032981334.html"
  },
  {
   "id": "mundo-084",
@@ -3211,7 +3356,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://lapaz.metro-blog.com/wp-content/uploads/2019/10/festival-cuentos-en-las-nubes.jpg",
+  "foto_credito": "prensa local (La Paz Metro Blog)",
+  "foto_fuente": "https://lapaz.metro-blog.com/cuentos-en-las-nubes-quinto-festival-internacional-de-cuentacuentos-de-la-ciudad-de-el-alto-2019/"
  },
  {
   "id": "mundo-085",
@@ -3241,8 +3389,8 @@
   "lat": 36.294,
   "lng": -82.475,
   "coord_aprox": false,
-  "foto": "https://www.storytellingcenter.net/wp-content/uploads/2018/04/festival-at-night.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://northeasttennessee.org/wp-content/uploads/2016/09/8fff0f00-91bb-49db-a571-bbbd16d919f6.jpg",
+  "foto_fuente": "https://northeasttennessee.org/9217/",
   "facebook": "https://www.facebook.com/StorytellingCenter",
   "youtube": "https://www.youtube.com/user/StorytellingFestival",
   "youtube_tipo": "canal",
@@ -3253,7 +3401,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "turismo regional / institucional"
  },
  {
   "id": "mundo-086",
@@ -3283,8 +3432,8 @@
   "lat": 43.653,
   "lng": -79.383,
   "coord_aprox": false,
-  "foto": "https://storytellingtoronto.org/resources/Pictures/Storytent%20Apprentice.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://barcodesaturdays.com/wp-content/uploads/2023/05/Toronto-Storytelling-Festival.jpg",
+  "foto_fuente": "https://barcodesaturdays.com/20-things-to-do-in-toronto-this-weekend/",
   "facebook": "https://www.facebook.com/StorytellingToronto",
   "youtube": "https://www.youtube.com/@storytellingtoronto",
   "youtube_tipo": "canal",
@@ -3295,7 +3444,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "blog / prensa local"
  },
  {
   "id": "mundo-087",
@@ -3325,8 +3475,8 @@
   "lat": 45.501,
   "lng": -73.567,
   "coord_aprox": false,
-  "foto": "https://festival-conte.qc.ca/wp-content/uploads/Bande10PhotosOuverture_FICM2025_web.jpg",
-  "foto_fuente": "oficial",
+  "foto": "https://festival-conte.qc.ca/wp-content/uploads/festival-interculturel-du-conte-de-montreal-faubert-banniere-2020-share.jpg",
+  "foto_fuente": "https://festival-conte.qc.ca/",
   "facebook": "https://www.facebook.com/FestivalConteMontreal",
   "youtube": "https://www.youtube.com/FestivalConteQC",
   "youtube_tipo": "canal",
@@ -3337,7 +3487,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "sitio oficial del festival"
  },
  {
   "id": "mundo-088",
@@ -3368,8 +3519,8 @@
   "lat": 45.788,
   "lng": 1.871,
   "coord_aprox": true,
-  "foto": "https://upload.wikimedia.org/wikipedia/commons/1/11/2018.08.20_Festival_du_conte_de_Vassivi%C3%A8re_%C2%A9jacques_Crouzel.jpg",
-  "foto_fuente": "wikimedia",
+  "foto": "https://www.paroles-conteurs.org/wp-content/uploads/2025/12/affiche-PDC-2024vect-1-768x1536.jpg",
+  "foto_fuente": "https://www.paroles-conteurs.org/festival-paroles-de-conteurs/",
   "facebook": "https://www.facebook.com/profile.php?id=100057358993887",
   "relato": {
    "titulo": "La Rigole du Diable (leyenda del Lemosín)",
@@ -3378,7 +3529,8 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto_credito": "web oficial"
  },
  {
   "id": "mundo-089",
@@ -3488,7 +3640,10 @@
   },
   "cita": [
    "M1"
-  ]
+  ],
+  "foto": "https://lafrecciaweb.it/wp-content/uploads/2025/05/IMG_8640-scaled.jpeg",
+  "foto_credito": "prensa (La Freccia Web)",
+  "foto_fuente": "https://lafrecciaweb.it/2025/05/28/raccontami-una-storiatutto-pronto-per-il-festival-internazionale-di-story-telling/"
  },
  {
   "id": "mundo-092",
@@ -3829,7 +3984,7 @@
   "web": "https://festivalpurocuento.com/",
   "contacto": "info@festivalpurocuento.com",
   "organiza": "Fundación Festival Puro Cuento.",
-  "nota": "Festival administrador de este mapa. Asistencia 2026: 10.350 asistentes presenciales y 7.190 en escuelas; acumulado aproximado de 200.000 asistentes en 18 ediciones. No confundir con el «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) ni con el «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima). Contexto: taller online «Palabras que conectan» (2021, Festival Puro Cuento + Germen, CCE Costa Rica) — ver C14; Narratónica Solidaria «Donemos historias, construyamos futuros» (2026, CCE Costa Rica) — ver C15.",
+  "nota": "Festival que impulsa este mapa, junto a la comunidad. Asistencia 2026: 10.350 asistentes presenciales y 7.190 en escuelas; acumulado aproximado de 200.000 asistentes en 18 ediciones. «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) y «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima) son entidades distintas del Festival Puro Cuento de Costa Rica, con el mismo nombre. No confundir. Contexto: taller online «Palabras que conectan» (2021, Festival Puro Cuento + Germen, CCE Costa Rica) — ver C14; Narratónica Solidaria «Donemos historias, construyamos futuros» (2026, CCE Costa Rica) — ver C15. «Puro Cuento» es además el nombre de una revista de Mempo Giardinelli (Buenos Aires, 36 ediciones, 1986–1992).",
   "fuentes": [
    "https://festivalpurocuento.com",
    "https://delfino.cr/2026/03/festival-puro-cuento-vivira-una-nueva-edicion-del-13-al-22-de-marzo",
@@ -3927,7 +4082,10 @@
   },
   "cita": [
    "N1"
-  ]
+  ],
+  "foto": "https://semanariouniversidad.com/og-image/146682.jpg",
+  "foto_credito": "prensa (Semanario Universidad, UCR)",
+  "foto_fuente": "https://semanariouniversidad.com/cultura/alajuela-le-echa-el-cuento-a-la-ciudad/"
  },
  {
   "id": "mundo-104",
@@ -5060,8 +5218,6 @@
   "lat": 6.1375,
   "lng": 1.2228,
   "coord_aprox": false,
-  "foto": "http://images.populus.ch/pixdir/fe/fesconte/IMGA.jpg",
-  "foto_fuente": "oficial",
   "relato": {
    "titulo": "Anansi y la calabaza de la sabiduría (cuento de África Occidental)",
    "texto": "En África Occidental cuentan que Anansi, la araña, reunió toda la sabiduría del mundo en una calabaza para quedársela solo. Intentó esconderla en lo alto de un árbol, atándola delante de él, pero no podía trepar. Su hijo le aconsejó atarla a la espalda, y Anansi, furioso al ver que hasta un niño sabía más que él, soltó la calabaza. Se rompió contra el suelo y la sabiduría se esparció por el mundo.",
@@ -8992,7 +9148,10 @@
    "U5",
    "C13"
   ],
-  "id": "mundo-239"
+  "id": "mundo-239",
+  "foto": "https://www.ucr.ac.cr/medios/fotos/2012/cuentacuentos-00-nov-99.jpg",
+  "foto_credito": "prensa universitaria oficial (UCR)",
+  "foto_fuente": "https://www.ucr.ac.cr/noticias/2012/8/22/cuentos-y-cuenteros-abren-jornadas-de-cultura-en-el-campus.html"
  },
  {
   "nombre": "Festival Las Lobas",
@@ -9022,7 +9181,10 @@
   "cita": [
    "N2"
   ],
-  "id": "mundo-240"
+  "id": "mundo-240",
+  "foto": "https://rendircuentas.rds.hn/images/llb27.webp",
+  "foto_credito": "institucional (RDS Honduras)",
+  "foto_fuente": "https://rendircuentas.rds.hn/fondospublicos/liderazgo/"
  },
  {
   "nombre": "Festival «Cuenta Sueños»",
@@ -9052,7 +9214,10 @@
   "cita": [
    "N3"
   ],
-  "id": "mundo-241"
+  "id": "mundo-241",
+  "foto": "https://revistalumbreras.com/wp-content/uploads/2023/08/IMG_6134-1024x683.jpg",
+  "foto_credito": "prensa (Revista Lumbreras, fuente de la ficha N3)",
+  "foto_fuente": "https://revistalumbreras.com/festival-reunira-narradores-orales-de-cuatro-paises/"
  },
  {
   "nombre": "Encuentro Internacional de Narración Oral Nacozari (EINONAC)",
@@ -9142,7 +9307,10 @@
   "cita": [
    "N6"
   ],
-  "id": "mundo-244"
+  "id": "mundo-244",
+  "foto": "https://www.ellitoral.com/images/2025/05/04/xhysUo9ZX_1300x655__1.jpg",
+  "foto_credito": "prensa (El Litoral, Santa Fe)",
+  "foto_fuente": "https://www.ellitoral.com/escenarios-sociedad/festival-abrazoagua-narradores-culturalturistico_0_T3vDjsOaBI.html"
  },
  {
   "nombre": "Encuentro Cuentero de Los Reartes",
@@ -9202,7 +9370,10 @@
   "cita": [
    "N8"
   ],
-  "id": "mundo-246"
+  "id": "mundo-246",
+  "foto": "https://statics.elnacional.com.py/2025/07/crop/6863d9730ce50__990x990.webp",
+  "foto_credito": "prensa (El Nacional, Paraguay)",
+  "foto_fuente": "https://elnacional.com.py/agenda-cultural/anohendu-2025-gran-maraton-internacional-cuentos-asuncion-alrededores-n88219"
  },
  {
   "nombre": "Festival «Cuentos Breña Alta»",
@@ -9232,7 +9403,10 @@
   "cita": [
    "N9"
   ],
-  "id": "mundo-247"
+  "id": "mundo-247",
+  "foto": "https://www.canal11lapalma.net/wp-content/uploads/2026/11/Festival-de-Cuentos.jpeg",
+  "foto_credito": "prensa local (Canal 11 La Palma)",
+  "foto_fuente": "https://www.canal11lapalma.net/2024/09/03/"
  },
  {
   "nombre": "Festival Internacional de Oralidad «Narrar Enamora»",
@@ -9262,7 +9436,10 @@
   "cita": [
    "N10"
   ],
-  "id": "mundo-248"
+  "id": "mundo-248",
+  "foto": "https://www.teatroprincipal.org/wp-content/uploads/2025/02/NARRAR-ENAMANORA-1.jpg",
+  "foto_credito": "Teatro Principal de Zamora (sede del festival)",
+  "foto_fuente": "https://www.teatroprincipal.org/obra/narrar-enamora-iii-festival-internacional-de-oralidad-3/"
  },
  {
   "nombre": "Parlacuenta",
@@ -9292,7 +9469,10 @@
   "cita": [
    "N11"
   ],
-  "id": "mundo-249"
+  "id": "mundo-249",
+  "foto": "https://lavozdeparla.es/wp-content/uploads/2026/10/parla-cuenta.jpg",
+  "foto_credito": "Violeta Rodríguez Fotografía — prensa local (La Voz de Parla)",
+  "foto_fuente": "https://lavozdeparla.es/parlacuenta/"
  },
  {
   "nombre": "«Palabras Contadas»",
@@ -9322,7 +9502,10 @@
   "cita": [
    "N12"
   ],
-  "id": "mundo-250"
+  "id": "mundo-250",
+  "foto": "https://lpabibliotecas.com/wp-content/uploads/2026/04/programa_palabras_contadas_2026.pdf",
+  "foto_credito": "programa oficial (Biblioteca Insular de Gran Canaria / Bibliotecas Municipales)",
+  "foto_fuente": "https://lpabibliotecas.com/wp-content/uploads/2026/04/programa_palabras_contadas_2026.pdf (programa oficial; nota municipal: https://www.laspalmasgc.es/es/ayuntamiento/prensa-y-comunicacion/notas-de-prensa/nota-de-prensa/La-Red-de-Bibliotecas-Publicas-Municipales-se-une-al-Festival-de-Narracion-Oral-Palabras-contadas/)"
  },
  {
   "nombre": "Festival Internacional de Narración Oral «Memoria, Tierra y Voz»",
@@ -9352,7 +9535,10 @@
   "cita": [
    "N13"
   ],
-  "id": "mundo-251"
+  "id": "mundo-251",
+  "foto": "https://destinocastillayleon.es/index/wp-content/uploads/2026/05/IV-Festival-de-Narracion-Oral-Memoria-Tierra-y-Voz-2026.jpg",
+  "foto_credito": "portal turístico (Destino Castilla y León)",
+  "foto_fuente": "https://destinocastillayleon.es/index/iv-festival-internacional-de-narracion-oral/"
  },
  {
   "nombre": "Noche de Cuentos",
@@ -9382,7 +9568,10 @@
   "cita": [
    "N14"
   ],
-  "id": "mundo-252"
+  "id": "mundo-252",
+  "foto": "https://www.canal4tenerife.tv/wp-content/uploads/2024/10/SAN3081-e1728826036183.jpg",
+  "foto_credito": "© SAN ACOSTA — prensa local (Canal 4 Tenerife); Exif indica copyright SAN ACOSTA",
+  "foto_fuente": "https://www.canal4tenerife.tv/la-magia-de-la-narrativa-vuelve-a-la-laguna-con-la-xxxii-noche-de-los-cuentos/"
  },
  {
   "nombre": "Festival de Narración Oral «Palabras de Invierno»",

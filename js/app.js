@@ -53,7 +53,7 @@
 
   async function init() {
     try {
-      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios] =
+      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro] =
         await Promise.all([
           loadJSON("festivales-mundo.json"),
           loadJSON("colombia.json"),
@@ -66,8 +66,13 @@
           loadJSON("miticos.json"),
           loadJSON("fuentes.json"),
           loadJSON("premios.json"),
+          loadJSON("noticias.json"),
+          loadJSON("eventos.json"),
+          loadJSON("colaboradores.json"),
+          loadJSON("blog.json"),
+          loadJSON("foro.json"),
         ]);
-      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios });
+      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro });
     } catch (e) {
       console.error(e);
       const dl = $("dir-list");
@@ -92,6 +97,11 @@
     renderBooks();
     renderPress();
     renderPremios();
+    renderNoticias();
+    renderEventos();
+    renderColaboradores();
+    renderBlog();
+    renderForo();
     bindLanguage();
   }
 
@@ -145,9 +155,15 @@
     return parts.join("");
   }
 
+  function fotoHtml(f) {
+    if (!f.foto) return "";
+    const cred = f.foto_credito ? `<p class="foto-credito muted">${t("foto_label")}: ${esc(f.foto_credito)}${f.foto_fuente ? ` · <a href="${esc(f.foto_fuente)}" target="_blank" rel="noopener">${t("foto_fuente_label")}</a>` : ""}</p>` : "";
+    return `<img class="fest-photo" src="${esc(f.foto)}" alt="${esc(f.nombre)}" loading="lazy" onerror="this.remove()">${cred}`;
+  }
   function festivalPopup(f) {
     const parts = [];
     parts.push(`<h4>${esc(f.nombre)}</h4>`);
+    parts.push(fotoHtml(f));
     if (f.administrador) parts.push(`<div>★ <a href="#destacado">${t("feat_badge")}</a></div>`);
     parts.push(`<div>${esc(f.ciudad || "")}${f.ciudad && f.pais ? " · " : ""}${esc(f.pais || "")}</div>`);
     if (f.fundacion) parts.push(`<div>${t("founded")} ${f.fundacion}</div>`);
@@ -168,6 +184,7 @@
   function colombiaPopup(c) {
     const parts = [];
     parts.push(`<h4>${esc(c.nombre)}</h4>`);
+    parts.push(fotoHtml(c));
     parts.push(`<div>${esc(c.municipio)} · ${esc(c.departamento)} · Colombia</div>`);
     if (c.anio) parts.push(`<div>${c.anio}${c.anio_aprox ? " *" : ""}</div>`);
     if (c.web) parts.push(`<div><a href="${esc(c.web.startsWith("http") ? c.web : "https://" + c.web)}" target="_blank" rel="noopener">${t("f_web")}</a></div>`);
@@ -370,7 +387,7 @@
     if (f.web) add(t("f_web"), `<a href="${esc(f.web.startsWith("http") ? f.web : "https://" + f.web)}" target="_blank" rel="noopener">${esc(f.web)}</a>`, true);
     if (f.contacto) add(t("f_contact"), f.contacto);
     const sources = (f.fuentes || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, "").split("/")[0])}</a>`).join(" · ");
-    const photo = f.foto ? `<img class="fest-photo" src="${esc(f.foto)}" alt="${esc(f.nombre)}" loading="lazy" onerror="this.remove()">` : "";
+    const photo = fotoHtml(f);
     const media = [];
     if (f.facebook) media.push(`<a href="${esc(f.facebook)}" target="_blank" rel="noopener">Facebook</a>`);
     if (f.youtube) media.push(`<a href="${esc(f.youtube)}" target="_blank" rel="noopener">${f.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
@@ -458,9 +475,34 @@
     const ar = DATA.narradores.filter(n => n.pais === "Argentina");
     $("narr-cr-count").textContent = cr.length;
     $("narr-ar-count").textContent = ar.filter(n => !n.memoria).length;
-    const item = n => `<li>${esc(n.nombre)} <span class="loc">(${esc(n.localidad)})</span>${n.memoria ? ` <span class="tag-unverified">${t("in_memoriam")}</span>` : ""}</li>`;
+    const item = n => {
+      const links = n.enlaces || {};
+      const PL = [["web", "Web"], ["facebook", "Facebook"], ["instagram", "Instagram"], ["youtube", "YouTube"], ["tiktok", "TikTok"], ["x", "X"]];
+      const parts = PL.filter(([k]) => links[k]).map(([k, label]) => `<a href="${esc(links[k])}" target="_blank" rel="noopener">${label}</a>`);
+      (links.otros || []).forEach(o => { if (o && o.url) parts.push(`<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.etiqueta || o.url.replace(/^https?:\/\//, "").split("/")[0])}</a>`); });
+      return `<li>${esc(n.nombre)}${n.localidad ? ` <span class="loc">(${esc(n.localidad)})</span>` : ""}${n.memoria ? ` <span class="tag-unverified">${t("in_memoriam")}</span>` : ""}${parts.length ? ` <span class="narr-links">${parts.join(" · ")}</span>` : ""}</li>`;
+    };
     $("narr-cr").innerHTML = cr.map(item).join("");
     $("narr-ar").innerHTML = ar.map(item).join("");
+    // Otros países (Solicitud 112): perfiles con enlaces verificados fuera de
+    // los listados RIC de Costa Rica y Argentina, agrupados por país; los sin
+    // país verificado van en un grupo aparte al final.
+    const otros = DATA.narradores.filter(n => n.pais !== "Costa Rica" && n.pais !== "Argentina");
+    const porPais = {};
+    otros.forEach(n => { const k = n.pais || ""; (porPais[k] = porPais[k] || []).push(n); });
+    const paises = Object.keys(porPais).filter(Boolean).sort((a, b) => a.localeCompare(b, "es"));
+    const byName = (a, b) => norm(a.nombre).localeCompare(norm(b.nombre), "es");
+    let htmlOtros = "";
+    paises.forEach(p => {
+      const lista = porPais[p].slice().sort(byName);
+      htmlOtros += `<h4 class="subsection">${esc(p)} — ${lista.length}</h4><ul class="narr-list">${lista.map(item).join("")}</ul>`;
+    });
+    if (porPais[""]) {
+      const lista = porPais[""].slice().sort(byName);
+      htmlOtros += `<h4 class="subsection">${esc(t("narr_sin_pais"))} — ${lista.length}</h4><ul class="narr-list">${lista.map(item).join("")}</ul>`;
+    }
+    $("narr-otros").innerHTML = htmlOtros;
+    $("narr-otros-count").textContent = otros.length;
   }
 
   // ---------- libros ----------
@@ -522,6 +564,7 @@
         }).join(" · ");
         return `<article class="press-card">
           <h3>${esc(p.nombre)}</h3>
+          ${fotoHtml(p)}
           <div class="medio">${esc(p.organizador)}</div>
           <div class="fecha">${esc(p.anios)}</div>
           <p>${esc(p.reconoce)}</p>
@@ -530,6 +573,60 @@
       }).join("");
       return `<h3 class="subsection">${esc(pais)}</h3><div class="press-grid">${cards}</div>`;
     }).join("");
+  }
+  function renderNoticias() {
+    const el = $("news-list");
+    if (!el) return;
+    const items = (DATA.noticias && DATA.noticias.items) || [];
+    if (!items.length) {
+      el.innerHTML = `<p class="muted">${t("news_empty")}</p>`;
+      return;
+    }
+    const sorted = [...items].sort((a, b) => String(b.fecha || "").localeCompare(String(a.fecha || "")));
+    el.innerHTML = sorted.map(n => `<article class="press-card"><h3>${esc(n.titulo)}</h3><p class="muted">${esc(n.fecha || "")}${n.autor ? " · " + esc(n.autor) : ""}</p><p>${esc(n.resumen || "")}</p>${n.enlace ? `<p><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.fuente || n.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`).join("");
+  }
+  function renderEventos() {
+    const el = $("eventos-list");
+    if (!el) return;
+    const items = (DATA.eventos && DATA.eventos.items) || [];
+    if (!items.length) {
+      el.innerHTML = `<p class="muted">${t("ev_empty")} <a href="index.html#nosotros">${t("ev_empty_link")}</a></p>`;
+      return;
+    }
+    const sorted = [...items].sort((a, b) => String(a.fecha || "").localeCompare(String(b.fecha || "")));
+    el.innerHTML = sorted.map(e => `<article class="press-card"><h3>${esc(e.titulo)}</h3><p class="muted">${esc(e.fecha || "")}${e.ciudad ? " · " + esc(e.ciudad) : ""}${e.pais ? ", " + esc(e.pais) : ""}${e.tipo ? " · " + esc(e.tipo) : ""}</p><p>${esc(e.descripcion || "")}</p>${e.organizador ? `<p class="muted">${t("ev_org")}: ${esc(e.organizador)}</p>` : ""}${e.enlace ? `<p><a href="${esc(e.enlace)}" target="_blank" rel="noopener">${esc(e.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`).join("");
+  }
+  function renderColaboradores() {
+    const el = $("colab-list");
+    if (!el) return;
+    const items = (DATA.colaboradores && DATA.colaboradores.items) || [];
+    if (!items.length) {
+      el.innerHTML = `<p class="muted">${t("colab_empty")} <a href="index.html#nosotros">${t("colab_empty_link")}</a></p>`;
+      return;
+    }
+    el.innerHTML = `<ul class="narr-list">` + items.map(c => `<li><strong>${esc(c.nombre)}</strong> — ${esc(c.aporte || "")}${c.ficha ? " · " + esc(c.ficha) : ""} <span class="loc">(${esc(c.fecha || "")})</span></li>`).join("") + `</ul>`;
+  }
+  function renderBlog() {
+    const el = $("blog-list");
+    if (!el) return;
+    const items = (DATA.blog && DATA.blog.items) || [];
+    if (!items.length) {
+      el.innerHTML = `<p class="muted">${t("blog_empty")}</p>`;
+      return;
+    }
+    const sorted = [...items].sort((a, b) => String(b.fecha || "").localeCompare(String(a.fecha || "")));
+    el.innerHTML = sorted.map(n => `<article class="press-card"><h3>${esc(n.titulo)}</h3><p class="muted">${esc(n.fecha || "")}${n.autor ? " · " + esc(n.autor) : ""}</p><p>${esc(n.texto || n.resumen || "")}</p>${n.enlace ? `<p><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.fuente || n.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`).join("");
+  }
+  function renderForo() {
+    const el = $("foro-list");
+    if (!el) return;
+    const items = (DATA.foro && DATA.foro.items) || [];
+    if (!items.length) {
+      el.innerHTML = `<p class="muted">${t("foro_empty")}</p>`;
+      return;
+    }
+    const sorted = [...items].sort((a, b) => String(b.fecha || "").localeCompare(String(a.fecha || "")));
+    el.innerHTML = sorted.map(h => `<article class="press-card"><h3>${esc(h.titulo)}</h3><p class="muted">${esc(h.fecha || "")}${h.autor ? " · " + esc(h.autor) : ""}${h.tema ? " · " + esc(h.tema) : ""}</p><p>${esc(h.texto || "")}</p>${(h.respuestas || []).length ? `<p class="muted">${(h.respuestas || []).length} ${t("foro_replies")}</p>` : ""}</article>`).join("");
   }
 
   // ---------- ranking: donde hay mas narracion oral ----------
@@ -560,6 +657,11 @@
     renderBooks();
     renderPress();
     renderPremios();
+    renderNoticias();
+    renderEventos();
+    renderColaboradores();
+    renderBlog();
+    renderForo();
     refreshMarkers();
     // el popup del administrador se reconstruye al reabrirse; nada más que hacer
   }

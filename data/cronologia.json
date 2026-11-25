@@ -1,0 +1,6458 @@
+{
+ "eras": [
+  {
+   "id": "era1",
+   "titulo": "Raíces y recopiladores",
+   "rango": "1697–1969",
+   "intro": "Las raíces escritas del cuento moderno nacen en Europa —Perrault (1697) y los Grimm (1812)— mientras en China el pingtan ya se organiza en gremio (Suzhou, 1776) y en el Pacífico nace el Heiva de Tahití (1881). En América, Harris recopila los cuentos afroamericanos (1880) y Quiroga publica sus *Cuentos de la selva* (1918); en África, la literatura oral se vuelca en libros: Fagunwa (1938), Diop (1947), Tutuola (1952), Niane (1960). En 1960, Hampâté Bâ defiende ante la UNESCO «el gigantesco monumento oral»."
+  },
+  {
+   "id": "era2",
+   "titulo": "El despegue del movimiento moderno",
+   "rango": "1970–1989",
+   "intro": "El movimiento moderno despega en América del Norte: Jonesborough (1973), la asociación de narradores de EE. UU. (1975) y el círculo semanal de Toronto (1978). En África, Finnegan publica *Oral Literature in Africa* (1970) y FESTAC '77 reúne unos 16.000 participantes en Lagos; en Oceanía nacen los primeros gremios de narradores (Canberra 1979, Adelaida 1981) y en Europa la narración se profesionaliza con festivales como el de Aubenas (1986)."
+  },
+  {
+   "id": "era3",
+   "titulo": "La expansión",
+   "rango": "1990–1999",
+   "intro": "La década de la expansión: festivales en los cinco continentes —Guivatayim (1993), Yeleen en Burkina Faso (1997), Ljungby (1990), Timpanogos (1990)— y redes nacionales (Storytellers of Canada, 1993; ISOLA articula el estudio de las literaturas orales africanas, 1991/1998). En Asia nacen Kathalaya (1998) y el círculo de Singapur (1999); en Colombia, la cuentería se multiplica con festivales como el de ASCUN (1990) y el Festival Nacional de Cuenteros Puro Cuento (1990, homónimo del de Costa Rica)."
+  },
+  {
+   "id": "era4",
+   "titulo": "La red global",
+   "rango": "2000–2009",
+   "intro": "La narración oral se vuelve red global: la UNESCO adopta la Convención del Patrimonio Inmaterial (2003), el Día Mundial de la Narración Oral se internacionaliza (2003) y nace la Red Internacional de Cuentacuentos en Tenerife (2009), mientras FEST articula Europa desde 2008. En Costa Rica nace el Festival Puro Cuento (2002); en Asia, Kathalaya siembra la academia KIAS (2003) y el dastangoi renace en Delhi (2005)."
+  },
+  {
+   "id": "era5",
+   "titulo": "La consolidación",
+   "rango": "2010–2019",
+   "intro": "La consolidación: nuevos festivales en todos los continentes —Munt de Mots en Barcelona (2010), Hakawy en El Cairo (2011), Aké en Nigeria (2013), Ubumuntu en Ruanda (2015)— y la federación asiática FEAST (2018). En 2013, Pep Bruno, Manuel Castaño y Carles García Domingo publican su mirada crítica a la RIC; en Sudáfrica, el cumpleaños de Gcina Mhlophe se reconoce como Día Nacional de la Narración (2019)."
+  },
+  {
+   "id": "era6",
+   "titulo": "El presente",
+   "rango": "2020–2027",
+   "intro": "La narración se globaliza en línea: el primer Campeonato Mundial (2021) reúne 131 países, y los festivales se multiplican en Asia (Bombay 2020, Malasia 2021) y África (Marrakech 2022, con récord Guinness en 2025; Facoy 2026). La cronología se cierra con la 19.ª edición del Festival Puro Cuento (13–21 de marzo de 2027)."
+  }
+ ],
+ "mundo": [
+  {
+   "anio": "1697",
+   "texto": "Charles Perrault publica en París *Histoires ou contes du temps passé, avec des moralités* (11 de enero de 1697; «Contes de ma mère l'Oye»)",
+   "pais": "Francia",
+   "refs": [
+    "H1"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1776",
+   "texto": "Los narradores de Suzhou organizan el gremio Guangyu She, que regula el oficio del pingtan (narración oral china)",
+   "pais": "China",
+   "refs": [
+    "H2"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1812",
+   "texto": "Jacob y Wilhelm Grimm publican el vol. 1 de *Kinder- und Hausmärchen* (20 de diciembre de 1812; 86 cuentos)",
+   "pais": "Alemania",
+   "refs": [
+    "H3"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1880",
+   "texto": "Joel Chandler Harris publica *Uncle Remus: His Songs and His Sayings*, recopilación de cuentos de la tradición oral afroamericana del sur de EE. UU.",
+   "pais": "EE. UU.",
+   "refs": [
+    "H4"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1881",
+   "texto": "Nace en Papeete el festival Heiva (entonces Tiurai), el festival cultural más antiguo del Pacífico; sus hīmene (cantos polifónicos) transmiten lengua, tradición y leyendas \\*",
+   "pais": "Polinesia Francesa",
+   "refs": [
+    "H5"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1918",
+   "texto": "Horacio Quiroga publica *Cuentos de la selva (para los niños)*, Buenos Aires",
+   "pais": "Uruguay/Argentina",
+   "refs": [
+    "H6"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1922",
+   "texto": "La plaza Jemaa el-Fnaa de Marrakech queda protegida como parte del patrimonio artístico de Marruecos",
+   "pais": "Marruecos",
+   "refs": [
+    "H7"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1933",
+   "texto": "El kamishibai (teatro de papel) ya cuenta con unos 2.500 narradores callejeros solo en Tokio",
+   "pais": "Japón",
+   "refs": [
+    "H8"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1935",
+   "texto": "Zora Neale Hurston publica *Mules and Men*, colección de folclore afroamericano recogido en Florida y Nueva Orleans",
+   "pais": "EE. UU.",
+   "refs": [
+    "H9"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1938",
+   "texto": "D. O. Fagunwa publica *Ògbójú Ọdẹ nínú Igbó Irúnmọlẹ̀*, primera novela extensa en lengua yoruba",
+   "pais": "Nigeria",
+   "refs": [
+    "H10"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1938",
+   "texto": "Gozan Takahashi funda la Federación Japonesa de Kamishibai Educativo",
+   "pais": "Japón",
+   "refs": [
+    "H11"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1947",
+   "texto": "Birago Diop publica *Les Contes d'Amadou Koumba* (París, Fasquelle), colección de cuentos de la tradición oral",
+   "pais": "Senegal",
+   "refs": [
+    "H12"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1952",
+   "texto": "Amos Tutuola publica *The Palm-Wine Drinkard* (Londres, Faber and Faber), novela basada en cuentos yoruba",
+   "pais": "Nigeria",
+   "refs": [
+    "H13"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1955",
+   "texto": "Bernard Binlin Dadié publica *Le Pagne noir: Contes africains* (Présence Africaine), 16 cuentos de la tradición oral del África occidental",
+   "pais": "Côte d'Ivoire",
+   "refs": [
+    "H14"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1956",
+   "texto": "Se funda la Europäische Märchengesellschaft (EMG) en Kloster/Schloss Bentlage, Rheine",
+   "pais": "Alemania",
+   "refs": [
+    "H15"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1960",
+   "texto": "El 1 de diciembre, Amadou Hampâté Bâ, jefe de la delegación de Malí ante la UNESCO, pide salvar «el gigantesco monumento oral» ante la Conferencia General; de su frase —la muerte de cada tradicionalista es el incendio de un fondo cultural no explotado— nace el dicho atribuido «cuando muere un anciano, arde una biblioteca»",
+   "pais": "Malí",
+   "refs": [
+    "H16"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1960",
+   "texto": "Hampâté Bâ funda el Institut des sciences humaines de Bamako",
+   "pais": "Malí",
+   "refs": [
+    "H17"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1960",
+   "texto": "Djibril Tamsir Niane publica *Soundjata ou l'épopée mandingue* (Présence Africaine), a partir del relato del griot Mamadou Kouyaté",
+   "pais": "Guinea",
+   "refs": [
+    "H18"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1964",
+   "texto": "Credo Mutwa publica *Indaba, My Children* (Johannesburgo, Blue Crane Books), colección de mitos y leyendas zulúes",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H19"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1964",
+   "texto": "Se crea en Canberra el Australian Institute of Aboriginal Studies (hoy AIATSIS), instituto dedicado a registrar la lengua, el canto, el arte y la vida ceremonial de los pueblos aborígenes e isleños del estrecho de Torres",
+   "pais": "Australia",
+   "refs": [
+    "H20"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1965",
+   "texto": "Nace en Nueva Zelanda el concurso de oratoria Korimako para estudiantes maoríes de secundaria (final nacional en agosto de 1965; renombrado Ngā Manu Kōrero en 1987)",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H21"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1966",
+   "texto": "Primer Festival Mundial de las Artes Negras (FESMAN), del 1 al 24 de abril en Dakar; festival amplio de artes africanas, con la narración oral entre sus expresiones",
+   "pais": "Senegal",
+   "refs": [
+    "H22"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1967",
+   "texto": "Primeras Constitution Celebrations (hoy Te Maeva Nui) en Rarotonga; sus actuaciones se basan en leyendas, profecías e historias tradicionales \\*",
+   "pais": "Islas Cook",
+   "refs": [
+    "H23"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1969",
+   "texto": "Amadou Hampâté Bâ y Lilyan Kesteloot publican *Kaïdara, récit initiatique peul* (París, Julliard)",
+   "pais": "Malí",
+   "refs": [
+    "H24"
+   ],
+   "era": "era1"
+  },
+  {
+   "anio": "1970",
+   "texto": "Ruth Finnegan publica *Oral Literature in Africa* (Oxford University Press), obra de referencia sobre las literaturas orales africanas",
+   "pais": "Reino Unido",
+   "refs": [
+    "H25"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1972",
+   "texto": "I Festival de Artes del Pacífico Sur (hoy FestPAC) en Suva, con artes tradicionales, música, danza y tradiciones orales \\*",
+   "pais": "Fiyi",
+   "refs": [
+    "H26"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1973",
+   "texto": "Festival Internacional de la Cultura Campesina, Boyacá",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1973",
+   "texto": "Primer National Storytelling Festival, Jonesborough, Tennessee; lo funda el profesor Jimmy Neil Smith con ~60 asistentes; primer evento público del mundo dedicado exclusivamente a la narración oral",
+   "pais": "EE. UU.",
+   "refs": [
+    "H28"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1975",
+   "texto": "Fundación de la National Association for the Preservation and Perpetuation of Storytelling (NAPPS), origen de la actual National Storytelling Network",
+   "pais": "EE. UU.",
+   "refs": [
+    "H28"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1975",
+   "texto": "Harold Scheub publica *The Xhosa Ntsomi* (Oxford University Press), estudio del arte narrativo de las mujeres xhosa",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H29"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1976",
+   "texto": "II Festival de Artes del Pacífico Sur en Rotorua \\*",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H26"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1977",
+   "texto": "FESTAC '77, Segundo Festival Mundial de las Artes y la Cultura Negras y Africanas, del 15 de enero al 12 de febrero en Lagos, con unos 16.000 participantes de 56 naciones",
+   "pais": "Nigeria",
+   "refs": [
+    "H30"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1977",
+   "texto": "Ngā Manu Kōrero añade la sección de oratoria en te reo māori (concurso Pei Te Hurinui Jones)",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H21"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1978",
+   "texto": "Dan Yashinsky funda 1001 Friday Nights of Storytelling, Toronto",
+   "pais": "Canadá",
+   "refs": [
+    "H31",
+    "H32"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1978",
+   "texto": "Camara Laye publica *Le Maître de la parole. Kouma Lafôlo Kouma* (París, Plon), versión escrita de la epopeya de Soundiata a partir de la recitación del griot Babou Condé",
+   "pais": "Guinea",
+   "refs": [
+    "H33"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1979",
+   "texto": "Dan Yashinsky funda el Toronto International Storytelling Festival; nace Storytelling Toronto como Storytellers School of Toronto, fundada por siete narradores",
+   "pais": "Canadá",
+   "refs": [
+    "H34",
+    "H35"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1979",
+   "texto": "Nace en Chevilly-Larue el primer festival de cuentos de Francia, impulsado por Lucien Gourong",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1979",
+   "texto": "Se funda el ACT Storytellers Guild en Canberra",
+   "pais": "Australia",
+   "refs": [
+    "H37"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1981",
+   "texto": "Bruno de La Salle crea el CLIO (Conservatoire Contemporain de Littérature Orale) en Chartres, luego en Vendôme",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1981",
+   "texto": "Agnès Chavanon crea la AMAC (Antenne Mobile d'Action Culturelle) en Aubenas",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1981",
+   "texto": "Ben Haggarty funda la West London Storytelling Unit en Londres",
+   "pais": "Reino Unido",
+   "refs": [
+    "H38"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1981",
+   "texto": "La escritora Mem Fox y la bibliotecaria Sue Robinson fundan en Adelaida el grupo de narración oral origen de Storytelling Australia",
+   "pais": "Australia",
+   "refs": [
+    "H39"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1983",
+   "texto": "Encuentro de la Palabra, Riosucio, Caldas",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1984",
+   "texto": "Florida Storytelling Guild fundada por Annette Bruce y Jennifer Jones Bausman",
+   "pais": "EE. UU.",
+   "refs": [
+    "H40"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1985",
+   "texto": "Primer Florida StoryCamp, en Lake Moon",
+   "pais": "EE. UU.",
+   "refs": [
+    "H40"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1985",
+   "texto": "Sierra Storytelling Festival fundado por Steve Sanfield, Nevada City, California",
+   "pais": "EE. UU.",
+   "refs": [
+    "H41"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1985",
+   "texto": "Ben Haggarty dirige el primer festival de narración oral de Gran Bretaña, en el Battersea Arts Centre de Londres (enero de 1985)",
+   "pais": "Reino Unido",
+   "refs": [
+    "H42"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1985",
+   "texto": "Se forma la Company of Storytellers (C.O.S.T.), para narrar ante público adulto",
+   "pais": "Reino Unido",
+   "refs": [
+    "H43"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1986",
+   "texto": "Encuentro de Contadores de Historias y Leyendas «Buga Historias», Buga",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1986",
+   "texto": "La AMAC funda Paroles en Festival en Aubenas, Ardèche",
+   "pais": "Francia",
+   "refs": [
+    "H44"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1986",
+   "texto": "Nace «La semaine du conte» en Saint-Martin-d'Hères, Isère",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1987",
+   "texto": "Primer Stephen Foster Storytelling Festival, White Springs, Florida",
+   "pais": "EE. UU.",
+   "refs": [
+    "H40"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1987",
+   "texto": "Henri Gougaud crea el festival «Parole d'Alès»",
+   "pais": "Francia; dirigido desde 1989 por Marc Aubaret",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1987",
+   "texto": "Ben Haggarty funda el Crick Crack Club en Londres, primer club de narración escénica del Reino Unido",
+   "pais": "Reino Unido",
+   "refs": [
+    "H42"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1988",
+   "texto": "Festival Iberoamericano de Teatro – Muestra iberoamericana de narración oral, Bogotá",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1988",
+   "texto": "Yukon International Storytelling Festival creado en Whitehorse por Louise Profeit-Leblanc y Anne Tayler, inspirado en la narradora tagish Angela Sidney",
+   "pais": "Canadá",
+   "refs": [
+    "H45"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1988",
+   "texto": "Se crea la ANCEF (Association Nationale des Conteurs d'En France)",
+   "pais": "Francia; se cierra en 2007",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1988",
+   "texto": "Folke Tegetthoff funda en Graz el Austrian International Storytelling Festival",
+   "pais": "Austria",
+   "refs": [
+    "H46"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1988",
+   "texto": "Gcina Mhlophe inicia talleres de narración en bibliotecas, escuelas y colegios de formación docente",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H47"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Cuéntalee México: Primera Muestra Internacional de Narración Oral Escénica «Cuento con la Ciudad» (19-jul-1989); nombre «Cuéntalee» desde 2008; Armando Trejo organiza desde el inicio",
+   "pais": "México",
+   "refs": [
+    "H48"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Primer Festival Nacional de Narración Oral Escénica, Camagüey, con motivo del 2.º aniversario de La Peña del Brocal (CIINOE)",
+   "pais": "Cuba",
+   "refs": [
+    "H49"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "UNOES (Unión de Narradores Orales Escénicos de Venezuela) fundada el 29 de septiembre en Barquisimeto",
+   "pais": "Venezuela",
+   "refs": [
+    "H50"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Premio Nacional Cuentería, Cuba",
+   "pais": "desde 1989; última ed. documentada 2015",
+   "refs": [
+    "H51"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Premio Iberoamericano Extraordinario «Chamán», CIINOE",
+   "pais": "desde 1989; documentado 1995–2014",
+   "refs": [
+    "H52",
+    "H53"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Horst-Dieter Klock crea las Berliner Märchentage con la caída del Muro («Märchen überwinden Grenzen»)",
+   "pais": "Alemania",
+   "refs": [
+    "H54"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Donald Smith funda el Scottish International Storytelling Festival en Edimburgo",
+   "pais": "Escocia, Reino Unido",
+   "refs": [
+    "H55"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Un coloquio internacional en el Musée national des Arts et Traditions Populaires de París oficializa el término «Renouveau du conte»",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Se crean en Drôme los festivales «Les Nouvelles du Conte» (Bourdeaux) y «Contes et Rencontres» (Nyons)",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989–1990",
+   "texto": "Gcina Mhlophe organiza dos festivales nacionales de narración con el Market Theatre",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H47"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1989",
+   "texto": "Jeff Gere crea el Talk Story Festival en Honolulú, la celebración de narración oral más grande y antigua de Hawái",
+   "pais": "Hawái/Pacífico",
+   "refs": [
+    "H56"
+   ],
+   "era": "era2"
+  },
+  {
+   "anio": "1990",
+   "texto": "Festival Nacional de Cuenteros Puro Cuento – Teatro Popular de Bogotá",
+   "pais": "Colombia; ⚠️ homónimo, NO es el Festival de Costa Rica",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1990",
+   "texto": "Festival Universitario de narración oral de ASCUN, itinerante",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1990",
+   "texto": "Timpanogos Storytelling Festival, creado por Karen Ashton en su jardín en Orem, Utah",
+   "pais": "EE. UU.",
+   "refs": [
+    "H57"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1990",
+   "texto": "Comienza el Festival interculturel du Conte de Chiny",
+   "pais": "Bélgica",
+   "refs": [
+    "H58"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1990",
+   "texto": "Primer Festival de Narración Oral de Ljungby (mayo de 1990); en otoño se constituye Berättarnätet Kronoberg",
+   "pais": "Suecia",
+   "refs": [
+    "H59"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1990",
+   "texto": "Se crea Le Nombril du Monde en Pougne-Hérisson, Deux-Sèvres",
+   "pais": "Francia; Yannick Jaulin trabaja allí desde 1986",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1990",
+   "texto": "Jeff Gere crea Story TV, programa de narración oral en la televisión pública Ōlelo",
+   "pais": "Hawái/Pacífico",
+   "refs": [
+    "H60"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1991",
+   "texto": "Nace Cuenta con Agüimes, Gran Canaria, como Encuentro Iberoamericano de Narración Oral Escénica",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1991",
+   "texto": "I Muestra Iberoamericana de Narración Oral Escénica en Elche",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1991",
+   "texto": "Nace la International Society for the Oral Literatures of Africa (ISOLA) durante una conferencia en SOAS, Universidad de Londres",
+   "pais": "Reino Unido",
+   "refs": [
+    "H61"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1991",
+   "texto": "Primer Festival Teuila en Apia, celebración de la cultura samoana y polinesia \\*",
+   "pais": "Samoa",
+   "refs": [
+    "H62"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Encuentro Universitario de Narración Oral Escénica (PUJ), Cali",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Festival Nacional de Cuenteros Ciudad de Bucaramanga",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Festival Nacional de Cuenteros Universitarios Pazcificuento, Cali",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Estudio Teatral Macubá fundado por Fátima Patterson",
+   "pais": "Cuba",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Mike Rust y Richard «Mogsy» Walker fundan Festival at the Edge en Much Wenlock, Shropshire",
+   "pais": "Inglaterra, Reino Unido",
+   "refs": [
+    "H63"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "1.ª Maratón de los Cuentos de Guadalajara (24 de abril de 1992)",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Se funda el Centre des Arts du Récit en Isère",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Festival Iberoamericano de Narración Oral Escénica en Elche",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "El conteur Obin Manfei organiza en Abiyán lo que él describe como «le premier festival africain du conte», con narradores de Suiza, Francia y Colombia",
+   "pais": "Côte d'Ivoire",
+   "refs": [
+    "H64"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Gcina Mhlophe funda en Johannesburgo la organización de narradores Zanendaba",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H47"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1992",
+   "texto": "Isidore Okpewho publica *African Oral Literature: Backgrounds, Character, and Continuity* (Indiana University Press)",
+   "pais": "Nigeria/EE. UU.",
+   "refs": [
+    "H65"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Festival interculturel du conte de Montréal creado por Marc Laberge; bienal desde 1997",
+   "pais": "Canadá",
+   "refs": [
+    "H66"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Storytellers of Canada – Conteurs du Canada (SC-CC) fundada en Montreal (30 de mayo de 1993), impulsada por Rosalyn Cohen",
+   "pais": "Canadá",
+   "refs": [
+    "H67"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Se funda la Society for Storytelling",
+   "pais": "Reino Unido",
+   "refs": [
+    "H68"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Ben Haggarty y David Ambrose fundan Beyond the Border en St Donats, Gales",
+   "pais": "Reino Unido",
+   "refs": [
+    "H43"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Michel Jolivet crea La Maison du Conte en Chevilly-Larue",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Se funda la Schweizerische Märchengesellschaft (SMG) el 26 de agosto en Zúrich, como sección de la EMG",
+   "pais": "Suiza",
+   "refs": [
+    "H69"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Se funda el Festival Internacional de Narración Oral de Guivatayim, por Yossi Alfi",
+   "pais": "Israel",
+   "refs": [
+    "H70"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1993",
+   "texto": "Primer Festival Pasifika en Auckland, hoy el mayor festival cultural del Pacífico en el mundo \\*",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H71"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1994",
+   "texto": "NAPPS pasa a llamarse National Storytelling Association (NSA)",
+   "pais": "EE. UU.",
+   "refs": [
+    "H72"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1994",
+   "texto": "El festival de Elche se constituye como FIO (Festival Iberoamericano de Narración Oral)",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1994",
+   "texto": "Chuck y Nell Kruger fundan el Cape Clear International Storytelling Festival; primer festival en septiembre de 1994",
+   "pais": "Irlanda",
+   "refs": [
+    "H73"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1994",
+   "texto": "Se funda en Sídney el Australian Storytelling Guild (NSW) (marzo de 1994; incorporado el 4 de julio de 1996)",
+   "pais": "Australia",
+   "refs": [
+    "H74"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1995",
+   "texto": "Abrapalabra – Festival Iberoamericano de Cuenteros, Bucaramanga",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1995",
+   "texto": "ORACLE Awards, National Storytelling Network",
+   "pais": "EE. UU.; desde 1995, vigentes",
+   "refs": [
+    "H75"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1995",
+   "texto": "Nicolás Buenaventura Vidal publica *La importancia de hablar mierda o los hilos invisibles del tejido social*",
+   "pais": "Colombia",
+   "refs": [
+    "H76"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1995",
+   "texto": "Se crea la Asociación Malión en Úbeda",
+   "pais": "España; cofundador Nono Granero",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1995",
+   "texto": "Se crea Paroles de Conteurs, Festival Interculturel du Conte de Île de Vassivière",
+   "pais": "Francia",
+   "refs": [
+    "H77"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1995",
+   "texto": "Primer Festival Matariki (Te Whakanui i a Matariki) en Wellington, creado por Ngāti Pōneke Māori Arts \\*",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H78"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1996",
+   "texto": "Nace el Grupo Miguilim, Cordisburgo, Minas Gerais",
+   "pais": "Brasil",
+   "refs": [
+    "H79"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1996",
+   "texto": "Bienal Internacional de Oralidad Escénica «Barrio Cuento» creada por el Grupo de Teatro Cimarrón (3 de agosto de 1996)",
+   "pais": "Cuba",
+   "refs": [
+    "H80"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1996",
+   "texto": "Festival Internacional del Cuento de Los Silos, Tenerife",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1996",
+   "texto": "Se crea «Alors… Raconte !» en Tarn-et-Garonne",
+   "pais": "Francia",
+   "refs": [
+    "H81"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1996",
+   "texto": "Maël Le Goff crea el Festival «Paroles Traverses» en Rennes",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1996",
+   "texto": "Morgan Schatz Blackrose y Roman W. Schatz realizan su primer proyecto de narración oral y arte («Web of Wonder») en una escuela primaria australiana",
+   "pais": "Australia",
+   "refs": [
+    "H82"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Compañía Teatro de la Palabra fundada (enero 1997; Osvaldo Manuel Pérez Peñalver)",
+   "pais": "Cuba",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Bienal Internacional de Oralidad de Santiago de Cuba, fundada por Jesús Irísula y Fátima Patterson (septiembre 1997)",
+   "pais": "Cuba",
+   "refs": [
+    "H49"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Jorge Bucay publica *Cuentos para pensar*",
+   "pais": "Argentina",
+   "refs": [
+    "H76"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "The Moth fundado en Nueva York por el novelista George Dawes Green",
+   "pais": "EE. UU.",
+   "refs": [
+    "H83"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Marc Aubaret funda el CMLO (Centre Méditerranéen de Littérature Orale) en Alès",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Se funda el Festival Internacional de Contes et des Arts du Récit Yeleen en Bobo-Dioulasso, presidido por Hassane Kassi Kouyaté",
+   "pais": "Burkina Faso",
+   "refs": [
+    "H84"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "John William Johnson, Thomas A. Hale y Stephen Belcher (eds.) publican *Oral Epics from Africa* (Indiana University Press)",
+   "pais": "EE. UU.",
+   "refs": [
+    "H85"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Jeeva Raghunath empieza a contar cuentos como narradora profesional en Chennai",
+   "pais": "India",
+   "refs": [
+    "H86"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1997",
+   "texto": "Festival of the Dreaming inaugural en Sídney, fundado por la directora artística Rhoda Roberts; desde 2005 se celebra en Woodford (Queensland) como The Dreaming \\*",
+   "pais": "Australia",
+   "refs": [
+    "H87"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Acuerdo 24 del Concejo de Medellín institucionaliza un Festival Anual de Cuenteros desde 1999; Sandra Barrera Ruiz dirige Corfescu y el festival desde 1998",
+   "pais": "Colombia",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Festival Internacional de cuenteros El Caribe Cuenta, Barranquilla",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Grupo «PURO CUENTO» de Marcela Sabio, Universidad Nacional del Litoral, Santa Fe",
+   "pais": "Argentina; ⚠️ homónimo",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998/1999",
+   "texto": "ContArte, La Habana (proyecto creado 8-may-1998; 1.ª ed. del festival mayo 1999; fundadora Elvia Pérez Nápoles)",
+   "pais": "Cuba",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Nace el Grupo Os Tapetes Contadores de Histórias",
+   "pais": "Brasil",
+   "refs": [
+    "H79"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Primer Festival Nacional de Narración Oral, Biblioteca Nacional de Buenos Aires; directora artística Liliana Cinetto; con Ana Padovani y Ana María Bovo",
+   "pais": "Argentina",
+   "refs": [
+    "H88"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "La NSA se divide en dos organizaciones: National Storytelling Network (NSN) e International Storytelling Center (ISC), que queda en Jonesborough a cargo del festival",
+   "pais": "EE. UU.",
+   "refs": [
+    "H28",
+    "H72"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Se lanza el Festival «Contes Givrés» en Borgoña",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "ISOLA se establece formalmente durante su conferencia de Ciudad del Cabo",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H61"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "El padre Israël Mensah funda en octubre la asociación Mémoires d'Afrique para recolectar cuentos africanos y favorecer el diálogo intercultural",
+   "pais": "Benín",
+   "refs": [
+    "H89"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Thomas A. Hale publica *Griots and Griottes: Masters of Words and Music* (Indiana University Press)",
+   "pais": "EE. UU.",
+   "refs": [
+    "H90"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Roger Jenkins empieza a contar cuentos como narrador profesional",
+   "pais": "Singapur",
+   "refs": [
+    "H91"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "Geeta Ramanujam funda Kathalaya – The House of Stories en Bangalore, con Lalu Narayan y Sujatha Pai",
+   "pais": "India",
+   "refs": [
+    "H92"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1998",
+   "texto": "I Festival de Artes y Cultura Melanesias (MACFEST) en Honiara (6 de julio de 1998) \\*",
+   "pais": "Islas Salomón",
+   "refs": [
+    "H93"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Aquetecuento: Encuentro Nacional de Cuenteros, Medellín",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Encuentro Internacional de Cuenteros Unicuento, Cali",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Encuentro Internacional de Narradoras Orales Ellas Cuentan, Cali",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Storytelling World Awards",
+   "pais": "EE. UU.; documentado 1999; existencia hasta 2020 corroborada",
+   "refs": [
+    "H94"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "I Encontro de Contadores de Histórias do Rio de Janeiro, antecedente del Simpósio",
+   "pais": "Brasil",
+   "refs": [
+    "H79"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "«En Úbeda se cuenta…»",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Nace el Festival «Grande Marée» en Brest",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Henri Gougaud y Olivier Poubelle crean la revista *La Grande Oreille*",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Palavras Andarilhas, Beja, 1.ª edición",
+   "pais": "Portugal; bienal desde 2002",
+   "refs": [
+    "H48"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Mémoires d'Afrique lanza el gran concurso nacional de recolección de cuentos y leyendas de Benín: 1.500 cuentos recogidos, 24 publicados en 2005 en *Contes et légendes du Bénin* (Karthala)",
+   "pais": "Benín",
+   "refs": [
+    "H89"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "Se funda el Lagos Book and Art Festival (LABAF), organizado por el Committee for Relevant Art (CORA); la primera edición se celebra en noviembre en Lekki, Lagos",
+   "pais": "Nigeria",
+   "refs": [
+    "H95"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "1999",
+   "texto": "El círculo de narradores de Singapur (Sheila Wee y Kiran Shah) se convierte en grupo de interés especial de la Society for Reading and Literacy",
+   "pais": "Singapur",
+   "refs": [
+    "H96"
+   ],
+   "era": "era3"
+  },
+  {
+   "anio": "2000",
+   "texto": "Festival Internacional de Cuentería «Entre Cuentos y Flores», Medellín",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2000",
+   "texto": "Festival Internacional de cuenteros Akuentajui, Riohacha",
+   "pais": "Colombia",
+   "refs": [
+    "H27"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2000",
+   "texto": "Festival Internacional de Narración Oral «Déjame que te cuente», Lima; gestoras Marisa Amado (Palique Cuenteros) y Cucha del Águila; primer festival en el Centro Cultural de la Pontificia Universidad Católica",
+   "pais": "Perú",
+   "refs": [
+    "H97"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2000",
+   "texto": "Ana María Machado (Brasil) recibe el Premio Hans Christian Andersen",
+   "pais": "",
+   "refs": [
+    "H76"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2000",
+   "texto": "Festival de Narradores Orales de Segovia, creado por Ignacio Sanz",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2000",
+   "texto": "Verano de Cuento, El Sauzal, Tenerife",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2000",
+   "texto": "Inicia el Congreso Asiático de Narradores (Asian Congress of Storytellers) en Singapur",
+   "pais": "",
+   "refs": [
+    "H98"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "2ª Fiesta Internacional de la Palabra, Montevideo; directora Niré Collazo (Promocultura)",
+   "pais": "Uruguay",
+   "refs": [
+    "H99"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "CuentoPalabra, Córdoba («emprendimiento cultural nacido en 2001»)",
+   "pais": "Argentina",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Primer Encuentro de Narradores Orales, Cuenteros y Cuentacuentos «Contar para vivir y soñar», 5–7 de octubre, Biblioteca Nacional de Montevideo",
+   "pais": "Uruguay",
+   "refs": [
+    "H100"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Boca do Céu, São Paulo (creación/curaduría Regina Machado; bienal desde 2010)",
+   "pais": "Brasil",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Alicia Barberis publica *Viaje hacia los cuentos* (didáctica de la narración oral)",
+   "pais": "Argentina",
+   "refs": [
+    "H76"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Alcalá Cuenta, Alcalá de Henares",
+   "pais": "España; arrancó como «La calle de los cuentos»",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Se crea el Thüringer Märchen- und Sagenpreis «Ludwig Bechstein» en Meiningen",
+   "pais": "Alemania; bienal; primera entrega 21-nov-2001",
+   "refs": [
+    "H101",
+    "H102"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Festival de Narradores Orales de El Espinar, Segovia",
+   "pais": "España; dirigido por Ignacio Sanz",
+   "refs": [
+    "H103"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "La plaza Jemaa el-Fnaa es proclamada Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad (inscrita en la Lista Representativa en 2008)",
+   "pais": "Marruecos",
+   "refs": [
+    "H7"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "El patrimonio oral de Gelede (comunidad yoruba-nago) es proclamado Obra Maestra (inscrito en 2008)",
+   "pais": "Benín/Nigeria/Togo",
+   "refs": [
+    "H104"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "El espacio cultural de Sosso-Bala es proclamado Obra Maestra (inscrito en 2008)",
+   "pais": "Guinea",
+   "refs": [
+    "H105"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Gcina Mhlophe funda la campaña de alfabetización Nozincwadi («Madre de los Libros»); su festival anual de libros y cuentos se celebra desde 2008",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H106",
+    "H47"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Se constituye la Asian Storytelling Network",
+   "pais": "diciembre de 2001, Singapur",
+   "refs": [
+    "H96"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2001",
+   "texto": "Se funda la Asociación Internacional de Kamishibai de Japón, IKAJA",
+   "pais": "7 de diciembre de 2001, Tokio",
+   "refs": [
+    "H107"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2002",
+   "texto": "Festival Internacional de Cuentacuentos «Te doy mi palabra», Buenos Aires (1.ª ed. 2002, Morón)",
+   "pais": "Argentina",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2002",
+   "texto": "I Simpósio Internacional de Contadores de Histórias, SESC Copacabana, Río de Janeiro (mayo 2002; se celebró hasta 2014)",
+   "pais": "Brasil",
+   "refs": [
+    "H79"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2002",
+   "texto": "Nace el Festival Puro Cuento en San José; primera edición, «San José, la fiesta del cuento»",
+   "pais": "Costa Rica",
+   "refs": [
+    "H108"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2002",
+   "texto": "Festival D'Palabra, Cuenca",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2002",
+   "texto": "Coloquio «Conter un Art de la Parole» en Vendôme",
+   "pais": "Francia; fines de 2002",
+   "refs": [
+    "H36"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2002",
+   "texto": "Nelson Mandela compila *Nelson Mandela's Favorite African Folktales* (W. W. Norton), 32 cuentos tradicionales de todo el continente",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H109"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "La UNESCO adopta la Convención para la Salvaguardia del Patrimonio Cultural Inmaterial (17 de octubre de 2003; incluye las tradiciones y expresiones orales)",
+   "pais": "internacional",
+   "refs": [
+    "H110"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "El Día Mundial de la Narración Oral (20 de marzo) se convierte en celebración internacional",
+   "pais": "raíces en Suecia",
+   "refs": [
+    "H111"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "Sylvain Houset y Pascal Dubois crean en Grenoble las Éditions Oui'Dire (como L'Oreille Hardie)",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "Se funda Storytellers of Ireland / Aos Scéal Éireann",
+   "pais": "Irlanda",
+   "refs": [
+    "H112"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "George Evgenikos funda el Kea Folktales Festival (Γιορτή Παραμυθιών), primer festival de su tipo en Grecia",
+   "pais": "Grecia",
+   "refs": [
+    "H113"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "La épica Al-Sirah Al-Hilaliyyah es proclamada Obra Maestra (inscrita en 2008)",
+   "pais": "Egipto",
+   "refs": [
+    "H114"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "El canto polifónico de los pigmeos Aka es proclamado Obra Maestra (inscrito en 2008)",
+   "pais": "República Centroafricana",
+   "refs": [
+    "H115"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2003",
+   "texto": "Kathalaya siembra la Academia Internacional de Narración Oral (KIAS), primera academia de narración oral con reconocimiento global",
+   "pais": "India",
+   "refs": [
+    "H116"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Encuentro Internacional de Narradores Orales «Un Cerro de Cuentos», Guayaquil (1.ª ed. 29 ago–2 sep 2004; fundadoras Ángela Arboleda Jiménez y Raquel Rodríguez)",
+   "pais": "Ecuador",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Festival Internacional de la Palabra, La Oralidad Artística de los Cuenteros, Ciudad de México (16–25 de abril de 2004; narratón de 9 horas en el Zócalo)",
+   "pais": "México",
+   "refs": [
+    "H117"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "ENCONTES, Festival de Narración Oral de Altea",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Primera edición del Fabula Storytelling Festival en Estocolmo",
+   "pais": "Suecia",
+   "refs": [
+    "H118"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Fortellerfestivalen (Festival Noruego de Narración Oral) comienza en Oslo, creado por Fortellerhuset",
+   "pais": "Noruega",
+   "refs": [
+    "H119"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Paola Balbi, Angela Sajeva y Giulia Troiano fundan en Roma la compañía Raccontamiunastoria (diciembre de 2004)",
+   "pais": "Italia",
+   "refs": [
+    "H120"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Se funda la Fédération de Conteurs Professionnels",
+   "pais": "Bélgica",
+   "refs": [
+    "H121"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Se crea el FESCONTE, Festival Internacional de Conte du Togo, organizado por Ensemble Culturel les Griots Noirs du Togo y la Cie Belerrance",
+   "pais": "Togo",
+   "refs": [
+    "H122"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Nace en Kabylie el festival itinerante Raconte-Arts, festival de cuentos y artes de calle fundado por Denis Martinez, Salah Silem y Hacène Metref; su actividad emblemática es «La Nuit du Conte»",
+   "pais": "Argelia",
+   "refs": [
+    "H123"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2004",
+   "texto": "Kamini Ramachandran y Verena Tay fundan MoonShadow Stories, primera compañía profesional de narración oral de Singapur",
+   "pais": "noviembre de 2004",
+   "refs": [
+    "H124"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Primer Encuentro Uruguayo de Cuentería Popular, Montevideo",
+   "pais": "Uruguay",
+   "refs": [
+    "H125"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Gislayne Matos publica *A palavra do contador de histórias* y *O ofício do contador de histórias*",
+   "pais": "Brasil",
+   "refs": [
+    "H79"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Se crea el concurso Young Storyteller of the Year",
+   "pais": "Reino Unido",
+   "refs": [
+    "H126",
+    "H127",
+    "H128"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Los ejemplares anotados de *Kinder- und Hausmärchen* de los Grimm entran en el Registro Memoria del Mundo de la UNESCO (año de registro 2005)",
+   "pais": "Alemania",
+   "refs": [
+    "H129"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Pep Bruno es socio fundador de la editorial Palabras del Candil, especializada en narración oral",
+   "pais": "España",
+   "refs": [
+    "H76"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "El sistema de adivinación Ifa, corpus literario oral (odu), es proclamado Obra Maestra (inscrito en 2008)",
+   "pais": "Nigeria",
+   "refs": [
+    "H104"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Primera función moderna de dastangoi en Delhi: Mahmood Farooqui revive el arte urdu de narración oral en el India International Centre",
+   "pais": "India",
+   "refs": [
+    "H130"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Kathotsava, primer festival internacional de narración oral de la India, en Bangalore (24 de junio–10 de julio de 2005), organizado por Kathalaya",
+   "pais": "",
+   "refs": [
+    "H131"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Chen Ming-hsiang («Fat Uncle») empieza a contar cuentos en la escuela primaria Youchang de Kaohsiung",
+   "pais": "septiembre de 2005, Taiwán",
+   "refs": [
+    "H132"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2005",
+   "texto": "Jeff Gere inicia Talk Story Radio, programa semanal de narración oral en la radio pública de Hawái (primavera de 2005)",
+   "pais": "Hawái/Pacífico",
+   "refs": [
+    "H56"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "NarrArte nace (agosto 2006, del Colectivo CUENTIANDO)",
+   "pais": "Costa Rica",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Distinción Por la Oralidad",
+   "pais": "Cuba; primera ed. 2006, Haydée Arteaga",
+   "refs": [
+    "H133"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Vandalia Gathering, 30.ª ed., Charleston, Virginia Occidental",
+   "pais": "EE. UU.",
+   "refs": [
+    "H134"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Se inaugura el Scottish Storytelling Centre en Edimburgo (1 de junio de 2006), primer centro del mundo construido para la narración oral en vivo",
+   "pais": "Escocia, Reino Unido",
+   "refs": [
+    "H135"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "1.ª edición del Międzynarodowy Festiwal Sztuki Opowiadania (Festival Internacional del Arte de Contar) en Varsovia (15–19 nov 2006)",
+   "pais": "Polonia",
+   "refs": [
+    "H136"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Primera «Nuit des Contes» el 15 de julio en Ouassa-Tokpa, junto al lago Ahémé, organizada por Mémoires d'Afrique; desde entonces se celebra cada 14 de agosto",
+   "pais": "Benín",
+   "refs": [
+    "H137"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Séptima edición de Les Moments Conte (Festmoc), festival itinerante del cuento, del 3 al 9 de noviembre en Sa'a y Yaoundé",
+   "pais": "Camerún",
+   "refs": [
+    "H138"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Fouzia Dastango, primera mujer dastango de la India, debuta como narradora",
+   "pais": "India",
+   "refs": [
+    "H139"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Se funda la Storytelling Association (Singapore), registrada el 27 de febrero de 2006",
+   "pais": "Singapur",
+   "refs": [
+    "H91"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "Edición inaugural del Festival Internacional de Narración Oral de Singapur, SISF",
+   "pais": "30 de agosto–9 de septiembre de 2006",
+   "refs": [
+    "H140"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2006",
+   "texto": "El pingtan de Suzhou entra en la primera lista nacional de patrimonio cultural inmaterial de China",
+   "pais": "",
+   "refs": [
+    "H2"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2007",
+   "texto": "Se crea la RNCAP (Réseau National du conte et des Arts de La Parole) en Rémuzat",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2007",
+   "texto": "Primera edición del Festival Internacional du Conte et de la Parole de Gorée et Dakar, del 10 al 12 de mayo, dirigido por Ben Zimet",
+   "pais": "Senegal",
+   "refs": [
+    "H141"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2007",
+   "texto": "Se lanza en Nairobi el Festival Storymoja con la «Storymoja Nyamachoma Fiesta», fundado por cinco escritores liderados por Muthoni Garland",
+   "pais": "Kenia",
+   "refs": [
+    "H142"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2008",
+   "texto": "Festival Internacional Santa Fe de Cuentos (octubre de 2008; dir. Marcela Sabio)",
+   "pais": "Argentina",
+   "refs": [
+    "H76"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2008",
+   "texto": "La red FEST (Federation for European Storytelling) ya opera en Europa; su congreso anual se celebra en Oslo",
+   "pais": "Europa",
+   "refs": [
+    "H143",
+    "H144"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2008",
+   "texto": "Ahoz Aho, Tolosa y Ordizia",
+   "pais": "España; Pep Bruno; rama del FIO de Elche",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2008",
+   "texto": "El arte del meddah (narradores públicos turcos) entra en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad de la UNESCO",
+   "pais": "Turquía",
+   "refs": [
+    "H145"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2008",
+   "texto": "Se funda el World Storytelling Institute (marzo de 2008, Chennai), por Eric Miller, Jeeva Raghunath y Magdalene Jeyarathnam",
+   "pais": "India",
+   "refs": [
+    "H146"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2008",
+   "texto": "Morgan Schatz Blackrose publica *Tell me, storytelling as a global language* (Tell Me Books, Port Macquarie)",
+   "pais": "Australia",
+   "refs": [
+    "H82"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2009",
+   "texto": "Encuentro Internacional de Oralidad «La patria que late en mí» (I Encuentro, enero 2009, Cordillera; fundadora y directora Laura Ferreira)",
+   "pais": "Paraguay",
+   "refs": [
+    "H48"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2009",
+   "texto": "Kont Anba Tonèl, Festival Interculturel des Contes, Puerto Príncipe y Jérémie (desde 2009; cada marzo, desde el Día Mundial del Cuento)",
+   "pais": "Haití",
+   "refs": [
+    "H147"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2009",
+   "texto": "Se funda la Red Internacional de Cuentacuentos (RIC) en Tenerife (verano de 2009; Beatriz Montero y Enrique Páez)",
+   "pais": "España",
+   "refs": [
+    "H148",
+    "H149",
+    "H150"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2009",
+   "texto": "1.ª edición del Festival Internazionale di Storytelling Raccontamiunastoria en Roma (septiembre de 2009)",
+   "pais": "Italia",
+   "refs": [
+    "H120"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2009",
+   "texto": "La Carta de Manden, proclamada en Kurukan Fuga, es inscrita en la Lista Representativa del Patrimonio Inmaterial",
+   "pais": "Malí",
+   "refs": [
+    "H151"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2009",
+   "texto": "Se forma la comunidad Kampung Dongeng Indonesia",
+   "pais": "18 de mayo de 2009, Ciputat, Tangerang del Sur, Indonesia",
+   "refs": [
+    "H152"
+   ],
+   "era": "era4"
+  },
+  {
+   "anio": "2010",
+   "texto": "Festival de la Palabra de Puerto Rico, San Juan (fundadora Mayra Santos-Febres)",
+   "pais": "Puerto Rico",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "«Viernes de Puro Cuento», ciclo mensual de narración oral centroamericana, Managua (iniciativa de NICASSITEJ con la Biblioteca Alemana Nicaragüense)",
+   "pais": "Nicaragua; ⚠️ no es el Festival de Costa Rica",
+   "refs": [
+    "H153"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Asociación Cultural Tiempo de Cuentos formada (finales de 2010) por Yeniffer Díaz y Manuel Conde, Lima",
+   "pais": "Perú",
+   "refs": [
+    "H154"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Nicolás Buenaventura Vidal publica *Palabra de cuentero*",
+   "pais": "Colombia/España",
+   "refs": [
+    "H76"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010/2011",
+   "texto": "«Cuento en corto» (RIC + Escuela de Escritores): II ed. convocada 15-dic-2010–15-ene-2011, fallo 30-ene-2011",
+   "pais": "",
+   "refs": [
+    "H155"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Munt de Mots, Barcelona, primer festival de narración oral de la ciudad",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Se constituye legalmente AEDA, Asociación de Profesionales de la Narración Oral en España (enero de 2010, Azuqueca de Henares)",
+   "pais": "España",
+   "refs": [
+    "H156"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Se crea la APAC (septiembre de 2010), luego APACC, asociación profesional de artistas conteurs/conteuses",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Benín adopta en Consejo de Ministros (14 de julio) la Journée nationale du Patrimoine culturel immatériel, por iniciativa de Mémoires d'Afrique",
+   "pais": "Benín",
+   "refs": [
+    "H157"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Primera edición del Festival Internacional de Narradores Kathakar en Delhi (India Habitat Centre), fundado por las hermanas Gahilote bajo la égida de la UNESCO",
+   "pais": "India",
+   "refs": [
+    "H158"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2010",
+   "texto": "Festival inaugural Penang International Kids Storytelling Festival, PINKS Fest",
+   "pais": "18 de septiembre de 2010, Penang, Malasia",
+   "refs": [
+    "H159"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "I Festival «La U Cuenta Contigo», UCR (II: 22–24 ago 2012; III: 28–29 ago 2013; IV: 17–19 sep 2014, renombrado «La U Cuenta con Vos»)",
+   "pais": "Costa Rica",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "I Festival Internacional de Narración Oral del Perú «Todas las Palabras, Todas», 10–23 de octubre; creado y dirigido por César «El Wayqui» Villegas; org. Asociación Cultural Wasi",
+   "pais": "Perú",
+   "refs": [
+    "H160"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "ECOH, Londrina (1.ª ed. 22–30 oct 2011; nombre «ECOH» desde la 3.ª ed., 2013)",
+   "pais": "Brasil",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Marcela Sabio publica *Narración oral escénica: El arte de leer el mundo con todo el cuerpo y a viva voz*",
+   "pais": "Argentina",
+   "refs": [
+    "H76"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "«Valparaíso es un Cuento», primera versión del encuentro internacional de cuenteros, 19–26 de octubre",
+   "pais": "Chile",
+   "refs": [
+    "H161"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Jan Blake, primera galardonada angloparlante del Thüringer Märchenpreis",
+   "pais": "Alemania",
+   "refs": [
+    "H101",
+    "H102"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "La épica mora T'heydinn, interpretada por los griots (iggawen), es inscrita en la Lista de Salvaguardia Urgente",
+   "pais": "Mauritania",
+   "refs": [
+    "H162"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Se funda en El Cairo el Festival Hakawy (Hakawy International Arts Festival for Children), único festival internacional de artes para niños en Egipto, organizado por AFCA Arts Center",
+   "pais": "Egipto",
+   "refs": [
+    "H163"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Caravane du Conte Abidjan-Dakar (28 nov–3 dic en Dakar; 5–10 dic en Abiyán), proyecto «Oralité et société du savoir» del Goethe Institut",
+   "pais": "Senegal/Côte d'Ivoire",
+   "refs": [
+    "H164"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Se funda la comunidad Ayo Dongeng Indonesia",
+   "pais": "Indonesia",
+   "refs": [
+    "H152"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Jay Menes funda Storyhouse Philippines",
+   "pais": "marzo de 2011, Filipinas",
+   "refs": [
+    "H165"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2011",
+   "texto": "Se funda la Indian Storytelling Network (diciembre de 2011), por Geeta Ramanujam y Eric Miller",
+   "pais": "India",
+   "refs": [
+    "H166"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Festival de Narración Oral «Puro Cuento», Lima (Asociación Cultural Tiempo de Cuentos; «proyecto que se organiza desde el 2012»)",
+   "pais": "Perú; ⚠️ homónimo, NO es el Festival de Costa Rica",
+   "refs": [
+    "H167"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Primera Jornada Internacional de Narración Oral, Panamá (24 de mayo–2 de junio; org. Oficina del Plan Nacional del INAC y FINO)",
+   "pais": "Panamá",
+   "refs": [
+    "H168"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "FEST se constituye legalmente el 14 de febrero de 2012 en Bilzen (Bélgica) como asociación internacional sin fines de lucro; agrupa ya más de 40 organizaciones",
+   "pais": "Europa",
+   "refs": [
+    "H169",
+    "H143"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Se funda el VEE (Verband der Erzählerinnen und Erzähler e.V.) el 26 de agosto en Berlín",
+   "pais": "Alemania",
+   "refs": [
+    "H170"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Terra Incógnita, Lisboa, 1.ª edición (7–9 sep 2012)",
+   "pais": "Portugal",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Primera edición de los British Awards for Storytelling Excellence (BASE)",
+   "pais": "Reino Unido",
+   "refs": [
+    "H171"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Rencontres Nationales du Conte et des Arts de la Parole en París (octubre de 2012)",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Se crea en Tozeur el Festival international de la ronde populaire, con participación de conteurs y teatro de calle",
+   "pais": "Túnez",
+   "refs": [
+    "H172"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Se lanza en junio la campaña Nal'ibali («Aquí está el cuento», en isiXhosa), de PRAESA y DG Murray Trust, para fomentar la lectura y la narración en Sudáfrica",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H173"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2012",
+   "texto": "Conferencia «Weaving Stories Together» (Sídney, 1–3 jun); el 4 de junio los gremios de toda Australia deciden crear la organización nacional Storytelling Australia",
+   "pais": "Australia",
+   "refs": [
+    "H174"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Festival Centroamérica Cuenta (1.ª ed. 16–20 feb 2013, Managua/Granada/León; fundador Sergio Ramírez)",
+   "pais": "Nicaragua",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Narrarte, Festival de Narración Oral / Festival de Contadores de Historias, Lima («Desde 2013»; I y II ed. 2013 y 2014; dir. Jorge Flores Johanson)",
+   "pais": "Perú",
+   "refs": [
+    "H175",
+    "H176"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "IV Festival Cuéntamelo, Lima, 25–30 de noviembre, Británico Cultural",
+   "pais": "Perú",
+   "refs": [
+    "H177"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "IX Festival Internacional de Narración Oral de Zacatecas, 27 sep–5 oct (fundadora y directora artística María Eugenia Márquez)",
+   "pais": "México",
+   "refs": [
+    "H178"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "ATLÁNTICA, Santiago de Compostela",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Pep Bruno, Manuel Castaño y Carles García Domingo publican «Una mirada crítica a la autodenominada Red Internacional de Cuentacuentos» (noviembre de 2013)",
+   "pais": "España",
+   "refs": [
+    "H179"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Fortellerfestivalen se reorganiza como fundación independiente",
+   "pais": "Noruega",
+   "refs": [
+    "H119"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Se lanza la African Storybook Initiative, de Saide, con cuentos ilustrados de acceso abierto en lenguas africanas",
+   "pais": "Sudáfrica/Kenia/Uganda",
+   "refs": [
+    "H180"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Primer Writivism Literary Festival, del 16 al 18 de agosto en Kampala (festival literario)",
+   "pais": "Uganda",
+   "refs": [
+    "H181"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Se funda el LitFest Harare International Literature Festival, dirigido por Chirikure Chirikure (festival literario)",
+   "pais": "Zimbabue",
+   "refs": [
+    "H182"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Lola Shoneyin funda el Aké Arts and Book Festival en Abeokuta (se traslada a Lagos en 2019)",
+   "pais": "Nigeria",
+   "refs": [
+    "H183"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2013",
+   "texto": "Inicia el Festival Internacional de Narración Oral de Indonesia, impulsado por Ayo Dongeng Indonesia",
+   "pais": "",
+   "refs": [
+    "H184"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Encuentro «Pa' que te cuento» nace como peñas del Grupo Teatral Bambú",
+   "pais": "Honduras",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Helen Lavender Youth Teller Award, Storytelling Alberta",
+   "pais": "Canadá; creado en 2014; vigente",
+   "refs": [
+    "H185"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Apthapi Internacional de Cuentacuentos celebra 10 años (10.ª versión), La Paz",
+   "pais": "Bolivia",
+   "refs": [
+    "H186"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Contanário, Évora",
+   "pais": "Portugal",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Arthur Angong Zé («Azazou») crea el Festival Internacional du Conte MINKANA en Yaoundé",
+   "pais": "Camerún",
+   "refs": [
+    "H187"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Café Clock (Fez y Marrakech) inicia su programa de aprendizaje de narración (halqa/hikayat) con el maestro Hajj Ahmed Ezzarghani; las veladas de cuentos se celebran los lunes y jueves",
+   "pais": "Marruecos",
+   "refs": [
+    "H188",
+    "H189"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Kathai Kalatta funda el festival internacional «Under the Aalamaram» en Chennai",
+   "pais": "India",
+   "refs": [
+    "H190"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Inicio del esfuerzo de revival del dastangoi en Karachi: narradores formados en NAPA enseñan el arte en comunidades desde enero de 2014",
+   "pais": "Pakistán",
+   "refs": [
+    "H191"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2014",
+   "texto": "Nace el Festival Kōanga, celebración anual de nuevas historias maoríes para la escena, en Auckland",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H192"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "«Oíd Mortales» – NaRRaEncuentro Argentino de Contadores de Historias, Córdoba (creado por Alejandra Oliver Gulle)",
+   "pais": "Argentina",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "I Festival Internacional de Cuentacuentos «Cuentos en las Nubes», El Alto, 20–25 de abril; primer festival de narración oral de El Alto",
+   "pais": "Bolivia",
+   "refs": [
+    "H193"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "Primer Encuentro Internacional de Narración Oral «Para qué te cuento 2015», en la XI Feria Internacional del Libro de Panamá, agosto",
+   "pais": "Panamá",
+   "refs": [
+    "H194"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "Nace el 15 de noviembre en Abiyán el Festival International Parole de Conteur (FIPC), fundado por Amoin Koffi",
+   "pais": "Côte d'Ivoire",
+   "refs": [
+    "H195"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "Hope Azeda funda en Kigali el Ubumuntu Arts Festival, festival de artes con fuerte presencia de la narración",
+   "pais": "Ruanda",
+   "refs": [
+    "H196"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "Primera edición del Lagos International Poetry Festival (LIPFest), fundado por Efe Paul Azino (poesía oral/spoken word)",
+   "pais": "Nigeria",
+   "refs": [
+    "H197"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "III Festival Internacional de Narración Oral de Tailandia",
+   "pais": "22–23 de enero de 2015, Universidad Rajabhat de Sakon Nakhon; 36 narradores de 9 países",
+   "refs": [
+    "H198"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "Roger Jenkins funda el 398.2 Storytelling Festival",
+   "pais": "Singapur",
+   "refs": [
+    "H199"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2015",
+   "texto": "Se funda el Te Pou Theatre en Auckland, hogar de la narración oral maorí contemporánea",
+   "pais": "Nueva Zelanda",
+   "refs": [
+    "H192"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2016",
+   "texto": "12.º Apthapi Internacional de Cuentacuentos, La Paz, 15–21 de mayo",
+   "pais": "Bolivia",
+   "refs": [
+    "H200"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2016",
+   "texto": "EVA – Era uma Vez no Atlântico, Madeira, primer festival de narración oral de Madeira",
+   "pais": "Portugal",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2016",
+   "texto": "IV Festival Internacional de Narración Oral en Hue",
+   "pais": "2 de marzo de 2016; narradores de la ASEAN y de 30 países, Vietnam",
+   "refs": [
+    "H201"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2017",
+   "texto": "CANDEIA, Belo Horizonte (Instituto Cultural AbraPalavra; Aline Cântia y Chicó do Céu)",
+   "pais": "Brasil",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2017",
+   "texto": "Festival Internacional de Narración Oral «A ti te cuento», Cochabamba («El festival surge en 2017»)",
+   "pais": "Bolivia",
+   "refs": [
+    "H202"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2017",
+   "texto": "Edición inaugural de StoryFest Singapore",
+   "pais": "2–4 de junio de 2017, The Arts House",
+   "refs": [
+    "H203"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Festival Cuenta Historias «Güilo Mentiras», Mazatlán (1.ª ed. 26–29 sep 2018; org. Ángela Camacho y Sergio García)",
+   "pais": "México",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Festival Escénico de Narración Oral Patrimonial «Mishki Shimi», Quito (1.ª ed.; Fundación Quito Eterno)",
+   "pais": "Ecuador",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "ChileCuentos, Festival Internacional de Narración Oral («desde 2018»; org. Escuela de Literatura y Oralidad Casa Contada)",
+   "pais": "Chile",
+   "refs": [
+    "H204"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Primera Fiesta Internacional de la Palabra, Antigua Guatemala, 7–11 de noviembre",
+   "pais": "Guatemala",
+   "refs": [
+    "H205"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Passa a Palavra!, Oeiras",
+   "pais": "Portugal",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "El programa Sagobygden / Land of Legends entra en el Registro de Buenas Prácticas de Salvaguardia de la UNESCO (29 de noviembre de 2018)",
+   "pais": "Suecia",
+   "refs": [
+    "H206"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Primer Festival Internacional de Narración Oral de Corea, organizado y dirigido por Alicia Dongjoo Bang",
+   "pais": "Corea del Sur",
+   "refs": [
+    "H207"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Se funda la Korea International Storytellers' Association, KISA, liderada por Alicia Dongjoo Bang",
+   "pais": "Corea del Sur",
+   "refs": [
+    "H208"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2018",
+   "texto": "Lanzamiento oficial de FEAST, Federación de Narradores Asiáticos",
+   "pais": "24 de agosto de 2018, Chennai; constituida el 1 de junio de 2018 en Singapur; directores fundadores: Roger Jenkins, Jeeva Raghunath y Sheila Wee",
+   "refs": [
+    "H209",
+    "H210"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "Premio Don Quijote en Cuentería",
+   "pais": "Colombia; documentado 2019: Ana Coralia Fernández, Costa Rica, XIX ed. de Entre Cuentos y Flores",
+   "refs": [
+    "H211",
+    "H212",
+    "H213"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "SegaMots, Cervera",
+   "pais": "España",
+   "refs": [
+    "H48"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "Se crea la Maison des Contes en Est",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "Se crea en Dakar La Grande Nuit du Conte, de KËR LEYTI, Maison de l'Oralité et du Patrimoine, fundada por el Dr Massamba Guèye",
+   "pais": "Senegal",
+   "refs": [
+    "H214"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "Se crea en Conakry La Grande Nuit du Conte (evento distinto del de Dakar, mismo nombre); primera edición el 20 de diciembre, dirigida por Moussa Doumbouya («Petit Tonton»)",
+   "pais": "Guinea",
+   "refs": [
+    "H215"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "El 24 de octubre, cumpleaños de Gcina Mhlophe, es reconocido como Día Nacional de la Narración en Sudáfrica",
+   "pais": "Sudáfrica",
+   "refs": [
+    "H216"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "Se funda la Mumbai Storytellers Society (principios de 2019), por Usha Venkatraman",
+   "pais": "India",
+   "refs": [
+    "H217"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2019",
+   "texto": "Se funda Tilismistan, compañía de dastangoi de Karachi, por Qadir Ahmed y Riaz Baloch",
+   "pais": "Pakistán",
+   "refs": [
+    "H218"
+   ],
+   "era": "era5"
+  },
+  {
+   "anio": "2020",
+   "texto": "Pep Bruno publica *Contar* (A buen paso), libro informativo sobre narración oral",
+   "pais": "España",
+   "refs": [
+    "H76"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2020",
+   "texto": "El decreto francés de 31 de diciembre de 2020 incluye los «arts du récit» en el campo de la délégation au théâtre et aux arts associés",
+   "pais": "Francia",
+   "refs": [
+    "H36"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2020",
+   "texto": "Primera edición del Festival Internacional de Narración Oral de Bombay, MIST",
+   "pais": "13–15 de enero de 2020 en Bombay y 17–18 de enero en Panchgani, India",
+   "refs": [
+    "H219"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2020",
+   "texto": "Primera edición del festival «Once Upon a Time» International Storytelling Festival",
+   "pais": "24 de julio–16 de agosto de 2020, en línea; programa nacido en Kuala Lumpur, Malasia, en 2017",
+   "refs": [
+    "H220"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2021",
+   "texto": "Primer Campeonato Mundial de Narración Oral (World Storytelling Championship), en línea, organizado por ACEnovation (India); gran final el 27 de diciembre de 2021, 131 países y 33.400+ inscripciones; campeón mundial de la categoría abierta: Chen Ming-hsiang",
+   "pais": "Taiwán",
+   "refs": [
+    "H221",
+    "H222"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2021",
+   "texto": "Primera edición del Festival Internacional de Narración Oral de Malasia, ISFM 2021, organizado por la Biblioteca Nacional de Malasia",
+   "pais": "inauguración el 24 de agosto de 2021",
+   "refs": [
+    "H223"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2021",
+   "texto": "El Festival Gulali (Indonesia) inicia como festival en línea",
+   "pais": "",
+   "refs": [
+    "H224"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2022",
+   "texto": "«What's Your Story, Jamaica?» Storytelling Competition (desde 2022; 5.ª ed. 2026; primer premio J$375.000)",
+   "pais": "Jamaica",
+   "refs": [
+    "H225",
+    "H226"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2022",
+   "texto": "Primera edición del Festival Internacional du Conte de Marrakech, del 12 al 20 de febrero, con unos 40 conteurs de cinco continentes",
+   "pais": "Marruecos",
+   "refs": [
+    "H227"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2023",
+   "texto": "Encuentro Internacional «Pa' que te cuento» institucionalizado (I ed.; director Edgar Valeriano)",
+   "pais": "Honduras",
+   "refs": [
+    "H48"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2023",
+   "texto": "Se lanza el Femø Fortællefestival",
+   "pais": "Dinamarca",
+   "refs": [
+    "H228"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2023",
+   "texto": "La organización de Fortellerfestivalen se amplía para formar Fortellersentrum, el Centro Noruego de Narración Oral",
+   "pais": "Noruega",
+   "refs": [
+    "H119"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2023",
+   "texto": "Nace en Acra el Anansekrom Toon Festival, primer festival de dibujos animados de Ghana, surgido del 10.º aniversario de los espectáculos «Ananse Live On Stage»",
+   "pais": "Ghana",
+   "refs": [
+    "H229"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2023",
+   "texto": "Primer Festival Comunitario de Narración Digital (CDSTF) en Daca, organizado por la Universidad Internacional Daffodil y el PNUD",
+   "pais": "Bangladés; narración digital, no oral escénica",
+   "refs": [
+    "H230"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2024",
+   "texto": "1er Festival de Narración Oral – Virtual, Biblioteca Infantil Cunori, 19 de octubre",
+   "pais": "Guatemala",
+   "refs": [
+    "H231"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2024",
+   "texto": "8.ª versión del Festival Internacional de Narración Oral «A ti te cuento», Cochabamba, 22–26 de octubre",
+   "pais": "Bolivia",
+   "refs": [
+    "H232"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2024",
+   "texto": "El Centro de Ciência de Luanda pone en marcha «Estórias no Imbondeiro», ciclo mensual de cuentos de la tradición oral angoleña; su 6.ª edición se celebró el 26 de octubre de 2024",
+   "pais": "Angola",
+   "refs": [
+    "H233",
+    "H234"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2024",
+   "texto": "IV Conferencia de FEAST en Suwon (6–8 de septiembre de 2024), en alianza con KISA",
+   "pais": "Corea del Sur",
+   "refs": [
+    "H208"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2024",
+   "texto": "El FestPAC celebra su 50.º aniversario en Honolulú \\*",
+   "pais": "Hawái/Pacífico",
+   "refs": [
+    "H26"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2024",
+   "texto": "Primera cohorte de Hui Mo'olelo: Lāhainā en Maui, programa de narración intergeneracional creado tras los incendios de agosto de 2023",
+   "pais": "Hawái/Pacífico",
+   "refs": [
+    "H235"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2025",
+   "texto": "I Bienal Internacional de Oralidad «Ñañohendu» (3–8 jul 2025)",
+   "pais": "Paraguay",
+   "refs": [
+    "H48"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2025",
+   "texto": "Vandalia Gathering, 48.ª ed., Charleston, Virginia Occidental",
+   "pais": "EE. UU.",
+   "refs": [
+    "H236"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2025",
+   "texto": "Récord Guinness en la 3.ª edición del Festival de Marrakech (19–26 de enero): 80 horas y 35 minutos de narración continua en Jemaa el-Fnaa, con unos 100 conteurs de 33 países",
+   "pais": "Marruecos",
+   "refs": [
+    "H237"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2025",
+   "texto": "Edición inaugural del premio Witsprouts",
+   "pais": "Nigeria",
+   "refs": [
+    "H238",
+    "H239"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "«503 Cuentos El Salvador» (1.ª ed. 26–29 abr 2026, tramo salvadoreño de la Caravana Centroamericana de Cuentos; Fabrik de Sueños)",
+   "pais": "El Salvador",
+   "refs": [
+    "H48"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "I Festival Internacional de Narración Oral «¡A Puros Cuentos!», Guatemala, 1–2 de mayo (tramo guatemalteco de la Caravana Centroamericana de Cuentos; Compañía Los Comediantes)",
+   "pais": "Guatemala",
+   "refs": [
+    "H240"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "4.ª Maratón de Cuentos del Paraguay (1-nov-2026, Luque; 35 narradores)",
+   "pais": "Paraguay",
+   "refs": [
+    "H241"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "19.ª versión del Apthapi Internacional de Cuentacuentos, La Paz, 5–10 de octubre; homenaje a Aníbar Lima Maquera, fundador",
+   "pais": "Bolivia",
+   "refs": [
+    "H242"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "«Graz Erzählt» (la rama estiria del festival austríaco) celebra su última edición tras 39 años",
+   "pais": "Austria",
+   "refs": [
+    "H46"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "Primera edición del Festival annuel du conte de Yaoundé (Facoy), inaugurada el 14 de agosto en el Centre Zingui, Ekoumdoum",
+   "pais": "Camerún",
+   "refs": [
+    "H243"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2026",
+   "texto": "La Academia de Nepal lanza «Katha Dabali», serie para escuchar y archivar digitalmente mitos y leyendas de las ciudades",
+   "pais": "1.ª edición el 24 de septiembre de 2026, Katmandú",
+   "refs": [
+    "H244"
+   ],
+   "era": "era6"
+  },
+  {
+   "anio": "2027",
+   "texto": "19.ª edición del Festival Puro Cuento, 13–21 de marzo de 2027; 18 ediciones realizadas",
+   "pais": "Costa Rica; fundado en 2002",
+   "refs": [
+    "H48"
+   ],
+   "era": "era6"
+  }
+ ],
+ "continentes": {
+  "america": {
+   "id": "america",
+   "titulo": "América",
+   "esperados": 115,
+   "intro": "América — 115 hitos. El continente con la cobertura más detallada: el movimiento moderno despega en EE. UU. y Canadá en los años 70 y se extiende por toda Latinoamérica desde los 80, con festivales, redes y escuelas en casi todos los países.",
+   "hitos": [
+    {
+     "anio": "1880",
+     "texto": "Joel Chandler Harris publica *Uncle Remus: His Songs and His Sayings*, recopilación de cuentos de la tradición oral afroamericana del sur de EE. UU.",
+     "pais": "EE. UU.",
+     "refs": [
+      "H4"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1918",
+     "texto": "Horacio Quiroga publica *Cuentos de la selva (para los niños)*, Buenos Aires",
+     "pais": "Uruguay/Argentina",
+     "refs": [
+      "H6"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1935",
+     "texto": "Zora Neale Hurston publica *Mules and Men*, colección de folclore afroamericano recogido en Florida y Nueva Orleans",
+     "pais": "EE. UU.",
+     "refs": [
+      "H9"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1973",
+     "texto": "Festival Internacional de la Cultura Campesina, Boyacá",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1973",
+     "texto": "Primer National Storytelling Festival, Jonesborough, Tennessee; lo funda el profesor Jimmy Neil Smith con ~60 asistentes; primer evento público del mundo dedicado exclusivamente a la narración oral",
+     "pais": "EE. UU.",
+     "refs": [
+      "H28"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1975",
+     "texto": "Fundación de la National Association for the Preservation and Perpetuation of Storytelling (NAPPS), origen de la actual National Storytelling Network",
+     "pais": "EE. UU.",
+     "refs": [
+      "H28"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1978",
+     "texto": "Dan Yashinsky funda 1001 Friday Nights of Storytelling, Toronto",
+     "pais": "Canadá",
+     "refs": [
+      "H31",
+      "H32"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1979",
+     "texto": "Dan Yashinsky funda el Toronto International Storytelling Festival; nace Storytelling Toronto como Storytellers School of Toronto, fundada por siete narradores",
+     "pais": "Canadá",
+     "refs": [
+      "H34",
+      "H35"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1983",
+     "texto": "Encuentro de la Palabra, Riosucio, Caldas",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1984",
+     "texto": "Florida Storytelling Guild fundada por Annette Bruce y Jennifer Jones Bausman",
+     "pais": "EE. UU.",
+     "refs": [
+      "H40"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1985",
+     "texto": "Primer Florida StoryCamp, en Lake Moon",
+     "pais": "EE. UU.",
+     "refs": [
+      "H40"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1985",
+     "texto": "Sierra Storytelling Festival fundado por Steve Sanfield, Nevada City, California",
+     "pais": "EE. UU.",
+     "refs": [
+      "H41"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1986",
+     "texto": "Encuentro de Contadores de Historias y Leyendas «Buga Historias», Buga",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1987",
+     "texto": "Primer Stephen Foster Storytelling Festival, White Springs, Florida",
+     "pais": "EE. UU.",
+     "refs": [
+      "H40"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1988",
+     "texto": "Festival Iberoamericano de Teatro – Muestra iberoamericana de narración oral, Bogotá",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1988",
+     "texto": "Yukon International Storytelling Festival creado en Whitehorse por Louise Profeit-Leblanc y Anne Tayler, inspirado en la narradora tagish Angela Sidney",
+     "pais": "Canadá",
+     "refs": [
+      "H45"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1989",
+     "texto": "Cuéntalee México: Primera Muestra Internacional de Narración Oral Escénica «Cuento con la Ciudad» (19-jul-1989); nombre «Cuéntalee» desde 2008; Armando Trejo organiza desde el inicio",
+     "pais": "México",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1989",
+     "texto": "Primer Festival Nacional de Narración Oral Escénica, Camagüey, con motivo del 2.º aniversario de La Peña del Brocal (CIINOE)",
+     "pais": "Cuba",
+     "refs": [
+      "H49"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1989",
+     "texto": "UNOES (Unión de Narradores Orales Escénicos de Venezuela) fundada el 29 de septiembre en Barquisimeto",
+     "pais": "Venezuela",
+     "refs": [
+      "H50"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1989",
+     "texto": "Premio Nacional Cuentería, Cuba",
+     "pais": "desde 1989; última ed. documentada 2015",
+     "refs": [
+      "H51"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1989",
+     "texto": "Premio Iberoamericano Extraordinario «Chamán», CIINOE",
+     "pais": "desde 1989; documentado 1995–2014",
+     "refs": [
+      "H52",
+      "H53"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1990",
+     "texto": "Festival Nacional de Cuenteros Puro Cuento – Teatro Popular de Bogotá",
+     "pais": "Colombia; ⚠️ homónimo, NO es el Festival de Costa Rica",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1990",
+     "texto": "Festival Universitario de narración oral de ASCUN, itinerante",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1990",
+     "texto": "Timpanogos Storytelling Festival, creado por Karen Ashton en su jardín en Orem, Utah",
+     "pais": "EE. UU.",
+     "refs": [
+      "H57"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1992",
+     "texto": "Encuentro Universitario de Narración Oral Escénica (PUJ), Cali",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1992",
+     "texto": "Festival Nacional de Cuenteros Ciudad de Bucaramanga",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1992",
+     "texto": "Festival Nacional de Cuenteros Universitarios Pazcificuento, Cali",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1992",
+     "texto": "Estudio Teatral Macubá fundado por Fátima Patterson",
+     "pais": "Cuba",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1993",
+     "texto": "Festival interculturel du conte de Montréal creado por Marc Laberge; bienal desde 1997",
+     "pais": "Canadá",
+     "refs": [
+      "H66"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1993",
+     "texto": "Storytellers of Canada – Conteurs du Canada (SC-CC) fundada en Montreal (30 de mayo de 1993), impulsada por Rosalyn Cohen",
+     "pais": "Canadá",
+     "refs": [
+      "H67"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1994",
+     "texto": "NAPPS pasa a llamarse National Storytelling Association (NSA)",
+     "pais": "EE. UU.",
+     "refs": [
+      "H72"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1995",
+     "texto": "Abrapalabra – Festival Iberoamericano de Cuenteros, Bucaramanga",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1995",
+     "texto": "ORACLE Awards, National Storytelling Network",
+     "pais": "EE. UU.; desde 1995, vigentes",
+     "refs": [
+      "H75"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1995",
+     "texto": "Nicolás Buenaventura Vidal publica *La importancia de hablar mierda o los hilos invisibles del tejido social*",
+     "pais": "Colombia",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1996",
+     "texto": "Nace el Grupo Miguilim, Cordisburgo, Minas Gerais",
+     "pais": "Brasil",
+     "refs": [
+      "H79"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1996",
+     "texto": "Bienal Internacional de Oralidad Escénica «Barrio Cuento» creada por el Grupo de Teatro Cimarrón (3 de agosto de 1996)",
+     "pais": "Cuba",
+     "refs": [
+      "H80"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1997",
+     "texto": "Compañía Teatro de la Palabra fundada (enero 1997; Osvaldo Manuel Pérez Peñalver)",
+     "pais": "Cuba",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1997",
+     "texto": "Bienal Internacional de Oralidad de Santiago de Cuba, fundada por Jesús Irísula y Fátima Patterson (septiembre 1997)",
+     "pais": "Cuba",
+     "refs": [
+      "H49"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1997",
+     "texto": "Jorge Bucay publica *Cuentos para pensar*",
+     "pais": "Argentina",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1997",
+     "texto": "The Moth fundado en Nueva York por el novelista George Dawes Green",
+     "pais": "EE. UU.",
+     "refs": [
+      "H83"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998",
+     "texto": "Acuerdo 24 del Concejo de Medellín institucionaliza un Festival Anual de Cuenteros desde 1999; Sandra Barrera Ruiz dirige Corfescu y el festival desde 1998",
+     "pais": "Colombia",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998",
+     "texto": "Festival Internacional de cuenteros El Caribe Cuenta, Barranquilla",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998",
+     "texto": "Grupo «PURO CUENTO» de Marcela Sabio, Universidad Nacional del Litoral, Santa Fe",
+     "pais": "Argentina; ⚠️ homónimo",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998/1999",
+     "texto": "ContArte, La Habana (proyecto creado 8-may-1998; 1.ª ed. del festival mayo 1999; fundadora Elvia Pérez Nápoles)",
+     "pais": "Cuba",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998",
+     "texto": "Nace el Grupo Os Tapetes Contadores de Histórias",
+     "pais": "Brasil",
+     "refs": [
+      "H79"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998",
+     "texto": "Primer Festival Nacional de Narración Oral, Biblioteca Nacional de Buenos Aires; directora artística Liliana Cinetto; con Ana Padovani y Ana María Bovo",
+     "pais": "Argentina",
+     "refs": [
+      "H88"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1998",
+     "texto": "La NSA se divide en dos organizaciones: National Storytelling Network (NSN) e International Storytelling Center (ISC), que queda en Jonesborough a cargo del festival",
+     "pais": "EE. UU.",
+     "refs": [
+      "H28",
+      "H72"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1999",
+     "texto": "Aquetecuento: Encuentro Nacional de Cuenteros, Medellín",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1999",
+     "texto": "Encuentro Internacional de Cuenteros Unicuento, Cali",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1999",
+     "texto": "Encuentro Internacional de Narradoras Orales Ellas Cuentan, Cali",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1999",
+     "texto": "Storytelling World Awards",
+     "pais": "EE. UU.; documentado 1999; existencia hasta 2020 corroborada",
+     "refs": [
+      "H94"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "1999",
+     "texto": "I Encontro de Contadores de Histórias do Rio de Janeiro, antecedente del Simpósio",
+     "pais": "Brasil",
+     "refs": [
+      "H79"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2000",
+     "texto": "Festival Internacional de Cuentería «Entre Cuentos y Flores», Medellín",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2000",
+     "texto": "Festival Internacional de cuenteros Akuentajui, Riohacha",
+     "pais": "Colombia",
+     "refs": [
+      "H27"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2000",
+     "texto": "Festival Internacional de Narración Oral «Déjame que te cuente», Lima; gestoras Marisa Amado (Palique Cuenteros) y Cucha del Águila; primer festival en el Centro Cultural de la Pontificia Universidad Católica",
+     "pais": "Perú",
+     "refs": [
+      "H97"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2000",
+     "texto": "Ana María Machado (Brasil) recibe el Premio Hans Christian Andersen",
+     "pais": "",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2001",
+     "texto": "2ª Fiesta Internacional de la Palabra, Montevideo; directora Niré Collazo (Promocultura)",
+     "pais": "Uruguay",
+     "refs": [
+      "H99"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2001",
+     "texto": "CuentoPalabra, Córdoba («emprendimiento cultural nacido en 2001»)",
+     "pais": "Argentina",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2001",
+     "texto": "Primer Encuentro de Narradores Orales, Cuenteros y Cuentacuentos «Contar para vivir y soñar», 5–7 de octubre, Biblioteca Nacional de Montevideo",
+     "pais": "Uruguay",
+     "refs": [
+      "H100"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2001",
+     "texto": "Boca do Céu, São Paulo (creación/curaduría Regina Machado; bienal desde 2010)",
+     "pais": "Brasil",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2001",
+     "texto": "Alicia Barberis publica *Viaje hacia los cuentos* (didáctica de la narración oral)",
+     "pais": "Argentina",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2002",
+     "texto": "Festival Internacional de Cuentacuentos «Te doy mi palabra», Buenos Aires (1.ª ed. 2002, Morón)",
+     "pais": "Argentina",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2002",
+     "texto": "I Simpósio Internacional de Contadores de Histórias, SESC Copacabana, Río de Janeiro (mayo 2002; se celebró hasta 2014)",
+     "pais": "Brasil",
+     "refs": [
+      "H79"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2002",
+     "texto": "Nace el Festival Puro Cuento en San José; primera edición, «San José, la fiesta del cuento»",
+     "pais": "Costa Rica",
+     "refs": [
+      "H108"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2004",
+     "texto": "Encuentro Internacional de Narradores Orales «Un Cerro de Cuentos», Guayaquil (1.ª ed. 29 ago–2 sep 2004; fundadoras Ángela Arboleda Jiménez y Raquel Rodríguez)",
+     "pais": "Ecuador",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2004",
+     "texto": "Festival Internacional de la Palabra, La Oralidad Artística de los Cuenteros, Ciudad de México (16–25 de abril de 2004; narratón de 9 horas en el Zócalo)",
+     "pais": "México",
+     "refs": [
+      "H117"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2005",
+     "texto": "Primer Encuentro Uruguayo de Cuentería Popular, Montevideo",
+     "pais": "Uruguay",
+     "refs": [
+      "H125"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2005",
+     "texto": "Gislayne Matos publica *A palavra do contador de histórias* y *O ofício do contador de histórias*",
+     "pais": "Brasil",
+     "refs": [
+      "H79"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2006",
+     "texto": "NarrArte nace (agosto 2006, del Colectivo CUENTIANDO)",
+     "pais": "Costa Rica",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2006",
+     "texto": "Distinción Por la Oralidad",
+     "pais": "Cuba; primera ed. 2006, Haydée Arteaga",
+     "refs": [
+      "H133"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2006",
+     "texto": "Vandalia Gathering, 30.ª ed., Charleston, Virginia Occidental",
+     "pais": "EE. UU.",
+     "refs": [
+      "H134"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2008",
+     "texto": "Festival Internacional Santa Fe de Cuentos (octubre de 2008; dir. Marcela Sabio)",
+     "pais": "Argentina",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2009",
+     "texto": "Encuentro Internacional de Oralidad «La patria que late en mí» (I Encuentro, enero 2009, Cordillera; fundadora y directora Laura Ferreira)",
+     "pais": "Paraguay",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2009",
+     "texto": "Kont Anba Tonèl, Festival Interculturel des Contes, Puerto Príncipe y Jérémie (desde 2009; cada marzo, desde el Día Mundial del Cuento)",
+     "pais": "Haití",
+     "refs": [
+      "H147"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2010",
+     "texto": "Festival de la Palabra de Puerto Rico, San Juan (fundadora Mayra Santos-Febres)",
+     "pais": "Puerto Rico",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2010",
+     "texto": "«Viernes de Puro Cuento», ciclo mensual de narración oral centroamericana, Managua (iniciativa de NICASSITEJ con la Biblioteca Alemana Nicaragüense)",
+     "pais": "Nicaragua; ⚠️ no es el Festival de Costa Rica",
+     "refs": [
+      "H153"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2010",
+     "texto": "Asociación Cultural Tiempo de Cuentos formada (finales de 2010) por Yeniffer Díaz y Manuel Conde, Lima",
+     "pais": "Perú",
+     "refs": [
+      "H154"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2010",
+     "texto": "Nicolás Buenaventura Vidal publica *Palabra de cuentero*",
+     "pais": "Colombia/España",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2010/2011",
+     "texto": "«Cuento en corto» (RIC + Escuela de Escritores): II ed. convocada 15-dic-2010–15-ene-2011, fallo 30-ene-2011",
+     "pais": "",
+     "refs": [
+      "H155"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2011",
+     "texto": "I Festival «La U Cuenta Contigo», UCR (II: 22–24 ago 2012; III: 28–29 ago 2013; IV: 17–19 sep 2014, renombrado «La U Cuenta con Vos»)",
+     "pais": "Costa Rica",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2011",
+     "texto": "I Festival Internacional de Narración Oral del Perú «Todas las Palabras, Todas», 10–23 de octubre; creado y dirigido por César «El Wayqui» Villegas; org. Asociación Cultural Wasi",
+     "pais": "Perú",
+     "refs": [
+      "H160"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2011",
+     "texto": "ECOH, Londrina (1.ª ed. 22–30 oct 2011; nombre «ECOH» desde la 3.ª ed., 2013)",
+     "pais": "Brasil",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2011",
+     "texto": "Marcela Sabio publica *Narración oral escénica: El arte de leer el mundo con todo el cuerpo y a viva voz*",
+     "pais": "Argentina",
+     "refs": [
+      "H76"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2011",
+     "texto": "«Valparaíso es un Cuento», primera versión del encuentro internacional de cuenteros, 19–26 de octubre",
+     "pais": "Chile",
+     "refs": [
+      "H161"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2012",
+     "texto": "Festival de Narración Oral «Puro Cuento», Lima (Asociación Cultural Tiempo de Cuentos; «proyecto que se organiza desde el 2012»)",
+     "pais": "Perú; ⚠️ homónimo, NO es el Festival de Costa Rica",
+     "refs": [
+      "H167"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2012",
+     "texto": "Primera Jornada Internacional de Narración Oral, Panamá (24 de mayo–2 de junio; org. Oficina del Plan Nacional del INAC y FINO)",
+     "pais": "Panamá",
+     "refs": [
+      "H168"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2013",
+     "texto": "Festival Centroamérica Cuenta (1.ª ed. 16–20 feb 2013, Managua/Granada/León; fundador Sergio Ramírez)",
+     "pais": "Nicaragua",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2013",
+     "texto": "Narrarte, Festival de Narración Oral / Festival de Contadores de Historias, Lima («Desde 2013»; I y II ed. 2013 y 2014; dir. Jorge Flores Johanson)",
+     "pais": "Perú",
+     "refs": [
+      "H175",
+      "H176"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2013",
+     "texto": "IV Festival Cuéntamelo, Lima, 25–30 de noviembre, Británico Cultural",
+     "pais": "Perú",
+     "refs": [
+      "H177"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2013",
+     "texto": "IX Festival Internacional de Narración Oral de Zacatecas, 27 sep–5 oct (fundadora y directora artística María Eugenia Márquez)",
+     "pais": "México",
+     "refs": [
+      "H178"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2014",
+     "texto": "Encuentro «Pa' que te cuento» nace como peñas del Grupo Teatral Bambú",
+     "pais": "Honduras",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2014",
+     "texto": "Helen Lavender Youth Teller Award, Storytelling Alberta",
+     "pais": "Canadá; creado en 2014; vigente",
+     "refs": [
+      "H185"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2014",
+     "texto": "Apthapi Internacional de Cuentacuentos celebra 10 años (10.ª versión), La Paz",
+     "pais": "Bolivia",
+     "refs": [
+      "H186"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2015",
+     "texto": "«Oíd Mortales» – NaRRaEncuentro Argentino de Contadores de Historias, Córdoba (creado por Alejandra Oliver Gulle)",
+     "pais": "Argentina",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2015",
+     "texto": "I Festival Internacional de Cuentacuentos «Cuentos en las Nubes», El Alto, 20–25 de abril; primer festival de narración oral de El Alto",
+     "pais": "Bolivia",
+     "refs": [
+      "H193"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2015",
+     "texto": "Primer Encuentro Internacional de Narración Oral «Para qué te cuento 2015», en la XI Feria Internacional del Libro de Panamá, agosto",
+     "pais": "Panamá",
+     "refs": [
+      "H194"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2016",
+     "texto": "12.º Apthapi Internacional de Cuentacuentos, La Paz, 15–21 de mayo",
+     "pais": "Bolivia",
+     "refs": [
+      "H200"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2017",
+     "texto": "CANDEIA, Belo Horizonte (Instituto Cultural AbraPalavra; Aline Cântia y Chicó do Céu)",
+     "pais": "Brasil",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2017",
+     "texto": "Festival Internacional de Narración Oral «A ti te cuento», Cochabamba («El festival surge en 2017»)",
+     "pais": "Bolivia",
+     "refs": [
+      "H202"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2018",
+     "texto": "Festival Cuenta Historias «Güilo Mentiras», Mazatlán (1.ª ed. 26–29 sep 2018; org. Ángela Camacho y Sergio García)",
+     "pais": "México",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2018",
+     "texto": "Festival Escénico de Narración Oral Patrimonial «Mishki Shimi», Quito (1.ª ed.; Fundación Quito Eterno)",
+     "pais": "Ecuador",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2018",
+     "texto": "ChileCuentos, Festival Internacional de Narración Oral («desde 2018»; org. Escuela de Literatura y Oralidad Casa Contada)",
+     "pais": "Chile",
+     "refs": [
+      "H204"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2018",
+     "texto": "Primera Fiesta Internacional de la Palabra, Antigua Guatemala, 7–11 de noviembre",
+     "pais": "Guatemala",
+     "refs": [
+      "H205"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2019",
+     "texto": "Premio Don Quijote en Cuentería",
+     "pais": "Colombia; documentado 2019: Ana Coralia Fernández, Costa Rica, XIX ed. de Entre Cuentos y Flores",
+     "refs": [
+      "H211",
+      "H212",
+      "H213"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2022",
+     "texto": "«What's Your Story, Jamaica?» Storytelling Competition (desde 2022; 5.ª ed. 2026; primer premio J$375.000)",
+     "pais": "Jamaica",
+     "refs": [
+      "H225",
+      "H226"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2023",
+     "texto": "Encuentro Internacional «Pa' que te cuento» institucionalizado (I ed.; director Edgar Valeriano)",
+     "pais": "Honduras",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2024",
+     "texto": "1er Festival de Narración Oral – Virtual, Biblioteca Infantil Cunori, 19 de octubre",
+     "pais": "Guatemala",
+     "refs": [
+      "H231"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2024",
+     "texto": "8.ª versión del Festival Internacional de Narración Oral «A ti te cuento», Cochabamba, 22–26 de octubre",
+     "pais": "Bolivia",
+     "refs": [
+      "H232"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2025",
+     "texto": "I Bienal Internacional de Oralidad «Ñañohendu» (3–8 jul 2025)",
+     "pais": "Paraguay",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2025",
+     "texto": "Vandalia Gathering, 48.ª ed., Charleston, Virginia Occidental",
+     "pais": "EE. UU.",
+     "refs": [
+      "H236"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2026",
+     "texto": "«503 Cuentos El Salvador» (1.ª ed. 26–29 abr 2026, tramo salvadoreño de la Caravana Centroamericana de Cuentos; Fabrik de Sueños)",
+     "pais": "El Salvador",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2026",
+     "texto": "I Festival Internacional de Narración Oral «¡A Puros Cuentos!», Guatemala, 1–2 de mayo (tramo guatemalteco de la Caravana Centroamericana de Cuentos; Compañía Los Comediantes)",
+     "pais": "Guatemala",
+     "refs": [
+      "H240"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2026",
+     "texto": "4.ª Maratón de Cuentos del Paraguay (1-nov-2026, Luque; 35 narradores)",
+     "pais": "Paraguay",
+     "refs": [
+      "H241"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2026",
+     "texto": "19.ª versión del Apthapi Internacional de Cuentacuentos, La Paz, 5–10 de octubre; homenaje a Aníbar Lima Maquera, fundador",
+     "pais": "Bolivia",
+     "refs": [
+      "H242"
+     ],
+     "continente": "america"
+    },
+    {
+     "anio": "2027",
+     "texto": "19.ª edición del Festival Puro Cuento, 13–21 de marzo de 2027; 18 ediciones realizadas",
+     "pais": "Costa Rica; fundado en 2002",
+     "refs": [
+      "H48"
+     ],
+     "continente": "america"
+    }
+   ]
+  },
+  "europa": {
+   "id": "europa",
+   "titulo": "Europa",
+   "esperados": 94,
+   "intro": "Europa — 94 hitos. Las raíces escritas del cuento moderno (Perrault 1697, Grimm 1812) y la red continental más articulada: FEST desde 2008, el Día Mundial de la Narración Oral y la fundación de la RIC en Tenerife (2009).",
+   "hitos": [
+    {
+     "anio": "1697",
+     "texto": "Charles Perrault publica en París *Histoires ou contes du temps passé, avec des moralités* (11 de enero de 1697; «Contes de ma mère l'Oye»)",
+     "pais": "Francia",
+     "refs": [
+      "H1"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1812",
+     "texto": "Jacob y Wilhelm Grimm publican el vol. 1 de *Kinder- und Hausmärchen* (20 de diciembre de 1812; 86 cuentos)",
+     "pais": "Alemania",
+     "refs": [
+      "H3"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1956",
+     "texto": "Se funda la Europäische Märchengesellschaft (EMG) en Kloster/Schloss Bentlage, Rheine",
+     "pais": "Alemania",
+     "refs": [
+      "H15"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1979",
+     "texto": "Nace en Chevilly-Larue el primer festival de cuentos de Francia, impulsado por Lucien Gourong",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1981",
+     "texto": "Bruno de La Salle crea el CLIO (Conservatoire Contemporain de Littérature Orale) en Chartres, luego en Vendôme",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1981",
+     "texto": "Agnès Chavanon crea la AMAC (Antenne Mobile d'Action Culturelle) en Aubenas",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1981",
+     "texto": "Ben Haggarty funda la West London Storytelling Unit en Londres",
+     "pais": "Reino Unido",
+     "refs": [
+      "H38"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1985",
+     "texto": "Ben Haggarty dirige el primer festival de narración oral de Gran Bretaña, en el Battersea Arts Centre de Londres (enero de 1985)",
+     "pais": "Reino Unido",
+     "refs": [
+      "H42"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1985",
+     "texto": "Se forma la Company of Storytellers (C.O.S.T.), para narrar ante público adulto",
+     "pais": "Reino Unido",
+     "refs": [
+      "H43"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1986",
+     "texto": "La AMAC funda Paroles en Festival en Aubenas, Ardèche",
+     "pais": "Francia",
+     "refs": [
+      "H44"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1986",
+     "texto": "Nace «La semaine du conte» en Saint-Martin-d'Hères, Isère",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1987",
+     "texto": "Henri Gougaud crea el festival «Parole d'Alès»",
+     "pais": "Francia; dirigido desde 1989 por Marc Aubaret",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1987",
+     "texto": "Ben Haggarty funda el Crick Crack Club en Londres, primer club de narración escénica del Reino Unido",
+     "pais": "Reino Unido",
+     "refs": [
+      "H42"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1988",
+     "texto": "Se crea la ANCEF (Association Nationale des Conteurs d'En France)",
+     "pais": "Francia; se cierra en 2007",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1988",
+     "texto": "Folke Tegetthoff funda en Graz el Austrian International Storytelling Festival",
+     "pais": "Austria",
+     "refs": [
+      "H46"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1989",
+     "texto": "Horst-Dieter Klock crea las Berliner Märchentage con la caída del Muro («Märchen überwinden Grenzen»)",
+     "pais": "Alemania",
+     "refs": [
+      "H54"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1989",
+     "texto": "Donald Smith funda el Scottish International Storytelling Festival en Edimburgo",
+     "pais": "Escocia, Reino Unido",
+     "refs": [
+      "H55"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1989",
+     "texto": "Un coloquio internacional en el Musée national des Arts et Traditions Populaires de París oficializa el término «Renouveau du conte»",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1989",
+     "texto": "Se crean en Drôme los festivales «Les Nouvelles du Conte» (Bourdeaux) y «Contes et Rencontres» (Nyons)",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1990",
+     "texto": "Comienza el Festival interculturel du Conte de Chiny",
+     "pais": "Bélgica",
+     "refs": [
+      "H58"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1990",
+     "texto": "Primer Festival de Narración Oral de Ljungby (mayo de 1990); en otoño se constituye Berättarnätet Kronoberg",
+     "pais": "Suecia",
+     "refs": [
+      "H59"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1990",
+     "texto": "Se crea Le Nombril du Monde en Pougne-Hérisson, Deux-Sèvres",
+     "pais": "Francia; Yannick Jaulin trabaja allí desde 1986",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1991",
+     "texto": "Nace Cuenta con Agüimes, Gran Canaria, como Encuentro Iberoamericano de Narración Oral Escénica",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1991",
+     "texto": "I Muestra Iberoamericana de Narración Oral Escénica en Elche",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1992",
+     "texto": "Mike Rust y Richard «Mogsy» Walker fundan Festival at the Edge en Much Wenlock, Shropshire",
+     "pais": "Inglaterra, Reino Unido",
+     "refs": [
+      "H63"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1992",
+     "texto": "1.ª Maratón de los Cuentos de Guadalajara (24 de abril de 1992)",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1992",
+     "texto": "Se funda el Centre des Arts du Récit en Isère",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1992",
+     "texto": "Festival Iberoamericano de Narración Oral Escénica en Elche",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1993",
+     "texto": "Se funda la Society for Storytelling",
+     "pais": "Reino Unido",
+     "refs": [
+      "H68"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1993",
+     "texto": "Ben Haggarty y David Ambrose fundan Beyond the Border en St Donats, Gales",
+     "pais": "Reino Unido",
+     "refs": [
+      "H43"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1993",
+     "texto": "Michel Jolivet crea La Maison du Conte en Chevilly-Larue",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1993",
+     "texto": "Se funda la Schweizerische Märchengesellschaft (SMG) el 26 de agosto en Zúrich, como sección de la EMG",
+     "pais": "Suiza",
+     "refs": [
+      "H69"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1994",
+     "texto": "El festival de Elche se constituye como FIO (Festival Iberoamericano de Narración Oral)",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1994",
+     "texto": "Chuck y Nell Kruger fundan el Cape Clear International Storytelling Festival; primer festival en septiembre de 1994",
+     "pais": "Irlanda",
+     "refs": [
+      "H73"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1995",
+     "texto": "Se crea la Asociación Malión en Úbeda",
+     "pais": "España; cofundador Nono Granero",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1995",
+     "texto": "Se crea Paroles de Conteurs, Festival Interculturel du Conte de Île de Vassivière",
+     "pais": "Francia",
+     "refs": [
+      "H77"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1996",
+     "texto": "Festival Internacional del Cuento de Los Silos, Tenerife",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1996",
+     "texto": "Se crea «Alors… Raconte !» en Tarn-et-Garonne",
+     "pais": "Francia",
+     "refs": [
+      "H81"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1996",
+     "texto": "Maël Le Goff crea el Festival «Paroles Traverses» en Rennes",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1997",
+     "texto": "Marc Aubaret funda el CMLO (Centre Méditerranéen de Littérature Orale) en Alès",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1998",
+     "texto": "Se lanza el Festival «Contes Givrés» en Borgoña",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1999",
+     "texto": "«En Úbeda se cuenta…»",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1999",
+     "texto": "Nace el Festival «Grande Marée» en Brest",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1999",
+     "texto": "Henri Gougaud y Olivier Poubelle crean la revista *La Grande Oreille*",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "1999",
+     "texto": "Palavras Andarilhas, Beja, 1.ª edición",
+     "pais": "Portugal; bienal desde 2002",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2000",
+     "texto": "Festival de Narradores Orales de Segovia, creado por Ignacio Sanz",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2000",
+     "texto": "Verano de Cuento, El Sauzal, Tenerife",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2001",
+     "texto": "Alcalá Cuenta, Alcalá de Henares",
+     "pais": "España; arrancó como «La calle de los cuentos»",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2001",
+     "texto": "Se crea el Thüringer Märchen- und Sagenpreis «Ludwig Bechstein» en Meiningen",
+     "pais": "Alemania; bienal; primera entrega 21-nov-2001",
+     "refs": [
+      "H101",
+      "H102"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2001",
+     "texto": "Festival de Narradores Orales de El Espinar, Segovia",
+     "pais": "España; dirigido por Ignacio Sanz",
+     "refs": [
+      "H103"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2002",
+     "texto": "Festival D'Palabra, Cuenca",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2002",
+     "texto": "Coloquio «Conter un Art de la Parole» en Vendôme",
+     "pais": "Francia; fines de 2002",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2003",
+     "texto": "El Día Mundial de la Narración Oral (20 de marzo) se convierte en celebración internacional",
+     "pais": "raíces en Suecia",
+     "refs": [
+      "H111"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2003",
+     "texto": "Sylvain Houset y Pascal Dubois crean en Grenoble las Éditions Oui'Dire (como L'Oreille Hardie)",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2003",
+     "texto": "Se funda Storytellers of Ireland / Aos Scéal Éireann",
+     "pais": "Irlanda",
+     "refs": [
+      "H112"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2003",
+     "texto": "George Evgenikos funda el Kea Folktales Festival (Γιορτή Παραμυθιών), primer festival de su tipo en Grecia",
+     "pais": "Grecia",
+     "refs": [
+      "H113"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2004",
+     "texto": "ENCONTES, Festival de Narración Oral de Altea",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2004",
+     "texto": "Primera edición del Fabula Storytelling Festival en Estocolmo",
+     "pais": "Suecia",
+     "refs": [
+      "H118"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2004",
+     "texto": "Fortellerfestivalen (Festival Noruego de Narración Oral) comienza en Oslo, creado por Fortellerhuset",
+     "pais": "Noruega",
+     "refs": [
+      "H119"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2004",
+     "texto": "Paola Balbi, Angela Sajeva y Giulia Troiano fundan en Roma la compañía Raccontamiunastoria (diciembre de 2004)",
+     "pais": "Italia",
+     "refs": [
+      "H120"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2004",
+     "texto": "Se funda la Fédération de Conteurs Professionnels",
+     "pais": "Bélgica",
+     "refs": [
+      "H121"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2005",
+     "texto": "Se crea el concurso Young Storyteller of the Year",
+     "pais": "Reino Unido",
+     "refs": [
+      "H126",
+      "H127",
+      "H128"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2005",
+     "texto": "Los ejemplares anotados de *Kinder- und Hausmärchen* de los Grimm entran en el Registro Memoria del Mundo de la UNESCO (año de registro 2005)",
+     "pais": "Alemania",
+     "refs": [
+      "H129"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2005",
+     "texto": "Pep Bruno es socio fundador de la editorial Palabras del Candil, especializada en narración oral",
+     "pais": "España",
+     "refs": [
+      "H76"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2006",
+     "texto": "Se inaugura el Scottish Storytelling Centre en Edimburgo (1 de junio de 2006), primer centro del mundo construido para la narración oral en vivo",
+     "pais": "Escocia, Reino Unido",
+     "refs": [
+      "H135"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2006",
+     "texto": "1.ª edición del Międzynarodowy Festiwal Sztuki Opowiadania (Festival Internacional del Arte de Contar) en Varsovia (15–19 nov 2006)",
+     "pais": "Polonia",
+     "refs": [
+      "H136"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2007",
+     "texto": "Se crea la RNCAP (Réseau National du conte et des Arts de La Parole) en Rémuzat",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2008",
+     "texto": "La red FEST (Federation for European Storytelling) ya opera en Europa; su congreso anual se celebra en Oslo",
+     "pais": "Europa",
+     "refs": [
+      "H143",
+      "H144"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2008",
+     "texto": "Ahoz Aho, Tolosa y Ordizia",
+     "pais": "España; Pep Bruno; rama del FIO de Elche",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2009",
+     "texto": "Se funda la Red Internacional de Cuentacuentos (RIC) en Tenerife (verano de 2009; Beatriz Montero y Enrique Páez)",
+     "pais": "España",
+     "refs": [
+      "H148",
+      "H149",
+      "H150"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2009",
+     "texto": "1.ª edición del Festival Internazionale di Storytelling Raccontamiunastoria en Roma (septiembre de 2009)",
+     "pais": "Italia",
+     "refs": [
+      "H120"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2010",
+     "texto": "Munt de Mots, Barcelona, primer festival de narración oral de la ciudad",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2010",
+     "texto": "Se constituye legalmente AEDA, Asociación de Profesionales de la Narración Oral en España (enero de 2010, Azuqueca de Henares)",
+     "pais": "España",
+     "refs": [
+      "H156"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2010",
+     "texto": "Se crea la APAC (septiembre de 2010), luego APACC, asociación profesional de artistas conteurs/conteuses",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2011",
+     "texto": "Jan Blake, primera galardonada angloparlante del Thüringer Märchenpreis",
+     "pais": "Alemania",
+     "refs": [
+      "H101",
+      "H102"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2012",
+     "texto": "FEST se constituye legalmente el 14 de febrero de 2012 en Bilzen (Bélgica) como asociación internacional sin fines de lucro; agrupa ya más de 40 organizaciones",
+     "pais": "Europa",
+     "refs": [
+      "H169",
+      "H143"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2012",
+     "texto": "Se funda el VEE (Verband der Erzählerinnen und Erzähler e.V.) el 26 de agosto en Berlín",
+     "pais": "Alemania",
+     "refs": [
+      "H170"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2012",
+     "texto": "Terra Incógnita, Lisboa, 1.ª edición (7–9 sep 2012)",
+     "pais": "Portugal",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2012",
+     "texto": "Primera edición de los British Awards for Storytelling Excellence (BASE)",
+     "pais": "Reino Unido",
+     "refs": [
+      "H171"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2012",
+     "texto": "Rencontres Nationales du Conte et des Arts de la Parole en París (octubre de 2012)",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2013",
+     "texto": "ATLÁNTICA, Santiago de Compostela",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2013",
+     "texto": "Pep Bruno, Manuel Castaño y Carles García Domingo publican «Una mirada crítica a la autodenominada Red Internacional de Cuentacuentos» (noviembre de 2013)",
+     "pais": "España",
+     "refs": [
+      "H179"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2013",
+     "texto": "Fortellerfestivalen se reorganiza como fundación independiente",
+     "pais": "Noruega",
+     "refs": [
+      "H119"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2014",
+     "texto": "Contanário, Évora",
+     "pais": "Portugal",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2016",
+     "texto": "EVA – Era uma Vez no Atlântico, Madeira, primer festival de narración oral de Madeira",
+     "pais": "Portugal",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2018",
+     "texto": "Passa a Palavra!, Oeiras",
+     "pais": "Portugal",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2018",
+     "texto": "El programa Sagobygden / Land of Legends entra en el Registro de Buenas Prácticas de Salvaguardia de la UNESCO (29 de noviembre de 2018)",
+     "pais": "Suecia",
+     "refs": [
+      "H206"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2019",
+     "texto": "SegaMots, Cervera",
+     "pais": "España",
+     "refs": [
+      "H48"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2019",
+     "texto": "Se crea la Maison des Contes en Est",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2020",
+     "texto": "Pep Bruno publica *Contar* (A buen paso), libro informativo sobre narración oral",
+     "pais": "España",
+     "refs": [
+      "H76"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2020",
+     "texto": "El decreto francés de 31 de diciembre de 2020 incluye los «arts du récit» en el campo de la délégation au théâtre et aux arts associés",
+     "pais": "Francia",
+     "refs": [
+      "H36"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2023",
+     "texto": "Se lanza el Femø Fortællefestival",
+     "pais": "Dinamarca",
+     "refs": [
+      "H228"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2023",
+     "texto": "La organización de Fortellerfestivalen se amplía para formar Fortellersentrum, el Centro Noruego de Narración Oral",
+     "pais": "Noruega",
+     "refs": [
+      "H119"
+     ],
+     "continente": "europa"
+    },
+    {
+     "anio": "2026",
+     "texto": "«Graz Erzählt» (la rama estiria del festival austríaco) celebra su última edición tras 39 años",
+     "pais": "Austria",
+     "refs": [
+      "H46"
+     ],
+     "continente": "europa"
+    }
+   ]
+  },
+  "africa": {
+   "id": "africa",
+   "titulo": "África",
+   "esperados": 67,
+   "intro": "África — 67 hitos. La tradición griot y las literaturas orales vueltas libro (Fagunwa 1938, Diop 1947, Tutuola 1952, Niane 1960), la defensa de Hampâté Bâ ante la UNESCO (1960) y una red creciente de festivales de cuentos desde los 90.",
+   "hitos": [
+    {
+     "anio": "1922",
+     "texto": "La plaza Jemaa el-Fnaa de Marrakech queda protegida como parte del patrimonio artístico de Marruecos",
+     "pais": "Marruecos",
+     "refs": [
+      "H7"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1938",
+     "texto": "D. O. Fagunwa publica *Ògbójú Ọdẹ nínú Igbó Irúnmọlẹ̀*, primera novela extensa en lengua yoruba",
+     "pais": "Nigeria",
+     "refs": [
+      "H10"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1947",
+     "texto": "Birago Diop publica *Les Contes d'Amadou Koumba* (París, Fasquelle), colección de cuentos de la tradición oral",
+     "pais": "Senegal",
+     "refs": [
+      "H12"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1952",
+     "texto": "Amos Tutuola publica *The Palm-Wine Drinkard* (Londres, Faber and Faber), novela basada en cuentos yoruba",
+     "pais": "Nigeria",
+     "refs": [
+      "H13"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1955",
+     "texto": "Bernard Binlin Dadié publica *Le Pagne noir: Contes africains* (Présence Africaine), 16 cuentos de la tradición oral del África occidental",
+     "pais": "Côte d'Ivoire",
+     "refs": [
+      "H14"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1960",
+     "texto": "El 1 de diciembre, Amadou Hampâté Bâ, jefe de la delegación de Malí ante la UNESCO, pide salvar «el gigantesco monumento oral» ante la Conferencia General; de su frase —la muerte de cada tradicionalista es el incendio de un fondo cultural no explotado— nace el dicho atribuido «cuando muere un anciano, arde una biblioteca»",
+     "pais": "Malí",
+     "refs": [
+      "H16"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1960",
+     "texto": "Hampâté Bâ funda el Institut des sciences humaines de Bamako",
+     "pais": "Malí",
+     "refs": [
+      "H17"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1960",
+     "texto": "Djibril Tamsir Niane publica *Soundjata ou l'épopée mandingue* (Présence Africaine), a partir del relato del griot Mamadou Kouyaté",
+     "pais": "Guinea",
+     "refs": [
+      "H18"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1964",
+     "texto": "Credo Mutwa publica *Indaba, My Children* (Johannesburgo, Blue Crane Books), colección de mitos y leyendas zulúes",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H19"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1966",
+     "texto": "Primer Festival Mundial de las Artes Negras (FESMAN), del 1 al 24 de abril en Dakar; festival amplio de artes africanas, con la narración oral entre sus expresiones",
+     "pais": "Senegal",
+     "refs": [
+      "H22"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1969",
+     "texto": "Amadou Hampâté Bâ y Lilyan Kesteloot publican *Kaïdara, récit initiatique peul* (París, Julliard)",
+     "pais": "Malí",
+     "refs": [
+      "H24"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1970",
+     "texto": "Ruth Finnegan publica *Oral Literature in Africa* (Oxford University Press), obra de referencia sobre las literaturas orales africanas",
+     "pais": "Reino Unido",
+     "refs": [
+      "H25"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1975",
+     "texto": "Harold Scheub publica *The Xhosa Ntsomi* (Oxford University Press), estudio del arte narrativo de las mujeres xhosa",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H29"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1977",
+     "texto": "FESTAC '77, Segundo Festival Mundial de las Artes y la Cultura Negras y Africanas, del 15 de enero al 12 de febrero en Lagos, con unos 16.000 participantes de 56 naciones",
+     "pais": "Nigeria",
+     "refs": [
+      "H30"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1978",
+     "texto": "Camara Laye publica *Le Maître de la parole. Kouma Lafôlo Kouma* (París, Plon), versión escrita de la epopeya de Soundiata a partir de la recitación del griot Babou Condé",
+     "pais": "Guinea",
+     "refs": [
+      "H33"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1988",
+     "texto": "Gcina Mhlophe inicia talleres de narración en bibliotecas, escuelas y colegios de formación docente",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H47"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1989–1990",
+     "texto": "Gcina Mhlophe organiza dos festivales nacionales de narración con el Market Theatre",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H47"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1991",
+     "texto": "Nace la International Society for the Oral Literatures of Africa (ISOLA) durante una conferencia en SOAS, Universidad de Londres",
+     "pais": "Reino Unido",
+     "refs": [
+      "H61"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1992",
+     "texto": "El conteur Obin Manfei organiza en Abiyán lo que él describe como «le premier festival africain du conte», con narradores de Suiza, Francia y Colombia",
+     "pais": "Côte d'Ivoire",
+     "refs": [
+      "H64"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1992",
+     "texto": "Gcina Mhlophe funda en Johannesburgo la organización de narradores Zanendaba",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H47"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1992",
+     "texto": "Isidore Okpewho publica *African Oral Literature: Backgrounds, Character, and Continuity* (Indiana University Press)",
+     "pais": "Nigeria/EE. UU.",
+     "refs": [
+      "H65"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1997",
+     "texto": "Se funda el Festival Internacional de Contes et des Arts du Récit Yeleen en Bobo-Dioulasso, presidido por Hassane Kassi Kouyaté",
+     "pais": "Burkina Faso",
+     "refs": [
+      "H84"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1997",
+     "texto": "John William Johnson, Thomas A. Hale y Stephen Belcher (eds.) publican *Oral Epics from Africa* (Indiana University Press)",
+     "pais": "EE. UU.",
+     "refs": [
+      "H85"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1998",
+     "texto": "ISOLA se establece formalmente durante su conferencia de Ciudad del Cabo",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H61"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1998",
+     "texto": "El padre Israël Mensah funda en octubre la asociación Mémoires d'Afrique para recolectar cuentos africanos y favorecer el diálogo intercultural",
+     "pais": "Benín",
+     "refs": [
+      "H89"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1998",
+     "texto": "Thomas A. Hale publica *Griots and Griottes: Masters of Words and Music* (Indiana University Press)",
+     "pais": "EE. UU.",
+     "refs": [
+      "H90"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1999",
+     "texto": "Mémoires d'Afrique lanza el gran concurso nacional de recolección de cuentos y leyendas de Benín: 1.500 cuentos recogidos, 24 publicados en 2005 en *Contes et légendes du Bénin* (Karthala)",
+     "pais": "Benín",
+     "refs": [
+      "H89"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "1999",
+     "texto": "Se funda el Lagos Book and Art Festival (LABAF), organizado por el Committee for Relevant Art (CORA); la primera edición se celebra en noviembre en Lekki, Lagos",
+     "pais": "Nigeria",
+     "refs": [
+      "H95"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2001",
+     "texto": "La plaza Jemaa el-Fnaa es proclamada Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad (inscrita en la Lista Representativa en 2008)",
+     "pais": "Marruecos",
+     "refs": [
+      "H7"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2001",
+     "texto": "El patrimonio oral de Gelede (comunidad yoruba-nago) es proclamado Obra Maestra (inscrito en 2008)",
+     "pais": "Benín/Nigeria/Togo",
+     "refs": [
+      "H104"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2001",
+     "texto": "El espacio cultural de Sosso-Bala es proclamado Obra Maestra (inscrito en 2008)",
+     "pais": "Guinea",
+     "refs": [
+      "H105"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2001",
+     "texto": "Gcina Mhlophe funda la campaña de alfabetización Nozincwadi («Madre de los Libros»); su festival anual de libros y cuentos se celebra desde 2008",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H106",
+      "H47"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2002",
+     "texto": "Nelson Mandela compila *Nelson Mandela's Favorite African Folktales* (W. W. Norton), 32 cuentos tradicionales de todo el continente",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H109"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2003",
+     "texto": "La épica Al-Sirah Al-Hilaliyyah es proclamada Obra Maestra (inscrita en 2008)",
+     "pais": "Egipto",
+     "refs": [
+      "H114"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2003",
+     "texto": "El canto polifónico de los pigmeos Aka es proclamado Obra Maestra (inscrito en 2008)",
+     "pais": "República Centroafricana",
+     "refs": [
+      "H115"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2004",
+     "texto": "Se crea el FESCONTE, Festival Internacional de Conte du Togo, organizado por Ensemble Culturel les Griots Noirs du Togo y la Cie Belerrance",
+     "pais": "Togo",
+     "refs": [
+      "H122"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2004",
+     "texto": "Nace en Kabylie el festival itinerante Raconte-Arts, festival de cuentos y artes de calle fundado por Denis Martinez, Salah Silem y Hacène Metref; su actividad emblemática es «La Nuit du Conte»",
+     "pais": "Argelia",
+     "refs": [
+      "H123"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2005",
+     "texto": "El sistema de adivinación Ifa, corpus literario oral (odu), es proclamado Obra Maestra (inscrito en 2008)",
+     "pais": "Nigeria",
+     "refs": [
+      "H104"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2006",
+     "texto": "Primera «Nuit des Contes» el 15 de julio en Ouassa-Tokpa, junto al lago Ahémé, organizada por Mémoires d'Afrique; desde entonces se celebra cada 14 de agosto",
+     "pais": "Benín",
+     "refs": [
+      "H137"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2006",
+     "texto": "Séptima edición de Les Moments Conte (Festmoc), festival itinerante del cuento, del 3 al 9 de noviembre en Sa'a y Yaoundé",
+     "pais": "Camerún",
+     "refs": [
+      "H138"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2007",
+     "texto": "Primera edición del Festival Internacional du Conte et de la Parole de Gorée et Dakar, del 10 al 12 de mayo, dirigido por Ben Zimet",
+     "pais": "Senegal",
+     "refs": [
+      "H141"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2007",
+     "texto": "Se lanza en Nairobi el Festival Storymoja con la «Storymoja Nyamachoma Fiesta», fundado por cinco escritores liderados por Muthoni Garland",
+     "pais": "Kenia",
+     "refs": [
+      "H142"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2009",
+     "texto": "La Carta de Manden, proclamada en Kurukan Fuga, es inscrita en la Lista Representativa del Patrimonio Inmaterial",
+     "pais": "Malí",
+     "refs": [
+      "H151"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2010",
+     "texto": "Benín adopta en Consejo de Ministros (14 de julio) la Journée nationale du Patrimoine culturel immatériel, por iniciativa de Mémoires d'Afrique",
+     "pais": "Benín",
+     "refs": [
+      "H157"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2011",
+     "texto": "La épica mora T'heydinn, interpretada por los griots (iggawen), es inscrita en la Lista de Salvaguardia Urgente",
+     "pais": "Mauritania",
+     "refs": [
+      "H162"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2011",
+     "texto": "Se funda en El Cairo el Festival Hakawy (Hakawy International Arts Festival for Children), único festival internacional de artes para niños en Egipto, organizado por AFCA Arts Center",
+     "pais": "Egipto",
+     "refs": [
+      "H163"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2011",
+     "texto": "Caravane du Conte Abidjan-Dakar (28 nov–3 dic en Dakar; 5–10 dic en Abiyán), proyecto «Oralité et société du savoir» del Goethe Institut",
+     "pais": "Senegal/Côte d'Ivoire",
+     "refs": [
+      "H164"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2012",
+     "texto": "Se crea en Tozeur el Festival international de la ronde populaire, con participación de conteurs y teatro de calle",
+     "pais": "Túnez",
+     "refs": [
+      "H172"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2012",
+     "texto": "Se lanza en junio la campaña Nal'ibali («Aquí está el cuento», en isiXhosa), de PRAESA y DG Murray Trust, para fomentar la lectura y la narración en Sudáfrica",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H173"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2013",
+     "texto": "Se lanza la African Storybook Initiative, de Saide, con cuentos ilustrados de acceso abierto en lenguas africanas",
+     "pais": "Sudáfrica/Kenia/Uganda",
+     "refs": [
+      "H180"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2013",
+     "texto": "Primer Writivism Literary Festival, del 16 al 18 de agosto en Kampala (festival literario)",
+     "pais": "Uganda",
+     "refs": [
+      "H181"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2013",
+     "texto": "Se funda el LitFest Harare International Literature Festival, dirigido por Chirikure Chirikure (festival literario)",
+     "pais": "Zimbabue",
+     "refs": [
+      "H182"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2013",
+     "texto": "Lola Shoneyin funda el Aké Arts and Book Festival en Abeokuta (se traslada a Lagos en 2019)",
+     "pais": "Nigeria",
+     "refs": [
+      "H183"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2014",
+     "texto": "Arthur Angong Zé («Azazou») crea el Festival Internacional du Conte MINKANA en Yaoundé",
+     "pais": "Camerún",
+     "refs": [
+      "H187"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2014",
+     "texto": "Café Clock (Fez y Marrakech) inicia su programa de aprendizaje de narración (halqa/hikayat) con el maestro Hajj Ahmed Ezzarghani; las veladas de cuentos se celebran los lunes y jueves",
+     "pais": "Marruecos",
+     "refs": [
+      "H188",
+      "H189"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2015",
+     "texto": "Nace el 15 de noviembre en Abiyán el Festival International Parole de Conteur (FIPC), fundado por Amoin Koffi",
+     "pais": "Côte d'Ivoire",
+     "refs": [
+      "H195"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2015",
+     "texto": "Hope Azeda funda en Kigali el Ubumuntu Arts Festival, festival de artes con fuerte presencia de la narración",
+     "pais": "Ruanda",
+     "refs": [
+      "H196"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2015",
+     "texto": "Primera edición del Lagos International Poetry Festival (LIPFest), fundado por Efe Paul Azino (poesía oral/spoken word)",
+     "pais": "Nigeria",
+     "refs": [
+      "H197"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2019",
+     "texto": "Se crea en Dakar La Grande Nuit du Conte, de KËR LEYTI, Maison de l'Oralité et du Patrimoine, fundada por el Dr Massamba Guèye",
+     "pais": "Senegal",
+     "refs": [
+      "H214"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2019",
+     "texto": "Se crea en Conakry La Grande Nuit du Conte (evento distinto del de Dakar, mismo nombre); primera edición el 20 de diciembre, dirigida por Moussa Doumbouya («Petit Tonton»)",
+     "pais": "Guinea",
+     "refs": [
+      "H215"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2019",
+     "texto": "El 24 de octubre, cumpleaños de Gcina Mhlophe, es reconocido como Día Nacional de la Narración en Sudáfrica",
+     "pais": "Sudáfrica",
+     "refs": [
+      "H216"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2022",
+     "texto": "Primera edición del Festival Internacional du Conte de Marrakech, del 12 al 20 de febrero, con unos 40 conteurs de cinco continentes",
+     "pais": "Marruecos",
+     "refs": [
+      "H227"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2023",
+     "texto": "Nace en Acra el Anansekrom Toon Festival, primer festival de dibujos animados de Ghana, surgido del 10.º aniversario de los espectáculos «Ananse Live On Stage»",
+     "pais": "Ghana",
+     "refs": [
+      "H229"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2024",
+     "texto": "El Centro de Ciência de Luanda pone en marcha «Estórias no Imbondeiro», ciclo mensual de cuentos de la tradición oral angoleña; su 6.ª edición se celebró el 26 de octubre de 2024",
+     "pais": "Angola",
+     "refs": [
+      "H233",
+      "H234"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2025",
+     "texto": "Récord Guinness en la 3.ª edición del Festival de Marrakech (19–26 de enero): 80 horas y 35 minutos de narración continua en Jemaa el-Fnaa, con unos 100 conteurs de 33 países",
+     "pais": "Marruecos",
+     "refs": [
+      "H237"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2025",
+     "texto": "Edición inaugural del premio Witsprouts",
+     "pais": "Nigeria",
+     "refs": [
+      "H238",
+      "H239"
+     ],
+     "continente": "africa"
+    },
+    {
+     "anio": "2026",
+     "texto": "Primera edición del Festival annuel du conte de Yaoundé (Facoy), inaugurada el 14 de agosto en el Centre Zingui, Ekoumdoum",
+     "pais": "Camerún",
+     "refs": [
+      "H243"
+     ],
+     "continente": "africa"
+    }
+   ]
+  },
+  "asia": {
+   "id": "asia",
+   "titulo": "Asia",
+   "esperados": 48,
+   "intro": "Asia — 48 hitos. Tradiciones milenarias con fecha (gremio de pingtan de Suzhou, 1776; kamishibai, 1933) y un movimiento moderno denso desde los 90: Kathalaya y KIAS en India, Singapur como nodo regional, el renacimiento del dastangoi y FEAST (2018).",
+   "hitos": [
+    {
+     "anio": "1776",
+     "texto": "Los narradores de Suzhou organizan el gremio Guangyu She, que regula el oficio del pingtan (narración oral china)",
+     "pais": "China",
+     "refs": [
+      "H2"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1933",
+     "texto": "El kamishibai (teatro de papel) ya cuenta con unos 2.500 narradores callejeros solo en Tokio",
+     "pais": "Japón",
+     "refs": [
+      "H8"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1938",
+     "texto": "Gozan Takahashi funda la Federación Japonesa de Kamishibai Educativo",
+     "pais": "Japón",
+     "refs": [
+      "H11"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1993",
+     "texto": "Se funda el Festival Internacional de Narración Oral de Guivatayim, por Yossi Alfi",
+     "pais": "Israel",
+     "refs": [
+      "H70"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1997",
+     "texto": "Jeeva Raghunath empieza a contar cuentos como narradora profesional en Chennai",
+     "pais": "India",
+     "refs": [
+      "H86"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1998",
+     "texto": "Roger Jenkins empieza a contar cuentos como narrador profesional",
+     "pais": "Singapur",
+     "refs": [
+      "H91"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1998",
+     "texto": "Geeta Ramanujam funda Kathalaya – The House of Stories en Bangalore, con Lalu Narayan y Sujatha Pai",
+     "pais": "India",
+     "refs": [
+      "H92"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "1999",
+     "texto": "El círculo de narradores de Singapur (Sheila Wee y Kiran Shah) se convierte en grupo de interés especial de la Society for Reading and Literacy",
+     "pais": "Singapur",
+     "refs": [
+      "H96"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2000",
+     "texto": "Inicia el Congreso Asiático de Narradores (Asian Congress of Storytellers) en Singapur",
+     "pais": "",
+     "refs": [
+      "H98"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2001",
+     "texto": "Se constituye la Asian Storytelling Network",
+     "pais": "diciembre de 2001, Singapur",
+     "refs": [
+      "H96"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2001",
+     "texto": "Se funda la Asociación Internacional de Kamishibai de Japón, IKAJA",
+     "pais": "7 de diciembre de 2001, Tokio",
+     "refs": [
+      "H107"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2003",
+     "texto": "Kathalaya siembra la Academia Internacional de Narración Oral (KIAS), primera academia de narración oral con reconocimiento global",
+     "pais": "India",
+     "refs": [
+      "H116"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2004",
+     "texto": "Kamini Ramachandran y Verena Tay fundan MoonShadow Stories, primera compañía profesional de narración oral de Singapur",
+     "pais": "noviembre de 2004",
+     "refs": [
+      "H124"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2005",
+     "texto": "Primera función moderna de dastangoi en Delhi: Mahmood Farooqui revive el arte urdu de narración oral en el India International Centre",
+     "pais": "India",
+     "refs": [
+      "H130"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2005",
+     "texto": "Kathotsava, primer festival internacional de narración oral de la India, en Bangalore (24 de junio–10 de julio de 2005), organizado por Kathalaya",
+     "pais": "",
+     "refs": [
+      "H131"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2005",
+     "texto": "Chen Ming-hsiang («Fat Uncle») empieza a contar cuentos en la escuela primaria Youchang de Kaohsiung",
+     "pais": "septiembre de 2005, Taiwán",
+     "refs": [
+      "H132"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2006",
+     "texto": "Fouzia Dastango, primera mujer dastango de la India, debuta como narradora",
+     "pais": "India",
+     "refs": [
+      "H139"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2006",
+     "texto": "Se funda la Storytelling Association (Singapore), registrada el 27 de febrero de 2006",
+     "pais": "Singapur",
+     "refs": [
+      "H91"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2006",
+     "texto": "Edición inaugural del Festival Internacional de Narración Oral de Singapur, SISF",
+     "pais": "30 de agosto–9 de septiembre de 2006",
+     "refs": [
+      "H140"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2006",
+     "texto": "El pingtan de Suzhou entra en la primera lista nacional de patrimonio cultural inmaterial de China",
+     "pais": "",
+     "refs": [
+      "H2"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2008",
+     "texto": "El arte del meddah (narradores públicos turcos) entra en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad de la UNESCO",
+     "pais": "Turquía",
+     "refs": [
+      "H145"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2008",
+     "texto": "Se funda el World Storytelling Institute (marzo de 2008, Chennai), por Eric Miller, Jeeva Raghunath y Magdalene Jeyarathnam",
+     "pais": "India",
+     "refs": [
+      "H146"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2009",
+     "texto": "Se forma la comunidad Kampung Dongeng Indonesia",
+     "pais": "18 de mayo de 2009, Ciputat, Tangerang del Sur, Indonesia",
+     "refs": [
+      "H152"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2010",
+     "texto": "Primera edición del Festival Internacional de Narradores Kathakar en Delhi (India Habitat Centre), fundado por las hermanas Gahilote bajo la égida de la UNESCO",
+     "pais": "India",
+     "refs": [
+      "H158"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2010",
+     "texto": "Festival inaugural Penang International Kids Storytelling Festival, PINKS Fest",
+     "pais": "18 de septiembre de 2010, Penang, Malasia",
+     "refs": [
+      "H159"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2011",
+     "texto": "Se funda la comunidad Ayo Dongeng Indonesia",
+     "pais": "Indonesia",
+     "refs": [
+      "H152"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2011",
+     "texto": "Jay Menes funda Storyhouse Philippines",
+     "pais": "marzo de 2011, Filipinas",
+     "refs": [
+      "H165"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2011",
+     "texto": "Se funda la Indian Storytelling Network (diciembre de 2011), por Geeta Ramanujam y Eric Miller",
+     "pais": "India",
+     "refs": [
+      "H166"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2013",
+     "texto": "Inicia el Festival Internacional de Narración Oral de Indonesia, impulsado por Ayo Dongeng Indonesia",
+     "pais": "",
+     "refs": [
+      "H184"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2014",
+     "texto": "Kathai Kalatta funda el festival internacional «Under the Aalamaram» en Chennai",
+     "pais": "India",
+     "refs": [
+      "H190"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2014",
+     "texto": "Inicio del esfuerzo de revival del dastangoi en Karachi: narradores formados en NAPA enseñan el arte en comunidades desde enero de 2014",
+     "pais": "Pakistán",
+     "refs": [
+      "H191"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2015",
+     "texto": "III Festival Internacional de Narración Oral de Tailandia",
+     "pais": "22–23 de enero de 2015, Universidad Rajabhat de Sakon Nakhon; 36 narradores de 9 países",
+     "refs": [
+      "H198"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2015",
+     "texto": "Roger Jenkins funda el 398.2 Storytelling Festival",
+     "pais": "Singapur",
+     "refs": [
+      "H199"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2016",
+     "texto": "IV Festival Internacional de Narración Oral en Hue",
+     "pais": "2 de marzo de 2016; narradores de la ASEAN y de 30 países, Vietnam",
+     "refs": [
+      "H201"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2017",
+     "texto": "Edición inaugural de StoryFest Singapore",
+     "pais": "2–4 de junio de 2017, The Arts House",
+     "refs": [
+      "H203"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2018",
+     "texto": "Primer Festival Internacional de Narración Oral de Corea, organizado y dirigido por Alicia Dongjoo Bang",
+     "pais": "Corea del Sur",
+     "refs": [
+      "H207"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2018",
+     "texto": "Se funda la Korea International Storytellers' Association, KISA, liderada por Alicia Dongjoo Bang",
+     "pais": "Corea del Sur",
+     "refs": [
+      "H208"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2018",
+     "texto": "Lanzamiento oficial de FEAST, Federación de Narradores Asiáticos",
+     "pais": "24 de agosto de 2018, Chennai; constituida el 1 de junio de 2018 en Singapur; directores fundadores: Roger Jenkins, Jeeva Raghunath y Sheila Wee",
+     "refs": [
+      "H209",
+      "H210"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2019",
+     "texto": "Se funda la Mumbai Storytellers Society (principios de 2019), por Usha Venkatraman",
+     "pais": "India",
+     "refs": [
+      "H217"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2019",
+     "texto": "Se funda Tilismistan, compañía de dastangoi de Karachi, por Qadir Ahmed y Riaz Baloch",
+     "pais": "Pakistán",
+     "refs": [
+      "H218"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2020",
+     "texto": "Primera edición del Festival Internacional de Narración Oral de Bombay, MIST",
+     "pais": "13–15 de enero de 2020 en Bombay y 17–18 de enero en Panchgani, India",
+     "refs": [
+      "H219"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2020",
+     "texto": "Primera edición del festival «Once Upon a Time» International Storytelling Festival",
+     "pais": "24 de julio–16 de agosto de 2020, en línea; programa nacido en Kuala Lumpur, Malasia, en 2017",
+     "refs": [
+      "H220"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2021",
+     "texto": "Primer Campeonato Mundial de Narración Oral (World Storytelling Championship), en línea, organizado por ACEnovation (India); gran final el 27 de diciembre de 2021, 131 países y 33.400+ inscripciones; campeón mundial de la categoría abierta: Chen Ming-hsiang",
+     "pais": "Taiwán",
+     "refs": [
+      "H221",
+      "H222"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2021",
+     "texto": "Primera edición del Festival Internacional de Narración Oral de Malasia, ISFM 2021, organizado por la Biblioteca Nacional de Malasia",
+     "pais": "inauguración el 24 de agosto de 2021",
+     "refs": [
+      "H223"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2021",
+     "texto": "El Festival Gulali (Indonesia) inicia como festival en línea",
+     "pais": "",
+     "refs": [
+      "H224"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2023",
+     "texto": "Primer Festival Comunitario de Narración Digital (CDSTF) en Daca, organizado por la Universidad Internacional Daffodil y el PNUD",
+     "pais": "Bangladés; narración digital, no oral escénica",
+     "refs": [
+      "H230"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2024",
+     "texto": "IV Conferencia de FEAST en Suwon (6–8 de septiembre de 2024), en alianza con KISA",
+     "pais": "Corea del Sur",
+     "refs": [
+      "H208"
+     ],
+     "continente": "asia"
+    },
+    {
+     "anio": "2026",
+     "texto": "La Academia de Nepal lanza «Katha Dabali», serie para escuchar y archivar digitalmente mitos y leyendas de las ciudades",
+     "pais": "1.ª edición el 24 de septiembre de 2026, Katmandú",
+     "refs": [
+      "H244"
+     ],
+     "continente": "asia"
+    }
+   ]
+  },
+  "oceania": {
+   "id": "oceania",
+   "titulo": "Oceanía",
+   "esperados": 25,
+   "intro": "Oceanía — 25 hitos. Los gremios australianos (desde 1979), la narración maorí y pasifika en Nueva Zelanda, y la tradición oral viva dentro de los grandes festivales culturales del Pacífico (marcados con \\*, ver la nota al inicio).",
+   "hitos": [
+    {
+     "anio": "1881",
+     "texto": "Nace en Papeete el festival Heiva (entonces Tiurai), el festival cultural más antiguo del Pacífico; sus hīmene (cantos polifónicos) transmiten lengua, tradición y leyendas \\*",
+     "pais": "Polinesia Francesa",
+     "refs": [
+      "H5"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1964",
+     "texto": "Se crea en Canberra el Australian Institute of Aboriginal Studies (hoy AIATSIS), instituto dedicado a registrar la lengua, el canto, el arte y la vida ceremonial de los pueblos aborígenes e isleños del estrecho de Torres",
+     "pais": "Australia",
+     "refs": [
+      "H20"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1965",
+     "texto": "Nace en Nueva Zelanda el concurso de oratoria Korimako para estudiantes maoríes de secundaria (final nacional en agosto de 1965; renombrado Ngā Manu Kōrero en 1987)",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H21"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1967",
+     "texto": "Primeras Constitution Celebrations (hoy Te Maeva Nui) en Rarotonga; sus actuaciones se basan en leyendas, profecías e historias tradicionales \\*",
+     "pais": "Islas Cook",
+     "refs": [
+      "H23"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1972",
+     "texto": "I Festival de Artes del Pacífico Sur (hoy FestPAC) en Suva, con artes tradicionales, música, danza y tradiciones orales \\*",
+     "pais": "Fiyi",
+     "refs": [
+      "H26"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1976",
+     "texto": "II Festival de Artes del Pacífico Sur en Rotorua \\*",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H26"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1977",
+     "texto": "Ngā Manu Kōrero añade la sección de oratoria en te reo māori (concurso Pei Te Hurinui Jones)",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H21"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1979",
+     "texto": "Se funda el ACT Storytellers Guild en Canberra",
+     "pais": "Australia",
+     "refs": [
+      "H37"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1981",
+     "texto": "La escritora Mem Fox y la bibliotecaria Sue Robinson fundan en Adelaida el grupo de narración oral origen de Storytelling Australia",
+     "pais": "Australia",
+     "refs": [
+      "H39"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1989",
+     "texto": "Jeff Gere crea el Talk Story Festival en Honolulú, la celebración de narración oral más grande y antigua de Hawái",
+     "pais": "Hawái/Pacífico",
+     "refs": [
+      "H56"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1990",
+     "texto": "Jeff Gere crea Story TV, programa de narración oral en la televisión pública Ōlelo",
+     "pais": "Hawái/Pacífico",
+     "refs": [
+      "H60"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1991",
+     "texto": "Primer Festival Teuila en Apia, celebración de la cultura samoana y polinesia \\*",
+     "pais": "Samoa",
+     "refs": [
+      "H62"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1993",
+     "texto": "Primer Festival Pasifika en Auckland, hoy el mayor festival cultural del Pacífico en el mundo \\*",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H71"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1994",
+     "texto": "Se funda en Sídney el Australian Storytelling Guild (NSW) (marzo de 1994; incorporado el 4 de julio de 1996)",
+     "pais": "Australia",
+     "refs": [
+      "H74"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1995",
+     "texto": "Primer Festival Matariki (Te Whakanui i a Matariki) en Wellington, creado por Ngāti Pōneke Māori Arts \\*",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H78"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1996",
+     "texto": "Morgan Schatz Blackrose y Roman W. Schatz realizan su primer proyecto de narración oral y arte («Web of Wonder») en una escuela primaria australiana",
+     "pais": "Australia",
+     "refs": [
+      "H82"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1997",
+     "texto": "Festival of the Dreaming inaugural en Sídney, fundado por la directora artística Rhoda Roberts; desde 2005 se celebra en Woodford (Queensland) como The Dreaming \\*",
+     "pais": "Australia",
+     "refs": [
+      "H87"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "1998",
+     "texto": "I Festival de Artes y Cultura Melanesias (MACFEST) en Honiara (6 de julio de 1998) \\*",
+     "pais": "Islas Salomón",
+     "refs": [
+      "H93"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2005",
+     "texto": "Jeff Gere inicia Talk Story Radio, programa semanal de narración oral en la radio pública de Hawái (primavera de 2005)",
+     "pais": "Hawái/Pacífico",
+     "refs": [
+      "H56"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2008",
+     "texto": "Morgan Schatz Blackrose publica *Tell me, storytelling as a global language* (Tell Me Books, Port Macquarie)",
+     "pais": "Australia",
+     "refs": [
+      "H82"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2012",
+     "texto": "Conferencia «Weaving Stories Together» (Sídney, 1–3 jun); el 4 de junio los gremios de toda Australia deciden crear la organización nacional Storytelling Australia",
+     "pais": "Australia",
+     "refs": [
+      "H174"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2014",
+     "texto": "Nace el Festival Kōanga, celebración anual de nuevas historias maoríes para la escena, en Auckland",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H192"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2015",
+     "texto": "Se funda el Te Pou Theatre en Auckland, hogar de la narración oral maorí contemporánea",
+     "pais": "Nueva Zelanda",
+     "refs": [
+      "H192"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2024",
+     "texto": "El FestPAC celebra su 50.º aniversario en Honolulú \\*",
+     "pais": "Hawái/Pacífico",
+     "refs": [
+      "H26"
+     ],
+     "continente": "oceania"
+    },
+    {
+     "anio": "2024",
+     "texto": "Primera cohorte de Hui Mo'olelo: Lāhainā en Maui, programa de narración intergeneracional creado tras los incendios de agosto de 2023",
+     "pais": "Hawái/Pacífico",
+     "refs": [
+      "H235"
+     ],
+     "continente": "oceania"
+    }
+   ]
+  }
+ },
+ "mapeo_refs": {
+  "H27": "M4",
+  "H48": "M1",
+  "H51": "PR6",
+  "H52": "PR1",
+  "H53": "PR15",
+  "H75": "PR16",
+  "H76": "M3",
+  "H88": "P1",
+  "H94": "PR23",
+  "H97": "C9",
+  "H101": "PR19",
+  "H102": "PR31",
+  "H117": "P2",
+  "H126": "PR32",
+  "H127": "PR18",
+  "H128": "PR27",
+  "H133": "PR11",
+  "H134": "PR29",
+  "H148": "R1",
+  "H149": "R2",
+  "H150": "R3",
+  "H155": "PR7",
+  "H179": "PB1",
+  "H185": "PR22",
+  "H200": "P3",
+  "H211": "PR2",
+  "H212": "PR3",
+  "H213": "PR10",
+  "H225": "PR12",
+  "H226": "PR13",
+  "H232": "P9",
+  "H236": "PR30",
+  "H238": "PR5",
+  "H239": "PR28",
+  "H240": "C5",
+  "H241": "N8",
+  "H242": "P12"
+ }
+}

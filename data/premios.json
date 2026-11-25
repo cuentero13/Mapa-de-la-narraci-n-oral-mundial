@@ -12,7 +12,10 @@
   "fuente_texto": "PR16 (storynet.org, s. f.) — verificado en vivo: página oficial + lista de premiados 1995–2024 («Since their inception in 1995…»)",
   "lat": 39.7837304,
   "lng": -100.445882,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://storynet.org/wp-content/uploads/2024/05/ORACLE-logo.png",
+  "foto_credito": "página oficial del organizador",
+  "foto_fuente": "https://storynet.org/awards/oracle-awards/"
  },
  {
   "n": 2,
@@ -42,7 +45,10 @@
   "fuente_texto": "PR6 (Cubarte, 2015), PR9 (Granma, 14-nov-2014)",
   "lat": 23.0131338,
   "lng": -80.8328748,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://www.parkhurstbrothers.com/uploads/2/6/1/6/26163411/certificateimage_7.png",
+  "foto_credito": "página de un libro ganador (editorial Parkhurst Brothers)",
+  "foto_fuente": "http://www.parkhurstbrothers.com/the-killdeer.html"
  },
  {
   "n": 4,
@@ -101,7 +107,10 @@
   "fuente_texto": "PR20 (South Carolina Legislature, 2002), PR14 (Knowitall, s. f.)",
   "lat": 39.7837304,
   "lng": -100.445882,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://jamaica-gleaner.com/sites/default/files/media/article_images/2026/02/11/3347990/8442587.jpg",
+  "foto_credito": "prensa (Jamaica Gleaner)",
+  "foto_fuente": "https://jamaica-gleaner.com/article/entertainment/20260211/high-school-teacher-wins-big-storytelling-competition"
  },
  {
   "n": 8,
@@ -132,7 +141,10 @@
   "fuente_texto": "PR22 (storytellingalberta.com, s. f.)",
   "lat": 61.0666922,
   "lng": -107.991707,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://oncubanews.com/wp-content/uploads/2023/04/liuba-maria-premio-1024x704.jpg",
+  "foto_credito": "prensa (OnCubaNews)",
+  "foto_fuente": "https://oncubanews.com/cultura/otorgan-en-espana-premio-chaman-a-liuba-maria-hevia/?amp=1"
  },
  {
   "n": 10,
@@ -164,7 +176,10 @@
   "fuente_texto": "PR25 (Travel Trade Caribbean, s. f.), PR26 (Tribuna de La Habana, 21-jul-2024)",
   "lat": 23.0131338,
   "lng": -80.8328748,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://www.radioenciclopedia.cu/wp-content/uploads/2024/07/cuentos-5-800x450.jpg",
+  "foto_credito": "prensa (Radio Enciclopedia, Cuba)",
+  "foto_fuente": "https://www.radioenciclopedia.cu/destacadas/page/603/"
  },
  {
   "n": 12,
@@ -179,7 +194,10 @@
   "fuente_texto": "PR10 (La Nación, 12-ago-2019)",
   "lat": 4.099917,
   "lng": -72.9088133,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://www.nacion.com/resizer/v2/B3XE4KMCDNEOZAWPNDCXXLYHGU.jpg?smart=true&auth=f1747a349c9ece7d21221053f4bec680b60547d744504786f2f34816b48b06dc&width=768&height=511",
+  "foto_credito": "prensa (La Nación, Costa Rica)",
+  "foto_fuente": "https://www.nacion.com/viva/cultura/cuentacuentos-ana-coralia-fernandez-fue/MIC33LFRLRD4HHVLXT25GHJHQI/story/"
  },
  {
   "n": 13,
@@ -225,7 +243,10 @@
   "fuente_texto": "PR8 (fuga.gov.co, s. f.)",
   "lat": 4.099917,
   "lng": -72.9088133,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://www.idartes.gov.co/sites/default/files/styles/crop_imgsecundariaeventos/public/2022-10/IMG_2442.JPG?itok=uuD08h5z",
+  "foto_credito": "sitio oficial gubernamental (Idartes, Bogotá)",
+  "foto_fuente": "https://www.idartes.gov.co/es/agenda/obra-de-teatro/con-todo-respeto-30-anos-de-narracion-oral"
  },
  {
   "n": 16,
@@ -258,7 +279,10 @@
   "fuente_texto": "PR32 (Wikipedia, s. f.), PR18 (Public Libraries News, oct-2013), PR27 (University of Derby, s. f.)",
   "lat": 54.7023545,
   "lng": -3.2765753,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://upload.wikimedia.org/wikipedia/en/8/8c/Young_Storyteller_of_the_Year_competition_official_logo.gif",
+  "foto_credito": "Logo del premio (uso razonable / fair use): logo no libre en Wikipedia, no es Creative Commons",
+  "foto_fuente": "https://en.wikipedia.org/wiki/Young_Storyteller_of_the_Year"
  },
  {
   "n": 18,
@@ -290,7 +314,10 @@
   "fuente_texto": "PR5 (Brittle Paper, abr-2025), PR28 (Vanguard, 7-oct-2025)",
   "lat": 9.6000359,
   "lng": 7.9999721,
-  "coord_aprox": true
+  "coord_aprox": true,
+  "foto": "https://substackcdn.com/image/fetch/$s_!wFLM!,w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__IG-meta-DPQ7fXbDIlZ.jpg",
+  "foto_credito": "gráfico oficial del organizador republicado en boletín",
+  "foto_fuente": "https://thefeedbyzikoko.substack.com/p/tiwa-savage-lacked-faith-in-doro"
  },
  {
   "n": 20,

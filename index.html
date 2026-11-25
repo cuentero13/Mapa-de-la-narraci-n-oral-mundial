@@ -18,18 +18,27 @@
     <img src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Fundación Festival Puro Cuento" class="brand-logo" width="1042" height="725">
     <span class="brand-name" data-i18n="brand">Mapa Mundial de la Narración Oral</span>
   </a>
-  <nav class="topnav" id="topnav">
+    <nav class="topnav" id="topnav">
     <a href="#mapa" data-i18n="nav_mapa">Mapa</a>
+    <a href="#noticias" data-i18n="nav_noticias">Noticias</a>
     <a href="directorio.html" data-i18n="nav_directorio">Directorio</a>
     <a href="ranking.html" data-i18n="nav_ranking">Ranking</a>
     <a href="narradores.html" data-i18n="nav_narradores">Narradores</a>
     <a href="historia.html" data-i18n="nav_garzon">Historia de la NOE</a>
     <a href="biblioteca.html" data-i18n="nav_libros">Biblioteca NOE</a>
+    <a href="cronologia.html" data-i18n="nav_cron">Cronología</a>
     <a href="prensa.html" data-i18n="nav_prensa">Prensa</a>
     <a href="premios.html" data-i18n="nav_premios">Premios</a>
+    <a href="colaboradores.html" data-i18n="nav_colab">Colaboradores</a>
+    <a href="eventos.html" data-i18n="nav_eventos">Eventos</a>
+    <a href="foro.html" data-i18n="nav_foro">Foro</a>
+    <a href="blog.html" data-i18n="nav_blog">Blog</a>
     <a href="#administra" data-i18n="nav_administra">El Festival</a>
     <a href="fuentes.html" data-i18n="nav_fuentes">Fuentes</a>
     <a href="creditos.html" data-i18n="nav_creditos">Créditos</a>
+    <a href="#nosotros" data-i18n="nav_nosotros">Nosotros</a>
+    <a href="como-funciona.html" data-i18n="nav_como">Cómo funciona</a>
+    <a href="principios.html" data-i18n="nav_principios">Principios</a>
   </nav>
   <div class="lang-switch" role="group" aria-label="Idioma / Language">
     <button id="lang-es" class="lang-btn active" type="button">ES</button>
@@ -79,9 +88,14 @@
         <div><dt>Facebook</dt><dd><a href="https://www.facebook.com/fundacionfestivalpurocuento/" target="_blank" rel="noopener">Fundación Festival Puro Cuento</a></dd></div>
         <div><dt data-i18n="f_contact">Contacto</dt><dd><a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a></dd></div>
       </dl>
-      <p class="homonym-note" data-i18n="feat_homonym">No confundir con el «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) ni con el «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima). Son entidades distintas con el mismo nombre.</p>
+      <p class="homonym-note" data-i18n="feat_homonym">«PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) y «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima) son entidades distintas del Festival Puro Cuento de Costa Rica, con el mismo nombre. No confundir. «Puro Cuento» es además el nombre de una revista de Mempo Giardinelli (Buenos Aires, 36 ediciones, 1986–1992).</p>
     </article>
-  </section><section class="section" id="mapa">
+  </section>  <section class="section" id="noticias">
+    <h2 data-i18n="news_title">Noticias</h2>
+    <p class="section-intro" data-i18n="news_intro">Anuncios de festivales, funciones, talleres, publicaciones, premios y giras, publicados por las narradoras y los narradores. Solo noticias verificadas, con fuente pública y fecha.</p>
+    <div id="news-list"></div>
+  </section>
+  <section class="section" id="mapa">
     <h2 data-i18n="map_title">El mapa</h2>
     <p class="section-intro" data-i18n="map_intro">Cada marcador es un festival. Tocá un marcador para ver su ficha resumida. Los marcadores con borde punteado usan la coordenada de la capital del departamento: la ubicación exacta del municipio está sin verificar.</p>
     <div class="map-filters">
@@ -137,7 +151,42 @@
         <p><strong data-i18n="f_contact">Contacto</strong>: <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a> · <a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></p>
       </div>
     </div>
-  </section></main>
+  </section>
+  <section class="section" id="nosotros">
+    <h2 data-i18n="nos_title">Nosotros</h2>
+    <p class="section-intro" data-i18n="nos_intro">Este mapa es un encuentro: lo hacen las narradoras y los narradores, los festivales y las comunidades que cuentan historias en todo el mundo. Nadie está por encima de nadie: cada ficha tiene el mismo lugar, y cada persona que cuenta suma.</p>
+    <blockquote>
+      <p data-i18n="nos_quote">«Nosotros queremos impulsar un mundo con más narración y nos parece que unirnos es lo mejor que podemos hacer».</p>
+    </blockquote>
+    <p data-i18n="nos_invite">Te invitamos a inscribirte, actualizar tus datos, mejorar tu ficha y proponer: nuevos festivales, correcciones y noticias. Cuando exista el registro, podrás hacerlo directamente desde tu cuenta. Por ahora, escribinos:</p>
+    <p><strong data-i18n="f_contact">Contacto</strong>: <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a></p>
+    <article class="fest-card featured-card" id="nosotros-festival-card">
+      <div class="fest-card-head">
+        <h3>Festival Internacional Puro Cuento</h3>
+      </div>
+      <p class="fest-meta">San José · Costa Rica · <span data-i18n="feat_founded">fundado en</span> 2002</p>
+      <img class="featured-photo" src="https://festivalpurocuento.com/wp-content/uploads/2023/02/Evento-Los-Cuentos-Viven-la-Plaza-768x432.jpg" alt="Festival Internacional Puro Cuento — Los Cuentos Viven la Plaza" loading="lazy" onerror="this.remove()">
+      <dl class="fest-fields">
+        <div><dt data-i18n="f_editions">Ediciones</dt><dd>18 <span class="muted">(2002–2026, dato de la Fundación)</span></dd></div>
+        <div><dt data-i18n="f_president">Presidente</dt><dd>Víctor Michael Navarro Hernández</dd></div>
+        <div><dt data-i18n="f_next">Próxima edición</dt><dd>19.ª, 13–21 de marzo de 2027</dd></div>
+        <div><dt data-i18n="f_2026">Asistencia 2026</dt><dd>10.350 asistentes presenciales y 7.190 en escuelas</dd></div>
+        <div><dt data-i18n="f_web">Sitio web</dt><dd><a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></dd></div>
+        <div><dt>Facebook</dt><dd><a href="https://www.facebook.com/fundacionfestivalpurocuento/" target="_blank" rel="noopener">Fundación Festival Puro Cuento</a></dd></div>
+        <div><dt data-i18n="f_contact">Contacto</dt><dd><a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a></dd></div>
+      </dl>
+      <p class="homonym-note" data-i18n="feat_homonym">«PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe, Argentina, desde 1998) y «Puro Cuento» de Perú (Asociación Cultural Tiempo de Cuentos, Lima) son entidades distintas del Festival Puro Cuento de Costa Rica, con el mismo nombre. No confundir. «Puro Cuento» es además el nombre de una revista de Mempo Giardinelli (Buenos Aires, 36 ediciones, 1986–1992).</p>
+    </article>
+    <div class="admin-card">
+      <img src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Logo oficial de la Fundación Festival Puro Cuento" class="admin-logo" width="1042" height="725">
+      <div>
+        <h3>Fundación Festival Puro Cuento</h3>
+        <p data-i18n="nos_fundacion">Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y su próxima edición, la 19.ª, es del 13 al 21 de marzo de 2027. Un proyecto impulsado por la Fundación Festival Puro Cuento.</p>
+        <p><strong data-i18n="f_contact">Contacto</strong>: <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a> · <a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></p>
+      </div>
+    </div>
+  </section>
+</main>
 <footer>
   <div class="foot-grid">
     <div>
@@ -152,6 +201,8 @@
   </div>
   <p><strong><a href="fuentes.html" data-i18n="foot_sources">Fuentes</a></strong>: <span data-i18n="foot_sources_v">Red Internacional de Cuentacuentos (cuentacuentos.eu); investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026, Ministerio de las Culturas de Colombia); fichas de festivales, libros y prensa verificadas en noviembre de 2026; registros de la Fundación Festival Puro Cuento.</span></p>
   <p><a href="creditos.html" data-i18n="foot_creditos">Créditos</a></p>
+  <p class="foot-nav"><a href="principios.html" data-i18n="nav_principios">Principios</a> · <a href="como-funciona.html" data-i18n="nav_como">Cómo funciona</a> · <a href="cronologia.html" data-i18n="nav_cron">Cronología</a> · <a href="colaboradores.html" data-i18n="nav_colab">Colaboradores</a> · <a href="eventos.html" data-i18n="nav_eventos">Eventos</a> · <a href="blog.html" data-i18n="nav_blog">Blog</a> · <a href="foro.html" data-i18n="nav_foro">Foro</a></p>
+  <p data-i18n="foot_retiro">Si eres titular de derechos de alguna imagen y deseas su retiro, escríbenos a info@festivalpurocuento.com</p>
   <p class="construction" data-i18n="foot_construction">Registro en construcción: los datos no verificados se marcan como tales. Si un dato está mal o falta, escribí a info@festivalpurocuento.com.</p>
   <p class="muted">Mapa Mundial de la Narración Oral · Fundación Festival Puro Cuento · 2026 · <a href="terminos.html" data-i18n="foot_terminos">Términos y Condiciones</a></p>
 </footer>

@@ -4,6 +4,10 @@
   "localidad": "Alajuela",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/jardindelcuento",
+   "instagram": "https://www.instagram.com/juancuentacuentos"
+  },
   "lat": 10.4523317,
   "lng": -84.4663284,
   "coord_aprox": true
@@ -13,6 +17,10 @@
   "localidad": "Alajuela",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/josecomunicacom",
+   "instagram": "https://www.instagram.com/josecomunicacom"
+  },
   "lat": 10.4523317,
   "lng": -84.4663284,
   "coord_aprox": true
@@ -22,6 +30,11 @@
   "localidad": "Barba – Heredia",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/MonitoStorytelling",
+   "instagram": "https://www.instagram.com/monitocuentacuentos",
+   "youtube": "https://www.youtube.com/channel/UCI3jTviH7JNRFXNhvAWjbxQ"
+  },
   "lat": 10.0124415,
   "lng": -84.1164503,
   "coord_aprox": true
@@ -31,6 +44,18 @@
   "localidad": "Heredia",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://si.cultura.cr/es/personas/jeff-cuentero",
+     "etiqueta": "Directorio (SIC)"
+    },
+    {
+     "url": "https://www.ivoox.com/podcast-jeff-cuentero_sq_f1141302_1.html",
+     "etiqueta": "Podcast (iVoox)"
+    }
+   ]
+  },
   "lat": 10.3767813,
   "lng": -84.0139721,
   "coord_aprox": true
@@ -40,6 +65,7 @@
   "localidad": "Heredia",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 10.3767813,
   "lng": -84.0139721,
   "coord_aprox": true
@@ -49,6 +75,7 @@
   "localidad": "Heredia",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 10.3767813,
   "lng": -84.0139721,
   "coord_aprox": true
@@ -58,6 +85,9 @@
   "localidad": "Heredia",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/yanurivillalobos"
+  },
   "lat": 10.3767813,
   "lng": -84.0139721,
   "coord_aprox": true
@@ -67,6 +97,7 @@
   "localidad": "Nicoya, Guanacaste",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 10.103348,
   "lng": -85.4152942,
   "coord_aprox": true
@@ -76,6 +107,15 @@
   "localidad": "Palmares, Alajuela",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "x": "https://x.com/BetoCastilloCR",
+   "otros": [
+    {
+     "url": "https://linktr.ee/betocastillocr",
+     "etiqueta": "Linktree"
+    }
+   ]
+  },
   "lat": 10.046546,
   "lng": -84.4355799,
   "coord_aprox": true
@@ -85,6 +125,10 @@
   "localidad": "Palmares, Alajuela",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/wilmeroconitrillo",
+   "web": "https://oconitrillo.com"
+  },
   "lat": 10.046546,
   "lng": -84.4355799,
   "coord_aprox": true
@@ -94,6 +138,9 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/afernandezarias"
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -103,6 +150,15 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "web": "https://anavictoriagarro.wixsite.com/arte",
+   "otros": [
+    {
+     "url": "http://contandoconana.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -112,6 +168,14 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.asale.org/academico/carlos-rubio-torres",
+     "etiqueta": "Directorio (ASALE)"
+    }
+   ]
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -121,6 +185,9 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "web": "https://inter-activeid.com/IAID-EduCreativos/index.html"
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -130,6 +197,14 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://si.cultura.cr/personas/fernando-franco-leon",
+     "etiqueta": "Directorio (SIC)"
+    }
+   ]
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -139,6 +214,9 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/cuentofagos"
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -148,6 +226,9 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/tavopelaez"
+  },
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -157,6 +238,7 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -166,15 +248,17 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
  },
  {
-  "nombre": "NarrArte UCR (Fernando Franco, Mario Baldizón, Felipe Bonilla, Jeff Hernández, Jorge Polanco, Giovanni Castillo y Michael Navarro)",
+  "nombre": "NarrArte UCR (Fernando Franco, Mario Baldizón, Felipe Bonilla, Jeff Cuentero, Jorge Polanco, Giovanni Castillo y Michael Navarro)",
   "localidad": "San José y San Pedro",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 10.1405928,
   "lng": -84.3190822,
   "coord_aprox": true
@@ -184,6 +268,14 @@
   "localidad": "San José (Pavas)",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://si.cultura.cr/personas/oscar-cuentacuentos",
+     "etiqueta": "Directorio (SIC)"
+    }
+   ]
+  },
   "lat": 9.9531476,
   "lng": -84.1474119,
   "coord_aprox": true
@@ -193,6 +285,7 @@
   "localidad": "San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 9.9327373,
   "lng": -84.0796683,
   "coord_aprox": true
@@ -202,6 +295,7 @@
   "localidad": "San Pedro de Montes de Oca, San José",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {},
   "lat": 9.9363792,
   "lng": -84.0508272,
   "coord_aprox": true
@@ -211,6 +305,19 @@
   "localidad": "Siquirres, Limón",
   "pais": "Costa Rica",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/eydercuentacuentos",
+   "otros": [
+    {
+     "url": "http://si.cultura.cr/personas/eyder-fonseca-sanchez-el-principito.html",
+     "etiqueta": "Directorio (SIC)"
+    },
+    {
+     "url": "https://www.domestika.org/es/eydercuentacuentos",
+     "etiqueta": "Domestika"
+    }
+   ]
+  },
   "lat": 10.1493599,
   "lng": -83.4815563,
   "coord_aprox": true
@@ -220,6 +327,10 @@
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/edgardo.epherra",
+   "instagram": "https://www.instagram.com/edgardoarielepherra/"
+  },
   "lat": -38.7176522,
   "lng": -62.2654871,
   "coord_aprox": true
@@ -229,6 +340,9 @@
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/maryta.berenguer"
+  },
   "lat": -38.7176522,
   "lng": -62.2654871,
   "coord_aprox": true
@@ -238,6 +352,7 @@
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -38.7176522,
   "lng": -62.2654871,
   "coord_aprox": true
@@ -247,6 +362,11 @@
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/teresa.prost",
+   "instagram": "https://www.instagram.com/teresa_prost/",
+   "web": "https://www.titiricuenticas.com.ar/"
+  },
   "lat": -38.7176522,
   "lng": -62.2654871,
   "coord_aprox": true
@@ -256,6 +376,7 @@
   "localidad": "Banfield (B.A.)",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.7346499,
   "lng": -58.4176479,
   "coord_aprox": true
@@ -265,6 +386,7 @@
   "localidad": "Bernal",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.7175436,
   "lng": -58.3001472,
   "coord_aprox": true
@@ -274,6 +396,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/alejandraalliende/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -283,6 +408,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -292,6 +418,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -301,6 +428,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -310,6 +438,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/amalia_cuentacuentos/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -319,6 +450,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/anamusea/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -328,6 +462,32 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "x": "https://twitter.com/tejiendocuentos",
+   "youtube": "https://www.youtube.com/channel/UCvQp-B9I6rCCkATdgKtDwZA",
+   "otros": [
+    {
+     "url": "http://ellaberintosecreto.blogspot.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://tejiendocuentos.blogspot.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://anacuevasunamuno.blogspot.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://anukclases.blogspot.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://www.ivoox.com/podcast_sq_f1879326_1.html",
+     "etiqueta": "Podcast (iVoox)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -337,6 +497,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -346,6 +507,9 @@
   "localidad": "Buenos Aires – Castelar",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/bocaque.vuela"
+  },
   "lat": -34.6550873,
   "lng": -58.6341586,
   "coord_aprox": true
@@ -355,6 +519,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/ana.padovani.cuentos/",
+   "web": "https://anapadovani.com.ar/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -364,6 +532,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/babycuentos/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -373,6 +544,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/andreacuentacuentos/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -382,6 +556,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -391,6 +566,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://dejamequetecuentehistorias.blogspot.com/",
+     "etiqueta": "Blog (grupo)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -400,6 +583,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -409,6 +593,9 @@
   "localidad": "Buenos Aires – Ramos Mejía",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/belentorras/"
+  },
   "lat": -34.6662906,
   "lng": -58.5591447,
   "coord_aprox": true
@@ -418,6 +605,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -427,6 +615,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -436,6 +625,7 @@
   "localidad": "Buenos Aires – San Martín",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6053362,
   "lng": -58.3741267,
   "coord_aprox": true
@@ -445,6 +635,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -454,6 +645,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://www.lakuentera.blogspot.com",
+     "etiqueta": "Blog (organización)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -463,6 +662,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -472,6 +672,16 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/cielaasad/",
+   "x": "https://twitter.com/cielaasadok",
+   "otros": [
+    {
+     "url": "http://www.vueloteatral.blogspot.com",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -481,6 +691,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/claudiamacchi2/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -490,6 +703,19 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/claudia_stella_palabrujula/",
+   "otros": [
+    {
+     "url": "http://palabrujula.blogspot.com.ar/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://stellitacuenta.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -499,6 +725,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/claudio.ledesma.18",
+   "instagram": "https://www.instagram.com/claudio_ledesma_/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -508,6 +738,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -517,6 +748,7 @@
   "localidad": "Buenos Aires – Ramos Mejía",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6662906,
   "lng": -58.5591447,
   "coord_aprox": true
@@ -526,6 +758,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -535,6 +768,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/darwincaballeroo/",
+   "tiktok": "https://www.tiktok.com/@darwincaballeroo"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -544,6 +781,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://dejamequetecuentehistorias.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -553,6 +798,9 @@
   "localidad": "Buenos Aires – Florencio Varela",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/eliana_bratok/"
+  },
   "lat": -34.7907373,
   "lng": -58.291223,
   "coord_aprox": true
@@ -562,6 +810,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/eligothelf.narra/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -571,6 +822,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -580,6 +832,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -589,6 +842,16 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/fernarradora/",
+   "web": "https://lalunacuentos.wixsite.com/laluna",
+   "otros": [
+    {
+     "url": "https://www.instagram.com/lalunacompaniadecuentos/",
+     "etiqueta": "Instagram (grupo)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -598,6 +861,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/CaballeroVerbante/",
+   "instagram": "https://www.instagram.com/caballero_verbante/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -607,6 +874,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://loslibrosdelvillano.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -616,6 +891,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -625,6 +901,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -634,6 +911,14 @@
   "localidad": "Buenos Aires – Quilmes",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://tallerdecuentacuentos.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.7341623,
   "lng": -58.2578345,
   "coord_aprox": true
@@ -643,6 +928,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://dejamequetecuentehistorias.blogspot.com/",
+     "etiqueta": "Blog (grupo)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -651,7 +944,8 @@
   "nombre": "Graciela Deza",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false,
+  "memoria": true,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -661,6 +955,14 @@
   "localidad": "Buenos Aires – Olivos",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.domestika.org/fr/gracielasarcone",
+     "etiqueta": "Domestika"
+    }
+   ]
+  },
   "lat": -34.5027003,
   "lng": -58.4780035,
   "coord_aprox": true
@@ -670,6 +972,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -679,6 +982,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -688,6 +992,15 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/inesgrimland/",
+   "otros": [
+    {
+     "url": "https://www.instagram.com/porpuroteatro/",
+     "etiqueta": "Instagram (proyecto teatral)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -697,6 +1010,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -706,6 +1020,16 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/juanjafella",
+   "instagram": "http://www.instagram.com/juan.skuespiller",
+   "otros": [
+    {
+     "url": "http://cuentacuenteando.blogspot.com.ar/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -715,6 +1039,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/juanjodecuzzi/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -724,6 +1051,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/karinagarcianarracionoral/",
+   "instagram": "https://www.instagram.com/karinagarcia.narracionoral/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -733,6 +1064,12 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/En-mi-%C3%81rbol-crecen-Cuentos-1031063163620289/",
+   "instagram": "https://www.instagram.com/lalunacompaniadecuentos/",
+   "web": "https://lalunacuentos.wixsite.com/laluna",
+   "youtube": "https://youtu.be/S4fSGwzRzUM"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -742,6 +1079,18 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://dejamequetecuentehistorias.blogspot.com/",
+     "etiqueta": "Blog (grupo)"
+    },
+    {
+     "url": "https://vosmiraqueyotecuento.blogspot.com/",
+     "etiqueta": "Blog (proyecto)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -751,6 +1100,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/las_cuentandantes/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -760,6 +1112,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/lacuentacuentosdehoy/",
+   "web": "http://www.lilimeier.com.ar"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -769,6 +1125,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -778,6 +1135,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/lilydavilacuentos/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -787,6 +1147,15 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/contaconmigocuentos/",
+   "otros": [
+    {
+     "url": "https://www.domestika.org/id/lisiamondarain?exp_set=1",
+     "etiqueta": "Domestika"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -796,6 +1165,16 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "web": "https://www.lobitocuentacuentos.com/",
+   "youtube": "http://www.YouTube.com/lobitocuentacuentos",
+   "otros": [
+    {
+     "url": "https://www.patreon.com/lobitocuentacuentos",
+     "etiqueta": "Patreon"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -805,6 +1184,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/gino.piccinini/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -814,6 +1196,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/CUENTERIO/",
+   "instagram": "https://www.instagram.com/bibliocuenterio/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -823,6 +1209,15 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/libroscopieria/",
+   "otros": [
+    {
+     "url": "https://caminandocuentos.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -832,6 +1227,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -841,6 +1237,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/argentina.narrada/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -850,6 +1249,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -859,6 +1259,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -868,6 +1269,7 @@
   "localidad": "Buenos Aires – Burzaco",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.8218997,
   "lng": -58.3649419,
   "coord_aprox": true
@@ -877,6 +1279,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -886,6 +1289,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -895,6 +1299,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -904,6 +1309,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/normalugo_/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -913,6 +1321,7 @@
   "localidad": "Buenos Aires – Adrogué",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.8650526,
   "lng": -58.419292,
   "coord_aprox": true
@@ -922,6 +1331,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://grupopalabrazo.blogspot.com",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -931,6 +1348,7 @@
   "localidad": "Buenos Aires – San Isidro",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.4737152,
   "lng": -58.5316915,
   "coord_aprox": true
@@ -940,6 +1358,15 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "web": "http://www.patriciaorr.com.ar",
+   "otros": [
+    {
+     "url": "https://backup1.alternativateatral.com/persona20668-patricia-orr",
+     "etiqueta": "Directorio (Perfil profesional (Alternativa Teatral))"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -949,6 +1376,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "web": "http://www.sembrando-cuentos.com.ar"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -958,6 +1388,20 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/pedroparcetnarracion/",
+   "web": "https://talleresdenarracionoral.com/",
+   "otros": [
+    {
+     "url": "http://www.alternativateatral.com/ficha_persona.asp?codigo_persona=25230",
+     "etiqueta": "Directorio (Perfil profesional (Alternativa Teatral))"
+    },
+    {
+     "url": "https://www.instagram.com/rutadelasedacuentos/",
+     "etiqueta": "Instagram"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -967,6 +1411,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://dejamequetecuentehistorias.blogspot.com/",
+     "etiqueta": "Blog (del grupo)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -976,6 +1428,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -985,6 +1438,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -994,6 +1448,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://dejamequetecuentehistorias.blogspot.com/",
+     "etiqueta": "Blog (del grupo)"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1003,6 +1465,7 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1012,6 +1475,16 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/silviadecesare.narradoraoral/",
+   "web": "https://silvia-de-cesare-narradora-oral.tiendup.com/page/silvia-de-cesare-professional-storyteller",
+   "otros": [
+    {
+     "url": "https://alternativa.ar/persona181502-silvia-de-cesare",
+     "etiqueta": "Directorio (Perfil profesional (Alternativa Teatral))"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1021,6 +1494,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/silvia_finder_gam/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1030,6 +1506,10 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/Verdevioletacuentos",
+   "instagram": "https://www.instagram.com/verdevioletacuentos/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1039,6 +1519,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://veronicaalvarezrivera.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1048,6 +1536,9 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/vivi.garciagarcia/"
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1057,6 +1548,15 @@
   "localidad": "Castelar",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/inesbombara/",
+   "otros": [
+    {
+     "url": "http://widget.alternativateatral.com/persona60818-ines-bombara",
+     "etiqueta": "Directorio (Perfil profesional (Alternativa Teatral))"
+    }
+   ]
+  },
   "lat": -34.6555638,
   "lng": -58.6425128,
   "coord_aprox": true
@@ -1066,6 +1566,7 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1075,6 +1576,7 @@
   "localidad": "Córdoba, Capilla del Monte",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -30.8571148,
   "lng": -64.5345694,
   "coord_aprox": true
@@ -1084,6 +1586,7 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1093,6 +1596,7 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1102,6 +1606,7 @@
   "localidad": "Córdoba, Porteña",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -31.0143387,
   "lng": -62.0675904,
   "coord_aprox": true
@@ -1111,6 +1616,7 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1120,6 +1626,7 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1129,6 +1636,15 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "web": "https://www.cuentosenboca.com.ar/",
+   "otros": [
+    {
+     "url": "https://cuentosenboca.blogspot.com/",
+     "etiqueta": "Blog (Cuentos en Boca)"
+    }
+   ]
+  },
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1138,6 +1654,9 @@
   "localidad": "Córdoba",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/vilma.novick"
+  },
   "lat": -31.4166867,
   "lng": -64.1834193,
   "coord_aprox": true
@@ -1147,6 +1666,7 @@
   "localidad": "Don Torcuato",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.4886587,
   "lng": -58.6266492,
   "coord_aprox": true
@@ -1156,6 +1676,24 @@
   "localidad": "General Pico – La Pampa",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/liliana_olga/",
+   "youtube": "https://www.youtube.com/@literamo-olgalilianareinos7815",
+   "otros": [
+    {
+     "url": "http://www.lilianareinoso.blogspot.com",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://www.instagram.com/poesiaypico_24/",
+     "etiqueta": "Instagram"
+    },
+    {
+     "url": "https://www.instagram.com/reinodepoemas2022/",
+     "etiqueta": "Instagram"
+    }
+   ]
+  },
   "lat": -35.6611759,
   "lng": -63.7545473,
   "coord_aprox": true
@@ -1165,6 +1703,9 @@
   "localidad": "Ingeniero Maschwitz",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/hora.libro"
+  },
   "lat": -34.3829548,
   "lng": -58.7363667,
   "coord_aprox": true
@@ -1174,6 +1715,7 @@
   "localidad": "Laferrere, La Matanza, B. Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.7506177,
   "lng": -58.584369,
   "coord_aprox": true
@@ -1183,6 +1725,7 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1192,6 +1735,23 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/gazelzayad",
+   "otros": [
+    {
+     "url": "http://gazelzayad.blogspot.com.ar/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://img.alternativateatral.com/persona238228-gazel-giraldo",
+     "etiqueta": "Directorio (Alternativa Teatral (perfil profesional))"
+    },
+    {
+     "url": "https://www.comunidadfusa.com/bandas/gazel-zayad",
+     "etiqueta": "Directorio (Comunidad Fusa (perfil profesional))"
+    }
+   ]
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1201,6 +1761,16 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/gustavo.bonifetto",
+   "instagram": "https://www.instagram.com/gustavobonifetto_actor",
+   "otros": [
+    {
+     "url": "http://publico.alternativateatral.com/persona458021-gustavo-bonifetto",
+     "etiqueta": "Directorio (Alternativa Teatral (perfil profesional))"
+    }
+   ]
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1210,6 +1780,9 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/literatura.en.voz.alta.2024"
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1219,6 +1792,10 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/laura.dippolito.9",
+   "youtube": "https://www.youtube.com/user/cuentosenelaire"
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1228,6 +1805,9 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/monicaelicabemonica"
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1237,6 +1817,15 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/roxidrucker",
+   "otros": [
+    {
+     "url": "https://teatros.alternativateatral.com/persona82186-roxi-drucker",
+     "etiqueta": "Directorio (Alternativa Teatral (perfil profesional))"
+    }
+   ]
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1246,6 +1835,15 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/teresita.bustos",
+   "otros": [
+    {
+     "url": "https://radiocut.fm/audiocut/caleidoscopio-palabras-asociacion-narradores-argentinos-conduce-teresita-bustos-4/",
+     "etiqueta": "RadioCut (programa radial)"
+    }
+   ]
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1255,6 +1853,14 @@
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://decaminosydecuentos.blogspot.com/",
+     "etiqueta": "Blog (grupo)"
+    }
+   ]
+  },
   "lat": -37.9976168,
   "lng": -57.5482079,
   "coord_aprox": true
@@ -1264,6 +1870,18 @@
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://elarteentusmanos-hotmail.over-blog.es/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://www.ivoox.com/ilustrando-palabras-hoy-que-lugar-tiene-el-audios-mp3_rf_10664876_1.html",
+     "etiqueta": "Podcast (iVoox)"
+    }
+   ]
+  },
   "lat": -37.9976168,
   "lng": -57.5482079,
   "coord_aprox": true
@@ -1273,6 +1891,14 @@
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://decaminosydecuentos.blogspot.com/",
+     "etiqueta": "Blog (grupo)"
+    }
+   ]
+  },
   "lat": -37.9976168,
   "lng": -57.5482079,
   "coord_aprox": true
@@ -1282,6 +1908,16 @@
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/silviaferragine",
+   "instagram": "https://www.instagram.com/silviaferragine",
+   "otros": [
+    {
+     "url": "https://www.ivoox.com/podcast-soloficcion-2020_sq_f1852169_1.html",
+     "etiqueta": "Podcast (iVoox)"
+    }
+   ]
+  },
   "lat": -37.9976168,
   "lng": -57.5482079,
   "coord_aprox": true
@@ -1291,6 +1927,7 @@
   "localidad": "Mendoza",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.5970325,
   "lng": -68.7304797,
   "coord_aprox": true
@@ -1300,6 +1937,14 @@
   "localidad": "Neuquén – Patagonia",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://cuentacuentospicardias.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -38.9512402,
   "lng": -68.0241974,
   "coord_aprox": true
@@ -1309,6 +1954,7 @@
   "localidad": "Neuquén – Patagonia",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -38.9512402,
   "lng": -68.0241974,
   "coord_aprox": true
@@ -1318,6 +1964,7 @@
   "localidad": "Neuquén – Patagonia",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -38.9512402,
   "lng": -68.0241974,
   "coord_aprox": true
@@ -1327,6 +1974,7 @@
   "localidad": "Pinamar",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -37.1099492,
   "lng": -56.8539007,
   "coord_aprox": true
@@ -1336,6 +1984,7 @@
   "localidad": "Presidencia Roque Sáenz Peña, Chaco",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -26.7909701,
   "lng": -60.441295,
   "coord_aprox": true
@@ -1345,6 +1994,15 @@
   "localidad": "Realicó – La Pampa",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/cuenteras/",
+   "otros": [
+    {
+     "url": "https://exploranautas.blogspot.com/",
+     "etiqueta": "Blog (grupo)"
+    }
+   ]
+  },
   "lat": -35.0365537,
   "lng": -64.2455941,
   "coord_aprox": true
@@ -1354,6 +2012,16 @@
   "localidad": "Resistencia, Chaco",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/FundacionMempoGiardinelli",
+   "web": "http://www.mempogiardinelli.com/la-fundacion-mempo-giardinelli.php",
+   "otros": [
+    {
+     "url": "https://www.fundamgiardinelli.org/",
+     "etiqueta": "Sitio web (Fundación)"
+    }
+   ]
+  },
   "lat": -27.6048829,
   "lng": -59.1932003,
   "coord_aprox": true
@@ -1363,6 +2031,16 @@
   "localidad": "Rosario",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/AdrianaLFelicia",
+   "instagram": "https://www.instagram.com/adrianalfelicia",
+   "otros": [
+    {
+     "url": "https://www.domestika.org/it/adrianalfelicia",
+     "etiqueta": "Domestika"
+    }
+   ]
+  },
   "lat": -32.9593609,
   "lng": -60.6617024,
   "coord_aprox": true
@@ -1372,6 +2050,9 @@
   "localidad": "Rosario",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/5211acao"
+  },
   "lat": -32.9593609,
   "lng": -60.6617024,
   "coord_aprox": true
@@ -1381,6 +2062,7 @@
   "localidad": "Rosario",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -32.9593609,
   "lng": -60.6617024,
   "coord_aprox": true
@@ -1390,6 +2072,10 @@
   "localidad": "Rosario",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/melina.pezzoto",
+   "instagram": "https://www.instagram.com/melinapezzoto"
+  },
   "lat": -32.9593609,
   "lng": -60.6617024,
   "coord_aprox": true
@@ -1399,6 +2085,7 @@
   "localidad": "Rosario",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -32.9593609,
   "lng": -60.6617024,
   "coord_aprox": true
@@ -1408,6 +2095,19 @@
   "localidad": "San Fernando",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/mariecuentos",
+   "otros": [
+    {
+     "url": "http://www.marukacuentos.blogspot.com",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://www.alternativa.ar/persona275516-mariela-de-la-sota",
+     "etiqueta": "Directorio (Alternativa Teatral (perfil profesional))"
+    }
+   ]
+  },
   "lat": -34.4471919,
   "lng": -58.5701505,
   "coord_aprox": true
@@ -1417,6 +2117,14 @@
   "localidad": "Santa Fe",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Alicia_Barberis",
+     "etiqueta": "Wikipedia"
+    }
+   ]
+  },
   "lat": -30.3154739,
   "lng": -61.1645076,
   "coord_aprox": true
@@ -1426,6 +2134,9 @@
   "localidad": "Santa Fe",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "web": "https://marcelasabio.com.ar/"
+  },
   "lat": -30.3154739,
   "lng": -61.1645076,
   "coord_aprox": true
@@ -1435,6 +2146,7 @@
   "localidad": "San Fernando del Valle de Catamarca",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -28.4688806,
   "lng": -65.7790642,
   "coord_aprox": true
@@ -1444,6 +2156,14 @@
   "localidad": "Trenque Lauquen",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://companiatricletas.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -35.9731074,
   "lng": -62.7328794,
   "coord_aprox": true
@@ -1453,6 +2173,15 @@
   "localidad": "Viedma",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "youtube": "https://www.youtube.com/@VuelancuentosAnyela",
+   "otros": [
+    {
+     "url": "http://www.pintapalabras.blogspot.com.ar",
+     "etiqueta": "Blog"
+    }
+   ]
+  },
   "lat": -40.8084274,
   "lng": -62.994722,
   "coord_aprox": true
@@ -1462,6 +2191,7 @@
   "localidad": "Villa María",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -32.4106245,
   "lng": -63.2435809,
   "coord_aprox": true
@@ -1471,6 +2201,7 @@
   "localidad": "Wilde",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {},
   "lat": -34.6984264,
   "lng": -58.314592,
   "coord_aprox": true
@@ -1480,6 +2211,10 @@
   "localidad": "Yerba Buena – Tucumán",
   "pais": "Argentina",
   "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/norma.aparicio.5",
+   "youtube": "https://www.youtube.com/watch?v=vsmZkIpPcVs"
+  },
   "lat": -26.816501,
   "lng": -65.2703379,
   "coord_aprox": true
@@ -1489,6 +2224,14 @@
   "localidad": "La Plata",
   "pais": "Argentina",
   "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://elblogdecharcaliteraria.blogspot.com/p/haydee-guzman.html",
+     "etiqueta": "Memorial (Página conmemorativa (blog Charca Literaria))"
+    }
+   ]
+  },
   "lat": -34.9206797,
   "lng": -57.9537638,
   "coord_aprox": true
@@ -1498,6 +2241,14 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://cuentacuentos.eu/narradores/paises/narraargentina.htm",
+     "etiqueta": "Memorial (Referencia oficial in memoriam (RIC))"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
@@ -1507,8 +2258,1943 @@
   "localidad": "Buenos Aires",
   "pais": "Argentina",
   "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://cuentacuentos.eu/narradores/paises/narraargentina.htm",
+     "etiqueta": "Memorial (Referencia oficial in memoriam (RIC))"
+    }
+   ]
+  },
   "lat": -34.6095579,
   "lng": -58.3887904,
   "coord_aprox": true
+ },
+ {
+  "nombre": "Alberto Curbelo",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/alberto.curbelo.714",
+   "instagram": "https://www.instagram.com/albertocurbelomezquida/",
+   "otros": [
+    {
+     "url": "http://albertocurbelo.blogspot.com/2019/03/cultura-cimarrona.html",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Aldo Méndez",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/aldojmendez",
+   "x": "https://x.com/aldojmendez",
+   "otros": [
+    {
+     "url": "http://www.aldomendezcuentero.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Alessandro Ghebreigziabiher",
+  "localidad": "",
+  "pais": "Italia",
+  "memoria": false,
+  "enlaces": {
+   "web": "http://www.storytellersforpeace.com/",
+   "youtube": "https://www.youtube.com/channel/UCcxcR5hSFUgzpYhpIMfbAzA",
+   "otros": [
+    {
+     "url": "https://www.romanzieracconti.it",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://www.storieenotizie.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://creators.spotify.com/pod/profile/ale-ghebreigziabiher",
+     "etiqueta": "Podcast Spotify"
+    },
+    {
+     "url": "https://www.alessandroghebreigziabiher.it",
+     "etiqueta": "Sitio web"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Alicia DongJoo Bang",
+  "localidad": "",
+  "pais": "Corea del Sur",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/aliciadongjoo",
+   "instagram": "https://www.instagram.com/aliciadongjoo/"
+  }
+ },
+ {
+  "nombre": "Aline Cântia",
+  "localidad": "Belo Horizonte",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/Abrapalavra/",
+   "instagram": "https://www.instagram.com/alinecantia",
+   "web": "http://institutoabrapalavra.com.br/",
+   "youtube": "https://www.youtube.com/abrapalavra",
+   "otros": [
+    {
+     "url": "https://www.domestika.org/en/alinecantia",
+     "etiqueta": "Domestika"
+    },
+    {
+     "url": "https://www.facebook.com/alinecantia",
+     "etiqueta": "Facebook"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Ana Balletta",
+  "localidad": "Cochabamba",
+  "pais": "Bolivia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/ATiTeCuento",
+   "instagram": "https://www.instagram.com/ana.balletta",
+   "otros": [
+    {
+     "url": "https://www.facebook.com/ana.balletta",
+     "etiqueta": "Facebook"
+    },
+    {
+     "url": "https://www.facebook.com/lapequeteca.cbba",
+     "etiqueta": "Facebook (La Pequeteca)"
+    },
+    {
+     "url": "https://www.instagram.com/atitecue",
+     "etiqueta": "Instagram (ATiTeCuento)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Andrés Montero",
+  "localidad": "Santiago",
+  "pais": "Chile",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/andrescuentero",
+   "web": "https://lamatrioska.cl",
+   "otros": [
+    {
+     "url": "https://www.domestika.org/es/andrescuentero",
+     "etiqueta": "Domestika"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Angela Sajeva",
+  "localidad": "Roma y Lazio",
+  "pais": "Italia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/festival.storytelling/",
+   "instagram": "https://www.instagram.com/compagnia_raccontamiunastoria",
+   "otros": [
+    {
+     "url": "http://www.raccontamiunastoria.com",
+     "etiqueta": "Web (compartido — compañía)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Aníbal Hoyos García",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/100064317423543/"
+  }
+ },
+ {
+  "nombre": "Aníbar Lima Maquera",
+  "localidad": "La Paz",
+  "pais": "Bolivia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/apthapidecuentos",
+   "otros": [
+    {
+     "url": "http://www.apthapibolivia.blogspot.com",
+     "etiqueta": "Blog (Apthapi)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Antje Horn",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/antjehorn_geschichten/"
+  }
+ },
+ {
+  "nombre": "Antonella Gilardi",
+  "localidad": "Lisboa",
+  "pais": "Portugal",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.pnl2027.gov.pt/np4/%7B$clientServletPath%7D/?newsId=3800&fileName=Mediadores_05.pdf",
+     "etiqueta": "Directorio (Perfil institucional (PDF Plano Nacional de Leitura))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Antonio González Beltrán",
+  "localidad": "Elche",
+  "pais": "España",
+  "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.elche.me/biografia/gonzalez-beltran-antonio",
+     "etiqueta": "Memorial (Otro (conmemorativo))"
+    },
+    {
+     "url": "https://narracionoral.es/index.php/es/documentos/espacios-de-cuento/grandes-eventos/248-festival-de-la-oralidad-un-sueno-puesto-en-pie",
+     "etiqueta": "Otro (artículo AEDA sobre el FIO)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "António Gouveia",
+  "localidad": "Lisboa",
+  "pais": "Portugal",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://bruaa.pt/autores/",
+     "etiqueta": "Directorio (Perfil institucional (Editorial Bruaá (autores)))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Antonio Lozano",
+  "localidad": "Agüimes",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://cultura.cervantes.es/tanger/es/homenaje-a-antonio-lozano/168547",
+     "etiqueta": "Otro (homenaje)"
+    },
+    {
+     "url": "https://www.casafrica.es/es/persona/antonio-lozano-gonzalez",
+     "etiqueta": "Otro (oficial)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Antonio Rodríguez Almodóvar",
+  "localidad": "",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.cervantesvirtual.com/portales/antonio_rodriguez_almodovar/autor_biografia/",
+     "etiqueta": "Directorio (Perfil institucional (Portal Biblioteca Virtual Miguel de Cervantes))"
+    }
+   ],
+   "web": "http://www.aralmodovar.es/"
+  }
+ },
+ {
+  "nombre": "Armando González Galán",
+  "localidad": "León",
+  "pais": "México",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://www.ranitashow.com",
+   "otros": [
+    {
+     "url": "http://www.cuentacuentos.eu/narradores/miembros/mexico/SenorRanita.htm",
+     "etiqueta": "Perfil RIC"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Armando Trejo Márquez",
+  "localidad": "Ciudad de México",
+  "pais": "México",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/armando.trejofino",
+   "web": "https://www.fino.com.mx"
+  }
+ },
+ {
+  "nombre": "Beatriz Larrañaga",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/intujaiteatro",
+   "otros": [
+    {
+     "url": "https://intujaiteatro.blogspot.com/",
+     "etiqueta": "Blog (compartido — Intujai Teatro)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Beatriz Montero",
+  "localidad": "",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/BeatrizMonteroCuentacuentos",
+   "instagram": "https://www.instagram.com/cuentacuentosbeatrizmontero",
+   "x": "https://twitter.com/monterobea",
+   "youtube": "http://www.youtube.com/user/BeatrizMontero",
+   "otros": [
+    {
+     "url": "http://beamontero.blogspot.com",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://lossecretosdelcuentacuentos.blogspot.com",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://www.cuentacuentos.eu/narradores/coordinadores/BeatrizMontero.htm",
+     "etiqueta": "Otro (RIC)"
+    },
+    {
+     "url": "https://www.youtube.com/channel/UC4lWfhhFK94PzbXdj8izDEA",
+     "etiqueta": "YouTube"
+    }
+   ],
+   "web": "http://www.beatrizmontero.com/"
+  }
+ },
+ {
+  "nombre": "Benita Prieto",
+  "localidad": "",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/benita.prieto",
+   "otros": [
+    {
+     "url": "https://benitaprieto.blogspot.com",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Blai Senabre Ribes",
+  "localidad": "Altea",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/blaisenabre"
+  }
+ },
+ {
+  "nombre": "Blanca Calvo",
+  "localidad": "Guadalajara",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://narracionoral.es/index.php/es/la-asociacion/socios-de-honor?start=5",
+     "etiqueta": "Directorio (Perfil institucional (AEDA (socios de honor)))"
+    },
+    {
+     "url": "https://www.pepbruno.com/index.php?option=com_content&view=article&id=508:blanca-calvo&catid=45&Itemid=69&lang=es",
+     "etiqueta": "Directorio (Perfil institucional (Ficha en la web de Pep Bruno))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Carles García Domingo",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://firaeducacion.com/es/fira-profesionales/carles-garcia-domingo/",
+     "etiqueta": "Directorio (Perfil institucional (FIRA))"
+    },
+    {
+     "url": "https://narracionoral.es/index.php/es/biblioteca/108-miembros-ficha/miembros-ficha-es?start=15",
+     "etiqueta": "Directorio (Perfil institucional (Ficha AEDA))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Carmen Fernández Calvet",
+  "localidad": "Alcalá de Henares",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/legolas_cuentos",
+   "x": "https://twitter.com/LEGOLAScuentos",
+   "otros": [
+    {
+     "url": "https://www.legolas.com.es/",
+     "etiqueta": "Web (compartido — Légolas)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Celia Lottridge",
+  "localidad": "Toronto",
+  "pais": "Canadá",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.storytellers-conteurs.ca/en/featured-storytellers/Celia-Lottridge.html",
+     "etiqueta": "Directorio (Perfil StorySave (SC-CC))"
+    },
+    {
+     "url": "https://www.storytellers-conteurs.ca/en/storytellers-directory/Celia-Lottridge.html",
+     "etiqueta": "Directorio SC-CC"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "César «El Wayqui» Villegas",
+  "localidad": "Lima",
+  "pais": "Perú",
+  "memoria": false,
+  "enlaces": {
+   "web": "http://www.todaslaspalabras.pe",
+   "youtube": "http://www.youtube.com/WayquiCuentos",
+   "otros": [
+    {
+     "url": "http://www.wayqui.pe/",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Chen Ming Hsiang",
+  "localidad": "",
+  "pais": "Taiwán",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/UncleFatStory"
+  }
+ },
+ {
+  "nombre": "Chicó do Céu",
+  "localidad": "Belo Horizonte",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/Abrapalavra/",
+   "web": "http://chicodoceu.wix.com/chicodoceu",
+   "youtube": "https://www.youtube.com/abrapalavra",
+   "otros": [
+    {
+     "url": "http://institutoabrapalavra.com.br/",
+     "etiqueta": "Sitio web (Instituto Abrapalavra)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Cláudia Fonseca",
+  "localidad": "Lisboa",
+  "pais": "Portugal",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/claudiabcfonseca",
+   "otros": [
+    {
+     "url": "http://www.contabandistas.com",
+     "etiqueta": "Web (compartido — asociación)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Claudia Neira Bermúdez",
+  "localidad": "Managua",
+  "pais": "Nicaragua",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.linkedin.com/in/cneira",
+     "etiqueta": "LinkedIn"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Claudia Silva",
+  "localidad": "Londrina",
+  "pais": "Brasil",
+  "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://ecoh.art.br/nossa-historia/",
+     "etiqueta": "Memorial (Página conmemorativa (ECOH))"
+    },
+    {
+     "url": "https://ecoh.art.br/2a-edicao-do-ecoh-circulacao-termina-em-jaguapita-com-homenagem-a-claudia-silva/",
+     "etiqueta": "Memorial (Nota-homenaje (ECOH))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Concha de la Casa",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/cdtbde.bilbaopantzerki",
+   "otros": [
+    {
+     "url": "https://unima.es/socias-y-socios-de-honor/concha-de-la-casa/",
+     "etiqueta": "Directorio (Perfil institucional (UNIMA Federación España (socia de honor)))"
+    },
+    {
+     "url": "http://www.titeresenfemenino.com/",
+     "etiqueta": "Otro (foro creado por ella)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Cristina Taquelim",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://narracaooral.blogspot.com/2010/05/cristina-taquelim.html",
+     "etiqueta": "Directorio (Perfil institucional (Blog Narração Oral))"
+    },
+    {
+     "url": "https://rbe.mec.pt/np4/TJPL-III-encontro-cristina-taquelim.html",
+     "etiqueta": "Directorio (Perfil institucional (RBE))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Cristina Temprano",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://cristinatemprano.blogspot.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://palabrasalvuelo.com",
+     "etiqueta": "Web (festival)"
+    }
+   ],
+   "web": "https://cristinatemprano.com/"
+  }
+ },
+ {
+  "nombre": "Cucha del Águila",
+  "localidad": "Lima",
+  "pais": "Perú",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.normainfantilyjuvenil.com/pe/autores/cucha-del-aguila",
+     "etiqueta": "Directorio (Perfil de autora (Norma))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Dan Yashinsky",
+  "localidad": "Toronto",
+  "pais": "Canadá",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://tellery.com/dan-yashinsky/"
+  }
+ },
+ {
+  "nombre": "Daniela Magnone",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/las_cuentandantes/",
+   "otros": [
+    {
+     "url": "http://www.danielamagnone.blogspot.com.ar",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "David Acera",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/cuentos.cuento",
+   "web": "https://davidacera.com/"
+  }
+ },
+ {
+  "nombre": "Davide Bardi",
+  "localidad": "Roma y Lazio",
+  "pais": "Italia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/festival.storytelling/",
+   "instagram": "https://www.instagram.com/compagnia_raccontamiunastoria",
+   "youtube": "https://www.youtube.com/channel/UCw2tkKkbJpiq0R-LdtFaqUg",
+   "otros": [
+    {
+     "url": "https://studiumanistici.uniroma3.it/didattica/post-lauream/storytelling-for-the-promotion-of-cultural-heritage-cultural-dissemination-and-education-msp/management-and-scientific-council/",
+     "etiqueta": "Directorio (Perfil institucional (UniRoma3 (consejo científico del máster de storytelling)))"
+    },
+    {
+     "url": "http://www.raccontamiunastoria.com",
+     "etiqueta": "Web (compartido — compañía)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Demetrio Aguilar",
+  "localidad": "San Salvador y Playa El Zonte",
+  "pais": "El Salvador",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/fabrikdesuenos/"
+  }
+ },
+ {
+  "nombre": "Drika Nunes",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/nunes1902/"
+  }
+ },
+ {
+  "nombre": "Dulce Elvira de los Santos",
+  "localidad": "",
+  "pais": "Rep. Dominicana",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/dulcelvira25/",
+   "otros": [
+    {
+     "url": "https://www.cuentacuentos.eu/narradores/miembros/repdominicana/DulceElviradelosSantos.htm",
+     "etiqueta": "Perfil RIC"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Edel Arriagada",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/cuenta.cuentos1",
+   "instagram": "https://www.instagram.com/edelarriagada",
+   "web": "https://www.habiaunaveztruz.cl"
+  }
+ },
+ {
+  "nombre": "Edgar Valeriano",
+  "localidad": "Tegucigalpa",
+  "pais": "Honduras",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/edgarbambu/",
+   "otros": [
+    {
+     "url": "https://www.cuentacuentos.eu/narradores/miembros/honduras/EdgarValerianoAnduray.htm",
+     "etiqueta": "Perfil RIC"
+    },
+    {
+     "url": "https://www.instagram.com/teatrobambu/",
+     "etiqueta": "Instagram (compañía)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Elena Espinosa",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/elena.espinosa.560",
+   "instagram": "https://www.instagram.com/abuela.elena.cuentacuentos/",
+   "otros": [
+    {
+     "url": "https://www.threads.net/@abuela.elena.cuentacuentos",
+     "etiqueta": "Threads"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Elia Tralará",
+  "localidad": "Segovia",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/eliatralara_narradora"
+  }
+ },
+ {
+  "nombre": "Elizabeth Pangol Altamirano",
+  "localidad": "Ambato",
+  "pais": "Ecuador",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/elizabeth.pangol.9",
+   "otros": [
+    {
+     "url": "https://www.elapuntador.net/portal-escenico/elizabeth-pangol-altamirano",
+     "etiqueta": "Directorio (Perfil profesional (El Apuntador))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Elvia Pérez Nápoles",
+  "localidad": "La Habana",
+  "pais": "Cuba",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.cuenteandoconelvia.blogspot.com",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "http://www.cuentacuentos.eu/narradores/miembros/cuba/ElviaPerez.htm",
+     "etiqueta": "Perfil RIC"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Enrique Páez",
+  "localidad": "",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/EnriquePaez",
+   "instagram": "https://www.instagram.com/paez.enrique",
+   "x": "https://twitter.com/enriquepaez",
+   "youtube": "https://www.youtube.com/user/CreatividadLiteraria",
+   "otros": [
+    {
+     "url": "https://enriquepaez.blogspot.com/",
+     "etiqueta": "Blog"
+    },
+    {
+     "url": "https://www.cuentacuentos.eu/narradores/coordinadores/EnriquePaez.htm",
+     "etiqueta": "Otro (RIC)"
+    },
+    {
+     "url": "https://es.wikipedia.org/wiki/Enrique_P%C3%A1ez",
+     "etiqueta": "Directorio (Perfil institucional (Wikipedia))"
+    }
+   ],
+   "web": "http://www.enriquepaez.com/"
+  }
+ },
+ {
+  "nombre": "Erika Brandauer",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/lalunacompaniadecuentos/",
+   "web": "https://lalunacuentos.wixsite.com/laluna"
+  }
+ },
+ {
+  "nombre": "Ernesto Rodríguez Abad",
+  "localidad": "Los Silos",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/erabad_escritor",
+   "web": "https://ernestorodriguezabad.com/"
+  }
+ },
+ {
+  "nombre": "Estrella Ortiz",
+  "localidad": "Guadalajara",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Estrella_Ortiz",
+     "etiqueta": "Directorio (Perfil institucional (Wikipedia))"
+    }
+   ],
+   "web": "https://estrellaortiz.es/"
+  }
+ },
+ {
+  "nombre": "Fabiana Burgos",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://exploranautas.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Félix Albo",
+  "localidad": "",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/flxalbo",
+   "otros": [
+    {
+     "url": "https://felixalbo.blogspot.com/",
+     "etiqueta": "Blog"
+    }
+   ],
+   "web": "https://felixalbo.com/"
+  }
+ },
+ {
+  "nombre": "Filiberto Chamorro",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/narrador.historias",
+   "x": "https://twitter.com/FilibertoChamor",
+   "youtube": "https://www.youtube.com/channel/UCCtiY97VgEm3Uu3LxJSUNpw",
+   "otros": [
+    {
+     "url": "https://www.cuentosenelestrecho.es/",
+     "etiqueta": "Web (festival)"
+    }
+   ],
+   "web": "http://www.filibertochamorro.com"
+  }
+ },
+ {
+  "nombre": "Fredy Alexander Ayala Herrera",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/fredyayalaquijote/",
+   "web": "https://www.fredyayala.com/biografia/"
+  }
+ },
+ {
+  "nombre": "Geeta Ramanujam",
+  "localidad": "",
+  "pais": "India",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/kathalaya",
+   "instagram": "https://www.instagram.com/kathalayastoryhouse/",
+   "web": "https://www.kathalaya.org",
+   "youtube": "https://www.youtube.com/user/kathalaya1998/videos",
+   "otros": [
+    {
+     "url": "https://www.linkedin.com/in/geeta-ramanujam-97a22048/",
+     "etiqueta": "LinkedIn"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Gioconda Belli",
+  "localidad": "Managua",
+  "pais": "Nicaragua",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/GiocondaBelliP",
+   "web": "https://giocondabelli.org/",
+   "x": "https://x.com/GiocondaBelliP"
+  }
+ },
+ {
+  "nombre": "Gislayne Matos",
+  "localidad": "Belo Horizonte",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://www.gislaynematos.com.br"
+  }
+ },
+ {
+  "nombre": "Giulia Troiano",
+  "localidad": "Roma y Lazio",
+  "pais": "Italia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/festival.storytelling/",
+   "instagram": "https://www.instagram.com/compagnia_raccontamiunastoria",
+   "otros": [
+    {
+     "url": "https://wanderlust.com/it/artist/giulia-ariel/",
+     "etiqueta": "Directorio (Perfil institucional (Wanderlust (Giulia Ariel)))"
+    },
+    {
+     "url": "https://www.spreaker.com/podcast/il-podcast-di-giulia-troiano--4679703",
+     "etiqueta": "Otro (podcast propio)"
+    },
+    {
+     "url": "http://www.raccontamiunastoria.com",
+     "etiqueta": "Web (compartido — compañía)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Grace Wangari",
+  "localidad": "",
+  "pais": "Kenia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/WangariTheStoryteller/",
+   "instagram": "https://www.instagram.com/wangarithestoryteller/",
+   "web": "https://wangarithestoryteller.co.ke/"
+  }
+ },
+ {
+  "nombre": "Guido Davidan Choquetanga",
+  "localidad": "",
+  "pais": "Bolivia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/apthapidecuentos",
+   "instagram": "https://www.instagram.com/guide_davidan",
+   "otros": [
+    {
+     "url": "https://www.facebook.com/realidaddecuento",
+     "etiqueta": "Facebook"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Ian Stephen",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://www.ianstephen.co.uk/"
+  }
+ },
+ {
+  "nombre": "Ignacio Sanz",
+  "localidad": "Segovia",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://narracionoral.es/index.php/es/la-asociacion/socios-de-honor?start=5",
+     "etiqueta": "Directorio (Perfil institucional (AEDA (socios de honor)))"
+    },
+    {
+     "url": "https://es.wikipedia.org/wiki/Ignacio_Sanz",
+     "etiqueta": "Directorio (Perfil institucional (Wikipedia))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Jairon Salguero",
+  "localidad": "Ciudad de Guatemala",
+  "pais": "Guatemala",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/JaironSalguero",
+   "instagram": "https://www.instagram.com/jaironsalguero/",
+   "web": "https://www.loscomediantes.com/festival",
+   "x": "https://x.com/JaironSalguero"
+  }
+ },
+ {
+  "nombre": "Jan Blake",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/janblakestoryteller",
+   "instagram": "https://www.instagram.com/akuastorytelling/",
+   "web": "https://www.janblakestories.co.uk/",
+   "x": "https://twitter.com/janstoriesUK"
+  }
+ },
+ {
+  "nombre": "Jean-Louis Bordier",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://www.paroles-conteurs.org",
+     "etiqueta": "Web (festival)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Jeff Gere",
+  "localidad": "",
+  "pais": "Estados Unidos",
+  "memoria": false,
+  "enlaces": {
+   "web": "http://www.jeffgere.com"
+  }
+ },
+ {
+  "nombre": "Jimmy Neil Smith",
+  "localidad": "Jonesborough",
+  "pais": "Estados Unidos",
+  "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.storytellingcenter.net/news/isc-announces-the-passing-of-our-founder-and-president-emeritus-jimmy-neil-smith/",
+     "etiqueta": "Memorial oficial (ISC)"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Jimmy_Neil_Smith",
+     "etiqueta": "Wikipedia"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Jones de Abreu",
+  "localidad": "Brasilia",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/institutocidadeceu",
+   "web": "https://horizontedehistorias.com/"
+  }
+ },
+ {
+  "nombre": "Jorge Eliecer Olaya Garcerá",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000936189",
+     "etiqueta": "Perfil académico (CvLAC / Minciencias)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Jorge Serafim",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/jorge.serafim.1",
+   "instagram": "https://www.instagram.com/antoniojorgeserafim"
+  }
+ },
+ {
+  "nombre": "José Marcelo Revollo",
+  "localidad": "Cochabamba",
+  "pais": "Bolivia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/ATiTeCuento",
+   "instagram": "https://www.instagram.com/atitecue",
+   "otros": [
+    {
+     "url": "https://www.instagram.com/josemarcelorevollo",
+     "etiqueta": "Instagram"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Jota Villaza",
+  "localidad": "Medellín",
+  "pais": "Colombia",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.domestika.org/fr/labutacaeditorial",
+     "etiqueta": "Directorio (Perfil profesional (Domestika))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Juan Reyes",
+  "localidad": "El Sauzal",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/festivalveranodecuento",
+   "instagram": "https://www.instagram.com/veranodecuento",
+   "otros": [
+    {
+     "url": "https://veranodecuento.com/",
+     "etiqueta": "Web (festival)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Juana La Rosa",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://teatros.alternativateatral.com/persona21733-juana-la-rosa",
+     "etiqueta": "Directorio (Alternativa Teatral (perfil profesional))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Juliana Bourbon",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/las_cuentandantes/"
+  }
+ },
+ {
+  "nombre": "Laura Ferreira",
+  "localidad": "Asunción y ciudades del interior",
+  "pais": "Paraguay",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/artesanasdelapalabra",
+   "web": "https://artesanasdelapalabra.com"
+  }
+ },
+ {
+  "nombre": "Laura Finguer",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/laura.finguer/"
+  }
+ },
+ {
+  "nombre": "Lillian Rodrigues-Pang",
+  "localidad": "",
+  "pais": "Australia",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/lillistoryteller/",
+   "web": "https://thestoryline.com.au/"
+  }
+ },
+ {
+  "nombre": "Linda Gallo Bedoya",
+  "localidad": "Cali",
+  "pais": "Colombia",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637177",
+     "etiqueta": "Perfil académico (CvLAC / Minciencias)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Luísa Rebelo",
+  "localidad": "Lisboa",
+  "pais": "Portugal",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://narracaooral.blogspot.com/2010/05/luisa-rebelo.html",
+     "etiqueta": "Directorio (Perfil institucional (Blog Narração Oral))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Manuel Castaño Crespo",
+  "localidad": "Alcalá de Henares",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/legolas_cuentos",
+   "x": "https://twitter.com/LEGOLAScuentos",
+   "otros": [
+    {
+     "url": "https://www.ivoox.com/en/podcast-iberoamerica-cuento_sq_f1627880_5.html",
+     "etiqueta": "Otro (podcast co-presentado)"
+    },
+    {
+     "url": "https://www.legolas.com.es/",
+     "etiqueta": "Web (compartido — Légolas)"
+    },
+    {
+     "url": "https://twitter.com/nelocrespo",
+     "etiqueta": "X (personal)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Manuel Conde",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/yosoypurocuento",
+   "web": "https://yosoypurocuento.com/"
+  }
+ },
+ {
+  "nombre": "Mar Amado",
+  "localidad": "Lima",
+  "pais": "Perú",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/maramado_teatrera",
+   "web": "https://maramado.com",
+   "otros": [
+    {
+     "url": "https://asociacionmano.es/socios-y-socias/mar-amado/",
+     "etiqueta": "Directorio (Perfil (Asociación MANO))"
+    },
+    {
+     "url": "https://www.casadelaliteratura.gob.pe/taller-narracion-oral-docentes-mar-amado/",
+     "etiqueta": "Directorio (Perfil institucional (Casa de la Literatura Peruana))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Marc Laberge",
+  "localidad": "Montreal",
+  "pais": "Canadá",
+  "memoria": false,
+  "enlaces": {
+   "web": "http://videanthrop.qc.ca/",
+   "otros": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marc_Laberge",
+     "etiqueta": "Wikipedia (FR)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Margaret Read MacDonald",
+  "localidad": "",
+  "pais": "Estados Unidos",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://www.margaretreadmacdonald.com"
+  }
+ },
+ {
+  "nombre": "María Elena Vindel",
+  "localidad": "Menorca",
+  "pais": "Honduras",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/elena.vindel.5",
+   "instagram": "https://www.instagram.com/arteterapia_honduras/",
+   "otros": [
+    {
+     "url": "https://www.instagram.com/narrarte.hn/",
+     "etiqueta": "Instagram"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "María Teresa Andruetto",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.cervantesvirtual.com/obra/maria-teresa-andruetto/",
+     "etiqueta": "Biblioteca Virtual Miguel de Cervantes"
+    },
+    {
+     "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Andruetto",
+     "etiqueta": "Wikipedia"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Martín Céspedes",
+  "localidad": "La Paz",
+  "pais": "Bolivia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/apthapidecuentos",
+   "otros": [
+    {
+     "url": "https://www.facebook.com/martin.cespedes.5496",
+     "etiqueta": "Facebook"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Martin Ellrodt",
+  "localidad": "",
+  "pais": "Alemania",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://ellrodt.de/",
+   "otros": [
+    {
+     "url": "https://erzaehlen-in-der-schule.de/",
+     "etiqueta": "Sitio web"
+    },
+    {
+     "url": "https://www.erzaehlen.de/",
+     "etiqueta": "Sitio web"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "May Gorostiaga",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/intujaiteatro",
+   "otros": [
+    {
+     "url": "https://intujaiteatro.blogspot.com/",
+     "etiqueta": "Blog (compartido — Intujai Teatro)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Mayra Navarro",
+  "localidad": "",
+  "pais": "Cuba",
+  "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://www.cuentacuentos.eu/teorica/articulos/MayraNavarroMemoriasdelosOrigenes.htm",
+     "etiqueta": "Referencia memorial (RIC)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Mayra Santos-Febres",
+  "localidad": "San Juan",
+  "pais": "Puerto Rico",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/mayra.santosfebres/",
+   "web": "https://mayrasantosfebres.com/"
+  }
+ },
+ {
+  "nombre": "Michael Kerins",
+  "localidad": "",
+  "pais": "Reino Unido",
+  "memoria": false,
+  "enlaces": {
+   "web": "http://www.slatecharity.com/slatecharity/Our_People_Michael_Kerins.html",
+   "otros": [
+    {
+     "url": "https://worldstorytellingcafe.com/performers/michael-kerins/",
+     "etiqueta": "Directorio (Perfil World Storytelling Cafe)"
+    },
+    {
+     "url": "https://www.scottishbooktrust.com/authors/author/michael-kerins/",
+     "etiqueta": "Directorio Scottish Book Trust"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Milene Carmona",
+  "localidad": "La Habana",
+  "pais": "Cuba",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://billetto.es/en/users/milene-carmona",
+     "etiqueta": "Directorio (Billetto)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Morgan Schatz Blackrose",
+  "localidad": "",
+  "pais": "Australia",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://www.cuentacuentos.eu/narradores/miembros/australia/MorganSchatzBlackrose.htm",
+     "etiqueta": "Directorio (Perfil RIC)"
+    },
+    {
+     "url": "https://web.100mentors.com/mentor/5a21bbdfcff69f5a027317e5",
+     "etiqueta": "Directorio (Perfil 100mentors)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Nazario González Beltrán",
+  "localidad": "Elche",
+  "pais": "España",
+  "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://cap-i-cua.net/wp/category/in-memoriam/",
+     "etiqueta": "Memorial (Otro (In Memoriam))"
+    },
+    {
+     "url": "https://www.elche.me/biografia/gonzalez-beltran-nazario",
+     "etiqueta": "Memorial (Otro (conmemorativo))"
+    },
+    {
+     "url": "https://narracionoral.es/index.php/es/documentos/espacios-de-cuento/grandes-eventos/248-festival-de-la-oralidad-un-sueno-puesto-en-pie",
+     "etiqueta": "Otro (artículo AEDA de su autoría)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Nicole Castillo",
+  "localidad": "Santiago",
+  "pais": "Chile",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://lamatrioska.cl",
+   "otros": [
+    {
+     "url": "https://www.domestika.org/es/courses/4484-narracion-de-una-historia-personal-frente-a-una-audiencia",
+     "etiqueta": "Domestika (curso propio)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Niré Collazo",
+  "localidad": "",
+  "pais": "Uruguay",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/narradoraoral_collazonire/",
+   "otros": [
+    {
+     "url": "https://ccemontevideo.aecid.es/w/nir%C3%A9-collazo",
+     "etiqueta": "Directorio (Perfil institucional (CCE Montevideo))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Nono Granero",
+  "localidad": "Úbeda",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/nonogranero",
+   "youtube": "https://www.youtube.com/@cartografíadelcuentopopular",
+   "otros": [
+    {
+     "url": "https://jaenescultura.dipujaen.es/grupo/1623/nono-granero",
+     "etiqueta": "Directorio (Perfil institucional (Jaén es Cultura (Diputación de Jaén)))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Oscar Bacallado",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/bacalladooscar",
+   "otros": [
+    {
+     "url": "https://www.redescena.net/compania/43918/oscar-bacallado-de-la-cruz/?tipo=avanzado&ordenar=2&start=2220&id=43918",
+     "etiqueta": "Directorio (Perfil institucional (Redescena))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Osvaldo Manuel Pérez Peñalver",
+  "localidad": "La Habana Vieja",
+  "pais": "Cuba",
+  "memoria": true,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.facebook.com/ComunicacionCNAE/posts/pfbid026iwQwRxghUjfCHASDYtgG4vFnTdhFFZ5eexLrMBqES9p6EWCAeh112b8XGoTuRVkl",
+     "etiqueta": "Memorial (Conmemorativo (Facebook institucional))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Pablo Andrés Delgado Rivera",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://facebook.com/pablo.a.delgado.104",
+   "instagram": "https://www.instagram.com/pablopalabra/"
+  }
+ },
+ {
+  "nombre": "Pamela Gutiérrez",
+  "localidad": "Cochabamba",
+  "pais": "Bolivia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/ATiTeCuento",
+   "instagram": "https://www.instagram.com/atitecue"
+  }
+ },
+ {
+  "nombre": "Paola Balbi",
+  "localidad": "Roma y Lazio",
+  "pais": "Italia",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/festival.storytelling/",
+   "instagram": "https://www.instagram.com/compagnia_raccontamiunastoria",
+   "youtube": "https://www.youtube.com/channel/UCw2tkKkbJpiq0R-LdtFaqUg",
+   "otros": [
+    {
+     "url": "https://www.facebook.com/storytellingdubai/",
+     "etiqueta": "Facebook (The Storytelling Company, Dubái)"
+    },
+    {
+     "url": "http://www.raccontamiunastoria.com",
+     "etiqueta": "Web (compartido — compañía)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Pedro Seromenho",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/seromenho75",
+   "instagram": "https://www.instagram.com/pedroseromenho",
+   "otros": [
+    {
+     "url": "https://www.infopedia.pt/artigos/$pedro-seromenho",
+     "etiqueta": "Directorio (Perfil institucional (Infopédia))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Pep Bruno",
+  "localidad": "",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "x": "https://twitter.com/pep_bruno",
+   "otros": [
+    {
+     "url": "https://www.ivoox.com/en/podcast-iberoamerica-cuento_sq_f1627880_5.html",
+     "etiqueta": "Otro (podcast co-presentado)"
+    }
+   ],
+   "web": "https://pepbruno.com/"
+  }
+ },
+ {
+  "nombre": "Rachel Ajisafe",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/therachaelajisafe/"
+  }
+ },
+ {
+  "nombre": "Randel McGee",
+  "localidad": "",
+  "pais": "Estados Unidos",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/Paper-and-Scissors-ROCK-411456305654",
+   "web": "https://mcgeeproductions.com/",
+   "otros": [
+    {
+     "url": "https://www.facebook.com/Randel-McGee-as-Hans-Christian-Andersen-178341550996",
+     "etiqueta": "Facebook (página «Randel McGee as Hans Christian Andersen»)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Raymel Molerio",
+  "localidad": "La Habana",
+  "pais": "Cuba",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://www.cuentacuentos.eu/narradores/miembros/cuba/RaymelMolerio.htm",
+     "etiqueta": "Perfil RIC"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Regina Machado",
+  "localidad": "São Paulo",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/bocadoceu/",
+   "web": "https://bocadoceu.com.br/",
+   "youtube": "https://www.youtube.com/@bocadoceu",
+   "otros": [
+    {
+     "url": "https://www.itaucultural.org.br/regina-machado-historias-de-contador-2016",
+     "etiqueta": "Directorio (Perfil institucional (Itaú Cultural))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Regina Reis",
+  "localidad": "Londrina",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://ecoh.art.br/"
+  }
+ },
+ {
+  "nombre": "Regina Ress",
+  "localidad": "",
+  "pais": "Estados Unidos",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/ReginaRessStoryteller",
+   "web": "https://www.reginaress.com",
+   "otros": [
+    {
+     "url": "http://reginaress.com/category/blog",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Richard Marsh",
+  "localidad": "",
+  "pais": "Irlanda",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://www.richardmarsh.ie/",
+   "otros": [
+    {
+     "url": "https://mazgeenlegendary.wordpress.com",
+     "etiqueta": "Blog"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Roger Jenkins",
+  "localidad": "",
+  "pais": "Singapur",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://rogerjenkins.com.sg",
+   "otros": [
+    {
+     "url": "https://worldstorytellingcafe.com/roger-jenkins/",
+     "etiqueta": "Directorio (Perfil World Storytelling Cafe)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Rovilson José da Silva",
+  "localidad": "Londrina",
+  "pais": "Brasil",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://ecoh.art.br/",
+   "otros": [
+    {
+     "url": "https://pos.uel.br/ppgci/docentes-do-ppgci/",
+     "etiqueta": "Directorio (Perfil docente (UEL))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Rubén Corbett",
+  "localidad": "Ciudad de México",
+  "pais": "México",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://facebook.com/ruben.corbettfinoac"
+  }
+ },
+ {
+  "nombre": "Rubén Martínez Santana",
+  "localidad": "Barcelona",
+  "pais": "España",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/rubenmartinezsantana",
+   "otros": [
+    {
+     "url": "https://legacy.reverbnation.com/rubénmartínezsantana?popup_bio=true",
+     "etiqueta": "Otro (música)"
+    },
+    {
+     "url": "http://www.muntdemots.org",
+     "etiqueta": "Web (festival)"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Sergio Ramírez",
+  "localidad": "Managua",
+  "pais": "Nicaragua",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://www.facebook.com/escritorsergioramirez",
+   "web": "https://www.sergioramirez.com/",
+   "x": "https://twitter.com/sergioramirezm"
+  }
+ },
+ {
+  "nombre": "Shira Leuchter",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/shira_leuchter/",
+   "web": "https://www.unspuntheatre.com/about"
+  }
+ },
+ {
+  "nombre": "Simon Heywood",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://www.derby.ac.uk/staff/simon-heywood/",
+     "etiqueta": "Directorio (Perfil institucional (University of Derby))"
+    },
+    {
+     "url": "https://shonaleigh.uk/about/simon-heywood/",
+     "etiqueta": "Directorio (Bio (Shonaleigh))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Simone Negrin",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "https://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=192301",
+     "etiqueta": "Directorio (Perfil institucional (Catálogo SHARE (Univ. Nápoles)))"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Sofia Maul",
+  "localidad": "Lisboa",
+  "pais": "Portugal",
+  "memoria": false,
+  "enlaces": {
+   "otros": [
+    {
+     "url": "http://narracaooral.blogspot.com/2010/05/sofia-maul.html",
+     "etiqueta": "Directorio (Perfil institucional (Blog Narração Oral))"
+    },
+    {
+     "url": "https://www.blogger.com/profile/13739091776498268461",
+     "etiqueta": "Otro (perfil Blogger)"
+    },
+    {
+     "url": "https://www.festivalpassapalavra.pt/sofia-maul",
+     "etiqueta": "Directorio (Perfil institucional (Festival Passa a Palavra))"
+    },
+    {
+     "url": "http://www.contabandistas.com",
+     "etiqueta": "Web (compartido — asociación)"
+    }
+   ],
+   "web": "https://sofiamaul.wixsite.com/storyteller/about"
+  }
+ },
+ {
+  "nombre": "Stéphanie Bénéteau",
+  "localidad": "Montreal",
+  "pais": "Canadá",
+  "memoria": false,
+  "enlaces": {
+   "web": "https://www.stephaniebeneteau.com",
+   "otros": [
+    {
+     "url": "https://www.storytellers-conteurs.ca/en/storytellers-directory/Stephanie-Beneteau.html",
+     "etiqueta": "Directorio SC-CC"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Tim Ereneta",
+  "localidad": "",
+  "pais": "Estados Unidos",
+  "memoria": false,
+  "enlaces": {
+   "facebook": "https://facebook.com/tim.ereneta",
+   "web": "https://www.timereneta.info/",
+   "otros": [
+    {
+     "url": "https://masto.ai/@storytellertim",
+     "etiqueta": "Mastodon"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Ulla Suokko",
+  "localidad": "",
+  "pais": "",
+  "memoria": false,
+  "enlaces": {
+   "web": "http://www.healinginthenow.com/",
+   "otros": [
+    {
+     "url": "http://www.ullasuokko.com/",
+     "etiqueta": "Sitio web"
+    }
+   ]
+  }
+ },
+ {
+  "nombre": "Yeniffer Díaz",
+  "localidad": "Lima",
+  "pais": "Perú",
+  "memoria": false,
+  "enlaces": {
+   "instagram": "https://www.instagram.com/tiempodecuentosperu",
+   "web": "https://yosoypurocuento.com/",
+   "otros": [
+    {
+     "url": "https://www.instagram.com/yenitosdecuento",
+     "etiqueta": "Instagram"
+    },
+    {
+     "url": "https://www.instagram.com/yosoypurocuento",
+     "etiqueta": "Instagram (Puro Cuento Lima)"
+    }
+   ]
+  }
  }
 ]

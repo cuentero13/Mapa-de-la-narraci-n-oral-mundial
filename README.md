@@ -4,7 +4,7 @@ Sitio web estático (sin paso de build) que mapea los festivales de narración o
 escénica y cuentería del mundo: historia, fundadores, directores, ediciones,
 vigencia, narradores, libros y prensa.
 
-Administra: **Fundación Festival Puro Cuento** (Costa Rica) —
+Impulsa: **Fundación Festival Puro Cuento** (Costa Rica) —
 info@festivalpurocuento.com · https://festivalpurocuento.com
 
 ## Despliegue
@@ -16,22 +16,28 @@ sirviendo la carpeta con cualquier servidor estático.
 ## Estructura
 
 ```
-index.html          Página única (español + selector ES/EN para la interfaz)
+index.html          Página principal (español + selector ES/EN para la interfaz)
 css/style.css       Línea gráfica de festivalpurocuento.com
 js/i18n.js          Traducciones ES/EN de la interfaz (los datos quedan en español)
 js/app.js           Mapa (Leaflet), filtros, buscador y render de secciones
 data/
   festivales-mundo.json   253 fichas de festivales del mundo (122 países y territorios; 11 de Colombia también están en colombia.json)
   colombia.json           144 festivales de Colombia (investigación Fredy Ayala, 2026)
-  narradores.json         168 narradores de la RIC (Costa Rica 24, Argentina 141 + 3 en memoria)
+  narradores.json         297 narradores: 168 de la RIC (Costa Rica 24, Argentina 141 + 3 en memoria) + 129 de otros países con enlaces verificados (6 en memoria); 168 con coordenadas (los 129 nuevos, sin lugar verificado en 37 casos, quedan fuera del mapa por ahora)
   libros.json             96 libros verificados de 9 autores narradores (con enlace para buscar cada título)
   libros-parciales.json   24 títulos con año o editorial sin verificar (incluidos 8 de Liliana Cinetto sin año)
   prensa.json             11 artículos de prensa verificados (P10, Agencia Andina, retirada 24-nov-2026: URL canónica sin verificar)
-  fuentes.json            103 referencias APA 7.ª ed. (Ayala, RIC, prensa, La U, nuevos festivales, complementos, premios, manuscritos)
+  fuentes.json            320 referencias APA 7.ª ed. (Ayala, RIC, prensa, La U, nuevos festivales, complementos, premios, manuscritos, modelo de IA, crítica y principios, cronología)
   premios.json            20 premios de narración oral verificados (10 países/ámbitos)
   menciones.json          163 menciones (tradición oral fuerte sin festival verificable)
   destacados.json         Festival Puro Cuento (CR), Red Internacional de Cuentacuentos, Marcela Sabio
   miticos.json            23 lugares míticos (capa aparte, apagada por defecto)
+  cronologia.json         350 hitos (1697–2027): cronología única mundial + por continente
+  noticias.json           0 noticias (estado vacío honesto; se llena con noticias verificadas)
+  eventos.json            0 eventos (los crea la comunidad con el login)
+  colaboradores.json       0 colaboradores (aparece quien genera un cambio aceptado)
+  blog.json               0 entradas (blog de la comunidad)
+  foro.json               0 hilos (foro de la comunidad)
 ```
 
 Secciones: mapa con filtros, directorio mundial único con buscador (las 144
@@ -40,8 +46,9 @@ fichas de Colombia van en el mismo listado, sin sección propia), ranking
 (Francisco Garzón Céspedes y el fenómeno de la narración oral en América
 Latina, con cronología de festivales y cursos y formación académica),
 «Biblioteca NOE» (catálogo público completo de 120 libros), prensa, premios,
-fuentes (lista APA 7.ª ed.) y créditos, y un pie de página «Nosotros» con la
-información de la Fundación como administradora. Cada ficha de festival lleva
+fuentes (lista APA 7.ª ed.), créditos, principios, cómo funciona, cronología,
+colaboradores, eventos, blog y foro, y una sección «Nosotros» al final de la
+home con la invitación de la Fundación como impulsora. Cada ficha de festival lleva
 una cita APA que la sustenta (campo `cita`, con enlace a la referencia
 completa en fuentes.html) y un relato tradicional corto de su zona, marcado
 como tal — salvo las 15 fichas nuevas de noviembre de 2026 (mundo-239–253),
@@ -81,7 +88,8 @@ verificado se muestra como «sin verificar» o se omite; nunca se inventa.
   mapa y en su fila del directorio (campo `fuentes` en colombia.json, con el
   enlace a la investigación). Las fichas del mundo muestran sus fuentes en la
   tarjeta del directorio y en el popup del mapa; las listas de narradores
-  citan a la RIC bajo cada sublista (Costa Rica y Argentina).
+  citan a la RIC bajo cada sublista (Costa Rica y Argentina) y la sección
+  «Otros países» agrupa los 129 perfiles nuevos por país.
 - Narradores: listados de la RIC (Red Internacional de Cuentacuentos,
   cuentacuentos.eu). Las fichas individuales de la RIC no tienen URL propia en
   los datos (solo la ficha destacada de Marcela Sabio la trae enlazada); la
@@ -102,8 +110,9 @@ verificado se muestra como «sin verificar» o se omite; nunca se inventa.
 
 El Festival Internacional Puro Cuento de Costa Rica (fundado 2002) NO es el
 «PURO CUENTO» de Marcela Sabio (Universidad Nacional del Litoral, Santa Fe,
-Argentina, desde 1998) ni el «Puro Cuento» de Perú (Asociación Cultural
-Tiempo de Cuentos, Lima). El sitio los distingue en cada ficha.
+Argentina, desde 1998), ni el «Puro Cuento» de Perú (Asociación Cultural
+Tiempo de Cuentos, Lima), ni la revista «Puro Cuento» de Mempo Giardinelli
+(Buenos Aires, 36 ediciones, 1986–1992). El sitio los distingue en cada ficha.
 
 ## Regenerar los datos
 
