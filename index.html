@@ -45,8 +45,9 @@
     <svg class="deco deco-dot" style="top:70%;right:10%" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7"/></svg>
     <svg class="deco deco-book" style="bottom:6%;right:4%" viewBox="0 0 48 32"><path d="M2 6 C10 2 18 2 24 6 C30 2 38 2 46 6 V28 C38 24 30 24 24 28 C18 24 10 24 2 28 Z"/><path d="M24 6 V28" stroke="#fff" stroke-width="1.5" fill="none"/></svg>
   </div>
-    <img class="hero-logo" src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Logo oficial de la Fundación Festival Puro Cuento" width="1042" height="725">
-    <h1 data-i18n="hero_title">Mapa Mundial de la Narración Oral</h1>
+  <canvas id="hero-stars" aria-hidden="true"></canvas>
+    <span class="hero-logo-wrap"><img class="hero-logo" src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Logo oficial de la Fundación Festival Puro Cuento" width="1042" height="725"></span>
+    <h1 data-i18n="hero_title">Bienvenido al Mundo de la narración oral Escénica</h1>
     <p class="hero-sub" data-i18n="hero_sub">Festivales donde la palabra se vuelve fiesta.</p>
     <p class="hero-note" data-i18n="hero_note">Un registro en construcción, con datos verificados. Lo no verificado se marca como tal.</p>
     <div class="stats" id="stats">
@@ -171,6 +172,64 @@
       btn.textContent = '☰';
     });
   });
+})();
+</script>
+<script>
+/* Universo del hero: estrellas que titilan + logo que sigue al cursor (24-nov-2026) */
+(function () {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var canvas = document.getElementById('hero-stars');
+  if (!canvas) return;
+  var ctx = canvas.getContext('2d');
+  var hero = canvas.parentElement;
+  var stars = [], W = 0, H = 0, mx = 0.5, my = 0.5;
+  function resize() {
+    var r = hero.getBoundingClientRect();
+    W = canvas.width = Math.max(1, Math.floor(r.width));
+    H = canvas.height = Math.max(1, Math.floor(r.height));
+    stars = [];
+    var n = Math.min(120, Math.floor(W * H / 9000));
+    for (var i = 0; i < n; i++) {
+      stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.4 + 0.4,
+        p: Math.random() * Math.PI * 2, s: 0.008 + Math.random() * 0.02, d: 0.2 + Math.random() * 0.6 });
+    }
+  }
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+    for (var i = 0; i < stars.length; i++) {
+      var st = stars[i];
+      st.p += st.s;
+      var a = 0.25 + 0.55 * (0.5 + 0.5 * Math.sin(st.p));
+      var px = st.x + (mx - 0.5) * 20 * st.d;
+      var py = st.y + (my - 0.5) * 14 * st.d;
+      ctx.beginPath();
+      ctx.arc(px, py, st.r, 0, Math.PI * 2);
+      ctx.fillStyle = 'rgba(150, 110, 20, ' + a.toFixed(2) + ')';
+      ctx.fill();
+    }
+    requestAnimationFrame(draw);
+  }
+  var logo = hero.querySelector('.hero-logo');
+  hero.addEventListener('mousemove', function (e) {
+    var r = hero.getBoundingClientRect();
+    mx = (e.clientX - r.left) / r.width;
+    my = (e.clientY - r.top) / r.height;
+    if (logo) logo.style.transform = 'perspective(600px) rotateY(' + ((mx - 0.5) * 14).toFixed(1) + 'deg) rotateX(' + ((0.5 - my) * 10).toFixed(1) + 'deg) scale(1.03)';
+  });
+  hero.addEventListener('mouseleave', function () {
+    mx = 0.5; my = 0.5;
+    if (logo) logo.style.transform = '';
+  });
+  if (logo) {
+    logo.addEventListener('click', function () {
+      logo.classList.remove('logo-spin');
+      void logo.offsetWidth;
+      logo.classList.add('logo-spin');
+    });
+  }
+  resize();
+  window.addEventListener('resize', resize);
+  draw();
 })();
 </script>
 </body>

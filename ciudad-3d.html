@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>La ciudad Puro Cuento en 3D — demo</title>
+<meta name="description" content="Demo: la ciudad del logo del Festival Puro Cuento, modelada en 3D. Girala, tocá los edificios y la luna.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@700;800&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700&family=Gochi+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  .demo-wrap { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.25rem 2.5rem; }
+  .demo-wrap h1 { font-size: clamp(1.6rem, 5vw, 2.2rem); margin: .25rem 0 .25rem; }
+  .demo-sub { color: var(--slate); margin: 0 0 1rem; }
+  #ciudad3d { position: relative; height: 70vh; min-height: 420px; border: 2px solid var(--lime-light); border-radius: var(--radius); overflow: hidden; background: #0e1e42; }
+  #ciudad3d canvas { display: block; }
+  .demo-hint { position: absolute; top: .6rem; left: .6rem; right: .6rem; text-align: center; color: #fff; background: rgba(0,0,0,.35); border-radius: 999px; padding: .3rem .8rem; font-size: .85rem; pointer-events: none; }
+  .demo-label { min-height: 3.2rem; margin: 1rem 0; padding: .8rem 1rem; background: #F4F9E8; border: 2px solid var(--lime-light); border-radius: var(--radius); text-align: center; }
+  .demo-label strong { font-family: 'Grandstander', sans-serif; font-size: 1.15rem; color: var(--slate); display: block; }
+  .demo-label span { color: var(--text); font-size: .95rem; }
+  .demo-btns { display: flex; gap: .6rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem; }
+  .demo-btns .btn { padding: .6rem 1.2rem; font-size: .95rem; }
+  .demo-btns .btn[aria-pressed="true"] { background: var(--lime); color: #fff; }
+  .opciones { background: #fff; border: 2px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
+  .opciones h2 { margin-top: 0; }
+  .opciones li { margin-bottom: .6rem; }
+  .demo-fallback { display: none; position: absolute; inset: 0; align-items: center; justify-content: center; text-align: center; color: #fff; padding: 1rem; }
+  @media (max-width: 720px) { .demo-wrap { padding: 1rem 1rem 2rem; } #ciudad3d { height: 62vh; min-height: 360px; } }
+</style>
+<script type="importmap">
+{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js", "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/" } }
+</script>
+</head>
+<body class="page-ciudad3d">
+<header class="topbar">
+  <a class="brand" href="index.html"><img class="brand-logo" src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Logo oficial de la Fundación Festival Puro Cuento" width="1042" height="725"><span class="brand-name">Mapa Mundial de la Narración Oral</span></a>
+  <nav class="topnav" id="topnav"><a href="index.html">← Volver al mapa</a><a href="directorio.html">Directorio</a></nav>
+</header>
+<main class="demo-wrap">
+  <h1>La ciudad Puro Cuento en 3D</h1>
+  <p class="demo-sub">Demo: la ciudad del logo, modelada en 3D. Arrastrá para girarla, pellizcá para acercarla y tocá los edificios y la luna.</p>
+  <div id="ciudad3d">
+    <div class="demo-hint">Arrastrá para girar · Tocá un edificio · Tocá la luna</div>
+    <div class="demo-fallback" id="demo-fallback"><p>No se pudo cargar el modelo 3D.<br>Revisá tu conexión y recargá la página.</p></div>
+  </div>
+  <div class="demo-label" id="demo-label"><strong>La ciudad de los cuentos</strong><span>Tocá un edificio para conocerlo.</span></div>
+  <div class="demo-btns">
+    <button class="btn btn-outline" id="btn-girar" aria-pressed="true">⟳ Girar solo</button>
+    <button class="btn btn-outline" id="btn-luna">🌙 Tocar la luna</button>
+    <button class="btn btn-outline" id="btn-vista">↺ Vista inicial</button>
+  </div>
+  <section class="opciones">
+    <h2>Opciones interactivas para añadir</h2>
+    <p>Elegí cuáles querés y las añado a la ciudad (en la demo ya funcionan la 1, la 2 y la 3):</p>
+    <ol>
+      <li><strong>Girar y acercar con el dedo</strong> — arrastrar para rotar, pellizcar para zoom. <em>Ya funciona en la demo.</em></li>
+      <li><strong>Tocar un edificio y que se presente</strong> — se levanta, se ilumina y muestra su nombre y su historia. <em>Ya funciona en la demo.</em></li>
+      <li><strong>La luna reacciona</strong> — al tocarla gira y las estrellas parpadean más rápido. <em>Ya funciona en la demo.</em></li>
+      <li><strong>Cada edificio abre su festival</strong> — tocar un edificio lleva a su ficha en el directorio del mapa.</li>
+      <li><strong>Edificios por continente</strong> — cada edificio representa una región; al tocarlo, el mapa se filtra a esa región.</li>
+      <li><strong>Día y noche</strong> — un botón cambia el cielo: de día se ve el sol, de noche se encienden las ventanas.</li>
+      <li><strong>La ciudad crece</strong> — cada festival nuevo que entra al mapa añade un edificio a la ciudad.</li>
+      <li><strong>Cuentos con voz</strong> — al tocar un edificio suena un fragmento de cuento narrado (audio real del Festival).</li>
+      <li><strong>Buscar y volar</strong> — escribís un festival y la cámara vuela hasta su edificio.</li>
+      <li><strong>Compartir la ciudad</strong> — un botón guarda una foto de la ciudad tal como la dejaste y la compartís.</li>
+    </ol>
+  </section>
+</main>
+<footer class="site-footer"><div class="foot-inner"><p class="muted">Demo de la ciudad 3D del Mapa Mundial de la Narración Oral. Lo impulsa la Fundación Festival Puro Cuento.</p><p><a href="index.html">Volver al mapa</a> · <a href="terminos.html">Términos y Condiciones</a></p></div></footer>
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+var container = document.getElementById('ciudad3d');
+var labelTitle = document.querySelector('#demo-label strong');
+var labelDesc = document.querySelector('#demo-label span');
+var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+function showFallback() {
+  var f = document.getElementById('demo-fallback');
+  if (f) f.style.display = 'flex';
+}
+
+try {
+  var BG = 0x0e1e42;
+  var scene = new THREE.Scene();
+  scene.background = new THREE.Color(BG);
+  scene.fog = new THREE.Fog(BG, 30, 55);
+
+  var camera = new THREE.PerspectiveCamera(45, container.clientWidth / container.clientHeight, 0.1, 200);
+  var CAM0 = new THREE.Vector3(11, 8, 13);
+  var TGT0 = new THREE.Vector3(0, 1.8, 0);
+  camera.position.copy(CAM0);
+
+  var renderer = new THREE.WebGLRenderer({ antialias: true });
+  renderer.setSize(container.clientWidth, container.clientHeight);
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+  renderer.shadowMap.enabled = true;
+  renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+  container.appendChild(renderer.domElement);
+
+  var controls = new OrbitControls(camera, renderer.domElement);
+  controls.target.copy(TGT0);
+  controls.enableDamping = true;
+  controls.dampingFactor = 0.06;
+  controls.minDistance = 6;
+  controls.maxDistance = 26;
+  controls.maxPolarAngle = Math.PI * 0.49;
+  controls.autoRotate = !reduceMotion;
+  controls.autoRotateSpeed = 0.8;
+
+  scene.add(new THREE.AmbientLight(0x8899bb, 0.75));
+  var moonLight = new THREE.DirectionalLight(0xcdd8ff, 1.4);
+  moonLight.position.set(6, 12, 5);
+  moonLight.castShadow = true;
+  moonLight.shadow.mapSize.set(1024, 1024);
+  scene.add(moonLight);
+  var warm = new THREE.PointLight(0xffd27a, 60, 20, 2);
+  warm.position.set(0, 3.5, 6);
+  scene.add(warm);
+
+  // Suelo: la colina curva del logo
+  var ground = new THREE.Mesh(
+    new THREE.CylinderGeometry(10, 10.6, 0.8, 48),
+    new THREE.MeshStandardMaterial({ color: 0x2e6b4f, roughness: 1 })
+  );
+  ground.position.y = -0.4;
+  ground.receiveShadow = true;
+  scene.add(ground);
+
+  // Estrellas
+  var starGeo = new THREE.BufferGeometry();
+  var starPos = [];
+  for (var s = 0; s < 260; s++) {
+    var a = Math.random() * Math.PI * 2;
+    var r = 22 + Math.random() * 18;
+    starPos.push(Math.cos(a) * r, 5 + Math.random() * 22, Math.sin(a) * r);
+  }
+  starGeo.setAttribute('position', new THREE.Float32BufferAttribute(starPos, 3));
+  var starMat = new THREE.PointsMaterial({ color: 0xffffff, size: 0.16, transparent: true, opacity: 0.9, sizeAttenuation: true });
+  var stars = new THREE.Points(starGeo, starMat);
+  scene.add(stars);
+
+  function std(color, extra) {
+    return new THREE.MeshStandardMaterial(Object.assign({ color: color, roughness: 0.85, metalness: 0 }, extra || {}));
+  }
+  function box(w, h, d, mat, x, y, z) {
+    var m = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), mat);
+    m.position.set(x, y, z);
+    m.castShadow = true; m.receiveShadow = true;
+    return m;
+  }
+  function ventana(x, y, z) {
+    return box(0.28, 0.38, 0.06, new THREE.MeshStandardMaterial({ color: 0x3a3a3a, emissive: 0xffca3a, emissiveIntensity: 1.1 }), x, y, z);
+  }
+  function building(name, desc) {
+    var g = new THREE.Group();
+    g.userData = { name: name, desc: desc, mats: [], lift: 0, glow: 0 };
+    g.traverse(function () {});
+    scene.add(g);
+    g.userData.collect = function () {
+      g.traverse(function (o) {
+        if (o.isMesh && o.material && o.material.emissive && o.material.emissiveIntensity !== 1.1) {
+          o.material = o.material.clone();
+          o.material.emissive = new THREE.Color(o.material.color);
+          o.material.emissiveIntensity = 0;
+          g.userData.mats.push(o.material);
+        }
+      });
+    };
+    return g;
+  }
+  var places = [];
+
+  // La Cúpula (centro, como en el logo)
+  var cupula = building('La Cúpula', 'El escenario mayor: aquí se cuentan los cuentos grandes del Festival.');
+  cupula.add(box(2.4, 1.1, 2.4, std(0xf5e6b8), 0, 0.55, 0));
+  [[-0.9, -0.9], [0.9, -0.9], [-0.9, 0.9], [0.9, 0.9]].forEach(function (c) {
+    var col = new THREE.Mesh(new THREE.CylinderGeometry(0.09, 0.09, 1.1, 10), std(0xf5e6b8));
+    col.position.set(c[0], 1.65, c[1]); col.castShadow = true;
+    cupula.add(col);
+  });
+  var dome = new THREE.Mesh(new THREE.SphereGeometry(1.55, 28, 14, 0, Math.PI * 2, 0, Math.PI / 2), std(0xfdbd10));
+  dome.position.y = 2.2; dome.castShadow = true;
+  cupula.add(dome);
+  var finial = new THREE.Mesh(new THREE.CylinderGeometry(0.07, 0.07, 0.6, 8), std(0x333333));
+  finial.position.y = 3.9; cupula.add(finial);
+  cupula.position.set(0, 0, -1);
+  cupula.userData.collect();
+  places.push(cupula);
+
+  // La Torre Roja
+  var torre = building('La Torre Roja', 'Los cuentos que viajan: desde aquí parten las historias a todo el mundo.');
+  torre.add(box(1.6, 3.4, 1.6, std(0xf7ead0), 0, 1.7, 0));
+  var tejado = new THREE.Mesh(new THREE.ConeGeometry(1.35, 1.2, 4), std(0xec1c24));
+  tejado.position.y = 4.0; tejado.rotation.y = Math.PI / 4; tejado.castShadow = true;
+  torre.add(tejado);
+  torre.add(ventana(-0.4, 2.4, 0.82)); torre.add(ventana(0.4, 2.4, 0.82)); torre.add(ventana(0, 1.2, 0.82));
+  torre.position.set(3.4, 0, -0.5);
+  torre.userData.collect();
+  places.push(torre);
+
+  // La Casa del Cuento
+  var casa = building('La Casa del Cuento', 'Donde se guardan las historias: cada ventana es un cuento distinto.');
+  casa.add(box(2.2, 1.6, 1.8, std(0xf89c1c), 0, 0.8, 0));
+  var tejadoCasa = new THREE.Mesh(new THREE.ConeGeometry(1.9, 1.1, 4), std(0xd42a2a));
+  tejadoCasa.position.y = 2.15; tejadoCasa.rotation.y = Math.PI / 4; tejadoCasa.scale.z = 0.75; tejadoCasa.castShadow = true;
+  casa.add(tejadoCasa);
+  casa.add(ventana(-0.55, 0.9, 0.92)); casa.add(ventana(0.55, 0.9, 0.92));
+  casa.position.set(5.6, 0, 0.8);
+  casa.userData.collect();
+  places.push(casa);
+
+  // La Casa Azul
+  var azul = building('La Casa Azul', 'El río de las palabras: los cuentos fluyen como el agua.');
+  azul.add(box(1.8, 2.0, 1.6, std(0x5b8fd6), 0, 1.0, 0));
+  azul.add(box(2.0, 0.18, 1.8, std(0x8fb4e8), 0, 2.1, 0));
+  azul.add(ventana(-0.45, 1.3, 0.82)); azul.add(ventana(0.45, 1.3, 0.82));
+  azul.position.set(1.8, 0, 1.8);
+  azul.userData.collect();
+  places.push(azul);
+
+  // La Casa Verde
+  var verde = building('La Casa Verde', 'El patio de los narradores: aquí se ensayan los cuentos antes de contarlos.');
+  verde.add(box(1.7, 1.8, 1.6, std(0x2e8b7a), 0, 0.9, 0));
+  verde.add(box(1.9, 0.16, 1.8, std(0x57b39e), 0, 1.9, 0));
+  verde.add(box(0.5, 0.9, 0.06, std(0x4a3226), 0, 0.45, 0.82));
+  verde.add(ventana(-0.5, 1.2, 0.82)); verde.add(ventana(0.5, 1.2, 0.82));
+  verde.position.set(-2.0, 0, 1.2);
+  verde.userData.collect();
+  places.push(verde);
+
+  // La Torre Inclinada
+  var inclinada = building('La Torre Inclinada', 'La torre que escucha: está torcida de tanto inclinarse a oír cuentos.');
+  var cuerpo = box(1.3, 3.0, 1.3, std(0xe8d44d), 0, 1.5, 0);
+  inclinada.add(cuerpo);
+  var antena = new THREE.Mesh(new THREE.CylinderGeometry(0.04, 0.04, 0.9, 6), std(0x333333));
+  antena.position.y = 3.4; inclinada.add(antena);
+  inclinada.add(ventana(0, 2.0, 0.67)); inclinada.add(ventana(0, 1.0, 0.67));
+  inclinada.rotation.z = -0.12;
+  inclinada.position.set(-4.6, 0, 0.2);
+  inclinada.userData.collect();
+  places.push(inclinada);
+
+  // La Casita Roja
+  var casita = building('La Casita Roja', 'El primer cuento: la casa más pequeña guarda la primera historia.');
+  casita.add(box(1.4, 1.3, 1.3, std(0xd64545), 0, 0.65, 0));
+  var tejadoCasita = new THREE.Mesh(new THREE.ConeGeometry(1.15, 0.8, 4), std(0xa83232));
+  tejadoCasita.position.y = 1.7; tejadoCasita.rotation.y = Math.PI / 4; tejadoCasita.castShadow = true;
+  casita.add(tejadoCasita);
+  casita.add(box(0.4, 0.7, 0.06, std(0x4a3226), 0, 0.35, 0.67));
+  casita.position.set(-3.4, 0, -1.6);
+  casita.userData.collect();
+  places.push(casita);
+
+  // Árboles
+  [[-6.4, 2.2], [7.2, -1.4], [-1.2, 3.4]].forEach(function (p) {
+    var t = new THREE.Group();
+    var tronco = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.14, 0.7, 8), std(0x6b4a2f));
+    tronco.position.y = 0.35; tronco.castShadow = true;
+    var copa = new THREE.Mesh(new THREE.ConeGeometry(0.6, 1.4, 8), std(0x3f9e4d));
+    copa.position.y = 1.3; copa.castShadow = true;
+    t.add(tronco); t.add(copa);
+    t.position.set(p[0], 0, p[1]);
+    scene.add(t);
+  });
+
+  // La Luna (con cara, como en el logo)
+  var luna = new THREE.Group();
+  var lunaCara = new THREE.Mesh(new THREE.SphereGeometry(1.3, 28, 20), new THREE.MeshStandardMaterial({ color: 0xfff6d8, roughness: 0.6, emissive: 0xfff2b0, emissiveIntensity: 0.35 }));
+  lunaCara.castShadow = true;
+  luna.add(lunaCara);
+  var mordida = new THREE.Mesh(new THREE.SphereGeometry(1.15, 28, 20), new THREE.MeshBasicMaterial({ color: BG }));
+  mordida.position.set(0.55, 0.28, 0.42);
+  luna.add(mordida);
+  var ojoMat = new THREE.MeshBasicMaterial({ color: 0x222222 });
+  var ojo1 = new THREE.Mesh(new THREE.SphereGeometry(0.09, 10, 8), ojoMat);
+  ojo1.position.set(-0.55, 0.35, 1.12);
+  var ojo2 = ojo1.clone(); ojo2.position.set(-0.18, 0.42, 1.2);
+  luna.add(ojo1); luna.add(ojo2);
+  var sonrisa = new THREE.Mesh(new THREE.TorusGeometry(0.32, 0.045, 8, 20, Math.PI), ojoMat);
+  sonrisa.position.set(-0.42, 0.05, 1.18);
+  sonrisa.rotation.z = Math.PI;
+  luna.add(sonrisa);
+  luna.position.set(7.5, 8.5, -6);
+  luna.userData = { name: 'La Luna', desc: 'La que alumbra las noches de cuentos. Tocála y mirá cómo gira.', isMoon: true };
+  scene.add(luna);
+
+  var raycaster = new THREE.Raycaster();
+  var pointer = new THREE.Vector2();
+  var hovered = null;
+  var moonSpin = 0;
+  var starBoost = 0;
+
+  function pick(cx, cy) {
+    var r = renderer.domElement.getBoundingClientRect();
+    pointer.x = ((cx - r.left) / r.width) * 2 - 1;
+    pointer.y = -((cy - r.top) / r.height) * 2 + 1;
+    raycaster.setFromCamera(pointer, camera);
+    var hits = raycaster.intersectObjects(places.concat([luna]), true);
+    if (!hits.length) return null;
+    var o = hits[0].object;
+    while (o && !o.userData.name) o = o.parent;
+    return o;
+  }
+  function select(obj) {
+    hovered = obj;
+    if (obj) {
+      labelTitle.textContent = obj.userData.name;
+      labelDesc.textContent = obj.userData.desc;
+      if (obj.userData.isMoon) { moonSpin = 1; starBoost = 1; }
+    } else {
+      labelTitle.textContent = 'La ciudad de los cuentos';
+      labelDesc.textContent = 'Tocá un edificio para conocerlo.';
+    }
+  }
+  var downX = 0, downY = 0;
+  renderer.domElement.addEventListener('pointerdown', function (e) { downX = e.clientX; downY = e.clientY; });
+  renderer.domElement.addEventListener('pointerup', function (e) {
+    if (Math.hypot(e.clientX - downX, e.clientY - downY) > 6) return;
+    select(pick(e.clientX, e.clientY));
+  });
+  renderer.domElement.addEventListener('pointermove', function (e) {
+    if (e.pointerType === 'mouse') select(pick(e.clientX, e.clientY));
+  });
+
+  var btnGirar = document.getElementById('btn-girar');
+  btnGirar.setAttribute('aria-pressed', controls.autoRotate ? 'true' : 'false');
+  btnGirar.addEventListener('click', function () {
+    controls.autoRotate = !controls.autoRotate;
+    btnGirar.setAttribute('aria-pressed', controls.autoRotate ? 'true' : 'false');
+  });
+  document.getElementById('btn-luna').addEventListener('click', function () {
+    moonSpin = 1; starBoost = 1;
+    labelTitle.textContent = 'La Luna';
+    labelDesc.textContent = 'La que alumbra las noches de cuentos. Tocála y mirá cómo gira.';
+  });
+  document.getElementById('btn-vista').addEventListener('click', function () {
+    camera.position.copy(CAM0);
+    controls.target.copy(TGT0);
+    controls.update();
+  });
+
+  window.addEventListener('resize', function () {
+    camera.aspect = container.clientWidth / container.clientHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(container.clientWidth, container.clientHeight);
+  });
+
+  var clock = new THREE.Clock();
+  function animate() {
+    requestAnimationFrame(animate);
+    var t = clock.getElapsedTime();
+    if (!reduceMotion) {
+      starMat.size = 0.16 + 0.05 * Math.sin(t * 1.5) + starBoost * 0.12;
+      stars.rotation.y += 0.0004 + starBoost * 0.004;
+    }
+    if (moonSpin > 0) {
+      luna.rotation.y += 0.12 * moonSpin;
+      luna.scale.setScalar(1 + 0.12 * moonSpin);
+      moonSpin = Math.max(0, moonSpin - 0.012);
+      if (moonSpin === 0) luna.scale.setScalar(1);
+    }
+    starBoost = Math.max(0, starBoost - 0.006);
+    places.forEach(function (g) {
+      var target = (g === hovered) ? 0.35 : 0;
+      var glowT = (g === hovered) ? 0.3 : 0;
+      g.userData.lift += (target - g.userData.lift) * 0.15;
+      g.userData.glow += (glowT - g.userData.glow) * 0.15;
+      g.position.y = g.userData.lift;
+      g.userData.mats.forEach(function (m) { m.emissiveIntensity = g.userData.glow; });
+    });
+    controls.update();
+    renderer.render(scene, camera);
+  }
+  animate();
+  window.__ciudad3d_ok = true;
+} catch (err) {
+  showFallback();
+}
+</script>
+<script>
+setTimeout(function () { if (!window.__ciudad3d_ok) document.getElementById('demo-fallback').style.display = 'flex'; }, 6000);
+</script>
+</body>
+</html>
