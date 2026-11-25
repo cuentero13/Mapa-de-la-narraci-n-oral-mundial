@@ -393,3 +393,5 @@ img, video { max-width: 100%; }
 .news-dot { width: 10px; height: 10px; border-radius: 50%; border: none; background: var(--border); cursor: pointer; padding: 0; }
 .news-dot.active { background: var(--amber); }
 @media (prefers-reduced-motion: reduce) { .news-track { transition: none; } }
+
+.news-img { width: 100%; max-height: 220px; object-fit: cover; border-radius: 8px; margin-bottom: .6rem; }

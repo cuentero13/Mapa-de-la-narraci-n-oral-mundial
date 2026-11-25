@@ -586,7 +586,7 @@
       return;
     }
     const sorted = [...items].sort((a, b) => String(b.fecha || "").localeCompare(String(a.fecha || "")));
-    const slide = n => `<article class="press-card news-slide"><h3>${esc(n.titulo)}</h3><p class="muted">${esc(n.fecha || "")}${n.autor ? " · " + esc(n.autor) : ""}</p><p>${esc(n.resumen || "")}</p>${n.enlace ? `<p><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.fuente || n.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`;
+    const slide = n => `<article class="press-card news-slide">${n.imagen ? `<img class="news-img" src="${esc(n.imagen)}" alt="" loading="lazy" onerror="this.remove()">` : ""}<h3>${esc(n.titulo)}</h3><p class="muted">${esc(n.fecha || "")}${n.autor ? " · " + esc(n.autor) : ""}</p><p>${esc(n.resumen || "")}</p>${n.enlace ? `<p><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.fuente || n.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`;
     const controls = sorted.length > 1 ? `<div class="news-controls"><button type="button" class="news-btn" data-news-prev aria-label="${t("news_prev")}">‹</button><div class="news-dots">${sorted.map((_, i) => `<button type="button" class="news-dot${i === 0 ? " active" : ""}" data-news-dot="${i}" aria-label="${i + 1}"></button>`).join("")}</div><button type="button" class="news-btn" data-news-next aria-label="${t("news_next")}">›</button></div>` : "";
     el.innerHTML = `<div class="news-slider"><div class="news-track">${sorted.map(slide).join("")}</div></div>${controls}`;
     if (sorted.length < 2) return;
