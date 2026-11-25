@@ -395,3 +395,8 @@ img, video { max-width: 100%; }
 @media (prefers-reduced-motion: reduce) { .news-track { transition: none; } }
 
 .news-img { width: 100%; max-height: 220px; object-fit: cover; border-radius: 8px; margin-bottom: .6rem; }
+
+/* Mundo 3D de la NOE en el hero (25-nov-2026) */
+#hero-3d { width: min(560px, 94vw); height: 320px; margin: 0 auto .4rem; cursor: pointer; }
+#hero-3d canvas { display: block; }
+@media (max-width: 720px) { #hero-3d { height: 250px; } }
