@@ -382,3 +382,14 @@ img, video { max-width: 100%; }
 }
 
 .flag { margin-right: .35rem; }
+
+/* Noticias en slide (25-nov-2026) */
+.news-slider { overflow: hidden; }
+.news-track { display: flex; transition: transform .45s ease; }
+.news-slide { flex: 0 0 100%; min-width: 0; }
+.news-controls { display: flex; align-items: center; justify-content: center; gap: .75rem; margin-top: .6rem; }
+.news-btn { width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--border); background: var(--bg-soft); color: var(--text); font-size: 1.3rem; line-height: 1; cursor: pointer; }
+.news-dots { display: flex; gap: .4rem; }
+.news-dot { width: 10px; height: 10px; border-radius: 50%; border: none; background: var(--border); cursor: pointer; padding: 0; }
+.news-dot.active { background: var(--amber); }
+@media (prefers-reduced-motion: reduce) { .news-track { transition: none; } }

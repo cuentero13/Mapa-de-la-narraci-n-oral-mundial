@@ -579,13 +579,39 @@
   function renderNoticias() {
     const el = $("news-list");
     if (!el) return;
+    if (el._newsTimer) { clearInterval(el._newsTimer); el._newsTimer = null; }
     const items = (DATA.noticias && DATA.noticias.items) || [];
     if (!items.length) {
       el.innerHTML = `<p class="muted">${t("news_empty")}</p>`;
       return;
     }
     const sorted = [...items].sort((a, b) => String(b.fecha || "").localeCompare(String(a.fecha || "")));
-    el.innerHTML = sorted.map(n => `<article class="press-card"><h3>${esc(n.titulo)}</h3><p class="muted">${esc(n.fecha || "")}${n.autor ? " · " + esc(n.autor) : ""}</p><p>${esc(n.resumen || "")}</p>${n.enlace ? `<p><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.fuente || n.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`).join("");
+    const slide = n => `<article class="press-card news-slide"><h3>${esc(n.titulo)}</h3><p class="muted">${esc(n.fecha || "")}${n.autor ? " · " + esc(n.autor) : ""}</p><p>${esc(n.resumen || "")}</p>${n.enlace ? `<p><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.fuente || n.enlace.replace(/^https?:\/\//, "").split("/")[0])} →</a></p>` : ""}</article>`;
+    const controls = sorted.length > 1 ? `<div class="news-controls"><button type="button" class="news-btn" data-news-prev aria-label="${t("news_prev")}">‹</button><div class="news-dots">${sorted.map((_, i) => `<button type="button" class="news-dot${i === 0 ? " active" : ""}" data-news-dot="${i}" aria-label="${i + 1}"></button>`).join("")}</div><button type="button" class="news-btn" data-news-next aria-label="${t("news_next")}">›</button></div>` : "";
+    el.innerHTML = `<div class="news-slider"><div class="news-track">${sorted.map(slide).join("")}</div></div>${controls}`;
+    if (sorted.length < 2) return;
+    const track = el.querySelector(".news-track");
+    const dots = [...el.querySelectorAll("[data-news-dot]")];
+    let idx = 0;
+    const go = i => {
+      idx = (i + sorted.length) % sorted.length;
+      track.style.transform = `translateX(-${idx * 100}%)`;
+      dots.forEach((d, j) => d.classList.toggle("active", j === idx));
+    };
+    el.querySelector("[data-news-prev]").addEventListener("click", () => go(idx - 1));
+    el.querySelector("[data-news-next]").addEventListener("click", () => go(idx + 1));
+    dots.forEach((d, j) => d.addEventListener("click", () => go(j)));
+    let startX = null;
+    track.addEventListener("pointerdown", e => { startX = e.clientX; });
+    track.addEventListener("pointerup", e => {
+      if (startX == null) return;
+      const dx = e.clientX - startX;
+      if (Math.abs(dx) > 40) go(idx + (dx < 0 ? 1 : -1));
+      startX = null;
+    });
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      el._newsTimer = setInterval(() => go(idx + 1), 6000);
+    }
   }
   function renderEventos() {
     const el = $("eventos-list");
