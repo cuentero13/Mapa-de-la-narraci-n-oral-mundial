@@ -400,3 +400,11 @@ img, video { max-width: 100%; }
 #hero-3d { width: min(560px, 94vw); height: 320px; margin: 0 auto .4rem; cursor: pointer; }
 #hero-3d canvas { display: block; }
 @media (max-width: 720px) { #hero-3d { height: 250px; } }
+
+/* Footer reacomodado (25-nov-2026) */
+.footer-cols { display: grid; grid-template-columns: 1.4fr 0.8fr 1.4fr; gap: 1.6rem; text-align: left; }
+.footer-cols h3 { margin-top: 0; }
+.foot-links { list-style: none; padding: 0; margin: 0; display: grid; gap: .4rem; }
+.foot-bottom { border-top: 1px solid var(--border); margin-top: 1.4rem; padding-top: .9rem; }
+.construction { font-family: inherit; font-size: .95rem; color: var(--amber); }
+@media (max-width: 820px) { .footer-cols { grid-template-columns: 1fr; } }
