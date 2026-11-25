@@ -7,7 +7,10 @@
   "pais": "Argentina",
   "autor": "Marcela Sabio",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Narraci%C3%B3n+oral+esc%C3%A9nica%3A+El+arte+de+leer+el+mundo+con+todo+el+cuerpo+y+a+viva+voz+%28pr%C3%B3logo+de+Jorge+Dubatti%29+Marcela+Sabio"
+  "enlace": "https://books.google.com/books?q=Narraci%C3%B3n+oral+esc%C3%A9nica%3A+El+arte+de+leer+el+mundo+con+todo+el+cuerpo+y+a+viva+voz+%28pr%C3%B3logo+de+Jorge+Dubatti%29+Marcela+Sabio",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuentos para pensar",
@@ -17,7 +20,10 @@
   "pais": "Argentina",
   "autor": "Jorge Bucay",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuentos+para+pensar+Jorge+Bucay"
+  "enlace": "https://books.google.com/books?q=Cuentos+para+pensar+Jorge+Bucay",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Conto para contar mentres se come un ovo frito",
@@ -27,7 +33,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Conto+para+contar+mentres+se+come+un+ovo+frito+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Conto+para+contar+mentres+se+come+un+ovo+frito+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Papeles de don Tadeo",
@@ -37,7 +46,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Papeles+de+don+Tadeo+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Papeles+de+don+Tadeo+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Los doce meses",
@@ -47,7 +59,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Los+doce+meses+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Los+doce+meses+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "99 pulgas (con Pablo Albo y Félix Albo)",
@@ -57,7 +72,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=99+pulgas+%28con+Pablo+Albo+y+F%C3%A9lix+Albo%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=99+pulgas+%28con+Pablo+Albo+y+F%C3%A9lix+Albo%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuaderno de imágenes y otros cuentos",
@@ -67,7 +85,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuaderno+de+im%C3%A1genes+y+otros+cuentos+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Cuaderno+de+im%C3%A1genes+y+otros+cuentos+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La cabra boba",
@@ -77,7 +98,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+cabra+boba+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=La+cabra+boba+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Libro de contar",
@@ -87,7 +111,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Libro+de+contar+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Libro+de+contar+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Pétala",
@@ -97,7 +124,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=P%C3%A9tala+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=P%C3%A9tala+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La noche de los cambios",
@@ -107,7 +137,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+noche+de+los+cambios+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=La+noche+de+los+cambios+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Un lugar donde ser feliz",
@@ -117,7 +150,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+lugar+donde+ser+feliz+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Un+lugar+donde+ser+feliz+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La casa de mi abuela",
@@ -127,7 +163,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+casa+de+mi+abuela+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=La+casa+de+mi+abuela+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Un loro en mi granja (IV Concurso Internacional de Álbum Ilustrado)",
@@ -137,7 +176,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+loro+en+mi+granja+%28IV+Concurso+Internacional+de+%C3%81lbum+Ilustrado%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Un+loro+en+mi+granja+%28IV+Concurso+Internacional+de+%C3%81lbum+Ilustrado%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La familia C (III Premio Internacional COMPOSTELA de Álbum Ilustrado)",
@@ -147,7 +189,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+familia+C+%28III+Premio+Internacional+COMPOSTELA+de+%C3%81lbum+Ilustrado%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=La+familia+C+%28III+Premio+Internacional+COMPOSTELA+de+%C3%81lbum+Ilustrado%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Cosas que pasan",
@@ -157,7 +202,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cosas+que+pasan+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Cosas+que+pasan+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La siesta de los Enormes",
@@ -167,7 +215,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+siesta+de+los+Enormes+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=La+siesta+de+los+Enormes+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "101 pulgas (con Paula Carballeira, Pablo Albo, Félix Albo y Pepe Maestro)",
@@ -177,7 +228,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=101+pulgas+%28con+Paula+Carballeira%2C+Pablo+Albo%2C+F%C3%A9lix+Albo+y+Pepe+Maestro%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=101+pulgas+%28con+Paula+Carballeira%2C+Pablo+Albo%2C+F%C3%A9lix+Albo+y+Pepe+Maestro%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Contar (libro informativo sobre narración oral)",
@@ -187,7 +241,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Contar+%28libro+informativo+sobre+narraci%C3%B3n+oral%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=Contar+%28libro+informativo+sobre+narraci%C3%B3n+oral%29+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "En busca de los tres reyes animales",
@@ -197,7 +254,10 @@
   "pais": "España",
   "autor": "Pep Bruno (Pep Bruno Galán)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=En+busca+de+los+tres+reyes+animales+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29"
+  "enlace": "https://books.google.com/books?q=En+busca+de+los+tres+reyes+animales+Pep+Bruno+%28Pep+Bruno+Gal%C3%A1n%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Castilla a pie",
@@ -207,7 +267,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Castilla+a+pie+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Castilla+a+pie+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Noche de enigmas (novela)",
@@ -217,7 +280,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Noche+de+enigmas+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Noche+de+enigmas+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Un trabajo de campo (relatos)",
@@ -227,7 +293,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+trabajo+de+campo+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Un+trabajo+de+campo+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Historias de cochinos (relatos)",
@@ -237,7 +306,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Historias+de+cochinos+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Historias+de+cochinos+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "El año del petróleo (novela)",
@@ -247,7 +319,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+a%C3%B1o+del+petr%C3%B3leo+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=El+a%C3%B1o+del+petr%C3%B3leo+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "El oro de la infancia y otros tesoros (relatos)",
@@ -257,7 +332,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+oro+de+la+infancia+y+otros+tesoros+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=El+oro+de+la+infancia+y+otros+tesoros+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Foto movida de un gato (novela)",
@@ -267,7 +345,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Foto+movida+de+un+gato+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Foto+movida+de+un+gato+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Uno de los nuestros (novela)",
@@ -277,7 +358,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Uno+de+los+nuestros+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Uno+de+los+nuestros+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Un lugar de paso (novela)",
@@ -287,7 +371,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+lugar+de+paso+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Un+lugar+de+paso+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La casa del poeta (novela)",
@@ -297,7 +384,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+casa+del+poeta+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=La+casa+del+poeta+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La música del bosque (novela; finalista Premio Torrente Ballester)",
@@ -307,7 +397,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+m%C3%BAsica+del+bosque+%28novela%3B+finalista+Premio+Torrente+Ballester%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=La+m%C3%BAsica+del+bosque+%28novela%3B+finalista+Premio+Torrente+Ballester%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La calle Real (relatos)",
@@ -317,7 +410,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+calle+Real+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=La+calle+Real+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Tantas cochinadas (relatos)",
@@ -327,7 +423,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Tantas+cochinadas+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Tantas+cochinadas+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Las cenas contadas (novela)",
@@ -337,7 +436,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Las+cenas+contadas+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Las+cenas+contadas+%28novela%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Mascarones de proa (relatos)",
@@ -347,7 +449,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Mascarones+de+proa+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Mascarones+de+proa+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Romances en rama (romances)",
@@ -357,7 +462,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Romances+en+rama+%28romances%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Romances+en+rama+%28romances%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "El lector engatusado (relatos; sobre lectura y narración de cuentos)",
@@ -367,7 +475,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+lector+engatusado+%28relatos%3B+sobre+lectura+y+narraci%C3%B3n+de+cuentos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=El+lector+engatusado+%28relatos%3B+sobre+lectura+y+narraci%C3%B3n+de+cuentos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Una tierra mansa (relatos)",
@@ -377,7 +488,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Una+tierra+mansa+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Una+tierra+mansa+%28relatos%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Una vaca, dos niños y trescientos ruiseñores (XXI Premio Ala Delta)",
@@ -387,7 +501,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Una+vaca%2C+dos+ni%C3%B1os+y+trescientos+ruise%C3%B1ores+%28XXI+Premio+Ala+Delta%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Una+vaca%2C+dos+ni%C3%B1os+y+trescientos+ruise%C3%B1ores+%28XXI+Premio+Ala+Delta%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Voces remotas (relatos de la España vacía)",
@@ -397,7 +514,10 @@
   "pais": "España",
   "autor": "Ignacio Sanz (Ignacio Sanz Martín)",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Voces+remotas+%28relatos+de+la+Espa%C3%B1a+vac%C3%ADa%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29"
+  "enlace": "https://books.google.com/books?q=Voces+remotas+%28relatos+de+la+Espa%C3%B1a+vac%C3%ADa%29+Ignacio+Sanz+%28Ignacio+Sanz+Mart%C3%ADn%29",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuentos para todo el año",
@@ -407,7 +527,10 @@
   "pais": "España",
   "autor": "Carles Cano",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuentos+para+todo+el+a%C3%B1o+Carles+Cano"
+  "enlace": "https://books.google.com/books?q=Cuentos+para+todo+el+a%C3%B1o+Carles+Cano",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Los viajes de Pericot",
@@ -417,7 +540,10 @@
   "pais": "España",
   "autor": "Carles Cano",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Los+viajes+de+Pericot+Carles+Cano"
+  "enlace": "https://books.google.com/books?q=Los+viajes+de+Pericot+Carles+Cano",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuentos roídos",
@@ -427,7 +553,10 @@
   "pais": "España",
   "autor": "Carles Cano",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuentos+ro%C3%ADdos+Carles+Cano"
+  "enlace": "https://books.google.com/books?q=Cuentos+ro%C3%ADdos+Carles+Cano",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Querida Blanca",
@@ -437,7 +566,10 @@
   "pais": "España",
   "autor": "Carles Cano",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Querida+Blanca+Carles+Cano"
+  "enlace": "https://books.google.com/books?q=Querida+Blanca+Carles+Cano",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Siete caperucitas y un cuento con lobo",
@@ -447,7 +579,10 @@
   "pais": "España",
   "autor": "Carles Cano",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Siete+caperucitas+y+un+cuento+con+lobo+Carles+Cano"
+  "enlace": "https://books.google.com/books?q=Siete+caperucitas+y+un+cuento+con+lobo+Carles+Cano",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "El secreto del abuelo (Premio Lazarillo de Creación Literaria 2016)",
@@ -457,7 +592,10 @@
   "pais": "España",
   "autor": "Carles Cano",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+secreto+del+abuelo+%28Premio+Lazarillo+de+Creaci%C3%B3n+Literaria+2016%29+Carles+Cano"
+  "enlace": "https://books.google.com/books?q=El+secreto+del+abuelo+%28Premio+Lazarillo+de+Creaci%C3%B3n+Literaria+2016%29+Carles+Cano",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La importancia de hablar mierda o los hilos invisibles del tejido social",
@@ -467,7 +605,10 @@
   "pais": "Colombia",
   "autor": "Nicolás Buenaventura Vidal",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+importancia+de+hablar+mierda+o+los+hilos+invisibles+del+tejido+social+Nicol%C3%A1s+Buenaventura+Vidal"
+  "enlace": "https://books.google.com/books?q=La+importancia+de+hablar+mierda+o+los+hilos+invisibles+del+tejido+social+Nicol%C3%A1s+Buenaventura+Vidal",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "titulo": "Palabra de cuentero (24 relatos, 20 preguntas, 74 respuestas, 50 notas, 17 fotografías)",
@@ -477,7 +618,10 @@
   "pais": "España",
   "autor": "Nicolás Buenaventura Vidal",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Palabra+de+cuentero+%2824+relatos%2C+20+preguntas%2C+74+respuestas%2C+50+notas%2C+17+fotograf%C3%ADas%29+Nicol%C3%A1s+Buenaventura+Vidal"
+  "enlace": "https://books.google.com/books?q=Palabra+de+cuentero+%2824+relatos%2C+20+preguntas%2C+74+respuestas%2C+50+notas%2C+17+fotograf%C3%ADas%29+Nicol%C3%A1s+Buenaventura+Vidal",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Los cuentos del maestro Nicolás (cuentos con rondas y juegos para animar a leer)",
@@ -487,7 +631,10 @@
   "pais": "Colombia",
   "autor": "Nicolás Buenaventura Vidal",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Los+cuentos+del+maestro+Nicol%C3%A1s+%28cuentos+con+rondas+y+juegos+para+animar+a+leer%29+Nicol%C3%A1s+Buenaventura+Vidal"
+  "enlace": "https://books.google.com/books?q=Los+cuentos+del+maestro+Nicol%C3%A1s+%28cuentos+con+rondas+y+juegos+para+animar+a+leer%29+Nicol%C3%A1s+Buenaventura+Vidal",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "titulo": "Casiopea y las sombras (libro infantil, il. Alekos)",
@@ -497,7 +644,10 @@
   "pais": "Colombia",
   "autor": "Nicolás Buenaventura Vidal",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Casiopea+y+las+sombras+%28libro+infantil%2C+il.+Alekos%29+Nicol%C3%A1s+Buenaventura+Vidal"
+  "enlace": "https://books.google.com/books?q=Casiopea+y+las+sombras+%28libro+infantil%2C+il.+Alekos%29+Nicol%C3%A1s+Buenaventura+Vidal",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "titulo": "Mitos del Nuevo Mundo",
@@ -507,7 +657,10 @@
   "pais": "Colombia",
   "autor": "Nicolás Buenaventura Vidal",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Mitos+del+Nuevo+Mundo+Nicol%C3%A1s+Buenaventura+Vidal"
+  "enlace": "https://books.google.com/books?q=Mitos+del+Nuevo+Mundo+Nicol%C3%A1s+Buenaventura+Vidal",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "titulo": "Bisa Bea, Bisa Bel",
@@ -517,7 +670,10 @@
   "pais": "España",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Bisa+Bea%2C+Bisa+Bel+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Bisa+Bea%2C+Bisa+Bel+Ana+Mar%C3%ADa+Machado",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "El perro del cerro y la rana de la sabana",
@@ -527,7 +683,10 @@
   "pais": "Venezuela",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+perro+del+cerro+y+la+rana+de+la+sabana+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=El+perro+del+cerro+y+la+rana+de+la+sabana+Ana+Mar%C3%ADa+Machado",
+  "lat": 8.0018709,
+  "lng": -66.1109318,
+  "coord_aprox": true
  },
  {
   "titulo": "Camilón comilón",
@@ -537,7 +696,10 @@
   "pais": "España",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Camil%C3%B3n+comil%C3%B3n+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Camil%C3%B3n+comil%C3%B3n+Ana+Mar%C3%ADa+Machado",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Un montón de unicornios",
@@ -547,7 +709,10 @@
   "pais": "España",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+mont%C3%B3n+de+unicornios+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Un+mont%C3%B3n+de+unicornios+Ana+Mar%C3%ADa+Machado",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La abuelita aventurera",
@@ -557,7 +722,10 @@
   "pais": "España",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+abuelita+aventurera+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=La+abuelita+aventurera+Ana+Mar%C3%ADa+Machado",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Historia medio al revés",
@@ -567,7 +735,10 @@
   "pais": "México",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Historia+medio+al+rev%C3%A9s+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Historia+medio+al+rev%C3%A9s+Ana+Mar%C3%ADa+Machado",
+  "lat": 23.6585116,
+  "lng": -102.0077097,
+  "coord_aprox": true
  },
  {
   "titulo": "Un pajarito me contó",
@@ -577,7 +748,10 @@
   "pais": "México",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+pajarito+me+cont%C3%B3+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Un+pajarito+me+cont%C3%B3+Ana+Mar%C3%ADa+Machado",
+  "lat": 23.6585116,
+  "lng": -102.0077097,
+  "coord_aprox": true
  },
  {
   "titulo": "El domador de monstruos",
@@ -587,7 +761,10 @@
   "pais": "España",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+domador+de+monstruos+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=El+domador+de+monstruos+Ana+Mar%C3%ADa+Machado",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Niña bonita",
@@ -597,7 +774,10 @@
   "pais": "Venezuela",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Ni%C3%B1a+bonita+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Ni%C3%B1a+bonita+Ana+Mar%C3%ADa+Machado",
+  "lat": 8.0018709,
+  "lng": -66.1109318,
+  "coord_aprox": true
  },
  {
   "titulo": "Buenas palabras, malas palabras",
@@ -607,7 +787,10 @@
   "pais": "Argentina",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Buenas+palabras%2C+malas+palabras+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Buenas+palabras%2C+malas+palabras+Ana+Mar%C3%ADa+Machado",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Yeca, el tatú",
@@ -617,7 +800,10 @@
   "pais": "Argentina",
   "autor": "Ana María Machado",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Yeca%2C+el+tat%C3%BA+Ana+Mar%C3%ADa+Machado"
+  "enlace": "https://books.google.com/books?q=Yeca%2C+el+tat%C3%BA+Ana+Mar%C3%ADa+Machado",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Una máquina para hacer llover (cuentos para niños)",
@@ -627,7 +813,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Una+m%C3%A1quina+para+hacer+llover+%28cuentos+para+ni%C3%B1os%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Una+m%C3%A1quina+para+hacer+llover+%28cuentos+para+ni%C3%B1os%29+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cruzar la noche (novela juvenil)",
@@ -637,7 +826,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cruzar+la+noche+%28novela+juvenil%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Cruzar+la+noche+%28novela+juvenil%29+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "El misterio de las letras perdidas (novela infantil)",
@@ -647,7 +839,10 @@
   "pais": "España",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+misterio+de+las+letras+perdidas+%28novela+infantil%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=El+misterio+de+las+letras+perdidas+%28novela+infantil%29+Alicia+Barberis",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "¡Van a eliminar a todos los perros! (novela para niños)",
@@ -657,7 +852,10 @@
   "pais": "Ecuador",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=%C2%A1Van+a+eliminar+a+todos+los+perros%21+%28novela+para+ni%C3%B1os%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=%C2%A1Van+a+eliminar+a+todos+los+perros%21+%28novela+para+ni%C3%B1os%29+Alicia+Barberis",
+  "lat": -1.3397668,
+  "lng": -79.3666965,
+  "coord_aprox": true
  },
  {
   "titulo": "Viaje hacia los cuentos (didáctica de la narración oral)",
@@ -667,7 +865,10 @@
   "pais": "España",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Viaje+hacia+los+cuentos+%28did%C3%A1ctica+de+la+narraci%C3%B3n+oral%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Viaje+hacia+los+cuentos+%28did%C3%A1ctica+de+la+narraci%C3%B3n+oral%29+Alicia+Barberis",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "29 cuentos para el nivel inicial",
@@ -677,7 +878,10 @@
   "pais": "España",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=29+cuentos+para+el+nivel+inicial+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=29+cuentos+para+el+nivel+inicial+Alicia+Barberis",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "Mi hermano Jaci",
@@ -687,7 +891,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Mi+hermano+Jaci+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Mi+hermano+Jaci+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "La palabra mágica",
@@ -697,7 +904,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+palabra+m%C3%A1gica+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=La+palabra+m%C3%A1gica+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "El científico (novela para niños)",
@@ -707,7 +917,10 @@
   "pais": "Ecuador",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+cient%C3%ADfico+%28novela+para+ni%C3%B1os%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=El+cient%C3%ADfico+%28novela+para+ni%C3%B1os%29+Alicia+Barberis",
+  "lat": -1.3397668,
+  "lng": -79.3666965,
+  "coord_aprox": true
  },
  {
   "titulo": "El nuevo mundo (novela para niños)",
@@ -717,7 +930,10 @@
   "pais": "España",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+nuevo+mundo+%28novela+para+ni%C3%B1os%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=El+nuevo+mundo+%28novela+para+ni%C3%B1os%29+Alicia+Barberis",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  },
  {
   "titulo": "La casa del crimen (novela para niños)",
@@ -727,7 +943,10 @@
   "pais": "Ecuador",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+casa+del+crimen+%28novela+para+ni%C3%B1os%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=La+casa+del+crimen+%28novela+para+ni%C3%B1os%29+Alicia+Barberis",
+  "lat": -1.3397668,
+  "lng": -79.3666965,
+  "coord_aprox": true
  },
  {
   "titulo": "La casa M (novela para jóvenes)",
@@ -737,7 +956,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+casa+M+%28novela+para+j%C3%B3venes%29+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=La+casa+M+%28novela+para+j%C3%B3venes%29+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "La casa del viento",
@@ -747,7 +969,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+casa+del+viento+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=La+casa+del+viento+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuando el diablo anda suelto",
@@ -757,7 +982,10 @@
   "pais": "Ecuador",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuando+el+diablo+anda+suelto+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Cuando+el+diablo+anda+suelto+Alicia+Barberis",
+  "lat": -1.3397668,
+  "lng": -79.3666965,
+  "coord_aprox": true
  },
  {
   "titulo": "La cueva de las brujas y otros cuentos",
@@ -767,7 +995,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+cueva+de+las+brujas+y+otros+cuentos+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=La+cueva+de+las+brujas+y+otros+cuentos+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Clodomiro Fernández, el rey sin corona",
@@ -777,7 +1008,10 @@
   "pais": "Ecuador",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Clodomiro+Fern%C3%A1ndez%2C+el+rey+sin+corona+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Clodomiro+Fern%C3%A1ndez%2C+el+rey+sin+corona+Alicia+Barberis",
+  "lat": -1.3397668,
+  "lng": -79.3666965,
+  "coord_aprox": true
  },
  {
   "titulo": "El infierno de los vivos",
@@ -787,7 +1021,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+infierno+de+los+vivos+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=El+infierno+de+los+vivos+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "La vaca Margarita",
@@ -797,7 +1034,10 @@
   "pais": "Perú",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=La+vaca+Margarita+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=La+vaca+Margarita+Alicia+Barberis",
+  "lat": -6.8699697,
+  "lng": -75.0458515,
+  "coord_aprox": true
  },
  {
   "titulo": "Los túneles secretos",
@@ -807,7 +1047,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Los+t%C3%BAneles+secretos+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Los+t%C3%BAneles+secretos+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Diario de un fantasma",
@@ -817,7 +1060,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Diario+de+un+fantasma+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Diario+de+un+fantasma+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Delfor",
@@ -827,7 +1073,10 @@
   "pais": "Argentina",
   "autor": "Alicia Barberis",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Delfor+Alicia+Barberis"
+  "enlace": "https://books.google.com/books?q=Delfor+Alicia+Barberis",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuentos que hielan la sangre",
@@ -837,7 +1086,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuentos+que+hielan+la+sangre+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Cuentos+que+hielan+la+sangre+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Hay un monstruo debajo de mi cama",
@@ -847,7 +1099,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Hay+un+monstruo+debajo+de+mi+cama+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Hay+un+monstruo+debajo+de+mi+cama+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cosquillas en la nariz",
@@ -857,7 +1112,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cosquillas+en+la+nariz+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Cosquillas+en+la+nariz+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Mitos griegos",
@@ -867,7 +1125,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Mitos+griegos+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Mitos+griegos+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuidado con el perro",
@@ -877,7 +1138,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuidado+con+el+perro+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Cuidado+con+el+perro+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Diminuto contra los fantasmas",
@@ -887,7 +1151,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Diminuto+contra+los+fantasmas+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Diminuto+contra+los+fantasmas+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "El club del miedo",
@@ -897,7 +1164,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=El+club+del+miedo+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=El+club+del+miedo+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Feroz feroz",
@@ -907,7 +1177,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Feroz+feroz+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Feroz+feroz+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Mientras no muera tu nombre",
@@ -917,7 +1190,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Mientras+no+muera+tu+nombre+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Mientras+no+muera+tu+nombre+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Cuando florezcan los cerezos",
@@ -927,7 +1203,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Cuando+florezcan+los+cerezos+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Cuando+florezcan+los+cerezos+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Misterio de la biblioteca",
@@ -937,7 +1216,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Misterio+de+la+biblioteca+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Misterio+de+la+biblioteca+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Un detective suelto en el colegio",
@@ -947,7 +1229,10 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Un+detective+suelto+en+el+colegio+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Un+detective+suelto+en+el+colegio+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  },
  {
   "titulo": "Las malas palabras",
@@ -957,6 +1242,9 @@
   "pais": "Argentina",
   "autor": "Liliana Cinetto",
   "verificado": true,
-  "enlace": "https://books.google.com/books?q=Las+malas+palabras+Liliana+Cinetto"
+  "enlace": "https://books.google.com/books?q=Las+malas+palabras+Liliana+Cinetto",
+  "lat": -34.9964963,
+  "lng": -64.9672817,
+  "coord_aprox": true
  }
 ]

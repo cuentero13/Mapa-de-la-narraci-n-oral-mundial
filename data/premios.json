@@ -9,7 +9,10 @@
   "fuentes": [
    "PR16"
   ],
-  "fuente_texto": "PR16 (storynet.org, s. f.) — verificado en vivo: página oficial + lista de premiados 1995–2024 («Since their inception in 1995…»)"
+  "fuente_texto": "PR16 (storynet.org, s. f.) — verificado en vivo: página oficial + lista de premiados 1995–2024 («Since their inception in 1995…»)",
+  "lat": 39.7837304,
+  "lng": -100.445882,
+  "coord_aprox": true
  },
  {
   "n": 2,
@@ -36,7 +39,10 @@
    "PR6",
    "PR9"
   ],
-  "fuente_texto": "PR6 (Cubarte, 2015), PR9 (Granma, 14-nov-2014)"
+  "fuente_texto": "PR6 (Cubarte, 2015), PR9 (Granma, 14-nov-2014)",
+  "lat": 23.0131338,
+  "lng": -80.8328748,
+  "coord_aprox": true
  },
  {
   "n": 4,
@@ -61,7 +67,10 @@
   "fuentes": [
    "PR17"
   ],
-  "fuente_texto": "PR17 (storynet.org, s. f.)"
+  "fuente_texto": "PR17 (storynet.org, s. f.)",
+  "lat": 39.7837304,
+  "lng": -100.445882,
+  "coord_aprox": true
  },
  {
   "n": 6,
@@ -73,7 +82,10 @@
   "fuentes": [
    "PR23"
   ],
-  "fuente_texto": "PR23 (storytellingworld.com, 1999)"
+  "fuente_texto": "PR23 (storytellingworld.com, 1999)",
+  "lat": 39.7837304,
+  "lng": -100.445882,
+  "coord_aprox": true
  },
  {
   "n": 7,
@@ -86,7 +98,10 @@
    "PR20",
    "PR14"
   ],
-  "fuente_texto": "PR20 (South Carolina Legislature, 2002), PR14 (Knowitall, s. f.)"
+  "fuente_texto": "PR20 (South Carolina Legislature, 2002), PR14 (Knowitall, s. f.)",
+  "lat": 39.7837304,
+  "lng": -100.445882,
+  "coord_aprox": true
  },
  {
   "n": 8,
@@ -99,7 +114,10 @@
    "PR29",
    "PR30"
   ],
-  "fuente_texto": "PR29 (WV Culture, 2006), PR30 (WV Tourism, 22-may-2025)"
+  "fuente_texto": "PR29 (WV Culture, 2006), PR30 (WV Tourism, 22-may-2025)",
+  "lat": 39.7837304,
+  "lng": -100.445882,
+  "coord_aprox": true
  },
  {
   "n": 9,
@@ -111,7 +129,10 @@
   "fuentes": [
    "PR22"
   ],
-  "fuente_texto": "PR22 (storytellingalberta.com, s. f.)"
+  "fuente_texto": "PR22 (storytellingalberta.com, s. f.)",
+  "lat": 61.0666922,
+  "lng": -107.991707,
+  "coord_aprox": true
  },
  {
   "n": 10,
@@ -124,7 +145,10 @@
    "PR13",
    "PR12"
   ],
-  "fuente_texto": "PR13 (Jamaicans.com, 2023), PR12 (Jamaica Gleaner, 11-feb-2026)"
+  "fuente_texto": "PR13 (Jamaicans.com, 2023), PR12 (Jamaica Gleaner, 11-feb-2026)",
+  "lat": 18.1850507,
+  "lng": -77.3947693,
+  "coord_aprox": true
  },
  {
   "n": 11,
@@ -137,7 +161,10 @@
    "PR25",
    "PR26"
   ],
-  "fuente_texto": "PR25 (Travel Trade Caribbean, s. f.), PR26 (Tribuna de La Habana, 21-jul-2024)"
+  "fuente_texto": "PR25 (Travel Trade Caribbean, s. f.), PR26 (Tribuna de La Habana, 21-jul-2024)",
+  "lat": 23.0131338,
+  "lng": -80.8328748,
+  "coord_aprox": true
  },
  {
   "n": 12,
@@ -149,7 +176,10 @@
   "fuentes": [
    "PR10"
   ],
-  "fuente_texto": "PR10 (La Nación, 12-ago-2019)"
+  "fuente_texto": "PR10 (La Nación, 12-ago-2019)",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "n": 13,
@@ -162,7 +192,10 @@
    "PR2",
    "PR3"
   ],
-  "fuente_texto": "PR2 (IG, 27-nov-2025), PR3 (IG, 10-dic-2025)"
+  "fuente_texto": "PR2 (IG, 27-nov-2025), PR3 (IG, 10-dic-2025)",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "n": 14,
@@ -174,7 +207,10 @@
   "fuentes": [
    "PR4"
   ],
-  "fuente_texto": "PR4 (Área Cúcuta, 2018)"
+  "fuente_texto": "PR4 (Área Cúcuta, 2018)",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "n": 15,
@@ -186,7 +222,10 @@
   "fuentes": [
    "PR8"
   ],
-  "fuente_texto": "PR8 (fuga.gov.co, s. f.)"
+  "fuente_texto": "PR8 (fuga.gov.co, s. f.)",
+  "lat": 4.099917,
+  "lng": -72.9088133,
+  "coord_aprox": true
  },
  {
   "n": 16,
@@ -199,7 +238,10 @@
    "PR24",
    "PR21"
   ],
-  "fuente_texto": "PR24 (LCIS, 2007), PR21 (Ian Stephen, s. f.)"
+  "fuente_texto": "PR24 (LCIS, 2007), PR21 (Ian Stephen, s. f.)",
+  "lat": 54.7023545,
+  "lng": -3.2765753,
+  "coord_aprox": true
  },
  {
   "n": 17,
@@ -213,7 +255,10 @@
    "PR18",
    "PR27"
   ],
-  "fuente_texto": "PR32 (Wikipedia, s. f.), PR18 (Public Libraries News, oct-2013), PR27 (University of Derby, s. f.)"
+  "fuente_texto": "PR32 (Wikipedia, s. f.), PR18 (Public Libraries News, oct-2013), PR27 (University of Derby, s. f.)",
+  "lat": 54.7023545,
+  "lng": -3.2765753,
+  "coord_aprox": true
  },
  {
   "n": 18,
@@ -226,7 +271,10 @@
    "PR19",
    "PR31"
   ],
-  "fuente_texto": "PR19 (Rhön-Rennsteig-Sparkasse, 24-nov-2017), PR31 (Wikipedia, s. f.)"
+  "fuente_texto": "PR19 (Rhön-Rennsteig-Sparkasse, 24-nov-2017), PR31 (Wikipedia, s. f.)",
+  "lat": 51.1638175,
+  "lng": 10.4478313,
+  "coord_aprox": true
  },
  {
   "n": 19,
@@ -239,7 +287,10 @@
    "PR5",
    "PR28"
   ],
-  "fuente_texto": "PR5 (Brittle Paper, abr-2025), PR28 (Vanguard, 7-oct-2025)"
+  "fuente_texto": "PR5 (Brittle Paper, abr-2025), PR28 (Vanguard, 7-oct-2025)",
+  "lat": 9.6000359,
+  "lng": 7.9999721,
+  "coord_aprox": true
  },
  {
   "n": 20,
@@ -252,6 +303,9 @@
    "PR7",
    "R3"
   ],
-  "fuente_texto": "PR7 (Estandarte, 2010), R3"
+  "fuente_texto": "PR7 (Estandarte, 2010), R3",
+  "lat": 39.3260685,
+  "lng": -4.8379791,
+  "coord_aprox": true
  }
 ]

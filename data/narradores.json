@@ -3,1008 +3,1512 @@
   "nombre": "Juan Madrigal (Juan Cuentacuentos)",
   "localidad": "Alajuela",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.4523317,
+  "lng": -84.4663284,
+  "coord_aprox": true
  },
  {
   "nombre": "José Martínez",
   "localidad": "Alajuela",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.4523317,
+  "lng": -84.4663284,
+  "coord_aprox": true
  },
  {
   "nombre": "Monito Cuentacuentos (Fabian Campos Chavarria)",
   "localidad": "Barba – Heredia",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.0124415,
+  "lng": -84.1164503,
+  "coord_aprox": true
  },
  {
   "nombre": "Jeff Cuentero",
   "localidad": "Heredia",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "coord_aprox": true
  },
  {
   "nombre": "Lilliam Ocampo (Liliacuentista)",
   "localidad": "Heredia",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "coord_aprox": true
  },
  {
   "nombre": "Xavier Sánchez Aguilar (Xavi Cuentero)",
   "localidad": "Heredia",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "coord_aprox": true
  },
  {
   "nombre": "Yanuri Villalobos",
   "localidad": "Heredia",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "coord_aprox": true
  },
  {
   "nombre": "Luis Fernando Barrantes (El abuelo cuentacuentos)",
   "localidad": "Nicoya, Guanacaste",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.103348,
+  "lng": -85.4152942,
+  "coord_aprox": true
  },
  {
   "nombre": "Beto Castillo",
   "localidad": "Palmares, Alajuela",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.046546,
+  "lng": -84.4355799,
+  "coord_aprox": true
  },
  {
   "nombre": "Wílmer Oconitrillo Cuentacuentos",
   "localidad": "Palmares, Alajuela",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.046546,
+  "lng": -84.4355799,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana Coralia Fernández",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana Victoria Garro",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Carlos Rubio",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Erick Vega (Erick cuentacuentos)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Fernando Franco León (Francocuentos)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Grupo Cuentofag@s (Daniel Alvarado, Inti Barrantes, Maricruz Campos)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Gustavo Peláez Sierra (El niño Peláez)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Maracatú Cuentacuentos (Michael Navarro y Nidia Valverde)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Mercedes Castro (Efimera Cuentacuentos)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "NarrArte UCR (Fernando Franco, Mario Baldizón, Felipe Bonilla, Jeff Hernández, Jorge Polanco, Giovanni Castillo y Michael Navarro)",
   "localidad": "San José y San Pedro",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.1405928,
+  "lng": -84.3190822,
+  "coord_aprox": true
  },
  {
   "nombre": "Óscar Contreras (Cantacuentos)",
   "localidad": "San José (Pavas)",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9531476,
+  "lng": -84.1474119,
+  "coord_aprox": true
  },
  {
   "nombre": "Tere Borge (CuentaQUEteCUENTO)",
   "localidad": "San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "coord_aprox": true
  },
  {
   "nombre": "Inticuentero",
   "localidad": "San Pedro de Montes de Oca, San José",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 9.9363792,
+  "lng": -84.0508272,
+  "coord_aprox": true
  },
  {
   "nombre": "Eyder Fonseca Sánchez",
   "localidad": "Siquirres, Limón",
   "pais": "Costa Rica",
-  "memoria": false
+  "memoria": false,
+  "lat": 10.1493599,
+  "lng": -83.4815563,
+  "coord_aprox": true
  },
  {
   "nombre": "Edgardo Ariel Epherra",
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "coord_aprox": true
  },
  {
   "nombre": "Maryta Berenguer",
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "coord_aprox": true
  },
  {
   "nombre": "Norberto Del Prado",
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "coord_aprox": true
  },
  {
   "nombre": "Teresa Prost",
   "localidad": "Bahía Blanca",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "coord_aprox": true
  },
  {
   "nombre": "Mabel Cosenza",
   "localidad": "Banfield (B.A.)",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.7346499,
+  "lng": -58.4176479,
+  "coord_aprox": true
  },
  {
   "nombre": "Cris Bonaudi",
   "localidad": "Bernal",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.7175436,
+  "lng": -58.3001472,
+  "coord_aprox": true
  },
  {
   "nombre": "Alejandra Alliende",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Alejandra del Bueno",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Alejandra Parets",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Alicia Tamburini (Déjame que te cuente)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Amalia Flores",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Anabelle Castaño",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana Cuevas Unamuno",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana María Cherñak",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana María Oddo",
   "localidad": "Buenos Aires – Castelar",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6550873,
+  "lng": -58.6341586,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana Padovani",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Andrea Blawdziewicz (Storyteller)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Andrea Martinoli",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Bazar de cuentos",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Beatriz Dasso (Déjame que te cuente)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Beatriz Mónaco",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Belén Torras",
   "localidad": "Buenos Aires – Ramos Mejía",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6662906,
+  "lng": -58.5591447,
+  "coord_aprox": true
  },
  {
   "nombre": "Betty Ferkel",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Canela Sarasvati",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Cantabuelas San Martín (Andrea Felsenthal — coordinadora —, Graciela María Amelio, Deolinda Sersosimo, Nancy Riveros, Elena Espinosa, Norma Fernández, Marta)",
   "localidad": "Buenos Aires – San Martín",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6053362,
+  "lng": -58.3741267,
+  "coord_aprox": true
  },
  {
   "nombre": "Carlos Caparulo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Carlos Cocciolo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Carlos Maps",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Ciela Asad",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Claudia Macchi",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Claudia Stella",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Claudio Ledesma (Círculo de cuentacuentos)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Claudio Pansera",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Cuento Rodado (Ana María de Diego, Susana Kowal, Beatriz Massolo, Romina Pietrantuono, Liliana Plos, Ana María Pochet, Alicia Siaba de Bravo)",
   "localidad": "Buenos Aires – Ramos Mejía",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6662906,
+  "lng": -58.5591447,
+  "coord_aprox": true
  },
  {
   "nombre": "Cuentos y Encuentros",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Darwin Caballero",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Déjame que te cuente (Sara Lemos, Alicia Tamburini, Renée Tranzillo, Beatriz Dasso, Gabriela Rodríguez y Leticia Loray)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Eliana Bratok",
   "localidad": "Buenos Aires – Florencio Varela",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.7907373,
+  "lng": -58.291223,
+  "coord_aprox": true
  },
  {
   "nombre": "Elizabeth Gothelf",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Elva Marinangeli",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Enrique Argumedo Franco",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Fer Narradora (María Fernanda Gómez)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Fernando Cárdenas",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Gabriela Villano",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Geraldina Rayo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Geraldine Ricau",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Giselle Rataus",
   "localidad": "Buenos Aires – Quilmes",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.7341623,
+  "lng": -58.2578345,
+  "coord_aprox": true
  },
  {
   "nombre": "Gabriela Rodríguez (Déjame que te cuente)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Graciela Deza",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Graciela Sarcone",
   "localidad": "Buenos Aires – Olivos",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.5027003,
+  "lng": -58.4780035,
+  "coord_aprox": true
  },
  {
   "nombre": "Gustavo Trillo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Hugo Corrias",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Inés Grimland",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Jorge Navarra",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Juan Ignacio Jafella",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Juanjo Decuzzi",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Karina R. García",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "La Luna, Compañía de cuentos (Fer Narradora – Erika Brandauer)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Leticia Loray (Déjame que te cuente)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Las cuentandantes (Juliana Bourbon, Daniela Magnone)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Lili Meier",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Liliana Bonel",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Lily Davila",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Lisi Amondarain",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Lobito Cuentacuentos (Diego Lobo)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Los Palabreros",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Marcela Ganapol",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Mª Fernanda Gutiérrez (Caminandocuentos)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Margarita Caffatti Rizzo (Por qué contamos)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "María Héguiz",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Marita Von Saltzen",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Marta Grzina (Valijita cuentera)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Marta Lamare",
   "localidad": "Buenos Aires – Burzaco",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.8218997,
+  "lng": -58.3649419,
+  "coord_aprox": true
  },
  {
   "nombre": "Marta Lorente",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Marta Millicay",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Matilde Machiavello (Matu Storyteller)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Norma Lugo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Olga Walter",
   "localidad": "Buenos Aires – Adrogué",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.8650526,
+  "lng": -58.419292,
+  "coord_aprox": true
  },
  {
   "nombre": "Pal' Abrazo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Patricia Laura Deandreis",
   "localidad": "Buenos Aires – San Isidro",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.4737152,
+  "lng": -58.5316915,
+  "coord_aprox": true
  },
  {
   "nombre": "Patricia Orr",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Paula Martin",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Pedro Parcet",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Renée Tranzillo (Déjame que te cuente)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Raúl Cuevas",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Ricardo Muriel",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Sara Lemos (Déjame que te cuente)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Sergio Bonomo",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Silvia De Cesare",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Silvia Finder Gam",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Verdevioleta Cuentos (Laura Finguer – Silvina Mennuti)",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Verónica Alvarez Rivera",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Vivi García",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "Inés Bombara",
   "localidad": "Castelar",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6555638,
+  "lng": -58.6425128,
+  "coord_aprox": true
  },
  {
   "nombre": "Ale Oliver Gulle (CuentoPalabra)",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana Rosa Ortiz (Princesa Cuentera)",
   "localidad": "Córdoba, Capilla del Monte",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -30.8571148,
+  "lng": -64.5345694,
+  "coord_aprox": true
  },
  {
   "nombre": "Eduardo Chaves (CuentoPalabra)",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Estela Gadea Leiguarda (Toity)",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Nora Maretto",
   "localidad": "Córdoba, Porteña",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.0143387,
+  "lng": -62.0675904,
+  "coord_aprox": true
  },
  {
   "nombre": "Rubén López",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Silvia Beresovsky",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Sole Rebelles",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Vilma Novick Freyre",
   "localidad": "Córdoba",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "coord_aprox": true
  },
  {
   "nombre": "Marta Mensa",
   "localidad": "Don Torcuato",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.4886587,
+  "lng": -58.6266492,
+  "coord_aprox": true
  },
  {
   "nombre": "Liliana Reinoso",
   "localidad": "General Pico – La Pampa",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -35.6611759,
+  "lng": -63.7545473,
+  "coord_aprox": true
  },
  {
   "nombre": "Verónica Basualdo",
   "localidad": "Ingeniero Maschwitz",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.3829548,
+  "lng": -58.7363667,
+  "coord_aprox": true
  },
  {
   "nombre": "Sembradores de Historias",
   "localidad": "Laferrere, La Matanza, B. Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.7506177,
+  "lng": -58.584369,
+  "coord_aprox": true
  },
  {
   "nombre": "Carolina Espinosa",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Gazel Zayad",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Gustavo Bonifetto",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Isabel Fraire",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Laura Dippolito",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Mónica Elicabe Urriol (Cuentoencuentro La Plata)",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Roxi Drucker",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Teresita Bustos",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Adelina Gallotti (De caminos y de cuentos)",
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "coord_aprox": true
  },
  {
   "nombre": "Adriana Leiss (Ilustracuentos)",
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "coord_aprox": true
  },
  {
   "nombre": "Juliana Mazza (De caminos y de cuentos)",
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "coord_aprox": true
  },
  {
   "nombre": "Silvia Ferragine",
   "localidad": "Mar del Plata, Bs. Aires",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "coord_aprox": true
  },
  {
   "nombre": "Marina Castilla (Club de Narradores)",
   "localidad": "Mendoza",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.5970325,
+  "lng": -68.7304797,
+  "coord_aprox": true
  },
  {
   "nombre": "Grupo Picardías",
   "localidad": "Neuquén – Patagonia",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.9512402,
+  "lng": -68.0241974,
+  "coord_aprox": true
  },
  {
   "nombre": "Ileana Panelo",
   "localidad": "Neuquén – Patagonia",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.9512402,
+  "lng": -68.0241974,
+  "coord_aprox": true
  },
  {
   "nombre": "Lili Jovanovich",
   "localidad": "Neuquén – Patagonia",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -38.9512402,
+  "lng": -68.0241974,
+  "coord_aprox": true
  },
  {
   "nombre": "Edgardo Franzetti",
   "localidad": "Pinamar",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -37.1099492,
+  "lng": -56.8539007,
+  "coord_aprox": true
  },
  {
   "nombre": "Ramón Farías",
   "localidad": "Presidencia Roque Sáenz Peña, Chaco",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -26.7909701,
+  "lng": -60.441295,
+  "coord_aprox": true
  },
  {
   "nombre": "Cuentacuenteras (Ines Strizzi – Fabiana Burgos – Elizabeth Molino)",
   "localidad": "Realicó – La Pampa",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -35.0365537,
+  "lng": -64.2455941,
+  "coord_aprox": true
  },
  {
   "nombre": "Abuelas Cuentacuentos (Fundación Mempo Giardinelli)",
   "localidad": "Resistencia, Chaco",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -27.6048829,
+  "lng": -59.1932003,
+  "coord_aprox": true
  },
  {
   "nombre": "Adriana Felicia (Sarna con gusto)",
   "localidad": "Rosario",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "coord_aprox": true
  },
  {
   "nombre": "Ana Cao (Las Cuenta cuentos)",
   "localidad": "Rosario",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "coord_aprox": true
  },
  {
   "nombre": "Don Abulico Bienes",
   "localidad": "Rosario",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "coord_aprox": true
  },
  {
   "nombre": "Melina Pezzoto (NarraenDo)",
   "localidad": "Rosario",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "coord_aprox": true
  },
  {
   "nombre": "Teresita Igon (Las Cuentacuentos)",
   "localidad": "Rosario",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "coord_aprox": true
  },
  {
   "nombre": "Mariela de la Sota (Marukacuentos)",
   "localidad": "San Fernando",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.4471919,
+  "lng": -58.5701505,
+  "coord_aprox": true
  },
  {
   "nombre": "Alicia Barberis",
   "localidad": "Santa Fe",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -30.3154739,
+  "lng": -61.1645076,
+  "coord_aprox": true
  },
  {
   "nombre": "Marcela Sabio (Puro Cuento)",
   "localidad": "Santa Fe",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -30.3154739,
+  "lng": -61.1645076,
+  "coord_aprox": true
  },
  {
   "nombre": "Oscar Nemeth (El Organillero Cuentacuentos)",
   "localidad": "San Fernando del Valle de Catamarca",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -28.4688806,
+  "lng": -65.7790642,
+  "coord_aprox": true
  },
  {
   "nombre": "Fabiana Polenta (Compañía Tricletas)",
   "localidad": "Trenque Lauquen",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -35.9731074,
+  "lng": -62.7328794,
+  "coord_aprox": true
  },
  {
   "nombre": "Anyela Cuéllar (Pintapalabras)",
   "localidad": "Viedma",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -40.8084274,
+  "lng": -62.994722,
+  "coord_aprox": true
  },
  {
   "nombre": "Alicia Perrig",
   "localidad": "Villa María",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -32.4106245,
+  "lng": -63.2435809,
+  "coord_aprox": true
  },
  {
   "nombre": "Graciela Monge",
   "localidad": "Wilde",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -34.6984264,
+  "lng": -58.314592,
+  "coord_aprox": true
  },
  {
   "nombre": "Norma Aparicio",
   "localidad": "Yerba Buena – Tucumán",
   "pais": "Argentina",
-  "memoria": false
+  "memoria": false,
+  "lat": -26.816501,
+  "lng": -65.2703379,
+  "coord_aprox": true
  },
  {
   "nombre": "Haydée Guzmán",
   "localidad": "La Plata",
   "pais": "Argentina",
-  "memoria": true
+  "memoria": true,
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "coord_aprox": true
  },
  {
   "nombre": "Alicia Mesa Garbín",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": true
+  "memoria": true,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  },
  {
   "nombre": "María Rita Joga",
   "localidad": "Buenos Aires",
   "pais": "Argentina",
-  "memoria": true
+  "memoria": true,
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "coord_aprox": true
  }
 ]

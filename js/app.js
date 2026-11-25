@@ -42,7 +42,7 @@
     return "";
   }
 
-  let map, worldLayer, adminLayer, mythLayer;
+  let map, worldLayer, adminLayer, mythLayer, narrLayer, premLayer, librLayer;
 
   // ---------- carga de datos ----------
   async function loadJSON(path) {
@@ -180,6 +180,36 @@
     return parts.join("");
   }
 
+  function narratorPopup(n) {
+    const parts = [];
+    parts.push(`<h4>${esc(n.nombre)}</h4>`);
+    parts.push(`<div>${esc(n.localidad || "")}${n.localidad && n.pais ? " · " : ""}${esc(n.pais || "")}</div>`);
+    if (n.memoria) parts.push(`<div>${t("in_memoriam")}</div>`);
+    parts.push(`<div class="aprox">${t("approx_general")}</div>`);
+    parts.push(`<div><a href="narradores.html">${t("nav_narradores")}</a></div>`);
+    return parts.join("");
+  }
+
+  function premioPopup(p) {
+    const parts = [];
+    parts.push(`<h4>${esc(p.nombre)}</h4>`);
+    if (p.organizador) parts.push(`<div>${esc(p.organizador)}</div>`);
+    parts.push(`<div>${esc(p.pais_ambito || "")}${p.anios ? " · " + esc(p.anios) : ""}</div>`);
+    parts.push(`<div class="aprox">${t("approx_general")}</div>`);
+    parts.push(`<div><a href="premios.html">${t("nav_premios")}</a></div>`);
+    return parts.join("");
+  }
+
+  function libroPopup(l) {
+    const parts = [];
+    parts.push(`<h4>${esc(l.titulo)}</h4>`);
+    parts.push(`<div>${esc(l.autor || "")}${l.anio ? " · " + l.anio : ""}</div>`);
+    if (l.pais) parts.push(`<div>${esc(l.pais)}</div>`);
+    parts.push(`<div class="aprox">${t("approx_general")}</div>`);
+    parts.push(`<div><a href="biblioteca.html">${t("nav_libros")}</a></div>`);
+    return parts.join("");
+  }
+
   function initMap() {
     if (!$("map")) return;
     if (typeof L === "undefined") throw new Error("Leaflet no cargó (CDN no disponible)");
@@ -191,6 +221,9 @@
     worldLayer = L.layerGroup().addTo(map);
     adminLayer = L.layerGroup().addTo(map);
     mythLayer = L.layerGroup(); // apagada por defecto: solo se añade con el interruptor
+    narrLayer = L.layerGroup();
+    premLayer = L.layerGroup();
+    librLayer = L.layerGroup();
 
     refreshMarkers();
     // Vista inicial: encuadrar los marcadores (el zoom 2 dejaba 2/3 del mapa en gris)
@@ -223,11 +256,27 @@
     return { world, col };
   }
 
+  // Capas nuevas (24-nov-2026): narradores, premios y libros NOE.
+  // Solo aparecen con su interruptor; el filtro de país también las filtra.
+  function layersFiltered() {
+    const country = $("filter-country").value;
+    const showN = $("toggle-narradores") && $("toggle-narradores").checked;
+    const showP = $("toggle-premios") && $("toggle-premios").checked;
+    const showL = $("toggle-libros") && $("toggle-libros").checked;
+    const narr = showN ? (DATA.narradores || []).filter(n => n.lat != null && (country === "all" || n.pais === country)) : [];
+    const prem = showP ? (DATA.premios || []).filter(p => p.lat != null && (country === "all" || p.pais_ambito === country)) : [];
+    const libr = showL ? (DATA.libros || []).filter(l => l.lat != null && (country === "all" || l.pais === country)) : [];
+    return { narr, prem, libr };
+  }
+
   function refreshMarkers() {
     if (!map) return;
     worldLayer.clearLayers();
     adminLayer.clearLayers();
     mythLayer.clearLayers();
+    narrLayer.clearLayers();
+    premLayer.clearLayers();
+    librLayer.clearLayers();
     const { world, col } = markersFiltered();
     world.forEach(f => {
       if (f.administrador) {
@@ -242,7 +291,20 @@
       L.marker([c.lat, c.lng], { icon: dotIcon("#F89C1C", c.coord_aprox) })
         .bindPopup(colombiaPopup(c)).addTo(worldLayer);
     });
-    const n = world.length + col.length;
+    const { narr, prem, libr } = layersFiltered();
+    narr.forEach(n => {
+      L.marker([n.lat, n.lng], { icon: dotIcon("#2E86AB", n.coord_aprox) }).bindPopup(narratorPopup(n)).addTo(narrLayer);
+    });
+    prem.forEach(p => {
+      L.marker([p.lat, p.lng], { icon: dotIcon("#D4A017", p.coord_aprox) }).bindPopup(premioPopup(p)).addTo(premLayer);
+    });
+    libr.forEach(l => {
+      L.marker([l.lat, l.lng], { icon: dotIcon("#7B5EA7", l.coord_aprox) }).bindPopup(libroPopup(l)).addTo(librLayer);
+    });
+    if ($("toggle-narradores") && $("toggle-narradores").checked) narrLayer.addTo(map); else map.removeLayer(narrLayer);
+    if ($("toggle-premios") && $("toggle-premios").checked) premLayer.addTo(map); else map.removeLayer(premLayer);
+    if ($("toggle-libros") && $("toggle-libros").checked) librLayer.addTo(map); else map.removeLayer(librLayer);
+    const n = world.length + col.length + narr.length + prem.length + libr.length;
     const unfiltered = $("filter-country").value === "all" && $("filter-status").value === "all" && $("toggle-world").checked;
     let sinUbi = 0;
     if (unfiltered) {
@@ -279,7 +341,7 @@
         oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
       }
     });
-    ["filter-country", "filter-status", "toggle-world", "toggle-miticos"].forEach(id => {
+    ["filter-country", "filter-status", "toggle-world", "toggle-miticos", "toggle-narradores", "toggle-premios", "toggle-libros"].forEach(id => {
       const elM = $(id);
       if (elM) elM.addEventListener("change", refreshMarkers);
     });
