@@ -694,5 +694,17 @@
     // el popup del administrador se reconstruye al reabrirse; nada más que hacer
   }
 
+  /* Clic en el logo: recarga la página (25-nov-2026) */
+  document.addEventListener("DOMContentLoaded", function () {
+    var brand = document.querySelector(".brand");
+    if (!brand) return;
+    brand.addEventListener("click", function (e) {
+      var p = window.location.pathname;
+      if (p.endsWith("/") || p.endsWith("index.html")) {
+        e.preventDefault();
+        window.location.reload();
+      }
+    });
+  });
   document.addEventListener("DOMContentLoaded", init);
 })();
