@@ -1,1 +1,29 @@
-{"_como_anadir":"Cada noticia: titulo, fecha (AAAA-MM-DD), autor (narrador o festival), resumen corto, enlace a la fuente original publica y fuente (nombre del medio). Solo noticias verificadas con fuente publica y fecha. Sin items, la seccion muestra 'Aun no hay noticias publicadas'. Fase 2 (con login, Sol 95): las personas narradoras publican desde sus cuentas, con moderacion segun los criterios publicados (Sol 99).","items":[]}
+{
+ "_como_anadir": "Cada noticia: titulo, fecha (AAAA-MM-DD), autor (narrador o festival), resumen corto, enlace a la fuente original publica y fuente (nombre del medio). Solo noticias verificadas con fuente publica y fecha. Sin items, la seccion muestra 'Aun no hay noticias publicadas'. Fase 2 (con login, Sol 95): las personas narradoras publican desde sus cuentas, con moderacion segun los criterios publicados (Sol 99).",
+ "items": [
+  {
+   "titulo": "Café & Chocolate Fest llevará cuentacuentos al Palacio de la Autonomía",
+   "fecha": "2026-11-25",
+   "autor": "Lorna Rocío Contreras",
+   "resumen": "El festival se realizará el 5 y 6 de diciembre de 2026 en Ciudad de México; Lorna Rocío Contreras narrará «La magia de las notas musicales» para menores de 12 años.",
+   "enlace": "https://www.infobae.com/mexico/2026/11/25/talleres-para-hacer-chocolate-catas-de-cafe-y-cuentacuentos-el-festival-gratis-que-llega-a-cdmx/",
+   "fuente": "Infobae México"
+  },
+  {
+   "titulo": "Vall de Almonacid celebrará su II Festival Nacional de Cuentacuentos",
+   "fecha": "2026-11-23",
+   "autor": "Festival Nacional de Cuentacuentos de Vall de Almonacid",
+   "resumen": "La segunda edición reunirá narradores orales del 4 al 6 de diciembre de 2026 en Vall de Almonacid, Castellón, con sesiones para público adulto y familiar.",
+   "enlace": "https://canallector.com/revista/4151-ii-festival-nacional-de-cuentacuentos-de-vall-de-almonacid",
+   "fuente": "Canal Lector"
+  },
+  {
+   "titulo": "Ananse SoundSplash 2026 celebró la herencia jamaicana con cuentos",
+   "fecha": "2026-11-10",
+   "autor": "Ntukuma, The Storytelling Foundation of Jamaica",
+   "resumen": "El festival y conferencia de narración oral se realizó en Jamaica del 14 al 20 de noviembre de 2026 bajo el tema «It's in the Soup».",
+   "enlace": "https://anansesoundsplash.com/ananse-soundsplash/",
+   "fuente": "Ananse SoundSplash"
+  }
+ ]
+}
