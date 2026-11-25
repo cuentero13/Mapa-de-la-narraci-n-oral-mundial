@@ -70,7 +70,8 @@
       Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios });
     } catch (e) {
       console.error(e);
-      $("dir-list").innerHTML = "<p>No se pudieron cargar los datos. Revisá que los archivos JSON estén en data/.</p>";
+      const dl = $("dir-list");
+      if (dl) dl.innerHTML = "<p>No se pudieron cargar los datos. Revisá que los archivos JSON estén en data/.</p>";
       return;
     }
     renderStats();
@@ -80,8 +81,8 @@
       console.error("El mapa no pudo cargar:", e);
       const m = $("map");
       if (m) m.innerHTML = `<p style="padding:2rem;text-align:center">${LANG === "es"
-        ? "El mapa no pudo cargar (revisá tu conexión). El directorio de festivales más abajo funciona igual."
-        : "The map could not load (check your connection). The festival directory below still works."}</p>`;
+        ? "El mapa no pudo cargar (revisá tu conexión). El directorio de festivales sigue disponible en su página."
+        : "The map could not load (check your connection). The festival directory is still available on its own page."}</p>`;
     }
     initFilters();
     renderDirectory();
@@ -98,6 +99,7 @@
   // Total mundial deduplicado: las fichas de mundo con pais Colombia y
   // en_colombia=true también están en la lista de Colombia (Fredy Ayala).
   function renderStats() {
+    if (!$("stat-fest")) return;
     const overlap = DATA.mundo.filter(f => f.en_colombia).length;
     $("stat-fest").textContent = DATA.mundo.length + DATA.colombia.length - overlap;
     $("stat-narr").textContent = DATA.narradores.length;
@@ -159,7 +161,7 @@
     if (citaF) parts.push(citaF);
     const dupF = dupHtml(f);
     if (dupF) parts.push(dupF);
-    parts.push(`<div><a href="#dir-${f.id}">${t("dir_title")}</a></div>`);
+    parts.push(`<div><a href="directorio.html#dir-${f.id}">${t("dir_title")}</a></div>`);
     return parts.join("");
   }
 
@@ -179,6 +181,7 @@
   }
 
   function initMap() {
+    if (!$("map")) return;
     if (typeof L === "undefined") throw new Error("Leaflet no cargó (CDN no disponible)");
     map = L.map("map").setView([20, -30], 2);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -255,6 +258,7 @@
     const countries = [...new Set(DATA.mundo.map(f => f.pais))].sort((a, b) => a.localeCompare(b, "es"));
     ["filter-country", "dir-country"].forEach(id => {
       const sel = $(id);
+      if (!sel) return;
       countries.forEach(p => {
         const o = document.createElement("option");
         o.value = p; o.textContent = p; sel.appendChild(o);
@@ -263,11 +267,15 @@
       oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
     });
     ["filter-country", "filter-status", "toggle-world", "toggle-miticos"].forEach(id => {
-      $(id).addEventListener("change", refreshMarkers);
+      const elM = $(id);
+      if (elM) elM.addEventListener("change", refreshMarkers);
     });
     ["dir-search", "dir-country", "dir-status"].forEach(id => {
-      $(id).addEventListener("input", renderDirectory);
-      $(id).addEventListener("change", renderDirectory);
+      const elD = $(id);
+      if (elD) {
+        elD.addEventListener("input", renderDirectory);
+        elD.addEventListener("change", renderDirectory);
+      }
     });
   }
 
@@ -311,6 +319,7 @@
   // Colombia (filas breves, mismo listado, sin sección propia). Las 11
   // fichas de Colombia duplicadas en mundo no se repiten.
   function renderDirectory() {
+    if (!$("dir-list")) return;
     const q = norm($("dir-search").value.trim());
     const country = $("dir-country").value;
     const status = $("dir-status").value;
@@ -338,6 +347,10 @@
     $("dir-list").innerHTML = (cards || cols)
       ? cards + cols
       : `<p>${t("no_results")}</p>`;
+    if (location.hash.startsWith("#dir-")) {
+      const target = document.querySelector(location.hash);
+      if (target) target.scrollIntoView();
+    }
   }
 
   function colItem(c) {
@@ -355,7 +368,9 @@
 
   // ---------- menciones ----------
   function renderMentions() {
-    $("mentions-list").innerHTML = DATA.menciones.map(m => {
+    const el = $("mentions-list");
+    if (!el) return;
+    el.innerHTML = DATA.menciones.map(m => {
       const src = (m.fuentes || []).map(u => ` <a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, "").split("/")[0])}</a>`).join("");
       return `<li><strong>${esc(m.nombre)}</strong> (${esc(m.lugar)}): ${esc(m.nota || "")}${src}</li>`;
     }).join("");
@@ -363,6 +378,7 @@
 
   // ---------- narradores ----------
   function renderNarrators() {
+    if (!$("narr-cr")) return;
     const cr = DATA.narradores.filter(n => n.pais === "Costa Rica");
     const ar = DATA.narradores.filter(n => n.pais === "Argentina");
     $("narr-cr-count").textContent = cr.length;
@@ -374,6 +390,7 @@
 
   // ---------- libros ----------
   function renderBooks() {
+    if (!$("books-list")) return;
     const order = [];
     const byAuthor = {};
     DATA.libros.forEach(b => {
@@ -397,6 +414,7 @@
 
   // ---------- prensa ----------
   function renderPress() {
+    if (!$("press-list")) return;
     $("press-list").innerHTML = DATA.prensa.map(a => {
       const fecha = a.fecha ? esc(a.fecha) : t("date_unverified");
       const fechaTag = a.fecha_verificada ? "" : ` <span class="tag-unverified">${t("unverified_tag")}</span>`;

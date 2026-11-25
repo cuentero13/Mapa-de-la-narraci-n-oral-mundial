@@ -286,3 +286,57 @@ footer {
   .topnav a { padding: .65rem .25rem; border-bottom: 1px solid var(--border); }
   .topnav a:last-child { border-bottom: 0; }
 }
+
+/* ---------- Overflow horizontal: sin espacio vacío a la derecha ---------- */
+img, video { max-width: 100%; }
+.fest-grid > *, .press-grid > *, .col-list > * { min-width: 0; }
+.fest-fields dd { overflow-wrap: anywhere; min-width: 0; }
+.fest-card a, .fest-sources a, .fest-cita a, .col-media a, .fest-meta { overflow-wrap: anywhere; }
+
+/* ---------- Logo interactivo + plataforma vibrante (como cuento) ---------- */
+@keyframes wiggle { 0%,100% { transform: rotate(0deg) scale(1); } 25% { transform: rotate(-3deg) scale(1.04); } 75% { transform: rotate(3deg) scale(1.04); } }
+@keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+.brand-logo, .hero-logo, .admin-logo { transition: transform .3s ease; }
+.brand-logo:hover, .admin-logo:hover { animation: wiggle .5s ease-in-out; }
+.hero-logo { animation: floaty 5s ease-in-out infinite; }
+.hero-logo:hover { animation: wiggle .5s ease-in-out; }
+.hero { position: relative; overflow: hidden; background: linear-gradient(180deg, #F4F9E8 0%, #FFFBEA 55%, #fff 100%); }
+.hero-deco { position: absolute; inset: 0; pointer-events: none; }
+.deco { position: absolute; opacity: .55; animation: floaty 6s ease-in-out infinite; }
+.deco-star { width: 26px; height: 26px; fill: var(--amber); }
+.deco-star:nth-of-type(2) { width: 20px; height: 20px; fill: var(--orange); animation-delay: 1.2s; }
+.deco-dot { width: 14px; height: 14px; fill: var(--celeste); animation-delay: .6s; }
+.deco-dot:nth-of-type(4) { width: 11px; height: 11px; fill: var(--lime); animation-delay: 1.8s; }
+.deco-book { width: 52px; height: 36px; fill: var(--orange); opacity: .4; animation-delay: 2.4s; }
+
+/* Barras de color en los títulos (una por sección, como cuento) */
+.section h2, .page-hero h1 { position: relative; padding-bottom: .45rem; }
+.section h2::after, .page-hero h1::after { content: ""; display: block; width: 64px; height: 4px; border-radius: 2px; background: var(--lime); margin-top: .45rem; }
+#directorio h2::after, .page-directorio .page-hero h1::after { background: var(--orange); }
+#ranking h2::after, .page-ranking .page-hero h1::after { background: var(--celeste); }
+#narradores h2::after, .page-narradores .page-hero h1::after { background: var(--amber); }
+#historia-noe h2::after, .page-historia .page-hero h1::after { background: var(--red); }
+#biblioteca-noe h2::after, .page-biblioteca .page-hero h1::after { background: var(--blue); }
+#prensa h2::after, .page-prensa .page-hero h1::after { background: var(--lime); }
+#premios h2::after, .page-premios .page-hero h1::after { background: var(--amber); }
+#explorar h2::after { background: var(--orange); }
+
+/* Tarjetas que responden al tacto */
+.fest-card, .press-card { transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease; }
+.fest-card:hover, .press-card:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,.08); }
+.btn { transition: transform .2s ease, background .2s ease; }
+.btn:hover { transform: scale(1.03); }
+.link-card { display: flex; flex-direction: column; gap: .3rem; color: inherit; }
+.link-card:hover { text-decoration: none; }
+.link-card h3 { margin: 0; }
+.link-card p { margin: 0; font-size: .92rem; }
+.link-emoji { font-size: 2rem; line-height: 1; }
+.link-arrow { margin-top: auto; padding-top: .4rem; font-size: 1.3rem; color: var(--lime); font-weight: 700; }
+
+@media (max-width: 720px) {
+  .deco-book { display: none; }
+  .deco-star { width: 20px; height: 20px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .deco, .hero-logo, .brand-logo:hover, .admin-logo:hover, .hero-logo:hover { animation: none !important; }
+}
