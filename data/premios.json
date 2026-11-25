@@ -1,0 +1,257 @@
+[
+ {
+  "n": 1,
+  "nombre": "ORACLE Awards",
+  "organizador": "National Storytelling Network (NSN)",
+  "pais_ambito": "EE. UU.",
+  "anios": "Desde 1995, vigente (nominaciones 2027: 10-nov-2026–10-ene-2027)",
+  "reconoce": "Trayectoria y servicio a la narración oral: Lifetime Achievement; Circle of Excellence; Regional Excellence (2011–2022, discontinuado); Distinguished National Service; Service and Leadership; Talking Leaves; International Story Bridge.",
+  "fuentes": [
+   "PR16"
+  ],
+  "fuente_texto": "PR16 (storynet.org, s. f.) — verificado en vivo: página oficial + lista de premiados 1995–2024 («Since their inception in 1995…»)"
+ },
+ {
+  "n": 2,
+  "nombre": "Premio Iberoamericano Extraordinario «Chamán»",
+  "organizador": "CIINOE (Consejo Iberoamericano de Narración Oral Escénica)",
+  "pais_ambito": "Iberoamérica",
+  "anios": "Desde 1989 (documentado 1995–2014)",
+  "reconoce": "Aporte a la narración oral escénica iberoamericana. Laureados: Vivianne Thirión (1995), Marcela Sabio (2006), Concha de la Casa + Festival de Títeres de Bilbao (2011), María Teresa Andruetto (2014); el Ministerio de Cultura de Costa Rica lo recibió en Latinoamérica.",
+  "fuentes": [
+   "PR15",
+   "PR1",
+   "PR9"
+  ],
+  "fuente_texto": "PR15 (Letralia, 3-feb-2014), PR1 (Artezblai, 2011), PR9 (Granma, 14-nov-2014)"
+ },
+ {
+  "n": 3,
+  "nombre": "Premio Nacional Cuentería",
+  "organizador": "CIINOE",
+  "pais_ambito": "Cuba",
+  "anios": "Desde 1989, vigente (documentado 2014, 2015)",
+  "reconoce": "Trayectoria en la cuentería cubana; se entrega en la muestra «Contar con La Habana».",
+  "fuentes": [
+   "PR6",
+   "PR9"
+  ],
+  "fuente_texto": "PR6 (Cubarte, 2015), PR9 (Granma, 14-nov-2014)"
+ },
+ {
+  "n": 4,
+  "nombre": "Distinción Por la Oralidad",
+  "organizador": "CIINOE",
+  "pais_ambito": "Iberoamérica",
+  "anios": "Documentada 2011, 2014",
+  "reconoce": "Mérito en la oralidad (diploma y medalla al mérito).",
+  "fuentes": [
+   "PR11",
+   "PR9"
+  ],
+  "fuente_texto": "PR11 (INBA, 2011), PR9 (Granma, 14-nov-2014)"
+ },
+ {
+  "n": 5,
+  "nombre": "J.J. Reneaux Emerging Artist Award",
+  "organizador": "National Storytelling Network (NSN)",
+  "pais_ambito": "EE. UU.",
+  "anios": "2005–2022, bienal",
+  "reconoce": "Artistas emergentes de la narración oral; subvención de US$1.500.",
+  "fuentes": [
+   "PR17"
+  ],
+  "fuente_texto": "PR17 (storynet.org, s. f.)"
+ },
+ {
+  "n": 6,
+  "nombre": "Storytelling World Awards",
+  "organizador": "Storytelling World (revista)",
+  "pais_ambito": "EE. UU.",
+  "anios": "1996–2020 (rango acotado «al menos» — ver nota)",
+  "reconoce": "Libros y grabaciones de narración oral (premios y menciones).",
+  "fuentes": [
+   "PR23"
+  ],
+  "fuente_texto": "PR23 (storytellingworld.com, 1999)"
+ },
+ {
+  "n": 7,
+  "nombre": "National Storytelling Youth Olympics",
+  "organizador": "(organizador no identificado)",
+  "pais_ambito": "EE. UU.",
+  "anios": "Documentado 2002, 2004",
+  "reconoce": "Jóvenes narradores (competición nacional juvenil).",
+  "fuentes": [
+   "PR20",
+   "PR14"
+  ],
+  "fuente_texto": "PR20 (South Carolina Legislature, 2002), PR14 (Knowitall, s. f.)"
+ },
+ {
+  "n": 8,
+  "nombre": "Liars Contest / Golden Shovel Award (Vandalia Gathering)",
+  "organizador": "West Virginia Division of Culture and History",
+  "pais_ambito": "EE. UU.",
+  "anios": "Al menos 2006–2025, vigente",
+  "reconoce": "Mejores «mentirosos» (cuentos de embustes) del Vandalia Gathering, Charleston (Virginia Occidental).",
+  "fuentes": [
+   "PR29",
+   "PR30"
+  ],
+  "fuente_texto": "PR29 (WV Culture, 2006), PR30 (WV Tourism, 22-may-2025)"
+ },
+ {
+  "n": 9,
+  "nombre": "Helen Lavender Youth Teller Award",
+  "organizador": "Storytelling Alberta",
+  "pais_ambito": "Canadá",
+  "anios": "Desde 2014, vigente",
+  "reconoce": "Jóvenes narradores (Alberta).",
+  "fuentes": [
+   "PR22"
+  ],
+  "fuente_texto": "PR22 (storytellingalberta.com, s. f.)"
+ },
+ {
+  "n": 10,
+  "nombre": "«What's Your Story, Jamaica?»",
+  "organizador": "(concurso nacional de narración)",
+  "pais_ambito": "Jamaica",
+  "anios": "Desde 2022; 5.ª ed. 2026",
+  "reconoce": "Mejor historia narrada; primer premio J$375.000.",
+  "fuentes": [
+   "PR13",
+   "PR12"
+  ],
+  "fuente_texto": "PR13 (Jamaicans.com, 2023), PR12 (Jamaica Gleaner, 11-feb-2026)"
+ },
+ {
+  "n": 11,
+  "nombre": "Reconocimiento «El Arte de Contar»",
+  "organizador": "Teatro de la Palabra",
+  "pais_ambito": "Cuba",
+  "anios": "Documentado XI y XIV ediciones (julio 2024)",
+  "reconoce": "Narración oral en La Habana.",
+  "fuentes": [
+   "PR25",
+   "PR26"
+  ],
+  "fuente_texto": "PR25 (Travel Trade Caribbean, s. f.), PR26 (Tribuna de La Habana, 21-jul-2024)"
+ },
+ {
+  "n": 12,
+  "nombre": "Gran Encantador/a (Festival Entre Cuentos y Flores)",
+  "organizador": "Festival Entre Cuentos y Flores",
+  "pais_ambito": "Colombia",
+  "anios": "Documentado 2019",
+  "reconoce": "Mejor narrador/a del festival. 2019: Ana Coralia Fernández (Costa Rica).",
+  "fuentes": [
+   "PR10"
+  ],
+  "fuente_texto": "PR10 (La Nación, 12-ago-2019)"
+ },
+ {
+  "n": 13,
+  "nombre": "Premios Don Quijote en Cuentería",
+  "organizador": "Universidad Imaginaria de Usme (Fredy Ayala)",
+  "pais_ambito": "Colombia",
+  "anios": "Ceremonia 5-dic-2025, Bogotá",
+  "reconoce": "Cuentería (categorías por verificar). ⚠️ Fuente: solo el Instagram del organizador; sin cobertura de prensa localizada.",
+  "fuentes": [
+   "PR2",
+   "PR3"
+  ],
+  "fuente_texto": "PR2 (IG, 27-nov-2025), PR3 (IG, 10-dic-2025)"
+ },
+ {
+  "n": 14,
+  "nombre": "Encuentro Departamental Norte de Santander (premios)",
+  "organizador": "Encuentro Departamental de Narradores Orales",
+  "pais_ambito": "Colombia",
+  "anios": "Al menos hasta VIII ed. 2018",
+  "reconoce": "Mejores narradores de la región (Norte de Santander).",
+  "fuentes": [
+   "PR4"
+  ],
+  "fuente_texto": "PR4 (Área Cúcuta, 2018)"
+ },
+ {
+  "n": 15,
+  "nombre": "FUGA — Premio Circulación en Artes Vivas y Musicales (categoría Narración oral)",
+  "organizador": "Fundación Gilberto Alzate Avendaño",
+  "pais_ambito": "Colombia",
+  "anios": "Documentado 2024 (ganador: Juan Carlos Grisales)",
+  "reconoce": "Circulación en artes vivas y musicales, con categoría de narración oral.",
+  "fuentes": [
+   "PR8"
+  ],
+  "fuente_texto": "PR8 (fuga.gov.co, s. f.)"
+ },
+ {
+  "n": 16,
+  "nombre": "BASE — British Awards for Storytelling Excellence",
+  "organizador": "(organizador no identificado)",
+  "pais_ambito": "Reino Unido",
+  "anios": "2012–2013",
+  "reconoce": "Excelencia en narración oral (Reino Unido).",
+  "fuentes": [
+   "PR24",
+   "PR21"
+  ],
+  "fuente_texto": "PR24 (LCIS, 2007), PR21 (Ian Stephen, s. f.)"
+ },
+ {
+  "n": 17,
+  "nombre": "Young Storyteller of the Year",
+  "organizador": "(concurso nacional)",
+  "pais_ambito": "Reino Unido",
+  "anios": "Desde 2005; último ganador documentado: Jacob Williams (2015)",
+  "reconoce": "Joven narrador/a del año. ⚠️ La continuidad después de 2015 NO está verificada.",
+  "fuentes": [
+   "PR32",
+   "PR18",
+   "PR27"
+  ],
+  "fuente_texto": "PR32 (Wikipedia, s. f.), PR18 (Public Libraries News, oct-2013), PR27 (University of Derby, s. f.)"
+ },
+ {
+  "n": 18,
+  "nombre": "Thüringer Märchen- und Sagenpreis «Ludwig Bechstein»",
+  "organizador": "Ciudad de Meiningen / Sparkasse (Turingia)",
+  "pais_ambito": "Alemania",
+  "anios": "Desde 2001, bienal, vigente (2026: Antje Horn)",
+  "reconoce": "Investigación, cuidado y cultura de la narración de cuentos de hadas y leyendas. €2.500 + estatuilla «Sastrecillo valiente». Jan Blake (2011) fue la primera laureada anglófona.",
+  "fuentes": [
+   "PR19",
+   "PR31"
+  ],
+  "fuente_texto": "PR19 (Rhön-Rennsteig-Sparkasse, 24-nov-2017), PR31 (Wikipedia, s. f.)"
+ },
+ {
+  "n": 19,
+  "nombre": "Witsprouts Storytelling Prize",
+  "organizador": "Witsprouts Project",
+  "pais_ambito": "Nigeria",
+  "anios": "Desde 2025, vigente (ganadora inaugural: Rachel Ajisafe)",
+  "reconoce": "Narración oral (concurso de cuentos). ₦500.000.",
+  "fuentes": [
+   "PR5",
+   "PR28"
+  ],
+  "fuente_texto": "PR5 (Brittle Paper, abr-2025), PR28 (Vanguard, 7-oct-2025)"
+ },
+ {
+  "n": 20,
+  "nombre": "«Cuento en corto»",
+  "organizador": "RIC + Escuela de Escritores",
+  "pais_ambito": "España",
+  "anios": "I–II ediciones, 2010–2011",
+  "reconoce": "Narración oral en vídeo (concurso de cuentos en corto). €500 + beca de curso. Corroborado independientemente por el artículo de Páez & Montero 2011 (R3).",
+  "fuentes": [
+   "PR7",
+   "R3"
+  ],
+  "fuente_texto": "PR7 (Estandarte, 2010), R3"
+ }
+]

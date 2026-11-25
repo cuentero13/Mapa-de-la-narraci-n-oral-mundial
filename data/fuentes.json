@@ -1,0 +1,843 @@
+[
+ {
+  "key": "A1",
+  "seccion": "Ayala",
+  "apa": "Ayala Herrera, F. A. (2026). <em>Festivales de cuentería en Colombia</em> [Artefacto interactivo]. https://claude.ai/artifact/QFDAtCWNJYgfbQ6gogpYo1",
+  "apa_text": "Ayala Herrera, F. A. (2026). *Festivales de cuentería en Colombia* [Artefacto interactivo]. https://claude.ai/artifact/QFDAtCWNJYgfbQ6gogpYo1",
+  "url": "https://claude.ai/artifact/QFDAtCWNJYgfbQ6gogpYo1",
+  "cita_corta": "Ayala Herrera (2026)",
+  "cubre": "las 144 fichas de Colombia. Notas: título verificado en vivo; **el contenido exige inicio de sesión en Claude** y la plataforma advierte que es contenido generado por el usuario y no verificado. La investigación se socializó el 10-nov-2026 con el título «Festivales y Encuentros de Cuentería en Colombia: Más de 30 años de palabra y cultura» (ver A2)."
+ },
+ {
+  "key": "A2",
+  "seccion": "Ayala",
+  "apa": "Ayala, F. [@fredyayalaquijote]. (2026, 9 de noviembre). Lanzamiento «Festivales y Encuentros de Cuentería en Colombia: Más de 30 años de palabra y cultura»: Socialización de la investigación y lanzamiento del pódcast [Afiche digital]. Instagram. https://www.instagram.com/p/DfgCkP1xbGw/",
+  "apa_text": "Ayala, F. [@fredyayalaquijote]. (2026, 9 de noviembre). Lanzamiento «Festivales y Encuentros de Cuentería en Colombia: Más de 30 años de palabra y cultura»: Socialización de la investigación y lanzamiento del pódcast [Afiche digital]. Instagram. https://www.instagram.com/p/DfgCkP1xbGw/",
+  "url": "https://www.instagram.com/p/DfgCkP1xbGw/",
+  "cita_corta": "Ayala (2026)",
+  "cubre": "título del proyecto, fecha de socialización (10-nov-2026), beca de investigación en artes 2025 y apoyo de Casa de Poesía Silva. También publicado en Facebook el mismo día (https://www.facebook.com/freddy.ayala.259392/posts/pfbid022k1gFx1qJaKDR82BZZn76qTX7hcGSdZKpnCHAm6A8c5zwHR5U6fAKs8vUjyaayQTl)."
+ },
+ {
+  "key": "AC1",
+  "seccion": "Ayala (contexto)",
+  "apa": "Ayala Herrera, F. A. (2024). <em>Leteo: Una venganza estética. Proceso de creación de una obra de cuentería o pautas retóricas para emprender una vendetta en la época de la guerra en Colombia</em>. Universidad La Gran Colombia. https://repository.ugc.edu.co/server/api/core/bitstreams/3840295d-577e-4a8f-b7f4-52e7d8353f48/content",
+  "apa_text": "Ayala Herrera, F. A. (2024). *Leteo: Una venganza estética. Proceso de creación de una obra de cuentería o pautas retóricas para emprender una vendetta en la época de la guerra en Colombia*. Universidad La Gran Colombia. https://repository.ugc.edu.co/server/api/core/bitstreams/3840295d-577e-4a8f-b7f4-52e7d8353f48/content",
+  "url": "https://repository.ugc.edu.co/server/api/core/bitstreams/3840295d-577e-4a8f-b7f4-52e7d8353f48/content",
+  "cita_corta": "Ayala Herrera (2024)"
+ },
+ {
+  "key": "AC2",
+  "seccion": "Ayala (contexto)",
+  "apa": "Ayala-Herrera, F.-A. (2023). Cuentería y conflicto en Colombia: Aportes a una memoria colectiva. <em>Calle 14: Revista de investigación en el campo del arte</em>, <em>18</em>(33), 322–339. https://doi.org/10.14483/21450706.20486",
+  "apa_text": "Ayala-Herrera, F.-A. (2023). Cuentería y conflicto en Colombia: Aportes a una memoria colectiva. *Calle 14: Revista de investigación en el campo del arte*, *18*(33), 322–339. https://doi.org/10.14483/21450706.20486",
+  "url": "https://doi.org/10.14483/21450706.20486",
+  "cita_corta": "Ayala-Herrera (2023)"
+ },
+ {
+  "key": "R1",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Red Internacional de Cuentacuentos</em> [Portal web]. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Red Internacional de Cuentacuentos* [Portal web]. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/",
+  "url": "https://www.cuentacuentos.eu/",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)"
+ },
+ {
+  "key": "R2",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>FAQ de la Red Internacional de Cuentacuentos (RIC)</em>. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/faqdelaric.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *FAQ de la Red Internacional de Cuentacuentos (RIC)*. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/faqdelaric.htm",
+  "url": "https://www.cuentacuentos.eu/faqdelaric.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "qué es la RIC, objetivos, cifras (1.300+ narradores en 57 países; 180+ festivales en 25 países), dirección y coordinación (29 coordinadores listados), organismos colaboradores, canales oficiales, carácter sin ánimo de lucro y sin subvenciones."
+ },
+ {
+  "key": "R3",
+  "seccion": "RIC",
+  "apa": "Páez, E., &amp; Montero, B. (2011). El renacimiento en el arte de contar cuentos. <em>CLIJ</em>, <em>239</em>, 16–20. https://cuentacuentos.eu/teorica/articulos/EnriquePaezyBeatrizMonteroRedInternacionaldeCuentacuentos.htm",
+  "apa_text": "Páez, E., & Montero, B. (2011). El renacimiento en el arte de contar cuentos. *CLIJ*, *239*, 16–20. https://cuentacuentos.eu/teorica/articulos/EnriquePaezyBeatrizMonteroRedInternacionaldeCuentacuentos.htm",
+  "url": "https://cuentacuentos.eu/teorica/articulos/EnriquePaezyBeatrizMonteroRedInternacionaldeCuentacuentos.htm",
+  "cita_corta": "Páez & Montero (2011)",
+  "cubre": "fundación de la RIC (verano de 2009), sus impulsores (Beatriz Montero y Enrique Páez), administración desde Tenerife, los 15 coordinadores fundadores, apoyos y objetivos. Publicado por primera vez en *Revista CLIJ*, n.º 239, enero–febrero de 2011, pp. 16–20; reproducido en cuentacuentos.eu con permiso de la revista y de los autores (© Enrique Páez y Beatriz Montero, Tenerife, enero de 2011). Nota: la página no indica el nombre desarrollado de la revista; se cita como *CLIJ* tal como consta. (Verificado en vivo por el coordinador: el artículo confirma verano de 2009, Tenerife, los 15 coordinadores y «más de 800 contadores de 45 países» — cifra distinta a la de la FAQ; ver nota al final de esta sección.)"
+ },
+ {
+  "key": "R4",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Listado de cuentacuentos en Costa Rica</em>. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/narradores/paises/narracostarica.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Listado de cuentacuentos en Costa Rica*. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/narradores/paises/narracostarica.htm",
+  "url": "https://www.cuentacuentos.eu/narradores/paises/narracostarica.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "las 24 entradas de narradores de Costa Rica."
+ },
+ {
+  "key": "R5",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Listado de cuentacuentos en Argentina</em>. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/narradores/paises/narraargentina.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Listado de cuentacuentos en Argentina*. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/narradores/paises/narraargentina.htm",
+  "url": "http://cuentacuentos.eu/narradores/paises/narraargentina.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "las 141 entradas de narradores de Argentina + 3 in memoriam."
+ },
+ {
+  "key": "R6",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>CUENTOPALABRA — Festival Internacional de Narración Oral</em>. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/ArgentinaCordobaCuentoPalabra.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *CUENTOPALABRA — Festival Internacional de Narración Oral*. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/ArgentinaCordobaCuentoPalabra.htm",
+  "url": "http://cuentacuentos.eu/festivales/festcalendario/ArgentinaCordobaCuentoPalabra.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "perfil completo de CUENTOPALABRA (Colonia José María Paz, Córdoba, Argentina; desde 2001)."
+ },
+ {
+  "key": "R7",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Festival Internacional de la Oralidad de Elche</em> [20.ª edición, 2010]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/EspanaElcheFestivalOralidad2010.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Festival Internacional de la Oralidad de Elche* [20.ª edición, 2010]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/EspanaElcheFestivalOralidad2010.htm",
+  "url": "http://cuentacuentos.eu/festivales/festcalendario/EspanaElcheFestivalOralidad2010.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "perfil de Elche (20.ª edición en 2010)."
+ },
+ {
+  "key": "R8",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Festival Internacional de la Oralidad de Elche</em> [Programación 2011]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/EspanaElcheFestivalOralidad.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Festival Internacional de la Oralidad de Elche* [Programación 2011]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/EspanaElcheFestivalOralidad.htm",
+  "url": "http://cuentacuentos.eu/festivales/festcalendario/EspanaElcheFestivalOralidad.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "programación de Elche 2011. (R7 y R8 comparten título; se distinguen con la descripción entre corchetes, según APA 7 §9.19.)"
+ },
+ {
+  "key": "R9",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>¡VIVA LA PALABRA VIVA! — 7.º Festival Internacional de Narradores de Historias</em> [Neiva, Colombia]. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/festivales/festcalendario/ColombiaNeivaVivalaPalabra.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *¡VIVA LA PALABRA VIVA! — 7.º Festival Internacional de Narradores de Historias* [Neiva, Colombia]. Recuperado el 24 de noviembre de 2026, de https://www.cuentacuentos.eu/festivales/festcalendario/ColombiaNeivaVivalaPalabra.htm",
+  "url": "https://www.cuentacuentos.eu/festivales/festcalendario/ColombiaNeivaVivalaPalabra.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "perfil de Neiva (7.º festival; año de la edición sin verificar)."
+ },
+ {
+  "key": "R10",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>CUENTA CON AGÜIMES — Festival de Narración Oral</em> [Programación 2014]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/EspanaCanariasAguimes.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *CUENTA CON AGÜIMES — Festival de Narración Oral* [Programación 2014]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/EspanaCanariasAguimes.htm",
+  "url": "http://cuentacuentos.eu/festivales/festcalendario/EspanaCanariasAguimes.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "perfil de Agüimes (programación de marzo de 2014)."
+ },
+ {
+  "key": "R11",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Marcela Sabio</em> [Ficha de narradora]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/narradores/miembros/argentina/MarcelaSabio.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Marcela Sabio* [Ficha de narradora]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/narradores/miembros/argentina/MarcelaSabio.htm",
+  "url": "http://cuentacuentos.eu/narradores/miembros/argentina/MarcelaSabio.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "ficha de Marcela Sabio (trayectoria, premios, festivales que dirige, grupo PURO CUENTO de la UNL, publicaciones)."
+ },
+ {
+  "key": "R12",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>XXIII Festival Internacional de Narración Oral Cuéntalee</em> [Ciudad de México]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/MexicoCuentalee.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *XXIII Festival Internacional de Narración Oral Cuéntalee* [Ciudad de México]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/MexicoCuentalee.htm",
+  "url": "http://cuentacuentos.eu/festivales/festcalendario/MexicoCuentalee.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "referencia adicional sobre Cuéntalee (XXIII edición; org. FINO — Armando Trejo; invitada: Marcela Sabio)."
+ },
+ {
+  "key": "R13",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Alicia Barberis</em> [Ficha de coordinadora]. Recuperado el 24 de noviembre de 2026, de http://www.cuentacuentos.eu/narradores/coordinadores/fichaAliciaBarberis.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Alicia Barberis* [Ficha de coordinadora]. Recuperado el 24 de noviembre de 2026, de http://www.cuentacuentos.eu/narradores/coordinadores/fichaAliciaBarberis.htm",
+  "url": "http://www.cuentacuentos.eu/narradores/coordinadores/fichaAliciaBarberis.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "ficha de Alicia Barberis, coordinadora por Argentina de la RIC."
+ },
+ {
+  "key": "R14",
+  "seccion": "RIC",
+  "apa": "Villaza, J. (s. f.). La cuentería: El nuevo viejo arte escénico. Red Internacional de Cuentacuentos. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/teorica/articulos/JotaVillazaLaCuenteria.htm",
+  "apa_text": "Villaza, J. (s. f.). La cuentería: El nuevo viejo arte escénico. Red Internacional de Cuentacuentos. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/teorica/articulos/JotaVillazaLaCuenteria.htm",
+  "url": "http://cuentacuentos.eu/teorica/articulos/JotaVillazaLaCuenteria.htm",
+  "cita_corta": "Villaza (s. f.)",
+  "cubre": "historia y definición de la cuentería en Colombia; única fuente de la mención «Aquetecuento» (Medellín). Título y autor verificados en vivo en la página; sin fecha en la página."
+ },
+ {
+  "key": "R15",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Festival Internacional de Cuenteros «Quiero Cuento»</em> [Bogotá]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/ColombiaBogotaQuierocuento.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Festival Internacional de Cuenteros «Quiero Cuento»* [Bogotá]. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/festivales/festcalendario/ColombiaBogotaQuierocuento.htm",
+  "url": "http://cuentacuentos.eu/festivales/festcalendario/ColombiaBogotaQuierocuento.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "fuente de la ficha mundo n.º 20 (Quiero Cuento, Bogotá)."
+ },
+ {
+  "key": "R16",
+  "seccion": "RIC",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Información legal</em>. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/informacionlegal.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Información legal*. Recuperado el 24 de noviembre de 2026, de http://cuentacuentos.eu/informacionlegal.htm",
+  "url": "http://cuentacuentos.eu/informacionlegal.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)",
+  "cubre": "aviso legal de la RIC; contacto oficial red@cuentacuentos.eu; carácter sin ánimo de lucro."
+ },
+ {
+  "key": "P1",
+  "seccion": "Prensa",
+  "apa": "El país de los cuenta-cuentos. (1998, 5 de diciembre). <em>Página/12</em>. https://www.pagina12.com.ar/1998/98-12/98-12-05/pag27.htm",
+  "apa_text": "El país de los cuenta-cuentos. (1998, 5 de diciembre). *Página/12*. https://www.pagina12.com.ar/1998/98-12/98-12-05/pag27.htm",
+  "url": "https://www.pagina12.com.ar/1998/98-12/98-12-05/pag27.htm",
+  "cita_corta": "«El país de los cuenta-cuentos» (1998)"
+ },
+ {
+  "key": "P2",
+  "seccion": "Prensa",
+  "apa": "Israde, Y. (2004, 29 de marzo). Anuncian festival internacional de expresión oral y narratón de 9 horas en el Zócalo. <em>La Jornada</em>. https://www.jornada.com.mx/2004/03/29/04an1cul.php?origen=cultura.php&amp;fly=",
+  "apa_text": "Israde, Y. (2004, 29 de marzo). Anuncian festival internacional de expresión oral y narratón de 9 horas en el Zócalo. *La Jornada*. https://www.jornada.com.mx/2004/03/29/04an1cul.php?origen=cultura.php&fly=",
+  "url": "https://www.jornada.com.mx/2004/03/29/04an1cul.php?origen=cultura.php&fly=",
+  "cita_corta": "Israde (2004)"
+ },
+ {
+  "key": "P3",
+  "seccion": "Prensa",
+  "apa": "De los abuelos, su palabra. (2016, 12 de mayo). <em>La Pública</em>. https://www.lapublica.org.bo/los-otros/item/1103-de-los-abuelos-su-palabra",
+  "apa_text": "De los abuelos, su palabra. (2016, 12 de mayo). *La Pública*. https://www.lapublica.org.bo/los-otros/item/1103-de-los-abuelos-su-palabra",
+  "url": "https://www.lapublica.org.bo/los-otros/item/1103-de-los-abuelos-su-palabra",
+  "cita_corta": "«De los abuelos, su palabra» (2016)"
+ },
+ {
+  "key": "P4",
+  "seccion": "Prensa",
+  "apa": "Bru-jácara, a 25 años de su estreno. (2018, 13 de julio). <em>El Litoral</em>. https://www.ellitoral.com/escenarios-sociedad/bru-jacara-25-anos-estreno_0_cgjMoJE2zd.html",
+  "apa_text": "Bru-jácara, a 25 años de su estreno. (2018, 13 de julio). *El Litoral*. https://www.ellitoral.com/escenarios-sociedad/bru-jacara-25-anos-estreno_0_cgjMoJE2zd.html",
+  "url": "https://www.ellitoral.com/escenarios-sociedad/bru-jacara-25-anos-estreno_0_cgjMoJE2zd.html",
+  "cita_corta": "«Bru-jácara, a 25 años de su estreno» (2018)"
+ },
+ {
+  "key": "P5",
+  "seccion": "Prensa",
+  "apa": "Márquez, G. (2018, 3 de diciembre). San Lorenzo tendrá libro de cuentos populares. <em>El País</em>. https://elpais.bo/tarija/20181203_san-lorenzo-tendra-libro-de-cuentos-populares.html",
+  "apa_text": "Márquez, G. (2018, 3 de diciembre). San Lorenzo tendrá libro de cuentos populares. *El País*. https://elpais.bo/tarija/20181203_san-lorenzo-tendra-libro-de-cuentos-populares.html",
+  "url": "https://elpais.bo/tarija/20181203_san-lorenzo-tendra-libro-de-cuentos-populares.html",
+  "cita_corta": "Márquez (2018)"
+ },
+ {
+  "key": "P6",
+  "seccion": "Prensa",
+  "apa": "Te presento el mundo, una propuesta que llega a Concordia para promover la lectura y la narración oral. (2022, abril). <em>El Entre Ríos</em>. http://www.elentrerios.com/actualidad/te-presento-el-mundo-una-propuesta-que-llega-a-concordia-para-promover-la-lectura-y-la-narracin-oral.htm",
+  "apa_text": "Te presento el mundo, una propuesta que llega a Concordia para promover la lectura y la narración oral. (2022, abril). *El Entre Ríos*. http://www.elentrerios.com/actualidad/te-presento-el-mundo-una-propuesta-que-llega-a-concordia-para-promover-la-lectura-y-la-narracin-oral.htm",
+  "url": "http://www.elentrerios.com/actualidad/te-presento-el-mundo-una-propuesta-que-llega-a-concordia-para-promover-la-lectura-y-la-narracin-oral.htm",
+  "cita_corta": "«Te presento el mundo» (2022)"
+ },
+ {
+  "key": "P7",
+  "seccion": "Prensa",
+  "apa": "Mesa, G. (s. f.). Marcela Sabio y «La Fuerza de la Palabra». <em>Index Media</em>. https://indexmedia.com.ar/17147-2/",
+  "apa_text": "Mesa, G. (s. f.). Marcela Sabio y «La Fuerza de la Palabra». *Index Media*. https://indexmedia.com.ar/17147-2/",
+  "url": "https://indexmedia.com.ar/17147-2/",
+  "cita_corta": "Mesa (s. f.)"
+ },
+ {
+  "key": "P8",
+  "seccion": "Prensa",
+  "apa": "Presentan Festival de Narración Oral y Foro de la Lengua Española. (s. f.). <em>Express Zacatecas</em>. https://expresszacatecas.com/cultura/presentan-festivales-de-narracion-oral-y-de-la-lengua-espanola",
+  "apa_text": "Presentan Festival de Narración Oral y Foro de la Lengua Española. (s. f.). *Express Zacatecas*. https://expresszacatecas.com/cultura/presentan-festivales-de-narracion-oral-y-de-la-lengua-espanola",
+  "url": "https://expresszacatecas.com/cultura/presentan-festivales-de-narracion-oral-y-de-la-lengua-espanola",
+  "cita_corta": "«Presentan Festival de Narración Oral…» (s. f.)"
+ },
+ {
+  "key": "P9",
+  "seccion": "Prensa",
+  "apa": "[Festival Internacional de Narración Oral «A ti te cuento», 8.ª versión, Cochabamba]. (2024, 22 de octubre). <em>Notibol</em>. https://notibol.com/noticia/bo/6717be8734e9d/internacional-festival-a-ti-te-cuento-reune-a-destacados-narradores-de-cuatro-paises",
+  "apa_text": "[Festival Internacional de Narración Oral «A ti te cuento», 8.ª versión, Cochabamba]. (2024, 22 de octubre). *Notibol*. https://notibol.com/noticia/bo/6717be8734e9d/internacional-festival-a-ti-te-cuento-reune-a-destacados-narradores-de-cuatro-paises",
+  "url": "https://notibol.com/noticia/bo/6717be8734e9d/internacional-festival-a-ti-te-cuento-reune-a-destacados-narradores-de-cuatro-paises",
+  "cita_corta": "«Festival “A ti te cuento”, 8.ª versión» (2024)"
+ },
+ {
+  "key": "P11",
+  "seccion": "Prensa",
+  "apa": "Festival Puro Cuento vivirá una nueva edición del 13 al 22 de marzo. (2026, marzo). <em>Delfino.cr</em>. https://delfino.cr/2026/03/festival-puro-cuento-vivira-una-nueva-edicion-del-13-al-22-de-marzo",
+  "apa_text": "Festival Puro Cuento vivirá una nueva edición del 13 al 22 de marzo. (2026, marzo). *Delfino.cr*. https://delfino.cr/2026/03/festival-puro-cuento-vivira-una-nueva-edicion-del-13-al-22-de-marzo",
+  "url": "https://delfino.cr/2026/03/festival-puro-cuento-vivira-una-nueva-edicion-del-13-al-22-de-marzo",
+  "cita_corta": "«Festival Puro Cuento vivirá una nueva edición…» (2026)"
+ },
+ {
+  "key": "P12",
+  "seccion": "Prensa",
+  "apa": "Apthapi internacional de cuentos reúne a 16 narradores. (2026, octubre). <em>La Prensa</em>. https://laprensa.bo/index.php/apthapi-internacional-de-cuentos-reune-16-narradores",
+  "apa_text": "Apthapi internacional de cuentos reúne a 16 narradores. (2026, octubre). *La Prensa*. https://laprensa.bo/index.php/apthapi-internacional-de-cuentos-reune-16-narradores",
+  "url": "https://laprensa.bo/index.php/apthapi-internacional-de-cuentos-reune-16-narradores",
+  "cita_corta": "«Apthapi internacional de cuentos…» (2026)"
+ },
+ {
+  "key": "U1",
+  "seccion": "La U Cuenta Contigo",
+  "apa": "Universidad de Costa Rica. (2012, 22 de agosto). Cuentos y cuenteros abren jornadas de cultura en el campus. https://www.ucr.ac.cr/noticias/2012/8/22/cuentos-y-cuenteros-abren-jornadas-de-cultura-en-el-campus.html",
+  "apa_text": "Universidad de Costa Rica. (2012, 22 de agosto). Cuentos y cuenteros abren jornadas de cultura en el campus. https://www.ucr.ac.cr/noticias/2012/8/22/cuentos-y-cuenteros-abren-jornadas-de-cultura-en-el-campus.html",
+  "url": "https://www.ucr.ac.cr/noticias/2012/8/22/cuentos-y-cuenteros-abren-jornadas-de-cultura-en-el-campus.html",
+  "cita_corta": "Universidad de Costa Rica (2012)"
+ },
+ {
+  "key": "U2",
+  "seccion": "La U Cuenta Contigo",
+  "apa": "Universidad de Costa Rica. (2013, 27 de agosto). Una ventana a la elección de carrera [Sección «III Festival la U Cuenta Contigo»]. https://www.ucr.ac.cr/noticias/2013/8/27/una-ventana-a-la-eleccion-de-carrera.html",
+  "apa_text": "Universidad de Costa Rica. (2013, 27 de agosto). Una ventana a la elección de carrera [Sección «III Festival la U Cuenta Contigo»]. https://www.ucr.ac.cr/noticias/2013/8/27/una-ventana-a-la-eleccion-de-carrera.html",
+  "url": "https://www.ucr.ac.cr/noticias/2013/8/27/una-ventana-a-la-eleccion-de-carrera.html",
+  "cita_corta": "Universidad de Costa Rica (2013)"
+ },
+ {
+  "key": "U3",
+  "seccion": "La U Cuenta Contigo",
+  "apa": "Universidad de Costa Rica. (2014, 16 de septiembre). La U Cuenta con Vos. https://www.ucr.ac.cr/noticias/2014/9/16/la-u-cuenta-con-vos.html",
+  "apa_text": "Universidad de Costa Rica. (2014, 16 de septiembre). La U Cuenta con Vos. https://www.ucr.ac.cr/noticias/2014/9/16/la-u-cuenta-con-vos.html",
+  "url": "https://www.ucr.ac.cr/noticias/2014/9/16/la-u-cuenta-con-vos.html",
+  "cita_corta": "Universidad de Costa Rica (2014)"
+ },
+ {
+  "key": "U4",
+  "seccion": "La U Cuenta Contigo",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>NarrArte</em> [Ficha de grupo]. Recuperado el 24 de noviembre de 2026, de http://www.cuentacuentos.eu/narradores/miembros/costarica/NarrArte.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *NarrArte* [Ficha de grupo]. Recuperado el 24 de noviembre de 2026, de http://www.cuentacuentos.eu/narradores/miembros/costarica/NarrArte.htm",
+  "url": "http://www.cuentacuentos.eu/narradores/miembros/costarica/NarrArte.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)"
+ },
+ {
+  "key": "U5",
+  "seccion": "La U Cuenta Contigo",
+  "apa": "Red Internacional de Cuentacuentos. (s. f.). <em>Maracatú Cuentacuentos</em> [Ficha de grupo]. Recuperado el 24 de noviembre de 2026, de http://www.cuentacuentos.eu/narradores/miembros/costarica/MaracatuCuentacuentos.htm",
+  "apa_text": "Red Internacional de Cuentacuentos. (s. f.). *Maracatú Cuentacuentos* [Ficha de grupo]. Recuperado el 24 de noviembre de 2026, de http://www.cuentacuentos.eu/narradores/miembros/costarica/MaracatuCuentacuentos.htm",
+  "url": "http://www.cuentacuentos.eu/narradores/miembros/costarica/MaracatuCuentacuentos.htm",
+  "cita_corta": "Red Internacional de Cuentacuentos (s. f.)"
+ },
+ {
+  "key": "N1",
+  "seccion": "Nuevos festivales",
+  "apa": "Alajuela Ciudad Palabra. (2026). <em>Programación XXI Fiesta Internacional del Cuento &amp; IV Festival Palabras Menores (19–27 de noviembre de 2026)</em>. Recuperado el 24 de noviembre de 2026, de https://sites.google.com/view/alajuelaciudadpalabra/programaci%C3%B3n-xxi-fiesta-internacional-del-cuento",
+  "apa_text": "Alajuela Ciudad Palabra. (2026). *Programación XXI Fiesta Internacional del Cuento & IV Festival Palabras Menores (19–27 de noviembre de 2026)*. Recuperado el 24 de noviembre de 2026, de https://sites.google.com/view/alajuelaciudadpalabra/programaci%C3%B3n-xxi-fiesta-internacional-del-cuento",
+  "url": "https://sites.google.com/view/alajuelaciudadpalabra/programaci%C3%B3n-xxi-fiesta-internacional-del-cuento",
+  "cita_corta": "Alajuela Ciudad Palabra (2026)"
+ },
+ {
+  "key": "N2",
+  "seccion": "Nuevos festivales",
+  "apa": "La Tribuna. (2026, 14 de septiembre). Festival Las Lobas 2026 llega a España. https://www.latribuna.hn/2026/09/14/festival-las-lobas-2026-llega-a-espana/",
+  "apa_text": "La Tribuna. (2026, 14 de septiembre). Festival Las Lobas 2026 llega a España. https://www.latribuna.hn/2026/09/14/festival-las-lobas-2026-llega-a-espana/",
+  "url": "https://www.latribuna.hn/2026/09/14/festival-las-lobas-2026-llega-a-espana/",
+  "cita_corta": "La Tribuna (2026)"
+ },
+ {
+  "key": "N3",
+  "seccion": "Nuevos festivales",
+  "apa": "Revista Lumbreras. (2026, agosto). El Festival Cuenta Sueños celebrará su quinta edición con actividades de narración oral, música y teatro en Puebla. https://revistalumbreras.com/el-festival-cuenta-suenos-celebrara-su-quinta-edicion-con-actividades-de-narracion-oral-musica-y-teatro-en-puebla/",
+  "apa_text": "Revista Lumbreras. (2026, agosto). El Festival Cuenta Sueños celebrará su quinta edición con actividades de narración oral, música y teatro en Puebla. https://revistalumbreras.com/el-festival-cuenta-suenos-celebrara-su-quinta-edicion-con-actividades-de-narracion-oral-musica-y-teatro-en-puebla/",
+  "url": "https://revistalumbreras.com/el-festival-cuenta-suenos-celebrara-su-quinta-edicion-con-actividades-de-narracion-oral-musica-y-teatro-en-puebla/",
+  "cita_corta": "Revista Lumbreras (2026)"
+ },
+ {
+  "key": "N4",
+  "seccion": "Nuevos festivales",
+  "apa": "Grupo México Desarrollo Comunitario. (2026, 5 de noviembre). [Anuncio del Encuentro Internacional de Narración Oral Nacozari, EINONAC] [Publicación de Facebook]. Facebook. https://www.facebook.com/GrupoMexicoDesarrolloComunitario/posts/pfbid0n8ebuGpztKfe6cLmAHy4pctxcVwNespcBVKRF4gS2XHmCydrRcHbNrSneq4csYnCl",
+  "apa_text": "Grupo México Desarrollo Comunitario. (2026, 5 de noviembre). [Anuncio del Encuentro Internacional de Narración Oral Nacozari, EINONAC] [Publicación de Facebook]. Facebook. https://www.facebook.com/GrupoMexicoDesarrolloComunitario/posts/pfbid0n8ebuGpztKfe6cLmAHy4pctxcVwNespcBVKRF4gS2XHmCydrRcHbNrSneq4csYnCl",
+  "url": "https://www.facebook.com/GrupoMexicoDesarrolloComunitario/posts/pfbid0n8ebuGpztKfe6cLmAHy4pctxcVwNespcBVKRF4gS2XHmCydrRcHbNrSneq4csYnCl",
+  "cita_corta": "Grupo México Desarrollo Comunitario (2026)"
+ },
+ {
+  "key": "N5",
+  "seccion": "Nuevos festivales",
+  "apa": "Red Nacional de Narradores Orales [@red_nacional_narradores_orales]. (2026, 28 de octubre). XXI Encuentro de Narración Oral Escénica de Portuguesa [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DfBflZPESE6/",
+  "apa_text": "Red Nacional de Narradores Orales [@red_nacional_narradores_orales]. (2026, 28 de octubre). XXI Encuentro de Narración Oral Escénica de Portuguesa [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DfBflZPESE6/",
+  "url": "https://www.instagram.com/p/DfBflZPESE6/",
+  "cita_corta": "Red Nacional de Narradores Orales (2026)"
+ },
+ {
+  "key": "N6",
+  "seccion": "Nuevos festivales",
+  "apa": "El Litoral. (2026, 2 de mayo). [V Festival Internacional de Narración Oral «Abrazo de Agua», Santa Fe y Entre Ríos]. https://www.ellitoral.com/escenarios-sociedad/narracionoral-festival-abrazoagua-comunidad_0_oGZx3iIPzP.html",
+  "apa_text": "El Litoral. (2026, 2 de mayo). [V Festival Internacional de Narración Oral «Abrazo de Agua», Santa Fe y Entre Ríos]. https://www.ellitoral.com/escenarios-sociedad/narracionoral-festival-abrazoagua-comunidad_0_oGZx3iIPzP.html",
+  "url": "https://www.ellitoral.com/escenarios-sociedad/narracionoral-festival-abrazoagua-comunidad_0_oGZx3iIPzP.html",
+  "cita_corta": "El Litoral (2026)"
+ },
+ {
+  "key": "N7",
+  "seccion": "Nuevos festivales",
+  "apa": "Turismo Los Reartes [@turismolosreartes]. (2026, 3 de febrero). Encuentro Cuentero de Los Reartes [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DUTBQtfDjjA/",
+  "apa_text": "Turismo Los Reartes [@turismolosreartes]. (2026, 3 de febrero). Encuentro Cuentero de Los Reartes [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DUTBQtfDjjA/",
+  "url": "https://www.instagram.com/p/DUTBQtfDjjA/",
+  "cita_corta": "Turismo Los Reartes (2026)"
+ },
+ {
+  "key": "N8",
+  "seccion": "Nuevos festivales",
+  "apa": "La Nación. (2026, 31 de octubre). Una maratón de cuentos del Paraguay reunirá a 35 narradores en Luque. https://www.lanacion.com.py/espectaculo/2026/10/31/una-maraton-de-cuentos-del-paraguay-reunira-a-35-narradores-en-luque/",
+  "apa_text": "La Nación. (2026, 31 de octubre). Una maratón de cuentos del Paraguay reunirá a 35 narradores en Luque. https://www.lanacion.com.py/espectaculo/2026/10/31/una-maraton-de-cuentos-del-paraguay-reunira-a-35-narradores-en-luque/",
+  "url": "https://www.lanacion.com.py/espectaculo/2026/10/31/una-maraton-de-cuentos-del-paraguay-reunira-a-35-narradores-en-luque/",
+  "cita_corta": "La Nación (2026)"
+ },
+ {
+  "key": "N9",
+  "seccion": "Nuevos festivales",
+  "apa": "CulturaMania. (2026, noviembre). El Festival Cuentos Breña Alta celebra su vigésima edición con México y su tradición oral como protagonistas. https://culturamania.com/el-festival-cuentos-brena-alta-celebra-su-vigesima-edicion-con-mexico-y-su-tradicion-oral-como-protagonistas/",
+  "apa_text": "CulturaMania. (2026, noviembre). El Festival Cuentos Breña Alta celebra su vigésima edición con México y su tradición oral como protagonistas. https://culturamania.com/el-festival-cuentos-brena-alta-celebra-su-vigesima-edicion-con-mexico-y-su-tradicion-oral-como-protagonistas/",
+  "url": "https://culturamania.com/el-festival-cuentos-brena-alta-celebra-su-vigesima-edicion-con-mexico-y-su-tradicion-oral-como-protagonistas/",
+  "cita_corta": "CulturaMania (2026)"
+ },
+ {
+  "key": "N10",
+  "seccion": "Nuevos festivales",
+  "apa": "Festivales de España. (2026). <em>IV Festival Internacional de Oralidad «Narrar Enamora», Zamora</em>. Recuperado el 24 de noviembre de 2026, de https://www.festivalesdeespana.com/festival/iv-festival-internacional-de-oralidad-narrar-enamora-zamora",
+  "apa_text": "Festivales de España. (2026). *IV Festival Internacional de Oralidad «Narrar Enamora», Zamora*. Recuperado el 24 de noviembre de 2026, de https://www.festivalesdeespana.com/festival/iv-festival-internacional-de-oralidad-narrar-enamora-zamora",
+  "url": "https://www.festivalesdeespana.com/festival/iv-festival-internacional-de-oralidad-narrar-enamora-zamora",
+  "cita_corta": "Festivales de España (2026)"
+ },
+ {
+  "key": "N11",
+  "seccion": "Nuevos festivales",
+  "apa": "La Voz de Parla. (2026, octubre). Parlacuenta. https://www.lavozdeparla.es/parlacuenta/",
+  "apa_text": "La Voz de Parla. (2026, octubre). Parlacuenta. https://www.lavozdeparla.es/parlacuenta/",
+  "url": "https://www.lavozdeparla.es/parlacuenta/",
+  "cita_corta": "La Voz de Parla (2026)"
+ },
+ {
+  "key": "N12",
+  "seccion": "Nuevos festivales",
+  "apa": "Bibliotecas de Las Palmas de Gran Canaria. (2026, abril). <em>Programa Palabras Contadas 2026</em> [Programa oficial en PDF]. https://lpabibliotecas.com/wp-content/uploads/2026/04/programa_palabras_contadas_2026.pdf",
+  "apa_text": "Bibliotecas de Las Palmas de Gran Canaria. (2026, abril). *Programa Palabras Contadas 2026* [Programa oficial en PDF]. https://lpabibliotecas.com/wp-content/uploads/2026/04/programa_palabras_contadas_2026.pdf",
+  "url": "https://lpabibliotecas.com/wp-content/uploads/2026/04/programa_palabras_contadas_2026.pdf",
+  "cita_corta": "Bibliotecas de Las Palmas de Gran Canaria (2026)"
+ },
+ {
+  "key": "N13",
+  "seccion": "Nuevos festivales",
+  "apa": "Destino Castilla y León. (2026). <em>IV Festival Internacional de Narración Oral</em> [Memoria, Tierra y Voz, San Miguel del Pino]. Recuperado el 24 de noviembre de 2026, de https://destinocastillayleon.es/index/iv-festival-internacional-de-narracion-oral/",
+  "apa_text": "Destino Castilla y León. (2026). *IV Festival Internacional de Narración Oral* [Memoria, Tierra y Voz, San Miguel del Pino]. Recuperado el 24 de noviembre de 2026, de https://destinocastillayleon.es/index/iv-festival-internacional-de-narracion-oral/",
+  "url": "https://destinocastillayleon.es/index/iv-festival-internacional-de-narracion-oral/",
+  "cita_corta": "Destino Castilla y León (2026)"
+ },
+ {
+  "key": "N14",
+  "seccion": "Nuevos festivales",
+  "apa": "La Laguna Televisión. (2026, 7 de octubre). XXXIV Noche de Cuentos, San Cristóbal de La Laguna [Publicación de Facebook]. Facebook. https://www.facebook.com/LaLagunaTelevision/posts/pfbid02WhyvXdCAWTdvrXV7Zvh1ts9JZxhtN8uLkCJkV2neJcQfdyRWCnwbeqihv743Xm5ol",
+  "apa_text": "La Laguna Televisión. (2026, 7 de octubre). XXXIV Noche de Cuentos, San Cristóbal de La Laguna [Publicación de Facebook]. Facebook. https://www.facebook.com/LaLagunaTelevision/posts/pfbid02WhyvXdCAWTdvrXV7Zvh1ts9JZxhtN8uLkCJkV2neJcQfdyRWCnwbeqihv743Xm5ol",
+  "url": "https://www.facebook.com/LaLagunaTelevision/posts/pfbid02WhyvXdCAWTdvrXV7Zvh1ts9JZxhtN8uLkCJkV2neJcQfdyRWCnwbeqihv743Xm5ol",
+  "cita_corta": "La Laguna Televisión (2026)"
+ },
+ {
+  "key": "N15",
+  "seccion": "Nuevos festivales",
+  "apa": "Juventud Rebelde. (2015, 7 de octubre). Acogerá Matanzas Festival de Narración Oral. https://www.juventudrebelde.cu/index.php/cultura/2015-10-07/acogera-matanzas-festival-de-narracion-oral/imprimir",
+  "apa_text": "Juventud Rebelde. (2015, 7 de octubre). Acogerá Matanzas Festival de Narración Oral. https://www.juventudrebelde.cu/index.php/cultura/2015-10-07/acogera-matanzas-festival-de-narracion-oral/imprimir",
+  "url": "https://www.juventudrebelde.cu/index.php/cultura/2015-10-07/acogera-matanzas-festival-de-narracion-oral/imprimir",
+  "cita_corta": "Juventud Rebelde (2015)"
+ },
+ {
+  "key": "C1",
+  "seccion": "Complementos",
+  "apa": "Sistema de Información Cultural. (s. f.). <em>Festival Internacional de Narración Oral Cuéntalee México</em> [Ficha de festival]. Secretaría de Cultura de México. Recuperado el 24 de noviembre de 2026, de https://sic.cultura.gob.mx/ficha.php?table=festival&amp;table_id=937&amp;disciplina= (última modificación: 12 de agosto de 2026)",
+  "apa_text": "Sistema de Información Cultural. (s. f.). *Festival Internacional de Narración Oral Cuéntalee México* [Ficha de festival]. Secretaría de Cultura de México. Recuperado el 24 de noviembre de 2026, de https://sic.cultura.gob.mx/ficha.php?table=festival&table_id=937&disciplina= (última modificación: 12 de agosto de 2026)",
+  "url": "https://sic.cultura.gob.mx/ficha.php?table=festival&table_id=937&disciplina=",
+  "cita_corta": "Sistema de Información Cultural (s. f.)"
+ },
+ {
+  "key": "C2",
+  "seccion": "Complementos",
+  "apa": "Sistema de Información Cultural. (s. f.). <em>Festival Internacional de Narradores de Cuentos «Cuento a Cuento, Mano a Mano»</em> [Ficha de festival]. Secretaría de Cultura de México. Recuperado el 24 de noviembre de 2026, de https://sic.cultura.gob.mx/ficha.php?table=festival&amp;table_id=1048&amp;disciplina= (última modificación: 7 de mayo de 2026)",
+  "apa_text": "Sistema de Información Cultural. (s. f.). *Festival Internacional de Narradores de Cuentos «Cuento a Cuento, Mano a Mano»* [Ficha de festival]. Secretaría de Cultura de México. Recuperado el 24 de noviembre de 2026, de https://sic.cultura.gob.mx/ficha.php?table=festival&table_id=1048&disciplina= (última modificación: 7 de mayo de 2026)",
+  "url": "https://sic.cultura.gob.mx/ficha.php?table=festival&table_id=1048&disciplina=",
+  "cita_corta": "Sistema de Información Cultural (s. f.)"
+ },
+ {
+  "key": "C3",
+  "seccion": "Complementos",
+  "apa": "Verux360. (2026, octubre). León recibirá a narradores de cuatro países en el Festival Calzando Palabras. https://www.verux360.mx/noticia.php?slug=le-n-recibir-a-narradores-de-cuatro-pa-ses-en-el-festival-calzando-palabras",
+  "apa_text": "Verux360. (2026, octubre). León recibirá a narradores de cuatro países en el Festival Calzando Palabras. https://www.verux360.mx/noticia.php?slug=le-n-recibir-a-narradores-de-cuatro-pa-ses-en-el-festival-calzando-palabras",
+  "url": "https://www.verux360.mx/noticia.php?slug=le-n-recibir-a-narradores-de-cuatro-pa-ses-en-el-festival-calzando-palabras",
+  "cita_corta": "Verux360 (2026)"
+ },
+ {
+  "key": "C4",
+  "seccion": "Complementos",
+  "apa": "El Heraldo. (2026, abril). «Pa' qué te cuento» inicia su caravana por Centroamérica. https://www.elheraldo.hn/revistas/siempre/pa-que-te-cuento-inicia-su-caravana-por-centroamerica-PH30260096",
+  "apa_text": "El Heraldo. (2026, abril). «Pa' qué te cuento» inicia su caravana por Centroamérica. https://www.elheraldo.hn/revistas/siempre/pa-que-te-cuento-inicia-su-caravana-por-centroamerica-PH30260096",
+  "url": "https://www.elheraldo.hn/revistas/siempre/pa-que-te-cuento-inicia-su-caravana-por-centroamerica-PH30260096",
+  "cita_corta": "El Heraldo (2026)"
+ },
+ {
+  "key": "C5",
+  "seccion": "Complementos",
+  "apa": "Los Comediantes. (2026). <em>¡A Puros Cuentos! I Festival Internacional de Narración Oral</em>. Recuperado el 24 de noviembre de 2026, de https://www.loscomediantes.com/festival",
+  "apa_text": "Los Comediantes. (2026). *¡A Puros Cuentos! I Festival Internacional de Narración Oral*. Recuperado el 24 de noviembre de 2026, de https://www.loscomediantes.com/festival",
+  "url": "https://www.loscomediantes.com/festival",
+  "cita_corta": "Los Comediantes (2026)"
+ },
+ {
+  "key": "C6",
+  "seccion": "Complementos",
+  "apa": "Diario El Mundo. (2026, abril). La caravana centroamericana de cuentos llega a El Salvador del 26 al 29 de abril. https://diario.elmundo.sv/escena/la-caravana-centroamericana-de-cuentos-llega-a-el-salvador-del-26-al-29-de-abril",
+  "apa_text": "Diario El Mundo. (2026, abril). La caravana centroamericana de cuentos llega a El Salvador del 26 al 29 de abril. https://diario.elmundo.sv/escena/la-caravana-centroamericana-de-cuentos-llega-a-el-salvador-del-26-al-29-de-abril",
+  "url": "https://diario.elmundo.sv/escena/la-caravana-centroamericana-de-cuentos-llega-a-el-salvador-del-26-al-29-de-abril",
+  "cita_corta": "Diario El Mundo (2026)"
+ },
+ {
+  "key": "C7",
+  "seccion": "Complementos",
+  "apa": "El Heraldo. (2026, 14 de agosto). La edición 29 de El Caribe Cuenta será en homenaje a Manuel Sánchez. https://www.elheraldo.co/cultura/2026/08/14/la-edicion-29-de-el-caribe-cuenta-sera-en-homenaje-a-manuel-sanchez/",
+  "apa_text": "El Heraldo. (2026, 14 de agosto). La edición 29 de El Caribe Cuenta será en homenaje a Manuel Sánchez. https://www.elheraldo.co/cultura/2026/08/14/la-edicion-29-de-el-caribe-cuenta-sera-en-homenaje-a-manuel-sanchez/",
+  "url": "https://www.elheraldo.co/cultura/2026/08/14/la-edicion-29-de-el-caribe-cuenta-sera-en-homenaje-a-manuel-sanchez/",
+  "cita_corta": "El Heraldo (2026)"
+ },
+ {
+  "key": "C8",
+  "seccion": "Complementos",
+  "apa": "Yatvo. (2026, octubre). [XXXIII Festival Internacional de la Oralidad Barquisimeto]. https://yatvo.com/archivos/21375",
+  "apa_text": "Yatvo. (2026, octubre). [XXXIII Festival Internacional de la Oralidad Barquisimeto]. https://yatvo.com/archivos/21375",
+  "url": "https://yatvo.com/archivos/21375",
+  "cita_corta": "Yatvo (2026)"
+ },
+ {
+  "key": "C9",
+  "seccion": "Complementos",
+  "apa": "Agencia Andina. (2026, 22 de agosto). Hoy se inicia Festival de Narración Oral «Déjame que te cuente». https://andina.pe/agencia/noticia-hoy-se-inicia-festival-narracion-oral-dejame-te-cuente-1088716.aspx",
+  "apa_text": "Agencia Andina. (2026, 22 de agosto). Hoy se inicia Festival de Narración Oral «Déjame que te cuente». https://andina.pe/agencia/noticia-hoy-se-inicia-festival-narracion-oral-dejame-te-cuente-1088716.aspx",
+  "url": "https://andina.pe/agencia/noticia-hoy-se-inicia-festival-narracion-oral-dejame-te-cuente-1088716.aspx",
+  "cita_corta": "Agencia Andina (2026)"
+ },
+ {
+  "key": "C10",
+  "seccion": "Complementos",
+  "apa": "Alianza Francesa de Cochabamba. (2026, octubre). <em>Festival Internacional de Narración Oral ATiTeCuento, X versión</em> [Agenda de eventos]. https://cochabamba.alianzafrancesa.org.bo/eventos-pasados-agenda/",
+  "apa_text": "Alianza Francesa de Cochabamba. (2026, octubre). *Festival Internacional de Narración Oral ATiTeCuento, X versión* [Agenda de eventos]. https://cochabamba.alianzafrancesa.org.bo/eventos-pasados-agenda/",
+  "url": "https://cochabamba.alianzafrancesa.org.bo/eventos-pasados-agenda/",
+  "cita_corta": "Alianza Francesa de Cochabamba (2026)"
+ },
+ {
+  "key": "C11",
+  "seccion": "Complementos",
+  "apa": "Positiva Tunja. (2026, 18 de noviembre). VII Festival Internacional Amerocuento [Reel de Facebook]. Facebook. https://www.facebook.com/reel/1467708381992538/",
+  "apa_text": "Positiva Tunja. (2026, 18 de noviembre). VII Festival Internacional Amerocuento [Reel de Facebook]. Facebook. https://www.facebook.com/reel/1467708381992538/",
+  "url": "https://www.facebook.com/reel/1467708381992538/",
+  "cita_corta": "Positiva Tunja (2026)"
+ },
+ {
+  "key": "C12",
+  "seccion": "Complementos",
+  "apa": "Bienal Internacional de Oralidad en Paraguay [@bienal_de_oralidad_py]. (2025, 30 de mayo). 1.ª Bienal Internacional de Oralidad Ñañohendu [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DKSQ6cEOheC/",
+  "apa_text": "Bienal Internacional de Oralidad en Paraguay [@bienal_de_oralidad_py]. (2025, 30 de mayo). 1.ª Bienal Internacional de Oralidad Ñañohendu [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DKSQ6cEOheC/",
+  "url": "https://www.instagram.com/p/DKSQ6cEOheC/",
+  "cita_corta": "Bienal Internacional de Oralidad en Paraguay (2025)"
+ },
+ {
+  "key": "C13",
+  "seccion": "Complementos",
+  "apa": "Oficina de Bienestar y Salud de la UCR [@obs.ucr]. (2026, 30 de julio). NarrArte UCR en el FICCUA 2026 [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DbbVmeTILNo/",
+  "apa_text": "Oficina de Bienestar y Salud de la UCR [@obs.ucr]. (2026, 30 de julio). NarrArte UCR en el FICCUA 2026 [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DbbVmeTILNo/",
+  "url": "https://www.instagram.com/p/DbbVmeTILNo/",
+  "cita_corta": "Oficina de Bienestar y Salud de la UCR (2026)"
+ },
+ {
+  "key": "C14",
+  "seccion": "Complementos",
+  "apa": "Centro Cultural de España en Costa Rica. (2021). <em>Palabras que conectan</em> [Taller online de narración oral escénica]. https://ccecr.aecid.es:443/w/palabras-que-conectan",
+  "apa_text": "Centro Cultural de España en Costa Rica. (2021). *Palabras que conectan* [Taller online de narración oral escénica]. https://ccecr.aecid.es:443/w/palabras-que-conectan",
+  "url": "https://ccecr.aecid.es:443/w/palabras-que-conectan",
+  "cita_corta": "Centro Cultural de España en Costa Rica (2021)"
+ },
+ {
+  "key": "C15",
+  "seccion": "Complementos",
+  "apa": "Centro Cultural de España en Costa Rica. (2026). <em>Narratónica solidaria: Donemos historias, construyamos futuros</em>. https://www.aecid.es/web/cc-costa-rica/w/narrat%C3%B3nica-solidaria-donemos-historias-construyamos-futuros",
+  "apa_text": "Centro Cultural de España en Costa Rica. (2026). *Narratónica solidaria: Donemos historias, construyamos futuros*. https://www.aecid.es/web/cc-costa-rica/w/narrat%C3%B3nica-solidaria-donemos-historias-construyamos-futuros",
+  "url": "https://www.aecid.es/web/cc-costa-rica/w/narrat%C3%B3nica-solidaria-donemos-historias-construyamos-futuros",
+  "cita_corta": "Centro Cultural de España en Costa Rica (2026)"
+ },
+ {
+  "key": "PR1",
+  "seccion": "Premios",
+  "apa": "Artezblai. (2011). <em>Concha de la Casa y el XXX Festival de Títeres de Bilbao galardonados con el premio Chamán</em>. https://www.artezblai.com/concha-de-la-casa-y-el-xxx-festival-de-titeres-de-bilbao-galardonados-con-el-premio-chaman/",
+  "apa_text": "Artezblai. (2011). *Concha de la Casa y el XXX Festival de Títeres de Bilbao galardonados con el premio Chamán*. https://www.artezblai.com/concha-de-la-casa-y-el-xxx-festival-de-titeres-de-bilbao-galardonados-con-el-premio-chaman/",
+  "url": "https://www.artezblai.com/concha-de-la-casa-y-el-xxx-festival-de-titeres-de-bilbao-galardonados-con-el-premio-chaman/",
+  "cita_corta": "Artezblai (2011)"
+ },
+ {
+  "key": "PR2",
+  "seccion": "Premios",
+  "apa": "Ayala, F. [@fredyayalaquijote]. (2025, 27 de noviembre). <em>Premios Don Quijote en Cuentería</em> [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DRkDUS5kYk-/",
+  "apa_text": "Ayala, F. [@fredyayalaquijote]. (2025, 27 de noviembre). *Premios Don Quijote en Cuentería* [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DRkDUS5kYk-/",
+  "url": "https://www.instagram.com/p/DRkDUS5kYk-/",
+  "cita_corta": "Ayala (2025)"
+ },
+ {
+  "key": "PR3",
+  "seccion": "Premios",
+  "apa": "Ayala, F. [@fredyayalaquijote]. (2025, 10 de diciembre). <em>Premios Don Quijote en Cuentería 2025</em> [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DSFZGfRkc2u/",
+  "apa_text": "Ayala, F. [@fredyayalaquijote]. (2025, 10 de diciembre). *Premios Don Quijote en Cuentería 2025* [Publicación de Instagram]. Instagram. https://www.instagram.com/p/DSFZGfRkc2u/",
+  "url": "https://www.instagram.com/p/DSFZGfRkc2u/",
+  "cita_corta": "Ayala (2025)"
+ },
+ {
+  "key": "PR4",
+  "seccion": "Premios",
+  "apa": "Área Cúcuta. (2018). <em>Elegidos narradores que representan lo mejor de la cultura de la región</em>. https://www.areacucuta.com/elegidos-narradores-que-representan-lo-mejor-de-la-cultura-de-la-region/",
+  "apa_text": "Área Cúcuta. (2018). *Elegidos narradores que representan lo mejor de la cultura de la región*. https://www.areacucuta.com/elegidos-narradores-que-representan-lo-mejor-de-la-cultura-de-la-region/",
+  "url": "https://www.areacucuta.com/elegidos-narradores-que-representan-lo-mejor-de-la-cultura-de-la-region/",
+  "cita_corta": "Área Cúcuta (2018)"
+ },
+ {
+  "key": "PR5",
+  "seccion": "Premios",
+  "apa": "Brittle Paper. (2025, abril). <em>The Witsprouts Project Announces Storytelling Contest</em>. https://brittlepaper.com/2025/04/the-witsprouts-project-announces-storytelling-contest-deadline-may-31-2025/",
+  "apa_text": "Brittle Paper. (2025, abril). *The Witsprouts Project Announces Storytelling Contest*. https://brittlepaper.com/2025/04/the-witsprouts-project-announces-storytelling-contest-deadline-may-31-2025/",
+  "url": "https://brittlepaper.com/2025/04/the-witsprouts-project-announces-storytelling-contest-deadline-may-31-2025/",
+  "cita_corta": "Brittle Paper (2025)"
+ },
+ {
+  "key": "PR6",
+  "seccion": "Premios",
+  "apa": "Cubarte. (2015). <em>Entregan Premio Nacional Cuentería, en Muestra \"Contar con La Habana\" 2015</em>. https://cubarte.cult.cu/periodico-cubarte/entregan-premio-nacional-cuenteria-en-muestra-contar-con-la-habana-2015/",
+  "apa_text": "Cubarte. (2015). *Entregan Premio Nacional Cuentería, en Muestra \"Contar con La Habana\" 2015*. https://cubarte.cult.cu/periodico-cubarte/entregan-premio-nacional-cuenteria-en-muestra-contar-con-la-habana-2015/",
+  "url": "https://cubarte.cult.cu/periodico-cubarte/entregan-premio-nacional-cuenteria-en-muestra-contar-con-la-habana-2015/",
+  "cita_corta": "Cubarte (2015)"
+ },
+ {
+  "key": "PR7",
+  "seccion": "Premios",
+  "apa": "Estandarte. (2010). <em>II Edición de Cuento en corto</em>. http://www.estandarte.com/premios-literarios/ii-edicion-de-cuento-en-corto_116.html",
+  "apa_text": "Estandarte. (2010). *II Edición de Cuento en corto*. http://www.estandarte.com/premios-literarios/ii-edicion-de-cuento-en-corto_116.html",
+  "url": "http://www.estandarte.com/premios-literarios/ii-edicion-de-cuento-en-corto_116.html",
+  "cita_corta": "Estandarte (2010)"
+ },
+ {
+  "key": "PR8",
+  "seccion": "Premios",
+  "apa": "Fundación Gilberto Alzate Avendaño. (s. f.). <em>Ganadores Premio Circulación en Artes Vivas y Musicales</em>. http://fuga.gov.co/node/5545",
+  "apa_text": "Fundación Gilberto Alzate Avendaño. (s. f.). *Ganadores Premio Circulación en Artes Vivas y Musicales*. http://fuga.gov.co/node/5545",
+  "url": "http://fuga.gov.co/node/5545",
+  "cita_corta": "Fundación Gilberto Alzate Avendaño (s. f.)"
+ },
+ {
+  "key": "PR9",
+  "seccion": "Premios",
+  "apa": "Granma. (2014, 14 de noviembre). <em>Premiados en Contar con La Habana 2014</em>. https://www.granma.cu/cultura/2014-11-14/premiados-en-contar-con-la-habana-2014",
+  "apa_text": "Granma. (2014, 14 de noviembre). *Premiados en Contar con La Habana 2014*. https://www.granma.cu/cultura/2014-11-14/premiados-en-contar-con-la-habana-2014",
+  "url": "https://www.granma.cu/cultura/2014-11-14/premiados-en-contar-con-la-habana-2014",
+  "cita_corta": "Granma (2014)"
+ },
+ {
+  "key": "PR10",
+  "seccion": "Premios",
+  "apa": "Herrera, M. (2019, 12 de agosto). <em>Cuentacuentos Ana Coralia Fernández fue distinguida en Festival Entre Cuentos y Flores de Medellín</em>. La Nación. https://www.nacion.com/viva/cultura/cuentacuentos-ana-coralia-fernandez-fue/MIC33LFRLRD4HHVLXT25GHJHQI/story/?outputType=amp-type",
+  "apa_text": "Herrera, M. (2019, 12 de agosto). *Cuentacuentos Ana Coralia Fernández fue distinguida en Festival Entre Cuentos y Flores de Medellín*. La Nación. https://www.nacion.com/viva/cultura/cuentacuentos-ana-coralia-fernandez-fue/MIC33LFRLRD4HHVLXT25GHJHQI/story/?outputType=amp-type",
+  "url": "https://www.nacion.com/viva/cultura/cuentacuentos-ana-coralia-fernandez-fue/MIC33LFRLRD4HHVLXT25GHJHQI/story/?outputType=amp-type",
+  "cita_corta": "Herrera (2019)"
+ },
+ {
+  "key": "PR11",
+  "seccion": "Premios",
+  "apa": "Instituto Nacional de Bellas Artes y Literatura. (2011). <em>Proclaman la Distinción por la Oralidad Diploma Medalla al Mérito 2011</em>. https://literatura.inba.gob.mx/prensa/1882-proclamada-la-distincion-por-la-oralidad-diploma-medalla-al-merito-2011-.html",
+  "apa_text": "Instituto Nacional de Bellas Artes y Literatura. (2011). *Proclaman la Distinción por la Oralidad Diploma Medalla al Mérito 2011*. https://literatura.inba.gob.mx/prensa/1882-proclamada-la-distincion-por-la-oralidad-diploma-medalla-al-merito-2011-.html",
+  "url": "https://literatura.inba.gob.mx/prensa/1882-proclamada-la-distincion-por-la-oralidad-diploma-medalla-al-merito-2011-.html",
+  "cita_corta": "Instituto Nacional de Bellas Artes y Literatura (2011)"
+ },
+ {
+  "key": "PR12",
+  "seccion": "Premios",
+  "apa": "Jamaica Gleaner. (2026, 11 de febrero). <em>High-school teacher wins big in storytelling competition</em>. https://jamaica-gleaner.com/article/entertainment/20260211/high-school-teacher-wins-big-storytelling-competition",
+  "apa_text": "Jamaica Gleaner. (2026, 11 de febrero). *High-school teacher wins big in storytelling competition*. https://jamaica-gleaner.com/article/entertainment/20260211/high-school-teacher-wins-big-storytelling-competition",
+  "url": "https://jamaica-gleaner.com/article/entertainment/20260211/high-school-teacher-wins-big-storytelling-competition",
+  "cita_corta": "Jamaica Gleaner (2026)"
+ },
+ {
+  "key": "PR13",
+  "seccion": "Premios",
+  "apa": "Jamaicans.com. (2023). <em>Farmer Wins $375,000 First Prize in Jamaican Storytelling Contest</em>. https://jamaicans.com/farmer-wins-375000-first-prize-in-jamaican-storytelling-contest/",
+  "apa_text": "Jamaicans.com. (2023). *Farmer Wins $375,000 First Prize in Jamaican Storytelling Contest*. https://jamaicans.com/farmer-wins-375000-first-prize-in-jamaican-storytelling-contest/",
+  "url": "https://jamaicans.com/farmer-wins-375000-first-prize-in-jamaican-storytelling-contest/",
+  "cita_corta": "Jamaicans.com (2023)"
+ },
+ {
+  "key": "PR14",
+  "seccion": "Premios",
+  "apa": "Knowitall.org. (s. f.). <em>Rixon Lane | Inside Storytelling</em>. https://www.knowitall.org/collections/international-collection?page=8",
+  "apa_text": "Knowitall.org. (s. f.). *Rixon Lane | Inside Storytelling*. https://www.knowitall.org/collections/international-collection?page=8",
+  "url": "https://www.knowitall.org/collections/international-collection?page=8",
+  "cita_corta": "Knowitall.org (s. f.)"
+ },
+ {
+  "key": "PR15",
+  "seccion": "Premios",
+  "apa": "Letralia. (2014, 3 de febrero). <em>Conceden el Premio Chamán 2014 a María Teresa Andruetto</em>. https://letralia.com/texto/letra294.txt",
+  "apa_text": "Letralia. (2014, 3 de febrero). *Conceden el Premio Chamán 2014 a María Teresa Andruetto*. https://letralia.com/texto/letra294.txt",
+  "url": "https://letralia.com/texto/letra294.txt",
+  "cita_corta": "Letralia (2014)"
+ },
+ {
+  "key": "PR16",
+  "seccion": "Premios",
+  "apa": "National Storytelling Network. (s. f.). <em>ORACLE Awards</em>. https://storynet.org/awards/oracle-awards/",
+  "apa_text": "National Storytelling Network. (s. f.). *ORACLE Awards*. https://storynet.org/awards/oracle-awards/",
+  "url": "https://storynet.org/awards/oracle-awards/",
+  "cita_corta": "National Storytelling Network (s. f.)"
+ },
+ {
+  "key": "PR17",
+  "seccion": "Premios",
+  "apa": "National Storytelling Network. (s. f.). <em>J.J. Reneaux Emerging Artist Award</em>. https://storynet.org/awards/jj-reneaux-award/emerging-artist-award/",
+  "apa_text": "National Storytelling Network. (s. f.). *J.J. Reneaux Emerging Artist Award*. https://storynet.org/awards/jj-reneaux-award/emerging-artist-award/",
+  "url": "https://storynet.org/awards/jj-reneaux-award/emerging-artist-award/",
+  "cita_corta": "National Storytelling Network (s. f.)"
+ },
+ {
+  "key": "PR18",
+  "seccion": "Premios",
+  "apa": "Public Libraries News. (2013, octubre). <em>Libraries let kids read wildly so that they read widely as adults</em>. https://www.publiclibrariesnews.com/2013/10/libraries-let-kids-read-wildly-so-that-they-read-widely-as-adults.html",
+  "apa_text": "Public Libraries News. (2013, octubre). *Libraries let kids read wildly so that they read widely as adults*. https://www.publiclibrariesnews.com/2013/10/libraries-let-kids-read-wildly-so-that-they-read-widely-as-adults.html",
+  "url": "https://www.publiclibrariesnews.com/2013/10/libraries-let-kids-read-wildly-so-that-they-read-widely-as-adults.html",
+  "cita_corta": "Public Libraries News (2013)"
+ },
+ {
+  "key": "PR19",
+  "seccion": "Premios",
+  "apa": "Rhön-Rennsteig-Sparkasse. (2017, 24 de noviembre). <em>9. Thüringer Märchenpreis für Nazli Çevik Azazi</em> [Comunicado de prensa]. https://www.rhoen-rennsteig-sparkasse.de/content/dam/myif/rhoen-rennsteig-spk/work/dokumente/Pressemeldungen/2017/2017_11_24_%209._Thueringer_Maerchenpreis.pdf?n=true",
+  "apa_text": "Rhön-Rennsteig-Sparkasse. (2017, 24 de noviembre). *9. Thüringer Märchenpreis für Nazli Çevik Azazi* [Comunicado de prensa]. https://www.rhoen-rennsteig-sparkasse.de/content/dam/myif/rhoen-rennsteig-spk/work/dokumente/Pressemeldungen/2017/2017_11_24_%209._Thueringer_Maerchenpreis.pdf?n=true",
+  "url": "https://www.rhoen-rennsteig-sparkasse.de/content/dam/myif/rhoen-rennsteig-spk/work/dokumente/Pressemeldungen/2017/2017_11_24_%209._Thueringer_Maerchenpreis.pdf?n=true",
+  "cita_corta": "Rhön-Rennsteig-Sparkasse (2017)"
+ },
+ {
+  "key": "PR20",
+  "seccion": "Premios",
+  "apa": "South Carolina Legislature. (2002). <em>Concurrent Resolution congratulating Rixon Lane for his first place finish at the National Storytelling Youth Olympics in California</em>. https://www.scstatehouse.gov/query.php?search=SEARCH&amp;searchtext=national%25&amp;category=LEGISLATION&amp;session=0&amp;conid=6821682&amp;result_pos=1100&amp;numrows=100",
+  "apa_text": "South Carolina Legislature. (2002). *Concurrent Resolution congratulating Rixon Lane for his first place finish at the National Storytelling Youth Olympics in California*. https://www.scstatehouse.gov/query.php?search=SEARCH&searchtext=national%25&category=LEGISLATION&session=0&conid=6821682&result_pos=1100&numrows=100",
+  "url": "https://www.scstatehouse.gov/query.php?search=SEARCH&searchtext=national%25&category=LEGISLATION&session=0&conid=6821682&result_pos=1100&numrows=100",
+  "cita_corta": "South Carolina Legislature (2002)"
+ },
+ {
+  "key": "PR21",
+  "seccion": "Premios",
+  "apa": "Stephen, I. (s. f.). <em>Storytelling</em>. https://www.ianstephen.co.uk/11.html",
+  "apa_text": "Stephen, I. (s. f.). *Storytelling*. https://www.ianstephen.co.uk/11.html",
+  "url": "https://www.ianstephen.co.uk/11.html",
+  "cita_corta": "Stephen (s. f.)"
+ },
+ {
+  "key": "PR22",
+  "seccion": "Premios",
+  "apa": "Storytelling Alberta. (s. f.). <em>Helen Lavender Youth Teller Award</em>. https://storytellingalberta.com/helen-lavender-youth-teller-award",
+  "apa_text": "Storytelling Alberta. (s. f.). *Helen Lavender Youth Teller Award*. https://storytellingalberta.com/helen-lavender-youth-teller-award",
+  "url": "https://storytellingalberta.com/helen-lavender-youth-teller-award",
+  "cita_corta": "Storytelling Alberta (s. f.)"
+ },
+ {
+  "key": "PR23",
+  "seccion": "Premios",
+  "apa": "Storytelling World. (1999). <em>The 1999 Storytelling World Award Winners and Honor Titles</em>. http://www.storytellingworld.com/Awards/1999win.htm",
+  "apa_text": "Storytelling World. (1999). *The 1999 Storytelling World Award Winners and Honor Titles*. http://www.storytellingworld.com/Awards/1999win.htm",
+  "url": "http://www.storytellingworld.com/Awards/1999win.htm",
+  "cita_corta": "Storytelling World (1999)"
+ },
+ {
+  "key": "PR24",
+  "seccion": "Premios",
+  "apa": "The London Centre for International Storytelling. (2007). <em>LCIS WOSAS: F419</em>. https://www.thelcis.org.uk/LCISARC/wosas/f419.htm",
+  "apa_text": "The London Centre for International Storytelling. (2007). *LCIS WOSAS: F419*. https://www.thelcis.org.uk/LCISARC/wosas/f419.htm",
+  "url": "https://www.thelcis.org.uk/LCISARC/wosas/f419.htm",
+  "cita_corta": "The London Centre for International Storytelling (2007)"
+ },
+ {
+  "key": "PR25",
+  "seccion": "Premios",
+  "apa": "Travel Trade Caribbean. (s. f.). <em>Festival de cuenteros llenará La Habana de literatura</em>. https://www.traveltradecaribbean.es/festival-de-cuenteros-llenara-la-habana-de-literatura/",
+  "apa_text": "Travel Trade Caribbean. (s. f.). *Festival de cuenteros llenará La Habana de literatura*. https://www.traveltradecaribbean.es/festival-de-cuenteros-llenara-la-habana-de-literatura/",
+  "url": "https://www.traveltradecaribbean.es/festival-de-cuenteros-llenara-la-habana-de-literatura/",
+  "cita_corta": "Travel Trade Caribbean (s. f.)"
+ },
+ {
+  "key": "PR26",
+  "seccion": "Premios",
+  "apa": "Tribuna de La Habana. (2024, 21 de julio). <em>Un verano para contar</em>. https://www.tribuna.cu/file/pdf/2024/07/21/Tribuna_2024072107.pdf",
+  "apa_text": "Tribuna de La Habana. (2024, 21 de julio). *Un verano para contar*. https://www.tribuna.cu/file/pdf/2024/07/21/Tribuna_2024072107.pdf",
+  "url": "https://www.tribuna.cu/file/pdf/2024/07/21/Tribuna_2024072107.pdf",
+  "cita_corta": "Tribuna de La Habana (2024)"
+ },
+ {
+  "key": "PR27",
+  "seccion": "Premios",
+  "apa": "University of Derby. (s. f.). <em>Simon Heywood — Our staff</em>. https://www.derby.ac.uk/staff/simon-heywood/",
+  "apa_text": "University of Derby. (s. f.). *Simon Heywood — Our staff*. https://www.derby.ac.uk/staff/simon-heywood/",
+  "url": "https://www.derby.ac.uk/staff/simon-heywood/",
+  "cita_corta": "University of Derby (s. f.)"
+ },
+ {
+  "key": "PR28",
+  "seccion": "Premios",
+  "apa": "Vanguard. (2025, 7 de octubre). <em>Rachel Ajisafe wins Witsprouts storytelling prize</em>. https://www.vanguardngr.com/2025/10/rachel-ajisafe-wins-witsprouts-storytelling-prize/",
+  "apa_text": "Vanguard. (2025, 7 de octubre). *Rachel Ajisafe wins Witsprouts storytelling prize*. https://www.vanguardngr.com/2025/10/rachel-ajisafe-wins-witsprouts-storytelling-prize/",
+  "url": "https://www.vanguardngr.com/2025/10/rachel-ajisafe-wins-witsprouts-storytelling-prize/",
+  "cita_corta": "Vanguard (2025)"
+ },
+ {
+  "key": "PR29",
+  "seccion": "Premios",
+  "apa": "West Virginia Division of Culture and History. (2006). <em>State's best \"liars\" named at 30th Vandalia Gathering</em>. http://archive.wvculture.org/agency/press/2006vandalia5.html",
+  "apa_text": "West Virginia Division of Culture and History. (2006). *State's best \"liars\" named at 30th Vandalia Gathering*. http://archive.wvculture.org/agency/press/2006vandalia5.html",
+  "url": "http://archive.wvculture.org/agency/press/2006vandalia5.html",
+  "cita_corta": "West Virginia Division of Culture and History (2006)"
+ },
+ {
+  "key": "PR30",
+  "seccion": "Premios",
+  "apa": "West Virginia Tourism. (2025, 22 de mayo). <em>Annual Vandalia Gathering to be Held this Weekend in Charleston</em>. https://wvtourism.com/release/annual-vandalia-gathering-to-be-held-this-weekend-in-charleston/",
+  "apa_text": "West Virginia Tourism. (2025, 22 de mayo). *Annual Vandalia Gathering to be Held this Weekend in Charleston*. https://wvtourism.com/release/annual-vandalia-gathering-to-be-held-this-weekend-in-charleston/",
+  "url": "https://wvtourism.com/release/annual-vandalia-gathering-to-be-held-this-weekend-in-charleston/",
+  "cita_corta": "West Virginia Tourism (2025)"
+ },
+ {
+  "key": "PR31",
+  "seccion": "Premios",
+  "apa": "Wikipedia. (s. f.). <em>Thüringer Märchen- und Sagenpreis</em>. https://de.wikipedia.org/wiki/Th%C3%BCringer_M%C3%A4rchen-_und_Sagenpreis",
+  "apa_text": "Wikipedia. (s. f.). *Thüringer Märchen- und Sagenpreis*. https://de.wikipedia.org/wiki/Th%C3%BCringer_M%C3%A4rchen-_und_Sagenpreis",
+  "url": "https://de.wikipedia.org/wiki/Th%C3%BCringer_M%C3%A4rchen-_und_Sagenpreis",
+  "cita_corta": "Wikipedia (s. f.)"
+ },
+ {
+  "key": "PR32",
+  "seccion": "Premios",
+  "apa": "Wikipedia. (s. f.). <em>Young Storyteller of the Year</em>. https://en.wikipedia.org/wiki/Young_Storyteller_of_the_Year",
+  "apa_text": "Wikipedia. (s. f.). *Young Storyteller of the Year*. https://en.wikipedia.org/wiki/Young_Storyteller_of_the_Year",
+  "url": "https://en.wikipedia.org/wiki/Young_Storyteller_of_the_Year",
+  "cita_corta": "Wikipedia (s. f.)"
+ },
+ {
+  "key": "M1",
+  "seccion": "Manuscritos inéditos",
+  "apa": "Muse (asistente 1). (2026). <em>Festivales de narración oral / cuentería / cuentacuentos del mundo</em> [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "apa_text": "Muse (asistente 1). (2026). *Festivales de narración oral / cuentería / cuentacuentos del mundo* [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "url": null,
+  "cita_corta": "Muse (asistente 1) (2026)"
+ },
+ {
+  "key": "M2",
+  "seccion": "Manuscritos inéditos",
+  "apa": "Muse (asistente 1). (2026). <em>Red Internacional de Cuentacuentos (RIC) — Investigación verificada</em> [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "apa_text": "Muse (asistente 1). (2026). *Red Internacional de Cuentacuentos (RIC) — Investigación verificada* [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "url": null,
+  "cita_corta": "Muse (asistente 1) (2026)"
+ },
+ {
+  "key": "M3",
+  "seccion": "Manuscritos inéditos",
+  "apa": "Muse (asistente 1). (2026). <em>Libros de narradores orales y artículos de prensa sobre narración oral</em> [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "apa_text": "Muse (asistente 1). (2026). *Libros de narradores orales y artículos de prensa sobre narración oral* [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "url": null,
+  "cita_corta": "Muse (asistente 1) (2026)"
+ },
+ {
+  "key": "M4",
+  "seccion": "Manuscritos inéditos",
+  "apa": "Muse (asistente 1). (2026). <em>Festivales de cuentería en Colombia — Fredy Ayala (2026)</em> [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "apa_text": "Muse (asistente 1). (2026). *Festivales de cuentería en Colombia — Fredy Ayala (2026)* [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "url": null,
+  "cita_corta": "Muse (asistente 1) (2026)"
+ },
+ {
+  "key": "M5",
+  "seccion": "Manuscritos inéditos",
+  "apa": "Gokú (asistente 2). (2026). <em>Mapa mundial de narración oral — Inventario y citas APA 7.ª edición</em> [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "apa_text": "Gokú (asistente 2). (2026). *Mapa mundial de narración oral — Inventario y citas APA 7.ª edición* [Manuscrito inédito]. Fundación Festival Puro Cuento.",
+  "url": null,
+  "cita_corta": "Gokú (asistente 2) (2026)"
+ }
+]

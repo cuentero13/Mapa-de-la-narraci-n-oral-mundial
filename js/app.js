@@ -13,6 +13,35 @@
   const STATUS_CLASS = { "activo": "badge-active", "inactivo": "badge-inactive", "sin verificar": "badge-unverified" };
   const STATUS_COLOR = { "activo": "#98C93C", "inactivo": "#EC1C24", "sin verificar": "#FDBD10" };
 
+  // Fuente única de las 144 fichas de Colombia (Solicitud 91, 24-nov-2026):
+  // investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026),
+  // citada como A1 en fuentes.json (Solicitud 96). Las citas APA de todas
+  // las fichas se resuelven con citaHtml() contra DATA.fuentes.
+
+  // ---------- citas APA (Solicitud 96, 24-nov-2026) ----------
+  // Cada ficha lleva un campo `cita` con las claves de fuentes.json.
+  // Se renderiza como enlace a la referencia completa en fuentes.html.
+  let FUENTES_BY_KEY = null;
+  function citaHtml(keys) {
+    if (!keys || !keys.length || !DATA.fuentes) return "";
+    if (!FUENTES_BY_KEY) {
+      FUENTES_BY_KEY = {};
+      DATA.fuentes.forEach(r => { FUENTES_BY_KEY[r.key] = r; });
+    }
+    const links = keys.filter(k => FUENTES_BY_KEY[k]).map(k =>
+      `<a href="fuentes.html#${esc(k)}">${esc(k)} · ${esc(FUENTES_BY_KEY[k].cita_corta)}</a>`).join(" · ");
+    return links ? `<p class="fest-cita">${t("cita_apa")}: ${links}</p>` : "";
+  }
+  // Enlace cruzado entre las fichas duplicadas mundo <-> Colombia
+  // (relatos/dedup-colombia-mundo.json). La ficha duplicada de Colombia no
+  // se dibuja dos veces, por eso el enlace apunta a la fuente (A1), no a
+  // una tarjeta que no existe en el directorio.
+  function dupHtml(f) {
+    if (f.duplicado_colombia) return `<p class="fest-cita">${t("also_col")}: ${esc(f.duplicado_colombia)} — <a href="fuentes.html#A1">A1 · Ayala Herrera (2026)</a></p>`;
+    if (f.duplicado_mundo) return `<p class="fest-cita">${t("also_world")}: ${esc(f.duplicado_mundo)}</p>`;
+    return "";
+  }
+
   let map, worldLayer, adminLayer, mythLayer;
 
   // ---------- carga de datos ----------
@@ -24,7 +53,7 @@
 
   async function init() {
     try {
-      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos] =
+      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios] =
         await Promise.all([
           loadJSON("festivales-mundo.json"),
           loadJSON("colombia.json"),
@@ -35,8 +64,10 @@
           loadJSON("menciones.json"),
           loadJSON("destacados.json"),
           loadJSON("miticos.json"),
+          loadJSON("fuentes.json"),
+          loadJSON("premios.json"),
         ]);
-      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos });
+      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios });
     } catch (e) {
       console.error(e);
       $("dir-list").innerHTML = "<p>No se pudieron cargar los datos. Revisá que los archivos JSON estén en data/.</p>";
@@ -59,6 +90,7 @@
     renderNarrators();
     renderBooks();
     renderPress();
+    renderPremios();
     bindLanguage();
   }
 
@@ -121,6 +153,12 @@
     parts.push(`<div>${esc(f.vigencia)}</div>`);
     if (f.relato) parts.push(`<div class="relato-popup"><strong>${t("relato_label")}: ${esc(f.relato.titulo)}</strong><br>${esc(f.relato.texto)}</div>`);
     if (f.coord_aprox) parts.push(`<div class="aprox">${t("approx")}</div>`);
+    const src = (f.fuentes || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, "").split("/")[0])}</a>`).join(" · ");
+    if (src) parts.push(`<p>${t("sources")}: ${src}</p>`);
+    const citaF = citaHtml(f.cita);
+    if (citaF) parts.push(citaF);
+    const dupF = dupHtml(f);
+    if (dupF) parts.push(dupF);
     parts.push(`<div><a href="#dir-${f.id}">${t("dir_title")}</a></div>`);
     return parts.join("");
   }
@@ -133,6 +171,10 @@
     if (c.web) parts.push(`<div><a href="${esc(c.web.startsWith("http") ? c.web : "https://" + c.web)}" target="_blank" rel="noopener">${t("f_web")}</a></div>`);
     if (c.relato) parts.push(`<div class="relato-popup"><strong>${t("relato_label")}: ${esc(c.relato.titulo)}</strong><br>${esc(c.relato.texto)}</div>`);
     if (c.coord_aprox) parts.push(`<div class="aprox">${t("approx")}</div>`);
+    const citaC = citaHtml(c.cita);
+    if (citaC) parts.push(citaC);
+    const dupC = dupHtml(c);
+    if (dupC) parts.push(dupC);
     return parts.join("");
   }
 
@@ -260,6 +302,8 @@
       ${relato}
       ${f.nota ? `<p class="homonym-note">${esc(f.nota)}</p>` : ""}
       ${sources ? `<p class="fest-sources">${t("sources")}: ${sources}</p>` : ""}
+      ${citaHtml(f.cita)}
+      ${dupHtml(f)}
     </article>`;
   }
 
@@ -303,7 +347,8 @@
     if (c.youtube) m.push(`<a href="${esc(c.youtube)}" target="_blank" rel="noopener">${c.youtube_tipo === "video" ? "Video" : "YouTube"}</a>`);
     const media = m.length ? ` <span class="col-media">${m.join(" · ")}</span>` : "";
     const relato = c.relato ? `<div class="relato"><p class="relato-label">📖 ${t("relato_label")} — ${esc(c.relato.zona || "")}</p><p><strong>${esc(c.relato.titulo)}</strong></p><p>${esc(c.relato.texto)}</p><p class="relato-note">${t("relato_note")}</p></div>` : "";
-    return `<div class="col-item" id="dir-${c.id}">${year}<strong>${esc(c.nombre)}</strong> — <span class="col-lugar">${esc(c.municipio)} (${esc(c.departamento)}) · Colombia</span>${aprox}${media}${relato}</div>`;
+    const fuente = citaHtml(c.cita) + dupHtml(c);
+    return `<div class="col-item" id="dir-${c.id}">${year}<strong>${esc(c.nombre)}</strong> — <span class="col-lugar">${esc(c.municipio)} (${esc(c.departamento)}) · Colombia</span>${aprox}${media}${relato}${fuente}</div>`;
   }
 
   // ---------- menciones ----------
@@ -354,22 +399,50 @@
       const fecha = a.fecha ? esc(a.fecha) : t("date_unverified");
       const fechaTag = a.fecha_verificada ? "" : ` <span class="tag-unverified">${t("unverified_tag")}</span>`;
       const link = a.url ? `<a href="${esc(a.url)}" target="_blank" rel="noopener">${t("read_article")} →</a>` : "";
+      const cita = citaHtml(a.cita);
       return `<article class="press-card">
         <div class="medio">${esc(a.medio)}</div>
         <h3>${esc(a.titulo)}</h3>
         <div class="fecha">${fecha}${fechaTag}</div>
         ${a.nota ? `<p class="muted">${esc(a.nota)}</p>` : ""}
         <p>${link}</p>
+        ${cita}
       </article>`;
     }).join("");
   }
 
+  // ---------- premios ----------
+  // Orden de §2.5 del paquete APA (24-nov-2026): por país/ámbito.
+  const PREMIOS_ORDEN = ["EE. UU.", "Colombia", "Cuba", "Iberoamérica", "Reino Unido", "Canadá", "Jamaica", "Alemania", "Nigeria", "España"];
+  function renderPremios() {
+    const el = $("premios-list");
+    if (!el || !DATA.premios) return;
+    el.innerHTML = PREMIOS_ORDEN.map(pais => {
+      const list = DATA.premios.filter(p => p.pais_ambito === pais);
+      if (!list.length) return "";
+      const cards = list.map(p => {
+        const fuentes = (p.fuentes || []).map(k => {
+          const r = (DATA.fuentes || []).find(x => x.key === k);
+          return r ? `<a href="fuentes.html#${esc(k)}">${esc(k)} · ${esc(r.cita_corta)}</a>` : esc(k);
+        }).join(" · ");
+        return `<article class="press-card">
+          <h3>${esc(p.nombre)}</h3>
+          <div class="medio">${esc(p.organizador)}</div>
+          <div class="fecha">${esc(p.anios)}</div>
+          <p>${esc(p.reconoce)}</p>
+          ${fuentes ? `<p class="fest-cita">${t("cita_apa")}: ${fuentes}</p>` : ""}
+        </article>`;
+      }).join("");
+      return `<h3 class="subsection">${esc(pais)}</h3><div class="press-grid">${cards}</div>`;
+    }).join("");
+  }
+
   // ---------- ranking: donde hay mas narracion oral ----------
-  // Conteos verificados 24-nov-2026 a partir del dataset (370 festivales
+  // Conteos verificados 24-nov-2026 a partir del dataset (386 festivales
   // únicos; por ciudad: municipio registrado, sin duplicar las 11 fichas
   // de Colombia que también están en mundo). Recalcular si cambian los datos.
   const RANKING = {
-    paises: [["Colombia", 144], ["España", 14], ["Argentina", 8], ["Brasil", 8], ["México", 6]],
+    paises: [["Colombia", 144], ["España", 20], ["Argentina", 10], ["México", 9], ["Brasil", 8]],
     ciudades: [["Bogotá, Colombia", 36], ["Medellín, Colombia", 12], ["Cali, Colombia", 9], ["Lomé, Togo", 4], ["Pasto, Colombia", 4]]
   };
   function renderRanking() {
@@ -391,6 +464,7 @@
     renderRanking();
     renderBooks();
     renderPress();
+    renderPremios();
     refreshMarkers();
     // el popup del administrador se reconstruye al reabrirse; nada más que hacer
   }

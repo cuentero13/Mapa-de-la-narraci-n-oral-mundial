@@ -5,7 +5,10 @@
   "fecha": "5 de diciembre de 1998",
   "fecha_verificada": true,
   "url": "https://www.pagina12.com.ar/1998/98-12/98-12-05/pag27.htm",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P1"
+  ]
  },
  {
   "medio": "La Jornada (México)",
@@ -13,7 +16,10 @@
   "fecha": "29 de marzo de 2004",
   "fecha_verificada": true,
   "url": "https://www.jornada.com.mx/2004/03/29/04an1cul.php?origen=cultura.php&fly=",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P2"
+  ]
  },
  {
   "medio": "La Pública (Bolivia)",
@@ -21,7 +27,10 @@
   "fecha": "12 de mayo de 2016",
   "fecha_verificada": true,
   "url": "https://www.lapublica.org.bo/los-otros/item/1103-de-los-abuelos-su-palabra",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P3"
+  ]
  },
  {
   "medio": "El Litoral (Argentina, Santa Fe)",
@@ -29,7 +38,10 @@
   "fecha": "13 de julio de 2018",
   "fecha_verificada": true,
   "url": "https://www.ellitoral.com/escenarios-sociedad/bru-jacara-25-anos-estreno_0_cgjMoJE2zd.html",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P4"
+  ]
  },
  {
   "medio": "El País (Tarija, Bolivia)",
@@ -37,7 +49,10 @@
   "fecha": "3 de diciembre de 2018",
   "fecha_verificada": true,
   "url": "https://elpais.bo/tarija/20181203_san-lorenzo-tendra-libro-de-cuentos-populares.html",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P5"
+  ]
  },
  {
   "medio": "El Entre Ríos (Argentina)",
@@ -45,7 +60,10 @@
   "fecha": "abril de 2022 (fecha exacta **** en la página)",
   "fecha_verificada": false,
   "url": "http://www.elentrerios.com/actualidad/te-presento-el-mundo-una-propuesta-que-llega-a-concordia-para-promover-la-lectura-y-la-narracin-oral.htm",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P6"
+  ]
  },
  {
   "medio": "Index Media (Argentina)",
@@ -53,7 +71,10 @@
   "fecha": "fecha **** en la página",
   "fecha_verificada": false,
   "url": "https://indexmedia.com.ar/17147-2/",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P7"
+  ]
  },
  {
   "medio": "Express Zacatecas (México)",
@@ -61,7 +82,10 @@
   "fecha": "2–10 de octubre (año **** en la página)",
   "fecha_verificada": false,
   "url": "https://expresszacatecas.com/cultura/presentan-festivales-de-narracion-oral-y-de-la-lengua-espanola",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P8"
+  ]
  },
  {
   "medio": "Notibol / Los Tiempos (Bolivia)",
@@ -69,15 +93,10 @@
   "fecha": "22 de octubre de 2024",
   "fecha_verificada": true,
   "url": "https://notibol.com/noticia/bo/6717be8734e9d/internacional-festival-a-ti-te-cuento-reune-a-destacados-narradores-de-cuatro-paises",
-  "nota": null
- },
- {
-  "medio": "Agencia Andina (Perú)",
-  "titulo": "\"Puro Cuento 2025: Festival Internacional de Narración Oral empieza el 20 de junio\" — 13.ª edición, Lima, Ayacucho y Juliaca, 20–30 de junio de 2025; organiza Tiempo de Cuentos y Yeniffer Díaz",
-  "fecha": "12 de junio de 2025",
-  "fecha_verificada": true,
-  "url": "https://enteratepe.com/puro-cuento-2025-%F0%9F%93%92/",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P9"
+  ]
  },
  {
   "medio": "Delfino.cr (Costa Rica)",
@@ -85,7 +104,10 @@
   "fecha": "marzo de 2026",
   "fecha_verificada": true,
   "url": "https://delfino.cr/2026/03/festival-puro-cuento-vivira-una-nueva-edicion-del-13-al-22-de-marzo",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P11"
+  ]
  },
  {
   "medio": "La Prensa (Bolivia)",
@@ -93,6 +115,9 @@
   "fecha": "octubre de 2026 (fecha exacta **** en la página; la nota cita jueves 8 y sábado 10)",
   "fecha_verificada": false,
   "url": "https://laprensa.bo/index.php/apthapi-internacional-de-cuentos-reune-16-narradores",
-  "nota": null
+  "nota": null,
+  "cita": [
+   "P12"
+  ]
  }
 ]
