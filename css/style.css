@@ -380,3 +380,5 @@ img, video { max-width: 100%; }
   .char-buho { width: 42px; right: 2%; top: 24%; }
   .char-zorro { width: 48px; right: 3%; }
 }
+
+.flag { margin-right: .35rem; }

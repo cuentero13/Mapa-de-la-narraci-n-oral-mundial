@@ -469,6 +469,8 @@
   }
 
   // ---------- narradores ----------
+  const FLAGS = { "Argentina": "🇦🇷", "Costa Rica": "🇨🇷", "España": "🇪🇸", "Brasil": "🇧🇷", "Bolivia": "🇧🇴", "Estados Unidos": "🇺🇸", "Italia": "🇮🇹", "Portugal": "🇵🇹", "Cuba": "🇨🇺", "Canadá": "🇨🇦", "Perú": "🇵🇪", "México": "🇲🇽", "Nicaragua": "🇳🇮", "Chile": "🇨🇱", "Honduras": "🇭🇳", "Colombia": "🇨🇴", "Australia": "🇦🇺", "Corea del Sur": "🇰🇷", "Taiwán": "🇹🇼", "El Salvador": "🇸🇻", "Rep. Dominicana": "🇩🇴", "Ecuador": "🇪🇨", "India": "🇮🇳", "Kenia": "🇰🇪", "Guatemala": "🇬🇹", "Paraguay": "🇵🇾", "Alemania": "🇩🇪", "Puerto Rico": "🇵🇷", "Reino Unido": "🇬🇧", "Uruguay": "🇺🇾", "Irlanda": "🇮🇪", "Singapur": "🇸🇬" };
+  const flagFor = pais => FLAGS[pais] ? `<span class="flag" role="img" aria-label="${esc(pais)}" title="${esc(pais)}">${FLAGS[pais]}</span>` : "";
   function renderNarrators() {
     if (!$("narr-cr")) return;
     const cr = DATA.narradores.filter(n => n.pais === "Costa Rica");
@@ -480,7 +482,7 @@
       const PL = [["web", "Web"], ["facebook", "Facebook"], ["instagram", "Instagram"], ["youtube", "YouTube"], ["tiktok", "TikTok"], ["x", "X"]];
       const parts = PL.filter(([k]) => links[k]).map(([k, label]) => `<a href="${esc(links[k])}" target="_blank" rel="noopener">${label}</a>`);
       (links.otros || []).forEach(o => { if (o && o.url) parts.push(`<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.etiqueta || o.url.replace(/^https?:\/\//, "").split("/")[0])}</a>`); });
-      return `<li>${esc(n.nombre)}${n.localidad ? ` <span class="loc">(${esc(n.localidad)})</span>` : ""}${n.memoria ? ` <span class="tag-unverified">${t("in_memoriam")}</span>` : ""}${parts.length ? ` <span class="narr-links">${parts.join(" · ")}</span>` : ""}</li>`;
+      return `<li>${flagFor(n.pais)}${esc(n.nombre)}${n.localidad ? ` <span class="loc">(${esc(n.localidad)})</span>` : ""}${n.memoria ? ` <span class="tag-unverified">${t("in_memoriam")}</span>` : ""}${parts.length ? ` <span class="narr-links">${parts.join(" · ")}</span>` : ""}</li>`;
     };
     $("narr-cr").innerHTML = cr.map(item).join("");
     $("narr-ar").innerHTML = ar.map(item).join("");
@@ -495,7 +497,7 @@
     let htmlOtros = "";
     paises.forEach(p => {
       const lista = porPais[p].slice().sort(byName);
-      htmlOtros += `<h4 class="subsection">${esc(p)} — ${lista.length}</h4><ul class="narr-list">${lista.map(item).join("")}</ul>`;
+      htmlOtros += `<h4 class="subsection">${flagFor(p)}${esc(p)} — ${lista.length}</h4><ul class="narr-list">${lista.map(item).join("")}</ul>`;
     });
     if (porPais[""]) {
       const lista = porPais[""].slice().sort(byName);
