@@ -14,11 +14,12 @@
 <body>
 
 <header class="topbar">
+  <button class="nav-toggle" type="button" aria-label="Menú" aria-expanded="false" aria-controls="topnav">☰</button>
   <a class="brand" href="#inicio">
     <img src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Fundación Festival Puro Cuento" class="brand-logo" width="1042" height="725">
     <span class="brand-name" data-i18n="brand">Mapa Mundial de la Narración Oral</span>
   </a>
-  <nav class="topnav">
+  <nav class="topnav" id="topnav">
     <a href="#mapa" data-i18n="nav_mapa">Mapa</a>
     <a href="#directorio" data-i18n="nav_directorio">Directorio</a>
     <a href="#ranking" data-i18n="nav_ranking">Ranking</a>
@@ -377,11 +378,30 @@
   <p><strong><a href="fuentes.html" data-i18n="foot_sources">Fuentes</a></strong>: <span data-i18n="foot_sources_v">Red Internacional de Cuentacuentos (cuentacuentos.eu); investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026, Ministerio de las Culturas de Colombia); fichas de festivales, libros y prensa verificadas en noviembre de 2026; registros de la Fundación Festival Puro Cuento.</span></p>
   <p><a href="creditos.html" data-i18n="foot_creditos">Créditos</a></p>
   <p class="construction" data-i18n="foot_construction">Registro en construcción: los datos no verificados se marcan como tales. Si un dato está mal o falta, escribí a info@festivalpurocuento.com.</p>
-  <p class="muted">Mapa Mundial de la Narración Oral · Fundación Festival Puro Cuento · 2026</p>
+  <p class="muted">Mapa Mundial de la Narración Oral · Fundación Festival Puro Cuento · 2026 · <a href="terminos.html" data-i18n="foot_terminos">Términos y Condiciones</a></p>
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="js/i18n.js"></script>
 <script src="js/app.js"></script>
+<script>
+(function () {
+  var btn = document.querySelector('.nav-toggle');
+  var nav = document.getElementById('topnav');
+  if (!btn || !nav) return;
+  btn.addEventListener('click', function () {
+    var open = nav.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    btn.textContent = open ? '✕' : '☰';
+  });
+  nav.querySelectorAll('a').forEach(function (a) {
+    a.addEventListener('click', function () {
+      nav.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.textContent = '☰';
+    });
+  });
+})();
+</script>
 </body>
 </html>
