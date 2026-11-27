@@ -428,3 +428,25 @@ img, video { max-width: 100%; }
   .topnav.open { display: flex; }
   .topnav a { padding: .45rem .6rem; }
 }
+
+/* ---------- Slide «Conocé a los narradores» (27-nov-2026) ---------- */
+.narr-slide-wrap { display: flex; align-items: stretch; gap: .5rem; }
+.narr-slide {
+  display: flex; gap: 1rem; overflow-x: auto; flex: 1 1 auto;
+  scroll-snap-type: x mandatory; padding: .5rem .1rem 1rem;
+  scrollbar-width: thin;
+}
+.narr-slide-card {
+  flex: 0 0 240px; scroll-snap-align: start;
+  border: 1px solid var(--border); border-radius: 12px;
+  background: var(--bg-soft); padding: 1rem;
+}
+.narr-slide-card h4 { margin: 0 0 .35rem; font-size: 1.02rem; }
+.narr-slide-card p { margin: 0 0 .35rem; }
+.narr-slide-links { font-size: .9rem; }
+.narr-slide-btn {
+  flex: 0 0 auto; align-self: center;
+  width: 40px; height: 40px; border-radius: 50%;
+  border: 2px solid var(--lime); background: var(--bg-soft);
+  color: var(--slate); font-size: 1.4rem; line-height: 1; cursor: pointer;
+}
