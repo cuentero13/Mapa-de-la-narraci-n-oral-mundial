@@ -10,9 +10,12 @@
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
     });
   }
-  fetch('data/narradores.json')
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
+  Promise.all([
+    fetch('data/narradores.json').then(function (r) { return r.json(); }),
+    fetch('data/narradores-fotos.json').then(function (r) { return r.json(); }).catch(function () { return {}; })
+  ])
+    .then(function (res) {
+      var data = res[0], fotos = res[1] || {};
       var items = Array.isArray(data) ? data : Object.values(data)[0];
       track.innerHTML = items.map(function (n) {
         var lugar = [n.localidad, n.pais].filter(Boolean).join(' · ');
@@ -31,7 +34,10 @@
           });
           if (parts.length) links = '<p class="narr-slide-links">' + parts.join(' · ') + '</p>';
         }
+        var f = fotos[n.nombre];
+        var fotoHtml = f && f.foto ? '<img class="narr-slide-photo" src="' + esc(f.foto) + '" alt="' + esc(n.nombre) + '" loading="lazy" onerror="this.remove()">' : '';
         return '<article class="narr-slide-card">' +
+          fotoHtml +
           '<h4>' + esc(n.nombre) + '</h4>' +
           (lugar ? '<p class="muted">' + esc(lugar) + '</p>' : '') +
           (n.memoria ? '<p><em>In memoriam</em></p>' : '') +

@@ -450,3 +450,5 @@ img, video { max-width: 100%; }
   border: 2px solid var(--lime); background: var(--bg-soft);
   color: var(--slate); font-size: 1.4rem; line-height: 1; cursor: pointer;
 }
+
+.narr-slide-photo { width: 100%; height: 120px; object-fit: cover; border-radius: 8px; margin-bottom: .55rem; display: block; }
