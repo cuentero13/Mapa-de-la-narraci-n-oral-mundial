@@ -232,6 +232,8 @@
     if (typeof L === "undefined") throw new Error("Leaflet no cargó (CDN no disponible)");
     map = L.map("map", { maxBounds: [[-70, -190], [85, 190]], maxBoundsViscosity: 0.8 }).setView([20, -30], 2);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      noWrap: true,
+      bounds: [[-90, -180], [90, 180]],
       maxZoom: 18,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
