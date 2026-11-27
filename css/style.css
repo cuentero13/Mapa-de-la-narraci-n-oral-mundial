@@ -408,3 +408,23 @@ img, video { max-width: 100%; }
 .foot-bottom { border-top: 1px solid var(--border); margin-top: 1.4rem; padding-top: .9rem; }
 .construction { font-family: inherit; font-size: .95rem; color: var(--amber); }
 @media (max-width: 820px) { .footer-cols { grid-template-columns: 1fr; } }
+
+/* ---------- Menú desplegable también en escritorio (27-nov-2026) ----------
+   A pedido de Mike: el botón ☰ se muestra en todos los anchos y despliega
+   las secciones, igual que en el teléfono. Antes solo existía ≤720px y en
+   escritorio los 20 enlaces iban en línea. */
+.nav-toggle { display: inline-flex; }
+@media (min-width: 721px) {
+  .lang-switch { margin-left: auto; }
+  .topnav {
+    display: none;
+    position: absolute; top: 100%; left: 0; right: 0;
+    flex-direction: row; flex-wrap: wrap; gap: 0;
+    margin-left: 0; padding: .5rem 1rem .75rem;
+    background: var(--bg-soft);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 8px 16px rgba(0,0,0,.12);
+  }
+  .topnav.open { display: flex; }
+  .topnav a { padding: .45rem .6rem; }
+}
