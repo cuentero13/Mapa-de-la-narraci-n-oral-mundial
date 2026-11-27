@@ -56,6 +56,7 @@
         if (n.m) html += '<br><em>In memoriam</em>';
         if (n.a) html += '<br><em>Ubicación aproximada</em>';
         html += linksHtml(n.links);
+        html += '<br><a href="intercambio.html">Intercambio</a>';
         L.circleMarker([n.lat, n.lng], {
           radius: 6, weight: 1, color: '#7c2d12', fillColor: '#d97706', fillOpacity: 0.85
         }).addTo(map).bindPopup(html);

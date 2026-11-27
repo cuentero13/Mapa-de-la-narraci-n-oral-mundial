@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mapa Mundial de la Narración Oral — Fundación Festival Puro Cuento</title>
+<meta name="description" content="Mapa mundial de festivales de narración oral escénica y cuentería: historia, fundadores, directores, ediciones, vigencia, libros y prensa. Lo impulsa la Fundación Festival Puro Cuento (Costa Rica).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@700;800&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700&family=Gochi+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <button class="nav-toggle" type="button" aria-label="Menú" aria-expanded="false" aria-controls="topnav">☰</button>
+  <a class="brand" href="index.html">
+    <img src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Fundación Festival Puro Cuento" class="brand-logo" width="1042" height="725">
+    <span class="brand-name" data-i18n="brand">Mapa Mundial de la Narración Oral</span>
+  </a>
+    <nav class="topnav" id="topnav">
+    <a href="#mapa" data-i18n="nav_mapa">Mapa</a>
+    <a href="#noticias" data-i18n="nav_noticias">Noticias</a>
+    <a href="directorio.html" data-i18n="nav_directorio">Directorio</a>
+    <a href="ranking.html" data-i18n="nav_ranking">Ranking</a>
+    <a href="narradores.html" data-i18n="nav_narradores">Narradores</a>
+    <a href="historia.html" data-i18n="nav_garzon">Historia de la NOE</a>
+    <a href="biblioteca.html" data-i18n="nav_libros">Biblioteca NOE</a>
+    <a href="cronologia.html" data-i18n="nav_cron">Cronología</a>
+    <a href="prensa.html" data-i18n="nav_prensa">Prensa</a>
+    <a href="premios.html" data-i18n="nav_premios">Premios</a>
+    <a href="colaboradores.html" data-i18n="nav_colab">Colaboradores</a>
+    <a href="eventos.html" data-i18n="nav_eventos">Eventos</a>
+    <a href="foro.html" data-i18n="nav_foro">Foro</a>
+    <a href="blog.html" data-i18n="nav_blog">Blog</a>
+    <a href="#destacado" data-i18n="nav_administra">El Festival</a>
+    <a href="fuentes.html" data-i18n="nav_fuentes">Fuentes</a>
+    <a href="creditos.html" data-i18n="nav_creditos">Créditos</a>
+    <a href="#nosotros" data-i18n="nav_nosotros">Nosotros</a>
+    <a href="como-funciona.html" data-i18n="nav_como">Cómo funciona</a>
+    <a href="principios.html" data-i18n="nav_principios">Principios</a>
+    <a href="intercambio.html" data-i18n="nav_intercambio">Intercambio</a>
+  </nav>
+  <div class="lang-switch" role="group" aria-label="Idioma / Language">
+    <button id="lang-es" class="lang-btn active" type="button">ES</button>
+    <button id="lang-en" class="lang-btn" type="button">EN</button>
+  </div>
+</header>
+<main id="inicio">
+<section class="hero">
+  <div class="hero-deco" aria-hidden="true">
+    <svg class="deco deco-star" style="top:10%;left:5%" viewBox="0 0 24 24"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2 5.9 20.6l1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
+    <svg class="deco deco-star" style="top:16%;right:6%" viewBox="0 0 24 24"><path d="M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8L12 17.2 5.9 20.6l1.4-6.8L2.2 9.1l6.9-.8z"/></svg>
+    <svg class="deco deco-dot" style="top:55%;left:9%" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/></svg>
+    <svg class="deco deco-dot" style="top:70%;right:10%" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7"/></svg>
+    <svg class="deco deco-book" style="bottom:6%;right:4%" viewBox="0 0 48 32"><path d="M2 6 C10 2 18 2 24 6 C30 2 38 2 46 6 V28 C38 24 30 24 24 28 C18 24 10 24 2 28 Z"/><path d="M24 6 V28" stroke="#fff" stroke-width="1.5" fill="none"/></svg>
+    <svg class="char char-narrador" viewBox="0 0 80 96" aria-hidden="true"><path d="M18 22 L40 6 L62 22 L56 26 L24 26 Z" fill="#FDBD10"/><circle cx="40" cy="36" r="13" fill="#FFD9B3"/><circle cx="35" cy="35" r="1.8" fill="#263238"/><circle cx="45" cy="35" r="1.8" fill="#263238"/><path d="M35 42 Q40 46 45 42" stroke="#263238" stroke-width="2" fill="none" stroke-linecap="round"/><path d="M24 88 L30 52 L50 52 L56 88 Z" fill="#2E86AB"/><path class="char-book" d="M14 62 C24 56 34 56 40 61 C46 56 56 56 66 62 L66 78 C56 72 46 72 40 77 C34 72 24 72 14 78 Z" fill="#FFF7E6" stroke="#FF8A65" stroke-width="2"/><path d="M40 61 V77" stroke="#FF8A65" stroke-width="2"/></svg>
+    <svg class="char char-buho" viewBox="0 0 72 84" aria-hidden="true"><path class="char-wing char-wing-l" d="M14 38 C4 44 4 58 14 64 C18 56 18 46 14 38Z" fill="#7B5EA7"/><path class="char-wing char-wing-r" d="M58 38 C68 44 68 58 58 64 C54 56 54 46 58 38Z" fill="#7B5EA7"/><ellipse cx="36" cy="44" rx="24" ry="30" fill="#9B7EDE"/><ellipse cx="36" cy="56" rx="14" ry="16" fill="#EFE7FF"/><g class="char-eyes"><circle cx="27" cy="36" r="7" fill="#fff"/><circle cx="45" cy="36" r="7" fill="#fff"/><circle cx="27" cy="36" r="3" fill="#263238"/><circle cx="45" cy="36" r="3" fill="#263238"/></g><path d="M32 46 L40 46 L36 52Z" fill="#FDBD10"/><path d="M20 16 L28 24 M52 16 L44 24" stroke="#7B5EA7" stroke-width="5" stroke-linecap="round"/></svg>
+    <svg class="char char-zorro" viewBox="0 0 84 76" aria-hidden="true"><path class="char-tail" d="M64 48 C78 42 82 28 74 18 C66 28 62 38 64 48Z" fill="#FF8A65"/><path d="M18 24 L28 8 L36 24Z" fill="#FF8A65"/><path d="M48 24 L56 8 L66 24Z" fill="#FF8A65"/><ellipse cx="42" cy="42" rx="28" ry="24" fill="#FFAB7A"/><path d="M24 52 C32 64 52 64 60 52 C52 58 32 58 24 52Z" fill="#FFF3E8"/><circle cx="33" cy="40" r="2.4" fill="#263238"/><circle cx="51" cy="40" r="2.4" fill="#263238"/><path d="M38 52 Q42 56 46 52" stroke="#263238" stroke-width="2" fill="none" stroke-linecap="round"/><ellipse cx="42" cy="48" rx="4" ry="3" fill="#263238"/></svg>
+  </div>
+  <canvas id="hero-stars" aria-hidden="true"></canvas>
+    <div id="hero-3d" role="img" aria-label="Mundo de la narración oral escénica en 3D: un planeta rodeado de personajes y escenarios de cuentos"></div>
+    <h1 data-i18n="hero_title">Bienvenido al Mundo de la narración oral Escénica</h1>
+    <p class="hero-sub" data-i18n="hero_sub">Festivales donde la palabra se vuelve fiesta.</p>
+    <p class="hero-note" data-i18n="hero_note">Narradoras y narradores: sumate a construir esta comunidad internacional de la palabra contada.</p>
+    <div class="stats" id="stats">
+      <div class="stat"><span class="stat-num" id="stat-fest">—</span><span class="stat-label" data-i18n="stat_fest">festivales en el mundo</span></div>
+      <div class="stat"><span class="stat-num" id="stat-narr">—</span><span class="stat-label" data-i18n="stat_narr">narradores en el mundo</span></div>
+      <div class="stat"><span class="stat-num" id="stat-libros">—</span><span class="stat-label" data-i18n="stat_libros">libros verificados</span></div>
+      <div class="stat"><span class="stat-num" id="stat-prensa">—</span><span class="stat-label" data-i18n="stat_prensa">artículos de prensa</span></div>
+    </div>
+    <p class="stat-note muted" data-i18n="stat_note">Total mundial sin duplicados: 11 festivales de Colombia figuran también en el directorio.</p>
+    <div class="hero-cta">
+      <a class="btn btn-primary" href="#mapa" data-i18n="cta_mapa">Explorar el mapa</a>
+      <a class="btn btn-outline" href="directorio.html" data-i18n="cta_directorio">Ver el directorio</a>
+    </div>
+  </section><section class="section" id="noticias">
+    <h2 data-i18n="news_title">Noticias</h2>
+    <p class="section-intro" data-i18n="news_intro">Anuncios de festivales, funciones, talleres, publicaciones, premios y giras, publicados por las narradoras y los narradores. Solo noticias verificadas, con fuente pública y fecha.</p>
+    <div id="news-list"></div>
+  </section>
+  <section class="section" id="mapa">
+    <h2 data-i18n="map_title">El mapa</h2>
+    <p class="section-intro" data-i18n="map_intro">Cada marcador es un festival. Tocá un marcador para ver su ficha resumida. Los marcadores con borde punteado usan la coordenada de la capital del departamento: la ubicación exacta del municipio está sin verificar.</p>
+    <div class="map-filters">
+      <label><span data-i18n="filter_country">País</span>
+        <select id="filter-country"><option value="all" data-i18n="all_countries">Todos los países</option></select>
+      </label>
+      <label><span data-i18n="filter_status">Vigencia</span>
+        <select id="filter-status">
+          <option value="all" data-i18n="all_status">Todas</option>
+          <option value="activo" data-i18n="status_active">Activo</option>
+          <option value="inactivo" data-i18n="status_inactive">Inactivo</option>
+          <option value="sin verificar" data-i18n="status_unverified">Sin verificar</option>
+        </select>
+      </label>
+      <label class="check"><input type="checkbox" id="toggle-world" checked> <span data-i18n="toggle_world">Festivales del mundo</span></label>
+      <label class="check"><input type="checkbox" id="toggle-miticos"> <span data-i18n="toggle_miticos">Lugares míticos</span></label>
+      <label class="check"><input type="checkbox" id="toggle-narradores"> <span data-i18n="toggle_narradores">Narradores orales</span></label>
+      <label class="check"><input type="checkbox" id="toggle-premios"> <span data-i18n="toggle_premios">Premios</span></label>
+      <label class="check"><input type="checkbox" id="toggle-libros"> <span data-i18n="toggle_libros">Libros NOE</span></label>
+    </div>
+    <div id="map" aria-label="Mapa mundial de festivales de narración oral"></div>
+    <div class="miticos-banner" id="miticos-banner" hidden>
+      <p data-i18n="miticos_banner">Lugares míticos: estos lugares son imaginarios o legendarios. No son festivales reales ni lugares verificados. Las coordenadas son aproximadas y señalan solo la referencia tradicional del mito.</p>
+    </div>
+    <div class="legend">
+      <span><i class="dot dot-active"></i> <span data-i18n="status_active">Activo</span></span>
+      <span><i class="dot dot-inactive"></i> <span data-i18n="status_inactive">Inactivo</span></span>
+      <span><i class="dot dot-unverified"></i> <span data-i18n="status_unverified">Sin verificar</span></span>
+      <span><i class="dot dot-colombia"></i> <span data-i18n="legend_colombia">Colombia (investigación de Fredy Ayala, 2026)</span></span>
+      <span><i class="dot dot-admin"></i> <span data-i18n="legend_admin">Festival Puro Cuento — Costa Rica (impulsa el mapa)</span></span>
+      <span><i class="dot dot-miticos">✦</i> <span data-i18n="legend_miticos">Lugares míticos (imaginarios)</span></span>
+    </div>
+    <p class="map-count" id="map-count"></p>
+  </section>  <section class="section" id="explorar">
+    <h2 data-i18n="explore_title">Explorá el mapa</h2>
+    <div class="press-grid">
+      <a class="press-card link-card" href="directorio.html"><span class="link-emoji" aria-hidden="true">🗺️</span><h3 data-i18n="dir_title">Directorio de festivales</h3><span class="link-arrow" aria-hidden="true">→</span></a>
+      <a class="press-card link-card" href="ranking.html"><span class="link-emoji" aria-hidden="true">🏆</span><h3 data-i18n="ranking_title">Dónde hay más narración oral</h3><p data-i18n="ranking_intro">Los lugares con más festivales de narración oral, contados a partir de los datos de este mapa (386 festivales únicos).</p><span class="link-arrow" aria-hidden="true">→</span></a>
+      <a class="press-card link-card" href="narradores.html"><span class="link-emoji" aria-hidden="true">🎭</span><h3 data-i18n="narr_title">Narradores</h3><span class="link-arrow" aria-hidden="true">→</span></a>
+      <a class="press-card link-card" href="historia.html"><span class="link-emoji" aria-hidden="true">📜</span><h3 data-i18n="historia_title">Historia de la NOE</h3><p data-i18n="garzon_sub">Francisco Garzón Céspedes (Cuba, 1947) y el nacimiento de la narración oral escénica en América Latina.</p><span class="link-arrow" aria-hidden="true">→</span></a>
+      <a class="press-card link-card" href="biblioteca.html"><span class="link-emoji" aria-hidden="true">📚</span><h3 data-i18n="books_title">Biblioteca NOE</h3><p data-i18n="books_intro">Catálogo público: 120 libros (96 verificados y 24 con año o editorial sin verificar) de nueve autores narradores, con enlace para buscar cada título.</p><span class="link-arrow" aria-hidden="true">→</span></a>
+      <a class="press-card link-card" href="prensa.html"><span class="link-emoji" aria-hidden="true">📰</span><h3 data-i18n="press_title">Prensa</h3><p data-i18n="press_intro">Artículos de prensa verificados sobre la narración oral y sus festivales.</p><span class="link-arrow" aria-hidden="true">→</span></a>
+      <a class="press-card link-card" href="premios.html"><span class="link-emoji" aria-hidden="true">🏅</span><h3 data-i18n="premios_title">Premios</h3><p data-i18n="premios_intro">Premios y reconocimientos de narración oral verificados, organizados por país o ámbito. Cada premio cita sus fuentes en formato APA.</p><span class="link-arrow" aria-hidden="true">→</span></a>
+    </div>
+  </section>
+  <section class="section" id="nosotros">
+    <h2 data-i18n="nos_title">Nosotros</h2>
+    <p class="section-intro" data-i18n="nos_intro">Este mapa es un encuentro: lo hacen las narradoras y los narradores, los festivales y las comunidades que cuentan historias en todo el mundo. Nadie está por encima de nadie: cada ficha tiene el mismo lugar, y cada persona que cuenta suma.</p>
+    <blockquote>
+      <p data-i18n="nos_quote">«Nosotros queremos impulsar un mundo con más narración y nos parece que unirnos es lo mejor que podemos hacer».</p>
+    </blockquote>
+    <p data-i18n="nos_invite">Te invitamos a inscribirte, actualizar tus datos, mejorar tu ficha y proponer: nuevos festivales, correcciones y noticias. Cuando exista el registro, podrás hacerlo directamente desde tu cuenta.</p>
+  </section>
+<section class="section featured" id="destacado">
+    <h2 data-i18n="feat_title">El festival que impulsa este mapa</h2>
+    <article class="fest-card featured-card" id="featured-card">
+      <div class="fest-card-head">
+        <h3>Festival Internacional Puro Cuento</h3>
+        <span class="badge badge-admin" data-i18n="feat_badge">Impulsa el mapa</span>
+      </div>
+      <p class="fest-meta">San José · Costa Rica · <span data-i18n="feat_founded">fundado en</span> 2002</p>
+      <img class="featured-photo" src="https://festivalpurocuento.com/wp-content/uploads/2023/02/Evento-Los-Cuentos-Viven-la-Plaza-768x432.jpg" alt="Festival Internacional Puro Cuento — Los Cuentos Viven la Plaza" loading="lazy" onerror="this.remove()">
+      <dl class="fest-fields">
+        <div><dt data-i18n="f_editions">Ediciones</dt><dd>18 <span class="muted">(2002–2026, dato de la Fundación)</span></dd></div>
+        <div><dt data-i18n="f_president">Presidente</dt><dd>Víctor Michael Navarro Hernández</dd></div>
+        <div><dt data-i18n="f_next">Próxima edición</dt><dd>19.ª, 13–21 de marzo de 2027</dd></div>
+        <div><dt data-i18n="f_2026">Asistencia 2026</dt><dd>10.350 asistentes presenciales y 7.190 en escuelas</dd></div>
+        <div><dt>Facebook</dt><dd><a href="https://www.facebook.com/fundacionfestivalpurocuento/" target="_blank" rel="noopener">Fundación Festival Puro Cuento</a></dd></div>
+      </dl>
+    </article>
+  </section>
+</main>
+<footer>
+  <div class="footer-cols">
+    <div>
+      <h3 data-i18n="foot_nosotros">Nosotros</h3>
+      <p data-i18n="foot_nosotros_text">El Mapa Mundial de la Narración Oral es un registro en construcción de los festivales donde la palabra se vuelve fiesta, en todo el mundo. Lo impulsa la Fundación Festival Puro Cuento.</p>
+      <h3>Fundación Festival Puro Cuento</h3>
+      <p data-i18n="foot_fundacion_text">Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y lleva 18 ediciones; su próxima edición, la 19.ª, es del 13 al 21 de marzo de 2027. Presidente: Víctor Michael Navarro Hernández. Cédula jurídica: 3-006-829758.</p>
+      <p><strong data-i18n="f_contact">Contacto</strong>: <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a> · <a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></p>
+    </div>
+    <div>
+      <h3 data-i18n="foot_links">Enlaces</h3>
+      <ul class="foot-links">
+        <li><a href="principios.html" data-i18n="nav_principios">Principios</a></li>
+        <li><a href="como-funciona.html" data-i18n="nav_como">Cómo funciona</a></li>
+        <li><a href="cronologia.html" data-i18n="nav_cron">Cronología</a></li>
+        <li><a href="colaboradores.html" data-i18n="nav_colab">Colaboradores</a></li>
+        <li><a href="eventos.html" data-i18n="nav_eventos">Eventos</a></li>
+        <li><a href="blog.html" data-i18n="nav_blog">Blog</a></li>
+        <li><a href="foro.html" data-i18n="nav_foro">Foro</a></li>
+        <li><a href="fuentes.html" data-i18n="foot_sources">Fuentes</a></li>
+        <li><a href="creditos.html" data-i18n="foot_creditos">Créditos</a></li>
+        <li><a href="terminos.html" data-i18n="foot_terminos">Términos y Condiciones</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3 data-i18n="foot_sources">Fuentes</h3>
+      <p data-i18n="foot_sources_v">Red Internacional de Cuentacuentos (cuentacuentos.eu); investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026, Ministerio de las Culturas de Colombia); fichas de festivales, libros y prensa verificadas en noviembre de 2026; registros de la Fundación Festival Puro Cuento.</p>
+      <p data-i18n="foot_retiro">Si eres titular de derechos de alguna imagen y deseas su retiro, escríbenos a info@festivalpurocuento.com</p>
+      <p class="construction" data-i18n="foot_construction">Registro en construcción: los datos no verificados se marcan como tales. Si un dato está mal o falta, escribí a info@festivalpurocuento.com.</p>
+    </div>
+  </div>
+  <p class="foot-bottom muted">Mapa Mundial de la Narración Oral · Fundación Festival Puro Cuento · 2026</p>
+</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/app.js"></script>
+<script>
+(function () {
+  var btn = document.querySelector('.nav-toggle');
+  var nav = document.getElementById('topnav');
+  if (!btn || !nav) return;
+  btn.addEventListener('click', function () {
+    var open = nav.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    btn.textContent = open ? '✕' : '☰';
+  });
+  nav.querySelectorAll('a').forEach(function (a) {
+    a.addEventListener('click', function () {
+      nav.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.textContent = '☰';
+    });
+  });
+})();
+</script>
+<script>
+/* Universo del hero: estrellas que titilan + logo que sigue al cursor (24-nov-2026) */
+(function () {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var canvas = document.getElementById('hero-stars');
+  if (!canvas) return;
+  var ctx = canvas.getContext('2d');
+  var hero = canvas.parentElement;
+  var stars = [], W = 0, H = 0, mx = 0.5, my = 0.5;
+  function resize() {
+    var r = hero.getBoundingClientRect();
+    W = canvas.width = Math.max(1, Math.floor(r.width));
+    H = canvas.height = Math.max(1, Math.floor(r.height));
+    stars = [];
+    var n = Math.min(120, Math.floor(W * H / 9000));
+    for (var i = 0; i < n; i++) {
+      stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.4 + 0.4,
+        p: Math.random() * Math.PI * 2, s: 0.008 + Math.random() * 0.02, d: 0.2 + Math.random() * 0.6 });
+    }
+  }
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+    for (var i = 0; i < stars.length; i++) {
+      var st = stars[i];
+      st.p += st.s;
+      var a = 0.25 + 0.55 * (0.5 + 0.5 * Math.sin(st.p));
+      var px = st.x + (mx - 0.5) * 20 * st.d;
+      var py = st.y + (my - 0.5) * 14 * st.d;
+      ctx.beginPath();
+      ctx.arc(px, py, st.r, 0, Math.PI * 2);
+      ctx.fillStyle = 'rgba(150, 110, 20, ' + a.toFixed(2) + ')';
+      ctx.fill();
+    }
+    requestAnimationFrame(draw);
+  }
+  var logo = hero.querySelector('.hero-logo');
+  hero.addEventListener('mousemove', function (e) {
+    var r = hero.getBoundingClientRect();
+    mx = (e.clientX - r.left) / r.width;
+    my = (e.clientY - r.top) / r.height;
+    if (logo) logo.style.transform = 'perspective(600px) rotateY(' + ((mx - 0.5) * 14).toFixed(1) + 'deg) rotateX(' + ((0.5 - my) * 10).toFixed(1) + 'deg) scale(1.03)';
+  });
+  hero.addEventListener('mouseleave', function () {
+    mx = 0.5; my = 0.5;
+    if (logo) logo.style.transform = '';
+  });
+  if (logo) {
+    logo.addEventListener('click', function () {
+      logo.classList.remove('logo-spin');
+      void logo.offsetWidth;
+      logo.classList.add('logo-spin');
+    });
+  }
+  resize();
+  window.addEventListener('resize', resize);
+  draw();
+})();
+</script>
+<script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js"}}</script>
+<script type="module">
+/* Bienvenidos al mundo de la NOE: planeta de cuentos en 3D (25-nov-2026) */
+import * as THREE from 'three';
+(function () {
+  var box = document.getElementById('hero-3d');
+  if (!box) return;
+  var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var renderer;
+  try {
+    renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+  } catch (e) { return; }
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+  box.appendChild(renderer.domElement);
+  var scene = new THREE.Scene();
+  var camera = new THREE.PerspectiveCamera(42, 1, 0.1, 100);
+  camera.position.set(0, 1.1, 9.2);
+  scene.add(new THREE.AmbientLight(0xffffff, 0.85));
+  var sun = new THREE.DirectionalLight(0xfff2cc, 1.6); sun.position.set(5, 6, 6); scene.add(sun);
+  var glow = new THREE.PointLight(0xffb84d, 18, 30); glow.position.set(-4, 2, 4); scene.add(glow);
+  function mat(c, rough) { return new THREE.MeshStandardMaterial({ color: c, roughness: rough == null ? 0.55 : rough, metalness: 0.05 }); }
+  function mesh(geo, c, x, y, z) { var m = new THREE.Mesh(geo, mat(c)); m.position.set(x || 0, y || 0, z || 0); return m; }
+  var world = new THREE.Group(); scene.add(world);
+  var globe = mesh(new THREE.SphereGeometry(1.9, 48, 32), 0x14406e, 0, 0, 0); world.add(globe);
+  var wire = new THREE.Mesh(new THREE.SphereGeometry(1.94, 24, 16), new THREE.MeshBasicMaterial({ color: 0x7dd3fc, wireframe: true, transparent: true, opacity: 0.16 }));
+  world.add(wire);
+  var dotGeo = new THREE.BufferGeometry(); var pts = [];
+  for (var i = 0; i < 520; i++) {
+    var th = Math.random() * Math.PI * 2, ph = Math.acos(2 * Math.random() - 1);
+    pts.push(1.93 * Math.sin(ph) * Math.cos(th), 1.93 * Math.cos(ph), 1.93 * Math.sin(ph) * Math.sin(th));
+  }
+  dotGeo.setAttribute('position', new THREE.Float32BufferAttribute(pts, 3));
+  world.add(new THREE.Points(dotGeo, new THREE.PointsMaterial({ color: 0xffd166, size: 0.05 })));
+  var ring = new THREE.Mesh(new THREE.TorusGeometry(2.55, 0.035, 12, 90), mat(0xf5b942, 0.3));
+  ring.rotation.x = Math.PI / 2.4; world.add(ring);
+  function narrator() {
+    var g = new THREE.Group();
+    g.add(mesh(new THREE.CylinderGeometry(0.22, 0.3, 0.62, 20), 0x15917b, 0, 0, 0));
+    g.add(mesh(new THREE.SphereGeometry(0.21, 24, 18), 0xf2c79b, 0, 0.48, 0));
+    g.add(mesh(new THREE.ConeGeometry(0.24, 0.34, 20), 0xd64545, 0, 0.74, 0));
+    var b1 = mesh(new THREE.BoxGeometry(0.3, 0.05, 0.4), 0xfff7e0, -0.14, 0.12, 0.3); b1.rotation.y = 0.35; g.add(b1);
+    var b2 = mesh(new THREE.BoxGeometry(0.3, 0.05, 0.4), 0xfff7e0, 0.14, 0.12, 0.3); b2.rotation.y = -0.35; g.add(b2);
+    return g;
+  }
+  function owl() {
+    var g = new THREE.Group();
+    var body = mesh(new THREE.SphereGeometry(0.34, 24, 18), 0x7c5cbf, 0, 0, 0); body.scale.set(1, 1.15, 0.9); g.add(body);
+    var belly = mesh(new THREE.SphereGeometry(0.22, 20, 14), 0xe9defc, 0, -0.1, 0.2); belly.scale.set(1, 1.1, 0.55); g.add(belly);
+    [-0.12, 0.12].forEach(function (x) {
+      g.add(mesh(new THREE.SphereGeometry(0.085, 16, 12), 0xffffff, x, 0.14, 0.27));
+      g.add(mesh(new THREE.SphereGeometry(0.04, 12, 8), 0x1c2430, x, 0.14, 0.34));
+      var ear = mesh(new THREE.ConeGeometry(0.07, 0.16, 10), 0x7c5cbf, x * 1.5, 0.4, 0); g.add(ear);
+    });
+    var beak = mesh(new THREE.ConeGeometry(0.06, 0.12, 10), 0xf5a623, 0, 0.02, 0.32); beak.rotation.x = Math.PI / 2; g.add(beak);
+    return g;
+  }
+  function fox() {
+    var g = new THREE.Group();
+    var body = mesh(new THREE.SphereGeometry(0.3, 24, 18), 0xe07b39, 0, -0.05, 0); body.scale.set(1.25, 0.8, 0.8); g.add(body);
+    g.add(mesh(new THREE.SphereGeometry(0.2, 20, 14), 0xe07b39, 0.34, 0.12, 0));
+    var snout = mesh(new THREE.ConeGeometry(0.09, 0.22, 12), 0xfff3e2, 0.54, 0.08, 0); snout.rotation.z = -Math.PI / 2; g.add(snout);
+    [-0.09, 0.09].forEach(function (z) { g.add(mesh(new THREE.ConeGeometry(0.06, 0.16, 8), 0xc75f24, 0.28, 0.34, z)); });
+    var tail = mesh(new THREE.ConeGeometry(0.13, 0.42, 12), 0xe07b39, -0.42, 0.05, 0); tail.rotation.z = 2.2; g.add(tail);
+    return g;
+  }
+  function castle() {
+    var g = new THREE.Group();
+    g.add(mesh(new THREE.CylinderGeometry(0.3, 0.36, 0.5, 8), 0x9aa7b8, 0, -0.1, 0));
+    g.add(mesh(new THREE.CylinderGeometry(0.18, 0.2, 0.62, 8), 0xb8c4d4, 0, 0.3, 0));
+    g.add(mesh(new THREE.ConeGeometry(0.26, 0.34, 8), 0xd64545, 0, 0.78, 0));
+    g.add(mesh(new THREE.BoxGeometry(0.2, 0.1, 0.02), 0xf5b942, 0.1, 0.98, 0));
+    return g;
+  }
+  function tree() {
+    var g = new THREE.Group();
+    g.add(mesh(new THREE.CylinderGeometry(0.07, 0.1, 0.5, 10), 0x8a5a33, 0, -0.2, 0));
+    g.add(mesh(new THREE.SphereGeometry(0.3, 20, 14), 0x3f9e4d, 0, 0.25, 0));
+    g.add(mesh(new THREE.SphereGeometry(0.2, 16, 12), 0x57b368, 0.2, 0.42, 0.08));
+    g.add(mesh(new THREE.SphereGeometry(0.18, 16, 12), 0x2f7d3c, -0.2, 0.4, -0.05));
+    return g;
+  }
+  function book() {
+    var g = new THREE.Group();
+    var l = mesh(new THREE.BoxGeometry(0.42, 0.06, 0.55), 0xd64545, -0.2, 0, 0); l.rotation.z = 0.16; g.add(l);
+    var r = mesh(new THREE.BoxGeometry(0.42, 0.06, 0.55), 0xd64545, 0.2, 0, 0); r.rotation.z = -0.16; g.add(r);
+    var pl = mesh(new THREE.BoxGeometry(0.36, 0.03, 0.48), 0xfff7e0, -0.19, 0.05, 0); pl.rotation.z = 0.16; g.add(pl);
+    var pr = mesh(new THREE.BoxGeometry(0.36, 0.03, 0.48), 0xfff7e0, 0.19, 0.05, 0); pr.rotation.z = -0.16; g.add(pr);
+    return g;
+  }
+  function voice() {
+    var g = new THREE.Group();
+    var bubble = mesh(new THREE.SphereGeometry(0.3, 24, 18), 0xffffff, 0, 0.05, 0); bubble.scale.set(1.25, 0.85, 0.6); g.add(bubble);
+    var tail = mesh(new THREE.ConeGeometry(0.1, 0.22, 10), 0xffffff, -0.2, -0.22, 0); tail.rotation.z = 0.7; g.add(tail);
+    [-0.14, 0, 0.14].forEach(function (x) { g.add(mesh(new THREE.SphereGeometry(0.045, 10, 8), 0x14406e, x, 0.05, 0.17)); });
+    var arc = new THREE.Mesh(new THREE.TorusGeometry(0.42, 0.03, 8, 24, Math.PI * 0.9), mat(0xf5b942, 0.3));
+    arc.position.set(0.34, 0.05, 0); arc.rotation.z = -0.4; g.add(arc);
+    return g;
+  }
+  var orbit = new THREE.Group(); orbit.rotation.z = 0.32; scene.add(orbit);
+  var makers = [narrator, owl, fox, castle, tree, book, voice];
+  var items = [];
+  makers.forEach(function (fn, i) {
+    var it = fn();
+    var a = (i / makers.length) * Math.PI * 2;
+    it.position.set(Math.cos(a) * 3.35, Math.sin(a * 2) * 0.35, Math.sin(a) * 3.35);
+    it.userData = { a: a, y: it.position.y, s: 0.8 + (i % 3) * 0.12 };
+    it.scale.setScalar(it.userData.s);
+    orbit.add(it); items.push(it);
+  });
+  var starGeo = new THREE.BufferGeometry(); var sp = [];
+  for (var j = 0; j < 260; j++) {
+    var r = 5.5 + Math.random() * 4, t2 = Math.random() * Math.PI * 2, p2 = Math.acos(2 * Math.random() - 1);
+    sp.push(r * Math.sin(p2) * Math.cos(t2), r * Math.cos(p2) * 0.6, r * Math.sin(p2) * Math.sin(t2));
+  }
+  starGeo.setAttribute('position', new THREE.Float32BufferAttribute(sp, 3));
+  scene.add(new THREE.Points(starGeo, new THREE.PointsMaterial({ color: 0xffe9a8, size: 0.07 })));
+  var tx = 0, ty = 0, spin = 0;
+  box.addEventListener('pointermove', function (e) {
+    var r = box.getBoundingClientRect();
+    ty = ((e.clientX - r.left) / r.width - 0.5) * 0.7;
+    tx = ((e.clientY - r.top) / r.height - 0.5) * 0.4;
+  });
+  box.addEventListener('click', function () { spin += 0.35; });
+  function resize() {
+    var w = Math.max(1, box.clientWidth), h = Math.max(1, box.clientHeight);
+    renderer.setSize(w, h); camera.aspect = w / h; camera.updateProjectionMatrix();
+  }
+  resize(); window.addEventListener('resize', resize);
+  var clock = new THREE.Clock();
+  function frame() {
+    var t = clock.getElapsedTime();
+    world.rotation.y = t * 0.22 + spin;
+    orbit.rotation.y = -t * 0.16 - spin * 0.6;
+    items.forEach(function (it, i) {
+      it.position.y = it.userData.y + Math.sin(t * 1.3 + i * 1.7) * 0.09;
+      it.rotation.y = -it.userData.a + orbit.rotation.y * 0 + Math.sin(t * 0.8 + i) * 0.15;
+    });
+    spin *= 0.985;
+    scene.rotation.y += (ty - scene.rotation.y) * 0.04;
+    scene.rotation.x += (tx - scene.rotation.x) * 0.04;
+    renderer.render(scene, camera);
+    if (!reduced) requestAnimationFrame(frame);
+  }
+  frame();
+})();
+</script>
+</body>
+</html>

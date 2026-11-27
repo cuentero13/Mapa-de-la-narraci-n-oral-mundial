@@ -206,7 +206,7 @@
     parts.push(`<div>${esc(n.localidad || "")}${n.localidad && n.pais ? " · " : ""}${esc(n.pais || "")}</div>`);
     if (n.memoria) parts.push(`<div>${t("in_memoriam")}</div>`);
     parts.push(`<div class="aprox">${t("approx_general")}</div>`);
-    parts.push(`<div><a href="narradores.html">${t("nav_narradores")}</a></div>`);
+    parts.push(`<div><a href="narradores.html">${t("nav_narradores")}</a> · <a href="intercambio.html">${t("nav_intercambio")}</a></div>`);
     return parts.join("");
   }
 

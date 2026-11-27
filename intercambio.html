@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Intercambio — Mapa Mundial de la Narración Oral</title>
+<meta name="description" content="Tablero de intercambio del Mapa Mundial de la Narración Oral: propuestas de colaboraciones, intercambios y giras entre narradoras, narradores y festivales.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@700;800&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700&family=Gochi+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+.page-hero { max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 0; }
+.page-hero h1 { margin-bottom: .3rem; }
+</style>
+<style>
+.inter-filtros { display:flex; gap:.5rem; flex-wrap:wrap; margin:1rem 0; }
+.inter-filtro { padding:.45rem 1rem; border-radius:999px; border:1px solid var(--border, #3a4a63); background:transparent; color:inherit; cursor:pointer; font:inherit; }
+.inter-filtro.active { background:#2E86AB; color:#fff; border-color:#2E86AB; }
+#intercambio-form { display:grid; gap:.8rem; max-width:640px; margin-top:1rem; }
+#intercambio-form label { display:grid; gap:.3rem; font-weight:600; }
+#intercambio-form input, #intercambio-form select, #intercambio-form textarea { padding:.55rem .7rem; border-radius:8px; border:1px solid var(--border, #3a4a63); font:inherit; width:100%; box-sizing:border-box; }
+#intercambio-form .check { display:flex; gap:.6rem; align-items:flex-start; font-weight:400; }
+#intercambio-form .check input { width:auto; margin-top:.25rem; }
+#intercambio-list .fest-card { margin-bottom:1rem; }
+</style>
+</head>
+<body class="page-intercambio">
+<header class="topbar">
+  <button class="nav-toggle" type="button" aria-label="Menú" aria-expanded="false" aria-controls="topnav">☰</button>
+  <a class="brand" href="index.html">
+    <img src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" onerror="this.onerror=null;this.src='https://lh3.googleusercontent.com/d/1Wt1VsOTxu1ptAFIPK60h5whGQLkJbbdv=w1200'" alt="Fundación Festival Puro Cuento" class="brand-logo" width="1042" height="725">
+    <span class="brand-name" data-i18n="brand">Mapa Mundial de la Narración Oral</span>
+  </a>
+    <nav class="topnav" id="topnav">
+    <a href="index.html#mapa" data-i18n="nav_mapa">Mapa</a>
+    <a href="index.html#noticias" data-i18n="nav_noticias">Noticias</a>
+    <a href="directorio.html" data-i18n="nav_directorio">Directorio</a>
+    <a href="ranking.html" data-i18n="nav_ranking">Ranking</a>
+    <a href="narradores.html" data-i18n="nav_narradores">Narradores</a>
+    <a href="historia.html" data-i18n="nav_garzon">Historia de la NOE</a>
+    <a href="biblioteca.html" data-i18n="nav_libros">Biblioteca NOE</a>
+    <a href="cronologia.html" data-i18n="nav_cron">Cronología</a>
+    <a href="prensa.html" data-i18n="nav_prensa">Prensa</a>
+    <a href="premios.html" data-i18n="nav_premios">Premios</a>
+    <a href="colaboradores.html" data-i18n="nav_colab">Colaboradores</a>
+    <a href="eventos.html" data-i18n="nav_eventos">Eventos</a>
+    <a href="foro.html" data-i18n="nav_foro">Foro</a>
+    <a href="blog.html" data-i18n="nav_blog">Blog</a>
+    <a href="index.html#administra" data-i18n="nav_administra">El Festival</a>
+    <a href="fuentes.html" data-i18n="nav_fuentes">Fuentes</a>
+    <a href="creditos.html" data-i18n="nav_creditos">Créditos</a>
+    <a href="index.html#nosotros" data-i18n="nav_nosotros">Nosotros</a>
+    <a href="como-funciona.html" data-i18n="nav_como">Cómo funciona</a>
+    <a href="principios.html" data-i18n="nav_principios">Principios</a>
+    <a href="intercambio.html" data-i18n="nav_intercambio">Intercambio</a>
+  </nav>
+  <div class="lang-switch" role="group" aria-label="Idioma / Language">
+    <button id="lang-es" class="lang-btn active" type="button">ES</button>
+    <button id="lang-en" class="lang-btn" type="button">EN</button>
+  </div>
+</header>
+<main>
+<div class="page-hero">
+<h1 data-i18n="inter_title">Intercambio</h1>
+<p class="section-intro" data-i18n="inter_intro">Este es el tablero de la red: aquí se publican propuestas de colaboraciones, intercambios y giras entre narradoras, narradores y festivales del mapa. Cada ficha del mapa trae los canales públicos de contacto de su narradora, narrador o festival, para escribirse directamente; y las propuestas que quieran llegar a toda la red se publican en este tablero.</p>
+</div>
+<section class="section">
+<h2 data-i18n="inter_board_t">Tablero de propuestas</h2>
+<div class="inter-filtros" role="group" aria-label="Filtrar propuestas">
+<button type="button" class="inter-filtro active" data-filtro="todas" data-i18n="inter_f_all">Todas</button>
+<button type="button" class="inter-filtro" data-filtro="colaboracion" data-i18n="inter_f_colab">Colaboraciones</button>
+<button type="button" class="inter-filtro" data-filtro="intercambio" data-i18n="inter_f_inter">Intercambios</button>
+<button type="button" class="inter-filtro" data-filtro="gira" data-i18n="inter_f_gira">Giras</button>
+</div>
+<div id="intercambio-list"><p class="muted">…</p></div>
+<h2 data-i18n="inter_form_t">Publicar una propuesta</h2>
+<p data-i18n="inter_form_intro">Completá el formulario y se abrirá tu correo con la propuesta lista para enviar a la Fundación. La Fundación la verifica y la publica en el tablero; nada se publica automáticamente. Publicá solo el contacto que aceptás que sea público.</p>
+<form id="intercambio-form">
+<label><span data-i18n="inter_l_nombre">Tu nombre o el de tu festival</span><input id="f-nombre" required></label>
+<label><span data-i18n="inter_l_pais">País</span><input id="f-pais" required></label>
+<label><span data-i18n="inter_l_tipo">Tipo de propuesta</span><select id="f-tipo"><option value="colaboracion" data-i18n="inter_f_colab">Colaboraciones</option><option value="intercambio" data-i18n="inter_f_inter">Intercambios</option><option value="gira" data-i18n="inter_f_gira">Giras</option></select></label>
+<label><span data-i18n="inter_l_titulo">Título de la propuesta</span><input id="f-titulo" required></label>
+<label><span data-i18n="inter_l_ofrece">Qué ofrecés</span><textarea id="f-ofrece" rows="3" required></textarea></label>
+<label><span data-i18n="inter_l_busca">Qué buscás</span><textarea id="f-busca" rows="3" required></textarea></label>
+<label><span data-i18n="inter_l_fechas">Fechas o disponibilidad</span><input id="f-fechas"></label>
+<label><span data-i18n="inter_l_contacto">Contacto para publicar (correo o enlace público)</span><input id="f-contacto" required></label>
+<label class="check"><input type="checkbox" id="f-publico" required><span data-i18n="inter_l_publico">Acepto que esta propuesta y este contacto se publiquen en el tablero.</span></label>
+<button class="btn btn-primary" type="submit" data-i18n="inter_btn">Preparar el correo de propuesta</button>
+</form>
+<p id="intercambio-nota" class="muted" hidden></p>
+<h2 data-i18n="inter_como_t">Cómo funciona el intercambio</h2>
+<p data-i18n="inter_como">Hay dos caminos que se complementan. El directo: cada perfil de narradora o narrador y cada ficha de festival traen sus canales públicos, y podés escribirles sin intermediarios. El del tablero: publicás tu propuesta aquí, la Fundación la verifica y queda visible para toda la red, con tu contacto público para que te escriban. Las propuestas se retiran cuando lo pidás, igual que las fichas.</p>
+</section>
+</main>
+<footer>
+  <div class="footer-cols">
+    <div>
+      <h3 data-i18n="foot_nosotros">Nosotros</h3>
+      <p data-i18n="foot_nosotros_text">El Mapa Mundial de la Narración Oral es un registro en construcción de los festivales donde la palabra se vuelve fiesta, en todo el mundo. Lo impulsa la Fundación Festival Puro Cuento.</p>
+      <h3>Fundación Festival Puro Cuento</h3>
+      <p data-i18n="foot_fundacion_text">Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y lleva 18 ediciones; su próxima edición, la 19.ª, es del 13 al 21 de marzo de 2027. Presidente: Víctor Michael Navarro Hernández. Cédula jurídica: 3-006-829758.</p>
+      <p><strong data-i18n="f_contact">Contacto</strong>: <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a> · <a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a></p>
+    </div>
+    <div>
+      <h3 data-i18n="foot_links">Enlaces</h3>
+      <ul class="foot-links">
+        <li><a href="principios.html" data-i18n="nav_principios">Principios</a></li>
+        <li><a href="como-funciona.html" data-i18n="nav_como">Cómo funciona</a></li>
+        <li><a href="cronologia.html" data-i18n="nav_cron">Cronología</a></li>
+        <li><a href="colaboradores.html" data-i18n="nav_colab">Colaboradores</a></li>
+        <li><a href="eventos.html" data-i18n="nav_eventos">Eventos</a></li>
+        <li><a href="blog.html" data-i18n="nav_blog">Blog</a></li>
+        <li><a href="foro.html" data-i18n="nav_foro">Foro</a></li>
+        <li><a href="fuentes.html" data-i18n="foot_sources">Fuentes</a></li>
+        <li><a href="creditos.html" data-i18n="foot_creditos">Créditos</a></li>
+        <li><a href="terminos.html" data-i18n="foot_terminos">Términos y Condiciones</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3 data-i18n="foot_sources">Fuentes</h3>
+      <p data-i18n="foot_sources_v">Red Internacional de Cuentacuentos (cuentacuentos.eu); investigación «Festivales de cuentería en Colombia» de Fredy Ayala (2026, Ministerio de las Culturas de Colombia); fichas de festivales, libros y prensa verificadas en noviembre de 2026; registros de la Fundación Festival Puro Cuento.</p>
+      <p data-i18n="foot_retiro">Si eres titular de derechos de alguna imagen y deseas su retiro, escríbenos a info@festivalpurocuento.com</p>
+      <p class="construction" data-i18n="foot_construction">Registro en construcción: los datos no verificados se marcan como tales. Si un dato está mal o falta, escribí a info@festivalpurocuento.com.</p>
+    </div>
+  </div>
+  <p class="foot-bottom muted">Mapa Mundial de la Narración Oral · Fundación Festival Puro Cuento · 2026</p>
+</footer>
+<script src="js/i18n.js"></script>
+<script src="js/app.js"></script>
+<script>
+(function () {
+  var btn = document.querySelector('.nav-toggle');
+  var nav = document.getElementById('topnav');
+  if (!btn || !nav) return;
+  btn.addEventListener('click', function () {
+    var open = nav.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    btn.textContent = open ? '✕' : '☰';
+  });
+  nav.querySelectorAll('a').forEach(function (a) {
+    a.addEventListener('click', function () {
+      nav.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.textContent = '☰';
+    });
+  });
+})();
+</script>
+<script src="js/intercambio.js"></script>
+</body>
+</html>
