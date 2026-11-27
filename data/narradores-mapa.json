@@ -1,0 +1,2342 @@
+[
+ {
+  "n": "Juan Madrigal (Juan Cuentacuentos)",
+  "l": "Alajuela",
+  "p": "Costa Rica",
+  "lat": 10.4523317,
+  "lng": -84.4663284,
+  "a": 0,
+  "e": "https://www.facebook.com/jardindelcuento"
+ },
+ {
+  "n": "José Martínez",
+  "l": "Alajuela",
+  "p": "Costa Rica",
+  "lat": 10.4523317,
+  "lng": -84.4663284,
+  "a": 0,
+  "e": "https://www.facebook.com/josecomunicacom"
+ },
+ {
+  "n": "Monito Cuentacuentos (Fabian Campos Chavarria)",
+  "l": "Barba – Heredia",
+  "p": "Costa Rica",
+  "lat": 10.0124415,
+  "lng": -84.1164503,
+  "a": 0,
+  "e": "https://www.facebook.com/MonitoStorytelling"
+ },
+ {
+  "n": "Jeff Cuentero",
+  "l": "Heredia",
+  "p": "Costa Rica",
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "a": 0,
+  "e": "[{'url': 'https://si.cultura.cr/es/personas/jeff-cuentero', 'etiqueta': 'Directorio (SIC)'}, {'url': 'https://www.ivoox.com/podcast-jeff-cuentero_sq_f1141302_1.html', 'etiqueta': 'Podcast (iVoox)'}]"
+ },
+ {
+  "n": "Lilliam Ocampo (Liliacuentista)",
+  "l": "Heredia",
+  "p": "Costa Rica",
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Xavier Sánchez Aguilar (Xavi Cuentero)",
+  "l": "Heredia",
+  "p": "Costa Rica",
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Yanuri Villalobos",
+  "l": "Heredia",
+  "p": "Costa Rica",
+  "lat": 10.3767813,
+  "lng": -84.0139721,
+  "a": 0,
+  "e": "https://www.instagram.com/yanurivillalobos"
+ },
+ {
+  "n": "Luis Fernando Barrantes (El abuelo cuentacuentos)",
+  "l": "Nicoya, Guanacaste",
+  "p": "Costa Rica",
+  "lat": 10.103348,
+  "lng": -85.4152942,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Beto Castillo",
+  "l": "Palmares, Alajuela",
+  "p": "Costa Rica",
+  "lat": 10.046546,
+  "lng": -84.4355799,
+  "a": 0,
+  "e": "https://x.com/BetoCastilloCR"
+ },
+ {
+  "n": "Wílmer Oconitrillo Cuentacuentos",
+  "l": "Palmares, Alajuela",
+  "p": "Costa Rica",
+  "lat": 10.046546,
+  "lng": -84.4355799,
+  "a": 0,
+  "e": "https://www.instagram.com/wilmeroconitrillo"
+ },
+ {
+  "n": "Ana Coralia Fernández",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "https://www.facebook.com/afernandezarias"
+ },
+ {
+  "n": "Ana Victoria Garro",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "https://anavictoriagarro.wixsite.com/arte"
+ },
+ {
+  "n": "Carlos Rubio",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "[{'url': 'https://www.asale.org/academico/carlos-rubio-torres', 'etiqueta': 'Directorio (ASALE)'}]"
+ },
+ {
+  "n": "Erick Vega (Erick cuentacuentos)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "https://inter-activeid.com/IAID-EduCreativos/index.html"
+ },
+ {
+  "n": "Fernando Franco León (Francocuentos)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "[{'url': 'http://si.cultura.cr/personas/fernando-franco-leon', 'etiqueta': 'Directorio (SIC)'}]"
+ },
+ {
+  "n": "Grupo Cuentofag@s (Daniel Alvarado, Inti Barrantes, Maricruz Campos)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "https://www.facebook.com/cuentofagos"
+ },
+ {
+  "n": "Gustavo Peláez Sierra (El niño Peláez)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": "https://www.instagram.com/tavopelaez"
+ },
+ {
+  "n": "Maracatú Cuentacuentos (Michael Navarro y Nidia Valverde)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Mercedes Castro (Efimera Cuentacuentos)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "NarrArte UCR (Fernando Franco, Mario Baldizón, Felipe Bonilla, Jeff Cuentero, Jorge Polanco, Giovanni Castillo y Michael Navarro)",
+  "l": "San José y San Pedro",
+  "p": "Costa Rica",
+  "lat": 10.1405928,
+  "lng": -84.3190822,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Óscar Contreras (Cantacuentos)",
+  "l": "San José (Pavas)",
+  "p": "Costa Rica",
+  "lat": 9.9531476,
+  "lng": -84.1474119,
+  "a": 0,
+  "e": "[{'url': 'https://si.cultura.cr/personas/oscar-cuentacuentos', 'etiqueta': 'Directorio (SIC)'}]"
+ },
+ {
+  "n": "Tere Borge (CuentaQUEteCUENTO)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9327373,
+  "lng": -84.0796683,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Inticuentero",
+  "l": "San Pedro de Montes de Oca, San José",
+  "p": "Costa Rica",
+  "lat": 9.9363792,
+  "lng": -84.0508272,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Eyder Fonseca Sánchez",
+  "l": "Siquirres, Limón",
+  "p": "Costa Rica",
+  "lat": 10.1493599,
+  "lng": -83.4815563,
+  "a": 0,
+  "e": "https://www.instagram.com/eydercuentacuentos"
+ },
+ {
+  "n": "Edgardo Ariel Epherra",
+  "l": "Bahía Blanca",
+  "p": "Argentina",
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "a": 0,
+  "e": "https://www.facebook.com/edgardo.epherra"
+ },
+ {
+  "n": "Maryta Berenguer",
+  "l": "Bahía Blanca",
+  "p": "Argentina",
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "a": 0,
+  "e": "https://www.facebook.com/maryta.berenguer"
+ },
+ {
+  "n": "Norberto Del Prado",
+  "l": "Bahía Blanca",
+  "p": "Argentina",
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Teresa Prost",
+  "l": "Bahía Blanca",
+  "p": "Argentina",
+  "lat": -38.7176522,
+  "lng": -62.2654871,
+  "a": 0,
+  "e": "https://www.facebook.com/teresa.prost"
+ },
+ {
+  "n": "Mabel Cosenza",
+  "l": "Banfield (B.A.)",
+  "p": "Argentina",
+  "lat": -34.7346499,
+  "lng": -58.4176479,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Cris Bonaudi",
+  "l": "Bernal",
+  "p": "Argentina",
+  "lat": -34.7175436,
+  "lng": -58.3001472,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Alejandra Alliende",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/alejandraalliende/"
+ },
+ {
+  "n": "Alejandra del Bueno",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Alejandra Parets",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Alicia Tamburini (Déjame que te cuente)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Amalia Flores",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/amalia_cuentacuentos/"
+ },
+ {
+  "n": "Anabelle Castaño",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/anamusea/"
+ },
+ {
+  "n": "Ana Cuevas Unamuno",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://twitter.com/tejiendocuentos"
+ },
+ {
+  "n": "Ana María Cherñak",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Ana María Oddo",
+  "l": "Buenos Aires – Castelar",
+  "p": "Argentina",
+  "lat": -34.6550873,
+  "lng": -58.6341586,
+  "a": 0,
+  "e": "https://www.facebook.com/bocaque.vuela"
+ },
+ {
+  "n": "Ana Padovani",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/ana.padovani.cuentos/"
+ },
+ {
+  "n": "Andrea Blawdziewicz (Storyteller)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/babycuentos/"
+ },
+ {
+  "n": "Andrea Martinoli",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/andreacuentacuentos/"
+ },
+ {
+  "n": "Bazar de cuentos",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Beatriz Dasso (Déjame que te cuente)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://dejamequetecuentehistorias.blogspot.com/', 'etiqueta': 'Blog (grupo)'}]"
+ },
+ {
+  "n": "Beatriz Mónaco",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Belén Torras",
+  "l": "Buenos Aires – Ramos Mejía",
+  "p": "Argentina",
+  "lat": -34.6662906,
+  "lng": -58.5591447,
+  "a": 0,
+  "e": "https://www.instagram.com/belentorras/"
+ },
+ {
+  "n": "Betty Ferkel",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Canela Sarasvati",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Cantabuelas San Martín (Andrea Felsenthal — coordinadora —, Graciela María Amelio, Deolinda Sersosimo, Nancy Riveros, Elena Espinosa, Norma Fernández, Marta)",
+  "l": "Buenos Aires – San Martín",
+  "p": "Argentina",
+  "lat": -34.6053362,
+  "lng": -58.3741267,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Carlos Caparulo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Carlos Cocciolo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'http://www.lakuentera.blogspot.com', 'etiqueta': 'Blog (organización)'}]"
+ },
+ {
+  "n": "Carlos Maps",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Ciela Asad",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/cielaasad/"
+ },
+ {
+  "n": "Claudia Macchi",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/claudiamacchi2/"
+ },
+ {
+  "n": "Claudia Stella",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/claudia_stella_palabrujula/"
+ },
+ {
+  "n": "Claudio Ledesma (Círculo de cuentacuentos)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/claudio.ledesma.18"
+ },
+ {
+  "n": "Claudio Pansera",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Cuento Rodado (Ana María de Diego, Susana Kowal, Beatriz Massolo, Romina Pietrantuono, Liliana Plos, Ana María Pochet, Alicia Siaba de Bravo)",
+  "l": "Buenos Aires – Ramos Mejía",
+  "p": "Argentina",
+  "lat": -34.6662906,
+  "lng": -58.5591447,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Cuentos y Encuentros",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Darwin Caballero",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/darwincaballeroo/"
+ },
+ {
+  "n": "Déjame que te cuente (Sara Lemos, Alicia Tamburini, Renée Tranzillo, Beatriz Dasso, Gabriela Rodríguez y Leticia Loray)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://dejamequetecuentehistorias.blogspot.com/', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Eliana Bratok",
+  "l": "Buenos Aires – Florencio Varela",
+  "p": "Argentina",
+  "lat": -34.7907373,
+  "lng": -58.291223,
+  "a": 0,
+  "e": "https://www.instagram.com/eliana_bratok/"
+ },
+ {
+  "n": "Elizabeth Gothelf",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/eligothelf.narra/"
+ },
+ {
+  "n": "Elva Marinangeli",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Enrique Argumedo Franco",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Fer Narradora (María Fernanda Gómez)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/fernarradora/"
+ },
+ {
+  "n": "Fernando Cárdenas",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/CaballeroVerbante/"
+ },
+ {
+  "n": "Gabriela Villano",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'http://loslibrosdelvillano.blogspot.com/', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Geraldina Rayo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Geraldine Ricau",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Giselle Rataus",
+  "l": "Buenos Aires – Quilmes",
+  "p": "Argentina",
+  "lat": -34.7341623,
+  "lng": -58.2578345,
+  "a": 0,
+  "e": "[{'url': 'http://tallerdecuentacuentos.blogspot.com/', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Gabriela Rodríguez (Déjame que te cuente)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://dejamequetecuentehistorias.blogspot.com/', 'etiqueta': 'Blog (grupo)'}]"
+ },
+ {
+  "n": "Graciela Deza",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Graciela Sarcone",
+  "l": "Buenos Aires – Olivos",
+  "p": "Argentina",
+  "lat": -34.5027003,
+  "lng": -58.4780035,
+  "a": 0,
+  "e": "[{'url': 'https://www.domestika.org/fr/gracielasarcone', 'etiqueta': 'Domestika'}]"
+ },
+ {
+  "n": "Gustavo Trillo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Hugo Corrias",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Inés Grimland",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/inesgrimland/"
+ },
+ {
+  "n": "Jorge Navarra",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Juan Ignacio Jafella",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/juanjafella"
+ },
+ {
+  "n": "Juanjo Decuzzi",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/juanjodecuzzi/"
+ },
+ {
+  "n": "Karina R. García",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/karinagarcianarracionoral/"
+ },
+ {
+  "n": "La Luna, Compañía de cuentos (Fer Narradora – Erika Brandauer)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/En-mi-%C3%81rbol-crecen-Cuentos-1031063163620289/"
+ },
+ {
+  "n": "Leticia Loray (Déjame que te cuente)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://dejamequetecuentehistorias.blogspot.com/', 'etiqueta': 'Blog (grupo)'}, {'url': 'https://vosmiraqueyotecuento.blogspot.com/', 'etiqueta': 'Blog (proyecto)'}]"
+ },
+ {
+  "n": "Las cuentandantes (Juliana Bourbon, Daniela Magnone)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/las_cuentandantes/"
+ },
+ {
+  "n": "Lili Meier",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/lacuentacuentosdehoy/"
+ },
+ {
+  "n": "Liliana Bonel",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Lily Davila",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/lilydavilacuentos/"
+ },
+ {
+  "n": "Lisi Amondarain",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/contaconmigocuentos/"
+ },
+ {
+  "n": "Lobito Cuentacuentos (Diego Lobo)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.lobitocuentacuentos.com/"
+ },
+ {
+  "n": "Los Palabreros",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/gino.piccinini/"
+ },
+ {
+  "n": "Marcela Ganapol",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/CUENTERIO/"
+ },
+ {
+  "n": "Mª Fernanda Gutiérrez (Caminandocuentos)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/libroscopieria/"
+ },
+ {
+  "n": "Margarita Caffatti Rizzo (Por qué contamos)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "María Héguiz",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/argentina.narrada/"
+ },
+ {
+  "n": "Marita Von Saltzen",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Marta Grzina (Valijita cuentera)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Marta Lamare",
+  "l": "Buenos Aires – Burzaco",
+  "p": "Argentina",
+  "lat": -34.8218997,
+  "lng": -58.3649419,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Marta Lorente",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Marta Millicay",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Matilde Machiavello (Matu Storyteller)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Norma Lugo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/normalugo_/"
+ },
+ {
+  "n": "Olga Walter",
+  "l": "Buenos Aires – Adrogué",
+  "p": "Argentina",
+  "lat": -34.8650526,
+  "lng": -58.419292,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Pal' Abrazo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'http://grupopalabrazo.blogspot.com', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Patricia Laura Deandreis",
+  "l": "Buenos Aires – San Isidro",
+  "p": "Argentina",
+  "lat": -34.4737152,
+  "lng": -58.5316915,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Patricia Orr",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "http://www.patriciaorr.com.ar"
+ },
+ {
+  "n": "Paula Martin",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "http://www.sembrando-cuentos.com.ar"
+ },
+ {
+  "n": "Pedro Parcet",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/pedroparcetnarracion/"
+ },
+ {
+  "n": "Renée Tranzillo (Déjame que te cuente)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://dejamequetecuentehistorias.blogspot.com/', 'etiqueta': 'Blog (del grupo)'}]"
+ },
+ {
+  "n": "Raúl Cuevas",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Ricardo Muriel",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Sara Lemos (Déjame que te cuente)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://dejamequetecuentehistorias.blogspot.com/', 'etiqueta': 'Blog (del grupo)'}]"
+ },
+ {
+  "n": "Sergio Bonomo",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Silvia De Cesare",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/silviadecesare.narradoraoral/"
+ },
+ {
+  "n": "Silvia Finder Gam",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/silvia_finder_gam/"
+ },
+ {
+  "n": "Verdevioleta Cuentos (Laura Finguer – Silvina Mennuti)",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.facebook.com/Verdevioletacuentos"
+ },
+ {
+  "n": "Verónica Alvarez Rivera",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'https://veronicaalvarezrivera.blogspot.com/', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Vivi García",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "https://www.instagram.com/vivi.garciagarcia/"
+ },
+ {
+  "n": "Inés Bombara",
+  "l": "Castelar",
+  "p": "Argentina",
+  "lat": -34.6555638,
+  "lng": -58.6425128,
+  "a": 0,
+  "e": "https://www.instagram.com/inesbombara/"
+ },
+ {
+  "n": "Ale Oliver Gulle (CuentoPalabra)",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Ana Rosa Ortiz (Princesa Cuentera)",
+  "l": "Córdoba, Capilla del Monte",
+  "p": "Argentina",
+  "lat": -30.8571148,
+  "lng": -64.5345694,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Eduardo Chaves (CuentoPalabra)",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Estela Gadea Leiguarda (Toity)",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Nora Maretto",
+  "l": "Córdoba, Porteña",
+  "p": "Argentina",
+  "lat": -31.0143387,
+  "lng": -62.0675904,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Rubén López",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Silvia Beresovsky",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Sole Rebelles",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": "https://www.cuentosenboca.com.ar/"
+ },
+ {
+  "n": "Vilma Novick Freyre",
+  "l": "Córdoba",
+  "p": "Argentina",
+  "lat": -31.4166867,
+  "lng": -64.1834193,
+  "a": 0,
+  "e": "https://www.facebook.com/vilma.novick"
+ },
+ {
+  "n": "Marta Mensa",
+  "l": "Don Torcuato",
+  "p": "Argentina",
+  "lat": -34.4886587,
+  "lng": -58.6266492,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Liliana Reinoso",
+  "l": "General Pico – La Pampa",
+  "p": "Argentina",
+  "lat": -35.6611759,
+  "lng": -63.7545473,
+  "a": 0,
+  "e": "https://www.instagram.com/liliana_olga/"
+ },
+ {
+  "n": "Verónica Basualdo",
+  "l": "Ingeniero Maschwitz",
+  "p": "Argentina",
+  "lat": -34.3829548,
+  "lng": -58.7363667,
+  "a": 0,
+  "e": "https://www.instagram.com/hora.libro"
+ },
+ {
+  "n": "Sembradores de Historias",
+  "l": "Laferrere, La Matanza, B. Aires",
+  "p": "Argentina",
+  "lat": -34.7506177,
+  "lng": -58.584369,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Carolina Espinosa",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Gazel Zayad",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.instagram.com/gazelzayad"
+ },
+ {
+  "n": "Gustavo Bonifetto",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.facebook.com/gustavo.bonifetto"
+ },
+ {
+  "n": "Isabel Fraire",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.facebook.com/literatura.en.voz.alta.2024"
+ },
+ {
+  "n": "Laura Dippolito",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.facebook.com/laura.dippolito.9"
+ },
+ {
+  "n": "Mónica Elicabe Urriol (Cuentoencuentro La Plata)",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.instagram.com/monicaelicabemonica"
+ },
+ {
+  "n": "Roxi Drucker",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.instagram.com/roxidrucker"
+ },
+ {
+  "n": "Teresita Bustos",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "https://www.instagram.com/teresita.bustos"
+ },
+ {
+  "n": "Adelina Gallotti (De caminos y de cuentos)",
+  "l": "Mar del Plata, Bs. Aires",
+  "p": "Argentina",
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "a": 0,
+  "e": "[{'url': 'http://decaminosydecuentos.blogspot.com/', 'etiqueta': 'Blog (grupo)'}]"
+ },
+ {
+  "n": "Adriana Leiss (Ilustracuentos)",
+  "l": "Mar del Plata, Bs. Aires",
+  "p": "Argentina",
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "a": 0,
+  "e": "[{'url': 'https://elarteentusmanos-hotmail.over-blog.es/', 'etiqueta': 'Blog'}, {'url': 'https://www.ivoox.com/ilustrando-palabras-hoy-que-lugar-tiene-el-audios-mp3_rf_10664876_1.html', 'etiqueta': 'Podcast (iVoox)'}]"
+ },
+ {
+  "n": "Juliana Mazza (De caminos y de cuentos)",
+  "l": "Mar del Plata, Bs. Aires",
+  "p": "Argentina",
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "a": 0,
+  "e": "[{'url': 'http://decaminosydecuentos.blogspot.com/', 'etiqueta': 'Blog (grupo)'}]"
+ },
+ {
+  "n": "Silvia Ferragine",
+  "l": "Mar del Plata, Bs. Aires",
+  "p": "Argentina",
+  "lat": -37.9976168,
+  "lng": -57.5482079,
+  "a": 0,
+  "e": "https://www.facebook.com/silviaferragine"
+ },
+ {
+  "n": "Marina Castilla (Club de Narradores)",
+  "l": "Mendoza",
+  "p": "Argentina",
+  "lat": -34.5970325,
+  "lng": -68.7304797,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Grupo Picardías",
+  "l": "Neuquén – Patagonia",
+  "p": "Argentina",
+  "lat": -38.9512402,
+  "lng": -68.0241974,
+  "a": 0,
+  "e": "[{'url': 'https://cuentacuentospicardias.blogspot.com/', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Ileana Panelo",
+  "l": "Neuquén – Patagonia",
+  "p": "Argentina",
+  "lat": -38.9512402,
+  "lng": -68.0241974,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Lili Jovanovich",
+  "l": "Neuquén – Patagonia",
+  "p": "Argentina",
+  "lat": -38.9512402,
+  "lng": -68.0241974,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Edgardo Franzetti",
+  "l": "Pinamar",
+  "p": "Argentina",
+  "lat": -37.1099492,
+  "lng": -56.8539007,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Ramón Farías",
+  "l": "Presidencia Roque Sáenz Peña, Chaco",
+  "p": "Argentina",
+  "lat": -26.7909701,
+  "lng": -60.441295,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Cuentacuenteras (Ines Strizzi – Fabiana Burgos – Elizabeth Molino)",
+  "l": "Realicó – La Pampa",
+  "p": "Argentina",
+  "lat": -35.0365537,
+  "lng": -64.2455941,
+  "a": 0,
+  "e": "https://www.facebook.com/cuenteras/"
+ },
+ {
+  "n": "Abuelas Cuentacuentos (Fundación Mempo Giardinelli)",
+  "l": "Resistencia, Chaco",
+  "p": "Argentina",
+  "lat": -27.6048829,
+  "lng": -59.1932003,
+  "a": 0,
+  "e": "https://www.facebook.com/FundacionMempoGiardinelli"
+ },
+ {
+  "n": "Adriana Felicia (Sarna con gusto)",
+  "l": "Rosario",
+  "p": "Argentina",
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "a": 0,
+  "e": "https://www.facebook.com/AdrianaLFelicia"
+ },
+ {
+  "n": "Ana Cao (Las Cuenta cuentos)",
+  "l": "Rosario",
+  "p": "Argentina",
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "a": 0,
+  "e": "https://www.instagram.com/5211acao"
+ },
+ {
+  "n": "Don Abulico Bienes",
+  "l": "Rosario",
+  "p": "Argentina",
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Melina Pezzoto (NarraenDo)",
+  "l": "Rosario",
+  "p": "Argentina",
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "a": 0,
+  "e": "https://www.facebook.com/melina.pezzoto"
+ },
+ {
+  "n": "Teresita Igon (Las Cuentacuentos)",
+  "l": "Rosario",
+  "p": "Argentina",
+  "lat": -32.9593609,
+  "lng": -60.6617024,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Mariela de la Sota (Marukacuentos)",
+  "l": "San Fernando",
+  "p": "Argentina",
+  "lat": -34.4471919,
+  "lng": -58.5701505,
+  "a": 0,
+  "e": "https://www.instagram.com/mariecuentos"
+ },
+ {
+  "n": "Alicia Barberis",
+  "l": "Santa Fe",
+  "p": "Argentina",
+  "lat": -30.3154739,
+  "lng": -61.1645076,
+  "a": 0,
+  "e": "[{'url': 'https://es.wikipedia.org/wiki/Alicia_Barberis', 'etiqueta': 'Wikipedia'}]"
+ },
+ {
+  "n": "Marcela Sabio (Puro Cuento)",
+  "l": "Santa Fe",
+  "p": "Argentina",
+  "lat": -30.3154739,
+  "lng": -61.1645076,
+  "a": 0,
+  "e": "https://marcelasabio.com.ar/"
+ },
+ {
+  "n": "Oscar Nemeth (El Organillero Cuentacuentos)",
+  "l": "San Fernando del Valle de Catamarca",
+  "p": "Argentina",
+  "lat": -28.4688806,
+  "lng": -65.7790642,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Fabiana Polenta (Compañía Tricletas)",
+  "l": "Trenque Lauquen",
+  "p": "Argentina",
+  "lat": -35.9731074,
+  "lng": -62.7328794,
+  "a": 0,
+  "e": "[{'url': 'https://companiatricletas.blogspot.com/', 'etiqueta': 'Blog'}]"
+ },
+ {
+  "n": "Anyela Cuéllar (Pintapalabras)",
+  "l": "Viedma",
+  "p": "Argentina",
+  "lat": -40.8084274,
+  "lng": -62.994722,
+  "a": 0,
+  "e": "https://www.youtube.com/@VuelancuentosAnyela"
+ },
+ {
+  "n": "Alicia Perrig",
+  "l": "Villa María",
+  "p": "Argentina",
+  "lat": -32.4106245,
+  "lng": -63.2435809,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Graciela Monge",
+  "l": "Wilde",
+  "p": "Argentina",
+  "lat": -34.6984264,
+  "lng": -58.314592,
+  "a": 0,
+  "e": ""
+ },
+ {
+  "n": "Norma Aparicio",
+  "l": "Yerba Buena – Tucumán",
+  "p": "Argentina",
+  "lat": -26.816501,
+  "lng": -65.2703379,
+  "a": 0,
+  "e": "https://www.facebook.com/norma.aparicio.5"
+ },
+ {
+  "n": "Haydée Guzmán",
+  "l": "La Plata",
+  "p": "Argentina",
+  "lat": -34.9206797,
+  "lng": -57.9537638,
+  "a": 0,
+  "e": "[{'url': 'https://elblogdecharcaliteraria.blogspot.com/p/haydee-guzman.html', 'etiqueta': 'Memorial (Página conmemorativa (blog Charca Literaria))'}]"
+ },
+ {
+  "n": "Alicia Mesa Garbín",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'http://cuentacuentos.eu/narradores/paises/narraargentina.htm', 'etiqueta': 'Memorial (Referencia oficial in memoriam (RIC))'}]"
+ },
+ {
+  "n": "María Rita Joga",
+  "l": "Buenos Aires",
+  "p": "Argentina",
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "a": 0,
+  "e": "[{'url': 'http://cuentacuentos.eu/narradores/paises/narraargentina.htm', 'etiqueta': 'Memorial (Referencia oficial in memoriam (RIC))'}]"
+ },
+ {
+  "n": "Alessandro Ghebreigziabiher",
+  "l": "",
+  "p": "Italia",
+  "lat": 41.88678,
+  "lng": 12.48476,
+  "a": 1,
+  "e": "http://www.storytellersforpeace.com/"
+ },
+ {
+  "n": "Alicia DongJoo Bang",
+  "l": "",
+  "p": "Corea del Sur",
+  "lat": 37.56294,
+  "lng": 126.98144,
+  "a": 1,
+  "e": "https://www.facebook.com/aliciadongjoo"
+ },
+ {
+  "n": "Aline Cântia",
+  "l": "Belo Horizonte",
+  "p": "Brasil",
+  "lat": -19.93724,
+  "lng": -43.94117,
+  "a": 1,
+  "e": "https://www.facebook.com/Abrapalavra/"
+ },
+ {
+  "n": "Ana Balletta",
+  "l": "Cochabamba",
+  "p": "Bolivia",
+  "lat": -17.37764,
+  "lng": -66.1894,
+  "a": 1,
+  "e": "https://www.facebook.com/ATiTeCuento"
+ },
+ {
+  "n": "Andrés Montero",
+  "l": "Santiago",
+  "p": "Chile",
+  "lat": -33.45214,
+  "lng": -70.64295,
+  "a": 1,
+  "e": "https://www.instagram.com/andrescuentero"
+ },
+ {
+  "n": "Angela Sajeva",
+  "l": "Roma y Lazio",
+  "p": "Italia",
+  "lat": 41.89065,
+  "lng": 12.49661,
+  "a": 1,
+  "e": "https://www.facebook.com/festival.storytelling/"
+ },
+ {
+  "n": "Aníbar Lima Maquera",
+  "l": "La Paz",
+  "p": "Bolivia",
+  "lat": -16.49019,
+  "lng": -68.12332,
+  "a": 1,
+  "e": "https://www.facebook.com/apthapidecuentos"
+ },
+ {
+  "n": "Antonella Gilardi",
+  "l": "Lisboa",
+  "p": "Portugal",
+  "lat": 38.72489,
+  "lng": -9.1418,
+  "a": 1,
+  "e": "[{'url': 'https://www.pnl2027.gov.pt/np4/%7B$clientServletPath%7D/?newsId=3800&fileName=Mediadores_05.pdf', 'etiqueta': 'Directorio (Perfil institucional (PDF Plano Nacional de Leitura))'}]"
+ },
+ {
+  "n": "Antonio González Beltrán",
+  "l": "Elche",
+  "p": "España",
+  "lat": 38.26413,
+  "lng": -0.68946,
+  "a": 1,
+  "e": "[{'url': 'https://www.elche.me/biografia/gonzalez-beltran-antonio', 'etiqueta': 'Memorial (Otro (conmemorativo))'}, {'url': 'https://narracionoral.es/index.php/es/documentos/espacios-de-cuento/grandes-eventos/248-festival-de-la-oralidad-un-sueno-puesto-en-pie', 'etiqueta': 'Otro (artículo AEDA sobre el FIO)'}]"
+ },
+ {
+  "n": "António Gouveia",
+  "l": "Lisboa",
+  "p": "Portugal",
+  "lat": 38.73534,
+  "lng": -9.10143,
+  "a": 1,
+  "e": "[{'url': 'https://bruaa.pt/autores/', 'etiqueta': 'Directorio (Perfil institucional (Editorial Bruaá (autores)))'}]"
+ },
+ {
+  "n": "Antonio Lozano",
+  "l": "Agüimes",
+  "p": "España",
+  "lat": 27.86593,
+  "lng": -15.44607,
+  "a": 1,
+  "e": "[{'url': 'https://cultura.cervantes.es/tanger/es/homenaje-a-antonio-lozano/168547', 'etiqueta': 'Otro (homenaje)'}, {'url': 'https://www.casafrica.es/es/persona/antonio-lozano-gonzalez', 'etiqueta': 'Otro (oficial)'}]"
+ },
+ {
+  "n": "Antonio Rodríguez Almodóvar",
+  "l": "",
+  "p": "España",
+  "lat": 40.38913,
+  "lng": -3.6837,
+  "a": 1,
+  "e": "[{'url': 'https://www.cervantesvirtual.com/portales/antonio_rodriguez_almodovar/autor_biografia/', 'etiqueta': 'Directorio (Perfil institucional (Portal Biblioteca Virtual Miguel de Cervantes))'}]"
+ },
+ {
+  "n": "Armando González Galán",
+  "l": "León",
+  "p": "México",
+  "lat": 21.14202,
+  "lng": -101.72413,
+  "a": 1,
+  "e": "https://www.ranitashow.com"
+ },
+ {
+  "n": "Armando Trejo Márquez",
+  "l": "Ciudad de México",
+  "p": "México",
+  "lat": 19.4383,
+  "lng": -99.17375,
+  "a": 1,
+  "e": "https://www.facebook.com/armando.trejofino"
+ },
+ {
+  "n": "Beatriz Montero",
+  "l": "",
+  "p": "España",
+  "lat": 40.4096,
+  "lng": -3.70405,
+  "a": 1,
+  "e": "https://www.facebook.com/BeatrizMonteroCuentacuentos"
+ },
+ {
+  "n": "Benita Prieto",
+  "l": "",
+  "p": "Brasil",
+  "lat": -15.81739,
+  "lng": -47.85672,
+  "a": 1,
+  "e": "https://www.facebook.com/benita.prieto"
+ },
+ {
+  "n": "Blai Senabre Ribes",
+  "l": "Altea",
+  "p": "España",
+  "lat": 38.61568,
+  "lng": -0.07546,
+  "a": 1,
+  "e": "https://www.instagram.com/blaisenabre"
+ },
+ {
+  "n": "Blanca Calvo",
+  "l": "Guadalajara",
+  "p": "España",
+  "lat": 40.59426,
+  "lng": -3.15975,
+  "a": 1,
+  "e": "[{'url': 'https://narracionoral.es/index.php/es/la-asociacion/socios-de-honor?start=5', 'etiqueta': 'Directorio (Perfil institucional (AEDA (socios de honor)))'}, {'url': 'https://www.pepbruno.com/index.php?option=com_content&view=article&id=508:blanca-calvo&catid=45&Itemid=69&lang=es', 'etiqueta': 'Directorio (Perfil institucional (Ficha en la web de Pep Bruno))'}]"
+ },
+ {
+  "n": "Carmen Fernández Calvet",
+  "l": "Alcalá de Henares",
+  "p": "España",
+  "lat": 40.4521,
+  "lng": -3.3635,
+  "a": 1,
+  "e": "https://www.instagram.com/legolas_cuentos"
+ },
+ {
+  "n": "Celia Lottridge",
+  "l": "Toronto",
+  "p": "Canadá",
+  "lat": 43.67857,
+  "lng": -79.37397,
+  "a": 1,
+  "e": "[{'url': 'https://www.storytellers-conteurs.ca/en/featured-storytellers/Celia-Lottridge.html', 'etiqueta': 'Directorio (Perfil StorySave (SC-CC))'}, {'url': 'https://www.storytellers-conteurs.ca/en/storytellers-directory/Celia-Lottridge.html', 'etiqueta': 'Directorio SC-CC'}]"
+ },
+ {
+  "n": "César «El Wayqui» Villegas",
+  "l": "Lima",
+  "p": "Perú",
+  "lat": -12.01327,
+  "lng": -77.02367,
+  "a": 1,
+  "e": "http://www.todaslaspalabras.pe"
+ },
+ {
+  "n": "Chen Ming Hsiang",
+  "l": "",
+  "p": "Taiwán",
+  "lat": 25.05571,
+  "lng": 121.5276,
+  "a": 1,
+  "e": "https://www.facebook.com/UncleFatStory"
+ },
+ {
+  "n": "Chicó do Céu",
+  "l": "Belo Horizonte",
+  "p": "Brasil",
+  "lat": -19.93822,
+  "lng": -43.90792,
+  "a": 1,
+  "e": "https://www.facebook.com/Abrapalavra/"
+ },
+ {
+  "n": "Cláudia Fonseca",
+  "l": "Lisboa",
+  "p": "Portugal",
+  "lat": 38.7266,
+  "lng": -9.16367,
+  "a": 1,
+  "e": "https://www.facebook.com/claudiabcfonseca"
+ },
+ {
+  "n": "Claudia Neira Bermúdez",
+  "l": "Managua",
+  "p": "Nicaragua",
+  "lat": 12.10394,
+  "lng": -86.20908,
+  "a": 1,
+  "e": "[{'url': 'https://www.linkedin.com/in/cneira', 'etiqueta': 'LinkedIn'}]"
+ },
+ {
+  "n": "Claudia Silva",
+  "l": "Londrina",
+  "p": "Brasil",
+  "lat": -23.32324,
+  "lng": -51.17911,
+  "a": 1,
+  "e": "[{'url': 'https://ecoh.art.br/nossa-historia/', 'etiqueta': 'Memorial (Página conmemorativa (ECOH))'}, {'url': 'https://ecoh.art.br/2a-edicao-do-ecoh-circulacao-termina-em-jaguapita-com-homenagem-a-claudia-silva/', 'etiqueta': 'Memorial (Nota-homenaje (ECOH))'}]"
+ },
+ {
+  "n": "Cucha del Águila",
+  "l": "Lima",
+  "p": "Perú",
+  "lat": -12.0506,
+  "lng": -77.04542,
+  "a": 1,
+  "e": "[{'url': 'https://www.normainfantilyjuvenil.com/pe/autores/cucha-del-aguila', 'etiqueta': 'Directorio (Perfil de autora (Norma))'}]"
+ },
+ {
+  "n": "Dan Yashinsky",
+  "l": "Toronto",
+  "p": "Canadá",
+  "lat": 43.65063,
+  "lng": -79.38403,
+  "a": 1,
+  "e": "https://tellery.com/dan-yashinsky/"
+ },
+ {
+  "n": "Davide Bardi",
+  "l": "Roma y Lazio",
+  "p": "Italia",
+  "lat": 41.90325,
+  "lng": 12.49634,
+  "a": 1,
+  "e": "https://www.facebook.com/festival.storytelling/"
+ },
+ {
+  "n": "Demetrio Aguilar",
+  "l": "San Salvador y Playa El Zonte",
+  "p": "El Salvador",
+  "lat": 13.6983,
+  "lng": -89.20885,
+  "a": 1,
+  "e": "https://www.instagram.com/fabrikdesuenos/"
+ },
+ {
+  "n": "Dulce Elvira de los Santos",
+  "l": "",
+  "p": "Rep. Dominicana",
+  "lat": 18.5175,
+  "lng": -69.96152,
+  "a": 1,
+  "e": "https://www.instagram.com/dulcelvira25/"
+ },
+ {
+  "n": "Edgar Valeriano",
+  "l": "Tegucigalpa",
+  "p": "Honduras",
+  "lat": 14.04677,
+  "lng": -87.22572,
+  "a": 1,
+  "e": "https://www.instagram.com/edgarbambu/"
+ },
+ {
+  "n": "Elia Tralará",
+  "l": "Segovia",
+  "p": "España",
+  "lat": 40.94723,
+  "lng": -4.14997,
+  "a": 1,
+  "e": "https://www.instagram.com/eliatralara_narradora"
+ },
+ {
+  "n": "Elizabeth Pangol Altamirano",
+  "l": "Ambato",
+  "p": "Ecuador",
+  "lat": -1.24441,
+  "lng": -78.62238,
+  "a": 1,
+  "e": "https://www.facebook.com/elizabeth.pangol.9"
+ },
+ {
+  "n": "Elvia Pérez Nápoles",
+  "l": "La Habana",
+  "p": "Cuba",
+  "lat": 23.12832,
+  "lng": -82.37616,
+  "a": 1,
+  "e": "[{'url': 'https://www.cuenteandoconelvia.blogspot.com', 'etiqueta': 'Blog'}, {'url': 'http://www.cuentacuentos.eu/narradores/miembros/cuba/ElviaPerez.htm', 'etiqueta': 'Perfil RIC'}]"
+ },
+ {
+  "n": "Enrique Páez",
+  "l": "",
+  "p": "España",
+  "lat": 40.45356,
+  "lng": -3.70702,
+  "a": 1,
+  "e": "https://www.facebook.com/EnriquePaez"
+ },
+ {
+  "n": "Ernesto Rodríguez Abad",
+  "l": "Los Silos",
+  "p": "España",
+  "lat": 28.36629,
+  "lng": -16.81086,
+  "a": 1,
+  "e": "https://www.instagram.com/erabad_escritor"
+ },
+ {
+  "n": "Estrella Ortiz",
+  "l": "Guadalajara",
+  "p": "España",
+  "lat": 40.60645,
+  "lng": -3.15889,
+  "a": 1,
+  "e": "[{'url': 'https://es.wikipedia.org/wiki/Estrella_Ortiz', 'etiqueta': 'Directorio (Perfil institucional (Wikipedia))'}]"
+ },
+ {
+  "n": "Félix Albo",
+  "l": "",
+  "p": "España",
+  "lat": 40.39944,
+  "lng": -3.72954,
+  "a": 1,
+  "e": "https://www.instagram.com/flxalbo"
+ },
+ {
+  "n": "Geeta Ramanujam",
+  "l": "",
+  "p": "India",
+  "lat": 28.61152,
+  "lng": 77.21107,
+  "a": 1,
+  "e": "https://www.facebook.com/kathalaya"
+ },
+ {
+  "n": "Gioconda Belli",
+  "l": "Managua",
+  "p": "Nicaragua",
+  "lat": 12.12975,
+  "lng": -86.25821,
+  "a": 1,
+  "e": "https://www.facebook.com/GiocondaBelliP"
+ },
+ {
+  "n": "Gislayne Matos",
+  "l": "Belo Horizonte",
+  "p": "Brasil",
+  "lat": -19.91245,
+  "lng": -43.93597,
+  "a": 1,
+  "e": "https://www.gislaynematos.com.br"
+ },
+ {
+  "n": "Giulia Troiano",
+  "l": "Roma y Lazio",
+  "p": "Italia",
+  "lat": 41.89006,
+  "lng": 12.51602,
+  "a": 1,
+  "e": "https://www.facebook.com/festival.storytelling/"
+ },
+ {
+  "n": "Grace Wangari",
+  "l": "",
+  "p": "Kenia",
+  "lat": -1.26706,
+  "lng": 36.85766,
+  "a": 1,
+  "e": "https://www.facebook.com/WangariTheStoryteller/"
+ },
+ {
+  "n": "Guido Davidan Choquetanga",
+  "l": "",
+  "p": "Bolivia",
+  "lat": -16.495,
+  "lng": -68.11827,
+  "a": 1,
+  "e": "https://www.facebook.com/apthapidecuentos"
+ },
+ {
+  "n": "Ignacio Sanz",
+  "l": "Segovia",
+  "p": "España",
+  "lat": 40.95059,
+  "lng": -4.11503,
+  "a": 1,
+  "e": "[{'url': 'https://narracionoral.es/index.php/es/la-asociacion/socios-de-honor?start=5', 'etiqueta': 'Directorio (Perfil institucional (AEDA (socios de honor)))'}, {'url': 'https://es.wikipedia.org/wiki/Ignacio_Sanz', 'etiqueta': 'Directorio (Perfil institucional (Wikipedia))'}]"
+ },
+ {
+  "n": "Jairon Salguero",
+  "l": "Ciudad de Guatemala",
+  "p": "Guatemala",
+  "lat": 14.64767,
+  "lng": -90.51687,
+  "a": 1,
+  "e": "https://www.facebook.com/JaironSalguero"
+ },
+ {
+  "n": "Jeff Gere",
+  "l": "",
+  "p": "Estados Unidos",
+  "lat": 38.93166,
+  "lng": -77.02444,
+  "a": 1,
+  "e": "http://www.jeffgere.com"
+ },
+ {
+  "n": "Jimmy Neil Smith",
+  "l": "Jonesborough",
+  "p": "Estados Unidos",
+  "lat": 36.32797,
+  "lng": -82.47585,
+  "a": 1,
+  "e": "[{'url': 'https://www.storytellingcenter.net/news/isc-announces-the-passing-of-our-founder-and-president-emeritus-jimmy-neil-smith/', 'etiqueta': 'Memorial oficial (ISC)'}, {'url': 'https://en.wikipedia.org/wiki/Jimmy_Neil_Smith', 'etiqueta': 'Wikipedia'}]"
+ },
+ {
+  "n": "Jones de Abreu",
+  "l": "Brasilia",
+  "p": "Brasil",
+  "lat": -15.79063,
+  "lng": -47.87638,
+  "a": 1,
+  "e": "https://www.instagram.com/institutocidadeceu"
+ },
+ {
+  "n": "José Marcelo Revollo",
+  "l": "Cochabamba",
+  "p": "Bolivia",
+  "lat": -17.38095,
+  "lng": -66.18908,
+  "a": 1,
+  "e": "https://www.facebook.com/ATiTeCuento"
+ },
+ {
+  "n": "Jota Villaza",
+  "l": "Medellín",
+  "p": "Colombia",
+  "lat": 6.24509,
+  "lng": -75.58109,
+  "a": 1,
+  "e": "[{'url': 'https://www.domestika.org/fr/labutacaeditorial', 'etiqueta': 'Directorio (Perfil profesional (Domestika))'}]"
+ },
+ {
+  "n": "Juan Reyes",
+  "l": "El Sauzal",
+  "p": "España",
+  "lat": 28.51571,
+  "lng": -16.45041,
+  "a": 1,
+  "e": "https://www.facebook.com/festivalveranodecuento"
+ },
+ {
+  "n": "Laura Ferreira",
+  "l": "Asunción y ciudades del interior",
+  "p": "Paraguay",
+  "lat": -25.30549,
+  "lng": -57.57371,
+  "a": 1,
+  "e": "https://www.instagram.com/artesanasdelapalabra"
+ },
+ {
+  "n": "Lillian Rodrigues-Pang",
+  "l": "",
+  "p": "Australia",
+  "lat": -35.29347,
+  "lng": 149.13088,
+  "a": 1,
+  "e": "https://www.instagram.com/lillistoryteller/"
+ },
+ {
+  "n": "Linda Gallo Bedoya",
+  "l": "Cali",
+  "p": "Colombia",
+  "lat": 3.46125,
+  "lng": -76.52977,
+  "a": 1,
+  "e": "[{'url': 'https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637177', 'etiqueta': 'Perfil académico (CvLAC / Minciencias)'}]"
+ },
+ {
+  "n": "Luísa Rebelo",
+  "l": "Lisboa",
+  "p": "Portugal",
+  "lat": 38.70683,
+  "lng": -9.15372,
+  "a": 1,
+  "e": "[{'url': 'http://narracaooral.blogspot.com/2010/05/luisa-rebelo.html', 'etiqueta': 'Directorio (Perfil institucional (Blog Narração Oral))'}]"
+ },
+ {
+  "n": "Manuel Castaño Crespo",
+  "l": "Alcalá de Henares",
+  "p": "España",
+  "lat": 40.47067,
+  "lng": -3.35988,
+  "a": 1,
+  "e": "https://www.instagram.com/legolas_cuentos"
+ },
+ {
+  "n": "Mar Amado",
+  "l": "Lima",
+  "p": "Perú",
+  "lat": -12.04577,
+  "lng": -77.04161,
+  "a": 1,
+  "e": "https://www.instagram.com/maramado_teatrera"
+ },
+ {
+  "n": "Marc Laberge",
+  "l": "Montreal",
+  "p": "Canadá",
+  "lat": 45.50005,
+  "lng": -73.57247,
+  "a": 1,
+  "e": "http://videanthrop.qc.ca/"
+ },
+ {
+  "n": "Margaret Read MacDonald",
+  "l": "",
+  "p": "Estados Unidos",
+  "lat": 38.91021,
+  "lng": -77.05236,
+  "a": 1,
+  "e": "https://www.margaretreadmacdonald.com"
+ },
+ {
+  "n": "María Elena Vindel",
+  "l": "Menorca",
+  "p": "Honduras",
+  "lat": 14.09212,
+  "lng": -87.21698,
+  "a": 1,
+  "e": "https://www.facebook.com/elena.vindel.5"
+ },
+ {
+  "n": "Martín Céspedes",
+  "l": "La Paz",
+  "p": "Bolivia",
+  "lat": -16.48139,
+  "lng": -68.12994,
+  "a": 1,
+  "e": "https://www.facebook.com/apthapidecuentos"
+ },
+ {
+  "n": "Martin Ellrodt",
+  "l": "",
+  "p": "Alemania",
+  "lat": 52.5138,
+  "lng": 13.41021,
+  "a": 1,
+  "e": "https://ellrodt.de/"
+ },
+ {
+  "n": "Mayra Navarro",
+  "l": "",
+  "p": "Cuba",
+  "lat": 23.11945,
+  "lng": -82.3668,
+  "a": 1,
+  "e": "[{'url': 'http://www.cuentacuentos.eu/teorica/articulos/MayraNavarroMemoriasdelosOrigenes.htm', 'etiqueta': 'Referencia memorial (RIC)'}]"
+ },
+ {
+  "n": "Mayra Santos-Febres",
+  "l": "San Juan",
+  "p": "Puerto Rico",
+  "lat": 18.47676,
+  "lng": -66.14037,
+  "a": 1,
+  "e": "https://www.instagram.com/mayra.santosfebres/"
+ },
+ {
+  "n": "Michael Kerins",
+  "l": "",
+  "p": "Reino Unido",
+  "lat": 51.52149,
+  "lng": -0.12481,
+  "a": 1,
+  "e": "http://www.slatecharity.com/slatecharity/Our_People_Michael_Kerins.html"
+ },
+ {
+  "n": "Milene Carmona",
+  "l": "La Habana",
+  "p": "Cuba",
+  "lat": 23.11463,
+  "lng": -82.36573,
+  "a": 1,
+  "e": "[{'url': 'https://billetto.es/en/users/milene-carmona', 'etiqueta': 'Directorio (Billetto)'}]"
+ },
+ {
+  "n": "Morgan Schatz Blackrose",
+  "l": "",
+  "p": "Australia",
+  "lat": -35.30257,
+  "lng": 149.15875,
+  "a": 1,
+  "e": "[{'url': 'http://www.cuentacuentos.eu/narradores/miembros/australia/MorganSchatzBlackrose.htm', 'etiqueta': 'Directorio (Perfil RIC)'}, {'url': 'https://web.100mentors.com/mentor/5a21bbdfcff69f5a027317e5', 'etiqueta': 'Directorio (Perfil 100mentors)'}]"
+ },
+ {
+  "n": "Nazario González Beltrán",
+  "l": "Elche",
+  "p": "España",
+  "lat": 38.26799,
+  "lng": -0.6762,
+  "a": 1,
+  "e": "[{'url': 'https://cap-i-cua.net/wp/category/in-memoriam/', 'etiqueta': 'Memorial (Otro (In Memoriam))'}, {'url': 'https://www.elche.me/biografia/gonzalez-beltran-nazario', 'etiqueta': 'Memorial (Otro (conmemorativo))'}, {'url': 'https://narracionoral.es/index.php/es/documentos/espacios-de-cuento/grandes-eventos/248-festival-de-la-oralidad-un-sueno-puesto-en-pie', 'etiqueta': 'Otro (artículo AEDA de su autoría)'}]"
+ },
+ {
+  "n": "Nicole Castillo",
+  "l": "Santiago",
+  "p": "Chile",
+  "lat": -33.45164,
+  "lng": -70.64697,
+  "a": 1,
+  "e": "https://lamatrioska.cl"
+ },
+ {
+  "n": "Niré Collazo",
+  "l": "",
+  "p": "Uruguay",
+  "lat": -34.90334,
+  "lng": -56.1647,
+  "a": 1,
+  "e": "https://www.instagram.com/narradoraoral_collazonire/"
+ },
+ {
+  "n": "Nono Granero",
+  "l": "Úbeda",
+  "p": "España",
+  "lat": 37.99139,
+  "lng": -3.40699,
+  "a": 1,
+  "e": "https://www.instagram.com/nonogranero"
+ },
+ {
+  "n": "Osvaldo Manuel Pérez Peñalver",
+  "l": "La Habana Vieja",
+  "p": "Cuba",
+  "lat": 23.12078,
+  "lng": -82.37856,
+  "a": 1,
+  "e": "[{'url': 'https://www.facebook.com/ComunicacionCNAE/posts/pfbid026iwQwRxghUjfCHASDYtgG4vFnTdhFFZ5eexLrMBqES9p6EWCAeh112b8XGoTuRVkl', 'etiqueta': 'Memorial (Conmemorativo (Facebook institucional))'}]"
+ },
+ {
+  "n": "Pamela Gutiérrez",
+  "l": "Cochabamba",
+  "p": "Bolivia",
+  "lat": -17.36372,
+  "lng": -66.1328,
+  "a": 1,
+  "e": "https://www.facebook.com/ATiTeCuento"
+ },
+ {
+  "n": "Paola Balbi",
+  "l": "Roma y Lazio",
+  "p": "Italia",
+  "lat": 41.8898,
+  "lng": 12.49526,
+  "a": 1,
+  "e": "https://www.facebook.com/festival.storytelling/"
+ },
+ {
+  "n": "Pep Bruno",
+  "l": "",
+  "p": "España",
+  "lat": 40.40734,
+  "lng": -3.7329,
+  "a": 1,
+  "e": "https://twitter.com/pep_bruno"
+ },
+ {
+  "n": "Randel McGee",
+  "l": "",
+  "p": "Estados Unidos",
+  "lat": 38.89356,
+  "lng": -77.04794,
+  "a": 1,
+  "e": "https://www.facebook.com/Paper-and-Scissors-ROCK-411456305654"
+ },
+ {
+  "n": "Raymel Molerio",
+  "l": "La Habana",
+  "p": "Cuba",
+  "lat": 23.11529,
+  "lng": -82.37125,
+  "a": 1,
+  "e": "[{'url': 'http://www.cuentacuentos.eu/narradores/miembros/cuba/RaymelMolerio.htm', 'etiqueta': 'Perfil RIC'}]"
+ },
+ {
+  "n": "Regina Machado",
+  "l": "São Paulo",
+  "p": "Brasil",
+  "lat": -23.55668,
+  "lng": -46.6321,
+  "a": 1,
+  "e": "https://www.instagram.com/bocadoceu/"
+ },
+ {
+  "n": "Regina Reis",
+  "l": "Londrina",
+  "p": "Brasil",
+  "lat": -23.34241,
+  "lng": -51.17379,
+  "a": 1,
+  "e": "https://ecoh.art.br/"
+ },
+ {
+  "n": "Regina Ress",
+  "l": "",
+  "p": "Estados Unidos",
+  "lat": 38.90812,
+  "lng": -77.03896,
+  "a": 1,
+  "e": "https://www.facebook.com/ReginaRessStoryteller"
+ },
+ {
+  "n": "Richard Marsh",
+  "l": "",
+  "p": "Irlanda",
+  "lat": 53.35305,
+  "lng": -6.26461,
+  "a": 1,
+  "e": "https://www.richardmarsh.ie/"
+ },
+ {
+  "n": "Roger Jenkins",
+  "l": "",
+  "p": "Singapur",
+  "lat": 1.34163,
+  "lng": 103.84855,
+  "a": 1,
+  "e": "https://rogerjenkins.com.sg"
+ },
+ {
+  "n": "Rovilson José da Silva",
+  "l": "Londrina",
+  "p": "Brasil",
+  "lat": -23.2911,
+  "lng": -51.17589,
+  "a": 1,
+  "e": "https://ecoh.art.br/"
+ },
+ {
+  "n": "Rubén Corbett",
+  "l": "Ciudad de México",
+  "p": "México",
+  "lat": 19.43414,
+  "lng": -99.13227,
+  "a": 1,
+  "e": "https://facebook.com/ruben.corbettfinoac"
+ },
+ {
+  "n": "Rubén Martínez Santana",
+  "l": "Barcelona",
+  "p": "España",
+  "lat": 41.37727,
+  "lng": 2.15106,
+  "a": 1,
+  "e": "https://www.instagram.com/rubenmartinezsantana"
+ },
+ {
+  "n": "Sergio Ramírez",
+  "l": "Managua",
+  "p": "Nicaragua",
+  "lat": 12.11102,
+  "lng": -86.26383,
+  "a": 1,
+  "e": "https://www.facebook.com/escritorsergioramirez"
+ },
+ {
+  "n": "Sofia Maul",
+  "l": "Lisboa",
+  "p": "Portugal",
+  "lat": 38.69414,
+  "lng": -9.12238,
+  "a": 1,
+  "e": "[{'url': 'http://narracaooral.blogspot.com/2010/05/sofia-maul.html', 'etiqueta': 'Directorio (Perfil institucional (Blog Narração Oral))'}, {'url': 'https://www.blogger.com/profile/13739091776498268461', 'etiqueta': 'Otro (perfil Blogger)'}, {'url': 'https://www.festivalpassapalavra.pt/sofia-maul', 'etiqueta': 'Directorio (Perfil institucional (Festival Passa a Palavra))'}, {'url': 'http://www.contabandistas.com', 'etiqueta': 'Web (compartido — asociación)'}]"
+ },
+ {
+  "n": "Stéphanie Bénéteau",
+  "l": "Montreal",
+  "p": "Canadá",
+  "lat": 45.4901,
+  "lng": -73.53819,
+  "a": 1,
+  "e": "https://www.stephaniebeneteau.com"
+ },
+ {
+  "n": "Tim Ereneta",
+  "l": "",
+  "p": "Estados Unidos",
+  "lat": 38.92338,
+  "lng": -77.02901,
+  "a": 1,
+  "e": "https://facebook.com/tim.ereneta"
+ },
+ {
+  "n": "Yeniffer Díaz",
+  "l": "Lima",
+  "p": "Perú",
+  "lat": -12.06331,
+  "lng": -77.06884,
+  "a": 1,
+  "e": "https://www.instagram.com/tiempodecuentosperu"
+ }
+]

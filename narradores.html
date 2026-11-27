@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@700;800&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700&family=Gochi+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="css/style.css">
 <style>
 .page-hero { max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 0; }
@@ -51,9 +52,19 @@
 <main>
 <div class="page-hero">
 <h1 data-i18n="narr_title">Narradores</h1>
-<p class="section-intro" data-i18n="narr_intro">Listados de la Red Internacional de Cuentacuentos (RIC), <a href="https://www.cuentacuentos.eu/" target="_blank" rel="noopener">cuentacuentos.eu</a> — portal fundado en el verano de 2009 por Beatriz Montero y Enrique Páez, administrado desde Tenerife. La RIC declara más de 1.000 narradores en 50 países en una sección de su web y más de 1.300 en 57 países en su FAQ; las cifras se citan tal como aparecen en la fuente.</p>
+<p class="section-intro" data-i18n="narr_intro">Estamos creando una red de narradoras y narradores: un registro vivo de quienes cuentan cuentos en el mundo, cada quien con su lugar en el mapa y su perfil. Es la red de este Mapa Mundial de la Narración Oral, impulsada por la Fundación Festival Puro Cuento, y crece con cada persona que se suma. Si contás cuentos, sumate vos también: creá tu perfil de narrador y aparecé en el mapa.</p>
+<p><a class="btn btn-primary" href="mailto:info@festivalpurocuento.com?subject=Quiero%20crear%20mi%20perfil%20de%20narrador&body=Nombre%3A%0ALocalidad%3A%0APa%C3%ADs%3A%0AEnlaces%20(web%20o%20redes)%3A%0ASemblanza%20breve%3A">Crear mi perfil de narrador</a></p>
 </div>
 <section class="section" id="narradores">
+
+    <h3 class="subsection">Mapa mundial de narradores</h3>
+    <p class="muted">Un marcador por narradora o narrador, donde se ubica. Quienes no traen coordenada exacta en el registro se ubican por su localidad o su país y quedan marcados como ubicación aproximada. <span id="narr-mapa-count"></span></p>
+    <div id="mapa-narradores" style="height:520px;border-radius:12px;overflow:hidden;margin-bottom:1.5rem"></div>
+
+    <h3 class="subsection">La red en números</h3>
+    <p><strong>297 narradoras y narradores</strong> en <strong>32 países</strong> (conteo del registro al 27 de noviembre de 2026; 37 fichas están completando su país).</p>
+    <p><strong>Por continente y región:</strong> América del Sur 170 · América Central y el Caribe 38 · Europa 32 · América del Norte 13 · Asia 4 · Oceanía 2 · África 1.</p>
+    <p><strong>Por país:</strong> Argentina 144 · Costa Rica 24 · España 19 · Brasil 9 · Bolivia 6 · Estados Unidos 6 · Italia 5 · Portugal 5 · Cuba 5 · Canadá 4 · Perú 4 · México 3 · Nicaragua 3 · Chile 2 · Honduras 2 · Colombia 2 · Australia 2 · Corea del Sur 1 · Taiwán 1 · El Salvador 1 · Rep. Dominicana 1 · Ecuador 1 · India 1 · Kenia 1 · Guatemala 1 · Paraguay 1 · Alemania 1 · Puerto Rico 1 · Reino Unido 1 · Uruguay 1 · Irlanda 1 · Singapur 1.</p>
 
     <article class="fest-card featured-card" id="sabio-card">
       <div class="fest-card-head">
@@ -126,6 +137,8 @@
 </footer>
 <script src="js/i18n.js"></script>
 <script src="js/app.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/narradores-mapa.js"></script>
 <script>
 (function () {
   var btn = document.querySelector('.nav-toggle');
