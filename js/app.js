@@ -53,7 +53,7 @@
 
   async function init() {
     try {
-      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro, narrMapa] =
+      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro, narrMapa, proyectos] =
         await Promise.all([
           loadJSON("festivales-mundo.json"),
           loadJSON("colombia.json"),
@@ -72,8 +72,9 @@
           loadJSON("blog.json"),
           loadJSON("foro.json"),
           loadJSON("narradores-mapa.json"),
+          loadJSON("proyectos.json"),
         ]);
-      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro, narrMapa });
+      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro, narrMapa, proyectos });
     } catch (e) {
       console.error(e);
       const dl = $("dir-list");
@@ -114,6 +115,7 @@
     const overlap = DATA.mundo.filter(f => f.en_colombia).length;
     $("stat-fest").textContent = DATA.mundo.length + DATA.colombia.length - overlap;
     $("stat-narr").textContent = DATA.narradores.length;
+    if ($("stat-proy")) $("stat-proy").textContent = (DATA.proyectos || []).length;
     $("stat-libros").textContent = DATA.libros.length;
     $("stat-prensa").textContent = DATA.prensa.length;
   }
@@ -232,6 +234,23 @@
     return parts.join("");
   }
 
+  // Popup completo de proyecto ejecutado (capa del mapa principal, 27-nov-2026).
+  function proyectoPopup(p) {
+    const parts = [];
+    parts.push(`<h4>${esc(p.nombre)}</h4>`);
+    const lugar = [p.lugar, p.pais].filter(Boolean).join(" · ");
+    if (lugar) parts.push(`<div>${esc(lugar)}</div>`);
+    if (p.estado) parts.push(`<div><em>${esc(p.estado === "ejecutado" ? t("proy_ejecutado") : t("proy_encurso"))}</em></div>`);
+    if (p.coord_aprox) parts.push(`<div class="aprox">${t("approx")}</div>`);
+    if (p.que_hizo) parts.push(`<div><strong>${t("proy_que")}:</strong> ${esc(p.que_hizo)}</div>`);
+    if (p.quien) parts.push(`<div><strong>${t("proy_quien")}:</strong> ${esc(p.quien)}</div>`);
+    if (p.periodo) parts.push(`<div><strong>${t("proy_periodo")}:</strong> ${esc(p.periodo)}</div>`);
+    if (p.recursos) parts.push(`<div><strong>${t("proy_recursos")}:</strong> ${esc(p.recursos)}</div>`);
+    if (p.resultados) parts.push(`<div><strong>${t("proy_resultados")}:</strong> ${esc(p.resultados)}</div>`);
+    parts.push(`<div><a href="proyectos.html#proy-${esc(p.id)}">${t("proy_ficha")}</a></div>`);
+    return parts.join("");
+  }
+
   function premioPopup(p) {
     const parts = [];
     parts.push(`<h4>${esc(p.nombre)}</h4>`);
@@ -268,6 +287,7 @@
     narrLayer = L.layerGroup();
     premLayer = L.layerGroup();
     librLayer = L.layerGroup();
+    proyLayer = L.layerGroup();
 
     refreshMarkers();
     // Vista inicial: encuadrar los marcadores (el zoom 2 dejaba 2/3 del mapa en gris)
@@ -307,10 +327,12 @@
     const showN = $("toggle-narradores") && $("toggle-narradores").checked;
     const showP = $("toggle-premios") && $("toggle-premios").checked;
     const showL = $("toggle-libros") && $("toggle-libros").checked;
+    const showPr = $("toggle-proyectos") && $("toggle-proyectos").checked;
     const narr = showN ? (DATA.narrMapa || []).filter(n => (country === "all" || n.p === country)) : [];
     const prem = showP ? (DATA.premios || []).filter(p => p.lat != null && (country === "all" || p.pais_ambito === country)) : [];
     const libr = showL ? (DATA.libros || []).filter(l => l.lat != null && (country === "all" || l.pais === country)) : [];
-    return { narr, prem, libr };
+    const proy = showPr ? (DATA.proyectos || []).filter(p => p.lat != null && (country === "all" || p.pais === country)) : [];
+    return { narr, prem, libr, proy };
   }
 
   function refreshMarkers() {
@@ -321,6 +343,7 @@
     narrLayer.clearLayers();
     premLayer.clearLayers();
     librLayer.clearLayers();
+    proyLayer.clearLayers();
     const { world, col } = markersFiltered();
     world.forEach(f => {
       if (f.administrador) {
@@ -335,12 +358,15 @@
       L.marker([c.lat, c.lng], { icon: dotIcon("#F89C1C", c.coord_aprox) })
         .bindPopup(colombiaPopup(c)).addTo(worldLayer);
     });
-    const { narr, prem, libr } = layersFiltered();
+    const { narr, prem, libr, proy } = layersFiltered();
     narr.forEach(n => {
       L.marker([n.lat, n.lng], { icon: dotIcon("#2E86AB", !!n.a) }).bindPopup(narrMapaPopup(n)).addTo(narrLayer);
     });
     prem.forEach(p => {
       L.marker([p.lat, p.lng], { icon: dotIcon("#D4A017", p.coord_aprox) }).bindPopup(premioPopup(p)).addTo(premLayer);
+    });
+    proy.forEach(p => {
+      L.marker([p.lat, p.lng], { icon: dotIcon("#7D3C98", p.coord_aprox) }).bindPopup(proyectoPopup(p), { maxHeight: 320 }).addTo(proyLayer);
     });
     libr.forEach(l => {
       L.marker([l.lat, l.lng], { icon: dotIcon("#7B5EA7", l.coord_aprox) }).bindPopup(libroPopup(l)).addTo(librLayer);
@@ -348,7 +374,8 @@
     if ($("toggle-narradores") && $("toggle-narradores").checked) narrLayer.addTo(map); else map.removeLayer(narrLayer);
     if ($("toggle-premios") && $("toggle-premios").checked) premLayer.addTo(map); else map.removeLayer(premLayer);
     if ($("toggle-libros") && $("toggle-libros").checked) librLayer.addTo(map); else map.removeLayer(librLayer);
-    const n = world.length + col.length + narr.length + prem.length + libr.length;
+    if ($("toggle-proyectos") && $("toggle-proyectos").checked) proyLayer.addTo(map); else map.removeLayer(proyLayer);
+    const n = world.length + col.length + narr.length + prem.length + libr.length + proy.length;
     const unfiltered = $("filter-country").value === "all" && $("filter-status").value === "all" && $("toggle-world").checked;
     let sinUbi = 0;
     if (unfiltered) {
@@ -385,7 +412,7 @@
         oc.value = "Colombia"; oc.textContent = "Colombia"; sel.appendChild(oc);
       }
     });
-    ["filter-country", "filter-status", "toggle-world", "toggle-miticos", "toggle-narradores", "toggle-premios", "toggle-libros"].forEach(id => {
+    ["filter-country", "filter-status", "toggle-world", "toggle-miticos", "toggle-narradores", "toggle-premios", "toggle-libros", "toggle-proyectos"].forEach(id => {
       const elM = $(id);
       if (elM) elM.addEventListener("change", refreshMarkers);
     });

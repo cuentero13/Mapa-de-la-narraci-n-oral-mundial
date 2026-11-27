@@ -1,0 +1,1604 @@
+[
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.argentina.gob.ar/noticias/el-bibliomovil-recorrio-24423-km-en-diez-meses",
+   "https://www.argentina.gob.ar/noticias/el-bibliomovil-continua-su-recorrido-federal-durante-el-verano",
+   "https://www.conabip.gob.ar/node/487425"
+  ],
+  "id": "bibliomovil-conabip-argentina",
+  "lat": -34.6037,
+  "lng": -58.3816,
+  "lugar": "Argentina (ámbito nacional; coordenada aproximada de Buenos Aires)",
+  "nombre": "Bibliomóvil de la CONABIP",
+  "pais": "Argentina",
+  "periodo": "En ejecución (balance publicado de enero a octubre de 2025; continuidad en verano 2026)",
+  "que_hizo": "Biblioteca itinerante federal que recorre localidades con material bibliográfico, propuestas artísticas y dispositivos pedagógicos, articulando con bibliotecas populares, escuelas y municipios. Sus circuitos incluyen talleres, espacios de juego, animación lectora y narraciones orales, con foco en comunidades donde el acceso cultural es más limitado. Funciona junto a bibliomóviles en comodato con provincias.",
+  "quien": "Comisión Nacional de Bibliotecas Populares (CONABIP) – Secretaría de Cultura de la Nación",
+  "recursos": "Secretaría de Cultura de la Nación / CONABIP",
+  "resultados": "Balance oficial enero–octubre 2025: 24.423 kilómetros recorridos y 58 localidades visitadas en cuatro regiones. CABA y provincia de Buenos Aires: más de 15.300 asistentes. Patagonia rionegrina: 4.136 km, 12 localidades y 1.500 personas en talleres, narraciones orales y animación lectora. Chubut: 13.613 km, 21 localidades y 4.829 asistentes. Entre Ríos: 6.074 km, 26 actividades en 19 localidades y 2.525 personas."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.pagina12.com.ar/diario/sociedad/3-248752-2014-06-17.html?mobile=1",
+   "https://www.ambito.com/informacion-general/pami-ofrece-programas-voluntariado-sus-afiliados-como-inscribirse-n6098871",
+   "http://servicios.abc.gov.ar/lainstitucion/organismos/cendie/boletines/boletin_tematico_dic09/tematico.htm"
+  ],
+  "id": "abuelas-abuelos-leecuentos-argentina",
+  "lat": -34.6037,
+  "lng": -58.3816,
+  "lugar": "Argentina (ámbito nacional; coordenada aproximada de Buenos Aires)",
+  "nombre": "Programa Abuelas y Abuelos Leecuentos",
+  "pais": "Argentina",
+  "periodo": "Desde 2006 – en ejecución",
+  "que_hizo": "Programa de voluntariado en el que personas mayores afiliadas a PAMI, capacitadas en talleres, leen y cuentan textos en escuelas, hospitales e instituciones, integrando a adultos mayores con niños y jóvenes mediante la lectura en voz alta. Nació en el marco del Plan Nacional de Lectura del Ministerio de Educación de la Nación junto a PAMI y sigue listado entre los programas de voluntariado vigentes de PAMI como «Abuelos leecuentos».",
+  "quien": "PAMI (Instituto Nacional de Servicios Sociales para Jubilados y Pensionados), originado con el Ministerio de Educación de la Nación",
+  "recursos": "PAMI",
+  "resultados": "Según informó PAMI y reprodujo Página/12 en junio de 2014: unos 500 afiliados participantes llevaron sus lecturas a más de 10 mil niños en escuelas y hospitales de distintos puntos del país."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://hass.uq.edu.au/node/13896"
+  ],
+  "id": "gurindji-youth-digital-storytelling",
+  "lat": -17.433,
+  "lng": 130.833,
+  "lugar": "Territorio del Norte (comunidad gurindji; referencia Kalkarindji)",
+  "nombre": "First Nations Youth Digital Story-Telling Project (Gurindji / Tamarra)",
+  "pais": "Australia",
+  "periodo": "2022–presente (grant anunciado en la ronda 2022)",
+  "que_hizo": "Proyecto de narración digital con jóvenes gurindji para renovar lengua y cultura entre generaciones, a partir de la tradición oral gurindji: transforma una gran obra de arte colaborativa en una animación que documenta conocimiento lingüístico, ecológico y cultural para las generaciones futuras. Forma parte del proyecto mayor Tamarra, que incluye un libro ilustrado infantil.",
+  "quien": "University of Queensland (Prof. Felicity Meakins) con Karungkarni Art, cuerpo representativo gurindji de arte, lengua y cultura",
+  "recursos": "Financiador: auDA Foundation, AUD 40.000 (consta en la nota de la University of Queensland; parte de una ronda de AUD 600.000 con 15 receptores de AUD 40.000). Trabajo previo financiado por el Indigenous Languages and Arts program (Office for the Arts) y la Aboriginals Benefit Account.",
+  "resultados": null
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://link.springer.com/content/pdf/10.1007/978-3-030-56417-9_16.pdf",
+   "https://www.phaiwa.org.au/wp-content/uploads/2019/03/TheWAIndigenousStorybookED8_E.pdf",
+   "https://www.phaiwa.org.au/wp-content/uploads/2025/03/The-Indigenous-Storybook-2nd-Edition.pdf"
+  ],
+  "id": "wa-indigenous-storybook",
+  "lat": -31.9505,
+  "lng": 115.8605,
+  "lugar": "Perth, Australia Occidental (ediciones por regiones de WA)",
+  "nombre": "West Australian Indigenous Storybook",
+  "pais": "Australia",
+  "periodo": "2011–2017 (iniciado en 2011; 10 Storybooks publicados en 6 años según la evaluación; edición n.º 8 en junio de 2017)",
+  "que_hizo": "Proyecto de storytelling y publicación con enfoque de fortalezas: personas aborígenes de cada región de Australia Occidental narran en sus propias palabras historias autobiográficas de logros personales y comunitarios (salud, educación, arte, deporte), guiados por Elders regionales y un Comité Directivo Aborigen, para contrarrestar la representación mediática negativa. Cada edición se centra en una región.",
+  "quien": "Public Health Advocacy Institute of Western Australia (PHAIWA), Curtin University",
+  "recursos": "Apoyo financiero documentado en las propias ediciones: Healthway y Department for Communities (Gobierno de Australia Occidental). Montos: no constan en las fuentes consultadas, null.",
+  "resultados": "Según Stoneham, Davies & Christophers (2021, Springer): 10 Storybooks publicados en un período de 6 años, con evaluación de la experiencia de los narradores. La edición Perth and Peel fue la n.º 2 y la edición Goldfields la n.º 8 (junio de 2017, ISBN 978-0-9924807-7-6)."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.fundacionculturalbcb.gob.bo/notas-de-prensa-cnm/2024/np-cnm-023-2024.php",
+   "https://www.fundacionculturalbcb.gob.bo/notas-de-prensa-cnm/2024/np-cnm-018-2024.php",
+   "https://rcbolivia.com/la-casa-nacional-de-moneda-concluye-la-8va-version-del-concurso-cuenta-leyendas-con-gran-participacion-estudiantil/"
+  ],
+  "id": "cuenta-leyendas-potosi-bolivia",
+  "lat": -19.5836,
+  "lng": -65.7531,
+  "lugar": "Potosí, Bolivia",
+  "nombre": "Concurso Cuenta Leyendas – Casa Nacional de Moneda, Potosí",
+  "pais": "Bolivia",
+  "periodo": "Desde 2015 – en ejecución (7ª versión en 2024 y 8ª versión en 2025)",
+  "que_hizo": "Programa-concurso anual, activo desde 2015, que forma a estudiantes de 5º y 6º de secundaria en narración de cuentos y leyendas potosinas mediante talleres previos de familiarización con las historias, análisis, lectura comprensiva, adaptación de guiones, expresión corporal, artes escénicas y narración en voz alta. Los participantes narran relatos basados en Crónicas Potosinas y Potosí: Tradiciones y Leyendas en fases clasificatorias y final, preservando la tradición oral y escrita de Potosí.",
+  "quien": "Casa Nacional de Moneda, dependiente de la Fundación Cultural del Banco Central de Bolivia (FC-BCB)",
+  "recursos": "Fundación Cultural del Banco Central de Bolivia (FC-BCB)",
+  "resultados": "7ª versión (2024): 75 estudiantes de 22 unidades educativas públicas y privadas, con talleres del 20 al 23 de agosto y 16 finalistas. 8ª versión (2025): 75 escolares de 23 establecimientos educativos, capacitación del 2 al 5 de septiembre y final ante más de 1.100 asistentes, según la cobertura de la premiación."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://sesc-sc.com.br/cultura/incentivo-a-producao-e-fruicao-literaria-marcam-o-arte-da-palavra-",
+   "https://www.sesc.com.br/?sesc_multimidia_download=1&post_id=9585",
+   "https://www.sescrr.com.br/?p=4705",
+   "https://sescalagoas.com.br/licitacoes-em-andamento/noticias/arte-da-palavra-sesc-divulga-lista-de-selecionados-para-oficina-de-contacao-de-historias"
+  ],
+  "id": "arte-da-palavra-sesc-brasil",
+  "lat": -22.9068,
+  "lng": -43.1729,
+  "lugar": "Brasil (ámbito nacional; coordenada aproximada de Río de Janeiro, sede histórica del Departamento Nacional del Sesc)",
+  "nombre": "Arte da Palavra – Rede Sesc de Leituras (Circuito Oralidades)",
+  "pais": "Brasil",
+  "periodo": "2017 – en ejecución (edición 2026 programada)",
+  "que_hizo": "Circuito literario nacional creado en 2017 con tres circuitos: Autores, Criação Literária y Oralidades. El Circuito Oralidades privilegia las expresiones verbales de la palabra —contação de histórias, saraus, performances, slams y repentes— y hace circular artistas de oralidad por unidades del Sesc en todo Brasil. En Santa Catarina, la edición 2023 sumó más de 45 actividades gratuitas en 16 ciudades.",
+  "quien": "Sesc (Serviço Social do Comércio) – Departamento Nacional y departamentos regionales",
+  "recursos": "Sesc",
+  "resultados": "Santa Catarina 2023: 4.562 personas participantes, más de 45 actividades y 16 ciudades alcanzadas (Sesc-SC). A escala nacional, la revista Palavra del Sesc describe más de 70 artistas en circulación y más de 700 presentaciones, debates y oficinas por año; la edición 2022 reunió 140 artistas en más de 500 actividades (Sesc Roraima)."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://blogdoamarildo.com.br/viva-e-deixe-viver-amplia-atuacao-e-impacta-mais-de-11-mil-pessoas-com-acoes-de-leitura-em-hospitais-de-brasilia/",
+   "https://bahiapravoce.com.br/viva-e-deixe-viver-celebra-mais-de-14-mil-pessoas-impactadas-na-bahia/",
+   "https://www.scielo.br/j/ciedu/a/sb37gS33mVdFqXbGWHnMyxp/?format=pdf&lang=pt"
+  ],
+  "id": "viva-e-deixe-viver-brasil",
+  "lat": -23.5505,
+  "lng": -46.6333,
+  "lugar": "Brasil (ámbito nacional; coordenada aproximada de São Paulo, ciudad de fundación)",
+  "nombre": "Associação Viva e Deixe Viver – Contadores de histórias em hospitais",
+  "pais": "Brasil",
+  "periodo": "1997 – en ejecución",
+  "que_hizo": "ONG fundada en 1997 que forma voluntarios contadores de historias y los despliega en hospitales públicos, filantrópicos y privados y en escuelas públicas. Los voluntarios leen y cuentan historias a niños hospitalizados, acompañantes y profesionales de salud como práctica de humanización hospitalaria. Su efecto fue medido en un estudio con 81 niños en UTI en São Paulo, que registró reducción del dolor y cambios favorables en biomarcadores tras sesiones de 20–30 minutos.",
+  "quien": "Associação Viva e Deixe Viver (OSC), fundada por Valdir Cimino",
+  "recursos": null,
+  "resultados": "Balanço Social 2025 (citado en la cobertura del balance): más de 138 mil personas impactadas en Brasil en 2025, 721 voluntarios activos, actuación en 93 hospitales y 20 escuelas públicas; en hospitales, más de 116 mil personas impactadas, 54.118 niños hospitalizados, 13.437 libros leídos y cerca de 12.952 horas de contação de histórias. En 2024: 89 hospitales, 601 voluntarios y más de 44 mil niños y adolescentes hospitalizados alcanzados."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://agendacultural.maua.sp.gov.br/eventos/lista/?tribe-bar-date=2025-09-12&eventDisplay=past",
+   "https://www.sesc-sc.com.br/servicos/biblioteca/unidade-movel-bibliosesc?u=31",
+   "https://www.sescalagoas.com.br/cultura/biblioteca",
+   "https://santarem.pa.gov.br/noticias/educacao/parceria-entre-sesc-e-semed-incentiva-o-habito-da-leitura-para-alunos-de-escolas-municipais-kdabml"
+  ],
+  "id": "bibliosesc-brasil",
+  "lat": -15.7939,
+  "lng": -47.8828,
+  "lugar": "Brasil (ámbito nacional; coordenada aproximada de Brasilia)",
+  "nombre": "BiblioSesc – Bibliotecas móviles del Sesc",
+  "pais": "Brasil",
+  "periodo": "2005 – en ejecución",
+  "que_hizo": "Proyecto nacional creado en 2005 por el Departamento Nacional del Sesc: bibliotecas montadas en camiones que permanecen por ciclos en barrios, comunidades y escuelas sin biblioteca pública. Además de consulta y préstamo, cada unidad realiza mediação de leitura, rodas de leitura y contação de histórias dentro de la unidad móvil. En Alagoas funciona desde 2008 y en Santa Catarina atiende localidades rurales de Mafra y Rio do Sul.",
+  "quien": "Sesc (Serviço Social do Comércio) – Departamento Nacional y departamentos regionales, en alianza con secretarías municipales de educación, escuelas y municipios",
+  "recursos": "Sesc",
+  "resultados": "Red descrita en 2025 con 54 unidades móviles en el país; cada camión transporta cerca de 3,5 mil libros y visita hasta 10 localidades en ciclos de seis meses, con acciones de contação de histórias y clubes de lectura. Las unidades de Santa Catarina declaran acervo de más de 3.000 ejemplares por unidad y atención mínima de un año por municipio."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-alfabetizacao/copy3_of_programas-e-acoes",
+   "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/dezembro/mec-lanca-programa-201cconta-pra-mim201d-para-incentivar-a-leitura-para-criancas-no-ambiente-familiar"
+  ],
+  "id": "conta-pra-mim-brasil",
+  "lat": -15.7939,
+  "lng": -47.8828,
+  "lugar": "Brasil (ámbito nacional; coordenada aproximada de Brasilia)",
+  "nombre": "Programa Conta pra Mim",
+  "pais": "Brasil",
+  "periodo": "2019 (lanzamiento) / 2020 (institución formal) – entregas documentadas hasta 2022",
+  "que_hizo": "Programa federal de literacia familiar de la Política Nacional de Alfabetização, instituido por la Portaria nº 421 del 23 de abril de 2020. Promovió en familias con niños de primera infancia prácticas como lectura dialogada y narração/contação de histórias, con guías, videos y un Guia de Contação de Histórias publicado por la Sealf/MEC. Su acción de mayor envergadura, con el programa Criança Feliz, distribuyó kits de literacia familiar y formó visitadores.",
+  "quien": "Ministério da Educação (MEC) – Secretaria de Alfabetização (Sealf), en acuerdo interministerial con el Ministério da Cidadania",
+  "recursos": "Ministério da Educação (MEC)",
+  "resultados": "Entregas documentadas por el MEC para 2022: inserción de orientaciones de literacia familiar en la 3ª edición de la Caderneta da Criança del Ministério da Saúde (entregada a las familias al nacimiento); distribución de kits compuestos por 20 libros de historias infantiles, encarte de literacia familiar y juego, con formación de visitadores e inicio de visitaciones en la alianza Conta pra Mim–Criança Feliz; publicación del Guia de Contação de Histórias, del Guia de Brincadeiras Tradicionais e Jogos de Tabuleiro y del Guia Prático de Musicalização Infantil. La fuente oficial no publica una cifra total de familias alcanzadas."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.vpl.ca/sites/default/files/ProvLibraryGrantsReport2016.pdf",
+   "http://eprints.rclis.org/cgi/export/eprint/16994/Refer/elis-eprint-16994.refer"
+  ],
+  "id": "vpl-aboriginal-storyteller-in-residence",
+  "lat": 49.2827,
+  "lng": -123.1207,
+  "lugar": "Vancouver, Columbia Británica",
+  "nombre": "Aboriginal Storyteller in Residence — Vancouver Public Library",
+  "pais": "Canadá",
+  "periodo": "2009–presente (lanzado como programa de tres años en 2009; en 2016 cumplió su 7.º año)",
+  "que_hizo": "Residencia anual de cuatro meses de un narrador/a indígena (escritores, narradores orales, cineastas, talladores, artistas de teatro) en la biblioteca pública. Ofrece programas públicos y visitas comunitarias en sucursales de toda la ciudad para promover el entendimiento intercultural y el intercambio de historias entre pueblos indígenas y no indígenas.",
+  "quien": "Vancouver Public Library (VPL)",
+  "recursos": "Financiación inicial: Vancouver Foundation (programa de tres años iniciado en 2009, según la ponencia de Olsen & Kripps). Monto: no consta en las fuentes consultadas, null.",
+  "resultados": "Según el Provincial Library Grants Report 2016 de VPL: la residente de 2016, Renae Morisseau, ofreció 32 eventos públicos y visitas comunitarias que alcanzaron a más de 700 personas en sucursales y espacios comunitarios de Vancouver."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://oralhistorycentre.ca/ininiwag-dibaajimowag/",
+   "https://oralhistorycentre.ca/2014/05/06/nindibaajimomin-official-website/",
+   "https://kclpure.kcl.ac.uk/ws/portalfiles/portal/118871197/Fairey_Arts_Peacebuilding.pdf"
+  ],
+  "id": "nindibaajimomin",
+  "lat": 49.8951,
+  "lng": -97.1384,
+  "lugar": "Winnipeg, Manitoba",
+  "nombre": "Nindibaajimomin / Ininiwag Dibaajimowag — Digital Storytelling on the Intergenerational Experiences of Residential Schools",
+  "pais": "Canadá",
+  "periodo": "2010–2014",
+  "que_hizo": "Proyecto de narración digital intergeneracional sobre el legado de las escuelas residenciales indígenas en Canadá. En talleres intensivos, sobrevivientes y sus hijos e hijas recordaron historias familiares y crearon relatos digitales breves (2–5 minutos), publicados en línea y en proyecciones, junto con una caja de herramientas (toolkit) para practicantes.",
+  "quien": "Oral History Centre y Department of Indigenous Studies, University of Winnipeg, con la comunidad aborigen",
+  "recursos": "Financiador: Aboriginal Healing Foundation (organización gestionada por indígenas, financiada por el Gobierno de Canadá en el marco del Aboriginal Action Plan). Monto: no consta en las fuentes consultadas, null.",
+  "resultados": "Según Fairey (2017, KCL) y el Oral History Centre: cuatro procesos de storytelling digital entre 2010 y 2014 con 32 participantes (sobrevivientes e hijos de sobrevivientes); 24 historias digitales hechas públicas en línea y en proyecciones; cinco guías que componen el toolkit de storytelling digital. En la fase Ininiwag Dibaajimowag (2010–2013), seis mujeres y siete hombres produjeron sus historias digitales."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://eldesconcierto.cl/2023/07/12/una-sonrisa-necesaria-cuentacuentos-recorreran-hospitales-infantiles-de-santiago-y-valparaiso",
+   "https://g5noticias.cl/2023/10/30/colectivo-purocuento-facilito-capsulas-audiovisuales-de-cuentacuentos-para-distribucion-en-todos-los-centros-teleton-del-pais/",
+   "https://hospitalsancamilo.cl/sitioweb/2021/06/17/crean-cuenta-cuentos-virtuales-para-apoyar-a-menores-hospitalizados/"
+  ],
+  "id": "cuentos-en-salud-purocuento-chile",
+  "lat": -33.0472,
+  "lng": -71.6127,
+  "lugar": "Valparaíso y hospitales de las regiones Metropolitana y de Valparaíso, Chile",
+  "nombre": "Cuentos en Salud – Colectivo PuroCuento / Historias para Imaginar",
+  "pais": "Chile",
+  "periodo": "2014 – en ejecución (edición financiada por Fondo del Libro y la Lectura 2023, julio–noviembre)",
+  "que_hizo": "Proyecto de mediación y animación lectora con narración oral presencial en servicios pediátricos de hospitales públicos: cuentacuentos, folclor poético, adivinanzas y libro álbum para pacientes, cuidadores y personal de salud. Inició en 2014 por licitación pública del CNCA de Valparaíso, continuó con Fondo del Libro y la Lectura y apoyo del programa de Cuentacuentos de Fundación Mustakis, y en pandemia se reformuló en la plataforma digital Historias para Imaginar con cápsulas audiovisuales accesibles (incluidas versiones en lengua de señas).",
+  "quien": "Colectivo PuroCuento, con financiamiento del Ministerio de las Culturas, las Artes y el Patrimonio y apoyo de Fundación Mustakis",
+  "recursos": "Fondo del Libro y la Lectura, Ministerio de las Culturas, las Artes y el Patrimonio (convocatoria 2023); apoyos previos del Fondo Nacional de Desarrollo Cultural y las Artes y de Fundación Mustakis",
+  "resultados": "Edición 2023: 20 intervenciones de mediación y animación lectora por hospital en cuatro hospitales públicos, 80 visitas en total de dos horas cada una (julio–noviembre). Versión digital: 13 cápsulas nuevas entregadas en 2023 que se sumaron a 15 anteriores, con piezas gráficas y códigos QR distribuidos en los catorce centros Teletón del país."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/Dewmakando_Formulario.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/Dewmakando_Presupuesto.pdf",
+   "https://www.iberbibliotecas.org/dewmakando-kimun-taty-gtram-ka-mongen-mapuche/",
+   "https://www.iberbibliotecas.org/category/proyectos/chile/"
+  ],
+  "id": "dewmakando-kimun-oralidad-salud-mapuche",
+  "lat": -38.5317,
+  "lng": -72.435,
+  "lugar": "Lautaro, Región de La Araucanía",
+  "nombre": "Dewmakando Kimun Taty Gtram Ka Mongen Mapuche (Construyendo conocimiento desde la oralidad y salud mapuche)",
+  "pais": "Chile",
+  "periodo": "2022–2023 (10ª Convocatoria de Ayudas Iberbibliotecas 2022; duración prevista de 9 meses; el formulario lo inscribe como proyecto «en ejecución»)",
+  "que_hizo": "Levantó cuentos, relatos e historias locales desde el conocimiento y la oralidad mapuche de las localidades rurales de Lautaro y los convirtió en audiocuentos visuales y orales, musicalizados y/o teatralizados. Los audiocuentos se grabaron a través del Canal de TV Lautaro Educa, se presentaron en las rondas médicas de las postas de salud rural de la comuna y conformaron una colección de audiocuentos de libre acceso en la Biblioteca Municipal de Lautaro. La biblioteca se planteó como espacio de encuentro intercultural que respeta la oralidad como principal elemento de comunicación.",
+  "quien": "Municipalidad de Lautaro – Biblioteca Municipal de Lautaro",
+  "recursos": "Iberbibliotecas, 10ª Convocatoria de Ayudas 2022: monto solicitado 9.994,98 USD sobre un costo total de 12.788,71 USD (formulario y presupuesto publicados por Iberbibliotecas)",
+  "resultados": "Iberbibliotecas mantiene el proyecto en su archivo oficial de proyectos con inscripción, presupuesto e informe técnico descargables, lo que acredita su tramitación y ejecución dentro de la convocatoria. Las fuentes consultadas no aportan cifras finales de audiocuentos producidos ni de público alcanzado."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.cultura.gob.cl/actualidad/con-cinco-hospitales-publicos-incorporados-concluye-este-ano-el-programa-regional-del-plan-nacional-de-la-lectura/",
+   "https://www.cultura.gob.cl/programas/lee-chile-lee-lleva-lecturas-y-libros-a-ninos-de-hospitales-de-la-region/"
+  ],
+  "id": "plan-lectura-hospitales-valparaiso-chile",
+  "lat": -33.0245,
+  "lng": -71.5518,
+  "lugar": "Viña del Mar y red hospitalaria de la Región de Valparaíso, Chile",
+  "nombre": "Programa Regional del Plan Nacional de la Lectura en hospitales públicos de Valparaíso",
+  "pais": "Chile",
+  "periodo": "Ciclo anual cerrado en diciembre de 2014",
+  "que_hizo": "Programa que dotó a hospitales públicos de puntos lectores con más de 100 textos y los acompañó con intervenciones de cuentacuentos en atención abierta y cerrada, como estrategia de incentivo de la lectura por placer para pacientes, familiares y equipos clínicos. Se implementó en la red del Servicio de Salud Viña del Mar Quillota y en hospitales de San Felipe y San Antonio.",
+  "quien": "Consejo Regional de la Cultura y las Artes de Valparaíso (hoy Ministerio de las Culturas, las Artes y el Patrimonio), con el Servicio de Salud Viña del Mar Quillota, en el marco del Plan Nacional de la Lectura",
+  "recursos": "Consejo Nacional de la Cultura y las Artes / Plan Nacional de la Lectura",
+  "resultados": "Al cierre de 2014: cinco hospitales incorporados (Dr. Gustavo Fricke, Peñablanca, Cabildo, San Camilo de San Felipe y Claudio Vicuña de San Antonio), cada uno con punto lector de más de 100 textos y 16 visitas de cuentacuentos realizadas durante el año en cada recinto, según el balance oficial del Ministerio."
+ },
+ {
+  "id": "bibliotecas-publicas-moviles-paz-co",
+  "nombre": "Bibliotecas Públicas Móviles «Leer es mi cuento» — Bibliotecas Públicas para la Paz",
+  "que_hizo": "Instalación de 20 bibliotecas públicas móviles (tipo Ideas Box) en veredas que acogieron Espacios Territoriales de Capacitación y Reincorporación de excombatientes de las FARC, atendidas por 20 bibliotecarios. Ofrecieron promoción de lectura, talleres de escritura y lectura con escritores y periodistas, cine y servicios de extensión a veredas aledañas como espacios de encuentro y reconciliación.",
+  "quien": "Ministerio de Cultura y Biblioteca Nacional de Colombia (Red Nacional de Bibliotecas Públicas)",
+  "lugar": "20 veredas en 13 departamentos afectados por el conflicto (balance presentado en Caldono, Cauca)",
+  "pais": "Colombia",
+  "lat": 4.711,
+  "lng": -74.0721,
+  "coord_aprox": true,
+  "periodo": "marzo 2017–2018 (balance al 31-oct-2017 y cierre de fase en 2018)",
+  "recursos": "Ministerio de Cultura de Colombia; proyecto diseñado con recursos de la donación de la Fundación Bill & Melinda Gates para uso y apropiación de TIC en bibliotecas públicas (según BNC): USD 2.000.000 (valor de adquisición de las 20 bibliotecas móviles, según Radio Nacional de Colombia)",
+  "resultados": "Medición de impacto del Centro Nacional de Consultoría citada por la BNC: 176.313 visitas entre el 1-mar y el 31-oct-2017; extensión a 176 veredas; 62% de usuarias mujeres; la BNC reporta más de 250.000 colombianos beneficiados en el primer año.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-bnc/mas-de-170-mil-visitas-tuvieron-las-bibliotecas-publicas-moviles",
+   "https://www.bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-bnc/logros-biblioteca-nacional",
+   "https://www.radionacional.co/cultura/siete-anos-en-busqueda-de-un-pais-de-lectores"
+  ]
+ },
+ {
+  "id": "bibliotecas-veredas-caminos-paz-co",
+  "nombre": "Bibliotecas Públicas por las Veredas y los Caminos de la Paz",
+  "que_hizo": "Segunda fase de extensión bibliotecaria de las Bibliotecas Públicas Móviles: 11 bibliotecarios recorrieron veredas del posconflicto llevando talleres de lectura y escritura, producción de contenidos locales, cineforos, apropiación de TIC y maletas viajeras. Formó lectores voluntarios comunitarios y propició proyectos culturales con enfoque territorial y de construcción de paz.",
+  "quien": "Ministerio de Cultura, Biblioteca Nacional de Colombia y Fondo Nacional del Ahorro (aliado estratégico)",
+  "lugar": "Veredas en zonas de influencia de las 20 Bibliotecas Públicas Móviles, 13 departamentos (resultados presentados en vereda Conejo, Fonseca, La Guajira)",
+  "pais": "Colombia",
+  "lat": 10.889,
+  "lng": -72.848,
+  "coord_aprox": true,
+  "periodo": "marzo 2018–2018 (resultados parciales al 7-may-2018)",
+  "recursos": "Ministerio de Cultura / Biblioteca Nacional de Colombia y Fondo Nacional del Ahorro",
+  "resultados": "Al 7-may-2018: 102 veredas atendidas de una meta de 200, más de 340 talleres realizados, 2.744 asistencias de comunidades rurales, 80 lectores voluntarios en formación y 20 proyectos culturales con enfoque territorial propiciados (BNC).",
+  "estado": "ejecutado",
+  "fuentes": [
+   "http://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-publicas-por-las-veredas-y-los-caminos-de-la-paz-en-mas-de-cien-veredas",
+   "https://www.bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecarios-recorren-200-veredas-del-posconflicto",
+   "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-publicas-por-las-veredas-y-los-caminos-de-la-paz"
+  ]
+ },
+ {
+  "id": "escuela-de-oralidades-oraloteca-co",
+  "nombre": "Escuela de Oralidades y Oraloteca Nacional de Colombia",
+  "que_hizo": "Programa de la Biblioteca Nacional que recopila, en territorio, repertorios orales —relatos, poemas, cantos, rituales, saberes de oficios, medicina tradicional y gastronomía— que circulan por vía oral, y los integra como archivos sonoros a la colección digital Oraloteca Nacional de Colombia, creada en 2024. En 2025–2026 la colección creció con procesos en Chocó y articulaciones con la Red Nacional de Bibliotecas Públicas en la Amazonía, Orinoquía y suroriente.",
+  "quien": "Biblioteca Nacional de Colombia / Ministerio de las Culturas, las Artes y los Saberes, con Red Nacional de Bibliotecas Públicas",
+  "lugar": "11 municipios focalizados en Nariño (Barbacoas, Magüí Payán, Roberto Payán), Sucre (San Marcos), Córdoba (San Pelayo, Tuchín) y Chocó (Bahía Solano, Medio San Juan, Nóvita, Riosucio, Lloró), y ampliación posterior",
+  "pais": "Colombia",
+  "lat": 4.711,
+  "lng": -74.0721,
+  "coord_aprox": true,
+  "periodo": "2024–actualidad",
+  "recursos": "Biblioteca Nacional de Colombia / Ministerio de las Culturas",
+  "resultados": "Primeros repertorios de la Oraloteca (2024) recopilados en 4 departamentos y 11 municipios; en 2025–2026 se sumaron municipios de Chocó y procesos del Nodo Suroriental de la RNBP en Meta, Amazonas, Caquetá, Arauca, Putumayo, Casanare, Guaviare y Guainía (BNC Digital). La fuente no publica una cifra total de archivos sonoros: queda null.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.bibliotecanacionaldigital.gov.co/col-digitales/col-audiovisuales-sonoras/oraloteca-nacional-de-colombia"
+  ]
+ },
+ {
+  "id": "leer-es-mi-cuento-pnleo-co",
+  "nombre": "Plan Nacional de Lectura, Escritura y Oralidad «Leer es mi cuento» (PNLEO)",
+  "que_hizo": "Política pública integral que promueve lectura, escritura y oralidad como prácticas socioculturales, con dotación de libros a bibliotecas públicas y escolares, formación de maestros y bibliotecarios y fortalecimiento de la Red Nacional de Bibliotecas Públicas. En su fase 2018–2022 incorporó explícitamente la oralidad como acción diferencial de política pública y se formalizó en el documento CONPES 4068 de 2021.",
+  "quien": "Ministerio de Cultura y Ministerio de Educación Nacional de Colombia, con Biblioteca Nacional de Colombia",
+  "lugar": "Nacional, 32 departamentos (sede Bogotá)",
+  "pais": "Colombia",
+  "lat": 4.711,
+  "lng": -74.0721,
+  "coord_aprox": true,
+  "periodo": "2010–actualidad; sistematización PNLEO 2019–2022 presentada en FILBo 2022, con plan de acción hasta 2030",
+  "recursos": "Gobierno de Colombia (Ministerios de Cultura y Educación)",
+  "resultados": "Balance a 7 años (Radio Nacional/MinCultura, 2017): más de 17 millones de libros distribuidos, 1.444 bibliotecas actualizadas con libros y tecnología, 32.000 libros digitalizados y 179 bibliotecas entregadas en poblaciones vulnerables o afectadas por el conflicto.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Plan-Nacional-de-Lectura-Escritura-Oralidad-y-Bibliotecas-PNLEO/410288:Leer-es-mi-cuento-se-consolida-como-una-politica-nacional-de-acceso-y-promocion-a-la-lectura-la-escritura-y-la-oralidad",
+   "https://www.radionacional.co/cultura/siete-anos-en-busqueda-de-un-pais-de-lectores",
+   "https://www.bibliotecanacional.gov.co:443/es-co/actividades/noticias/en-la-rnbp/resultados-leer-es-mi-cuento-en-la-biblioteca-2025"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.huerta.business/huerta_files/projects/files/599afff13a22f.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/03/Informe-comunidades-lectoras-agosto-2015.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2021/03/XV-Comite-Mexico.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/03/Formulario-Iberbibliotecas-116-Comunidades-lectoras-y-narradoras.pdf",
+   "https://www.iberbibliotecas.org/2014/01/",
+   "https://www.bibliotecaspublicas.gob.cl/624/w3-article-46486.html"
+  ],
+  "id": "comunidades-lectoras-y-narradoras",
+  "lat": 9.9281,
+  "lng": -84.0907,
+  "lugar": "Siete localidades de cinco provincias de Costa Rica (entidad con sede en San José)",
+  "nombre": "Comunidades lectoras y narradoras",
+  "pais": "Costa Rica",
+  "periodo": "septiembre de 2014 – septiembre de 2015 (ganador de la 2ª Convocatoria de Ayudas Iberbibliotecas 2014)",
+  "que_hizo": "Formó a bibliotecólogos del SINABI y a docentes y bibliotecólogos del MEP de Costa Rica en artes escénicas y narración oral para que se convirtieran en animadores de lectura y narradores orales de sus comunidades. El proyecto incluyó cursos de «Animación a la lectura por medio de la narración oral», festivales de narración oral en las localidades participantes, actividades reproducidas por las personas formadas en sus instituciones y la sistematización de la experiencia en una memoria publicada. Recibió el aval de la UNESCO por su aporte al rescate y puesta en valor del patrimonio oral de Costa Rica, según la memoria del proyecto.",
+  "quien": "Servicios Culturales Imaginarte S.R.L.; responsable del proyecto: Simona Trovato Apollaro; memoria elaborada por Simona Trovato Apollaro y María Felicia Camacho Rojas",
+  "recursos": "Iberbibliotecas, 2ª Convocatoria de Ayudas 2014: 27.000 USD (monto asignado según el Acta del XV Comité Intergubernamental de Iberbibliotecas, 2014)",
+  "resultados": "Informe parcial/final Iberbibliotecas (ago-2015): 100% de los cursos realizados; 113 personas formadas directamente (11 hombres y 102 mujeres adultas); 7 actividades de cierre con 212 adultos y 569 niños participantes; total de personas involucradas: 15.107, por las actividades reproducidas en bibliotecas públicas y escolares (14.213), frente a 6.000 previstas."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/CR_26_Fantasia_Formulario.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2021/11/Acta_ganadores_es.pdf",
+   "https://www.iberbibliotecas.org/fantasia-literaria-para-personas-jovenes-con-poder/",
+   "https://www.iberbibliotecas.org/category/proyectos/finalizado/"
+  ],
+  "id": "fantasia-literaria-para-personas-jovenes-con-poder",
+  "lat": 9.9077,
+  "lng": -83.988,
+  "lugar": "La Unión, Cartago",
+  "nombre": "Fantasía literaria para personas jóvenes con poder",
+  "pais": "Costa Rica",
+  "periodo": "2021–2022 (ganador de la 9ª Convocatoria de Ayudas Iberbibliotecas 2021; duración prevista de 11 meses)",
+  "que_hizo": "Ofreció entornos y espacios seguros de lectura, arte y cultura a personas jóvenes con problemas de consumo de sustancias psicoactivas usuarias de los servicios del Instituto sobre Alcoholismo y Farmacodependencia (IAFA), como apoyo a su proceso de recuperación. La Fundación desarrolló talleres artístico-sociales: 3 capacitaciones de 7 sesiones cada una, de 1,5 horas y presenciales, en las que enseñó herramientas de escritura, narración oral y artes escénicas —gesticulación, uso de la voz, expresión corporal y mimo—, y las historias escritas en el proceso fueron contadas por las propias personas jóvenes.",
+  "quien": "Fundación Festival Puro Cuento (responsable del proyecto: vicepresidente de la Fundación, según formulario de postulación)",
+  "recursos": "Iberbibliotecas, 9ª Convocatoria de Ayudas 2021: monto solicitado 10.000 USD sobre un costo total de 13.336 USD (formulario de postulación publicado por Iberbibliotecas; el acta de ganadores lo lista entre los proyectos que reciben hasta 10.000 USD)",
+  "resultados": "Iberbibliotecas clasifica el proyecto en su archivo de proyectos con estado «Finalizado» y publica su informe técnico entre la documentación oficial. Las fuentes consultadas no aportan cifras de personas jóvenes participantes."
+ },
+ {
+  "id": "soy-bebe-y-me-gusta-leer-cr",
+  "nombre": "Soy Bebé y Me Gusta Leer (SINABI)",
+  "que_hizo": "Programa permanente de las bibliotecas públicas costarricenses para niños y niñas de 0 a 5 años y sus padres o encargados: sesiones de hora del cuento, lectura compartida, cine infantil y talleres para crear desde la primera infancia el hábito y el gusto por la lectura y el libro. Forma parte de la oferta de fomento lector del SINABI junto a Arcoíris de Lectura (6–12 años).",
+  "quien": "Sistema Nacional de Bibliotecas (SINABI), Ministerio de Cultura y Juventud de Costa Rica",
+  "lugar": "Red de bibliotecas públicas de todo el país (61 bibliotecas según SINABI, 2026; sede San José)",
+  "pais": "Costa Rica",
+  "lat": 9.9281,
+  "lng": -84.0907,
+  "coord_aprox": true,
+  "periodo": "En curso; medición oficial del I semestre de 2023 (fecha de inicio no verificada en las fuentes consultadas)",
+  "recursos": "Ministerio de Cultura y Juventud de Costa Rica (SINABI)",
+  "resultados": "Informe de gestión SINABI (MCJ) I semestre 2023: «Soy bebé y me gusta leer» realizó 322 actividades con 4.640 participantes presenciales (2.125 niños y 2.515 niñas de 0 a 5 años según la tabla del informe).",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.mcj.go.cr/sites/default/files/2024-06/755-00 SINABI ISS2023 Gestión.pdf",
+   "https://www.teletica.com/amp/cultura/bibliotecas-publicas-impulsan-programas-para-fortalecer-la-lectura-desde-la-ninez_420710"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/Ec_193_Biblioteca-Altoparlante_Presupuesto.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/Ec_193_Biblioteca-Altoparlante_Calendario.pdf",
+   "https://www.iberbibliotecas.org/category/proyectos/page/5/",
+   "https://www.yumpu.com/es/document/view/68583929/anuario-lij-2023/207"
+  ],
+  "id": "biblioteca-en-altoparlante-la-palabra-a-viva-voz",
+  "lat": -1.35,
+  "lng": -78.72,
+  "lugar": "Pasa, Ambato, Tungurahua",
+  "nombre": "Biblioteca en altoparlante, la palabra a viva voz",
+  "pais": "Ecuador",
+  "periodo": "2021 en adelante (ganador de la 8ª Convocatoria de Ayudas Iberbibliotecas 2020; el Anuario Iberoamericano sobre el Libro Infantil y Juvenil 2023 registra que el proyecto nació en 2021 y continuaba)",
+  "que_hizo": "Produjo lecturas en voz alta y productos sonoros en kichwa y castellano —cuentos cortos, poesía y libros informativos de las tres bibliotecas comunitarias de Pasa— para transmitirlos por altoparlante en horarios de mañana y noche durante la pandemia. Los productos sonoros recogieron además las leyendas y la historia de las familias portadoras de la cultura originaria local, e incluyó la actividad «Libros vivientes – Guardianes de saberes», en la que abuelas y abuelos compartían sus saberes por los altoparlantes. El servicio continuó después como Chasky Radio, Biblioteca en altoparlante.",
+  "quien": "GAD Parroquial de Pasa – Proyecto Yo Amo Leer (Bibliotecas Comunitarias de Pasa)",
+  "recursos": "Iberbibliotecas, 8ª Convocatoria de Ayudas 2020: monto solicitado en el presupuesto reformulado 10.000 USD sobre un total de 13.500 USD (presupuesto reformulado publicado por Iberbibliotecas)",
+  "resultados": "El proyecto se ejecutó y tuvo continuidad: según el Anuario Iberoamericano sobre el Libro Infantil y Juvenil 2023, Chasky Radio – Biblioteca en altoparlante nació en 2021 con apoyo de Girándula, Yamada Fund/IBBY y BISEE Books, y en 2022 ganó la convocatoria del IFCI en la línea Cultura Viva Comunitaria, con lo que amplió el servicio con una radio comunitaria en Punguloma. Las fuentes consultadas no aportan cifras de audiencia."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/wp-content/uploads/2025/12/Acta_ganadores__25_es.pdf",
+   "https://www.renacerfund.org/biblioteca",
+   "https://ingapalla.bibliotecarural.com/",
+   "https://www.facebook.com/iberbibliotecas/posts/pfbid0qGA9JHPw2u4tRKBSWPvoKNxswq8QmgeeHAsHn7FRfCwBZXLKATCcAS3UxEPC6Npsl"
+  ],
+  "id": "memoria-sonora-inga-palla",
+  "lat": -1.3499,
+  "lng": -78.666,
+  "lugar": "Tisaleo, Tungurahua",
+  "nombre": "Memoria Sonora Inga Palla",
+  "pais": "Ecuador",
+  "periodo": "2026 (ganador de la 13ª Convocatoria de Ayudas Iberbibliotecas 2025, acta del jurado del 19 de diciembre de 2025; en ejecución durante 2026)",
+  "que_hizo": "Transforma la Biblioteca Comunitaria Inga Palla en un espacio de producción cultural con cabina de podcast, con dos líneas de grabación: cuentos infantiles («Cuentos con Alas») y registros patrimoniales intergeneracionales («Hatunmama»). El proyecto rescata la memoria oral intergeneracional entre abuelitas y nietas, preservando leyendas, recetas y relatos orales de Tisaleo, y contempla la mejora de la sede física de la biblioteca.",
+  "quien": "Fundación Cultural Renacer: Fomento de las Artes, las Prácticas Culturales y los Patrimonios (Biblioteca Comunitaria Inga Palla)",
+  "recursos": "Iberbibliotecas, 13ª Convocatoria de Ayudas 2025 (sin monto individual en las fuentes consultadas: el acta de ganadores no consigna el monto por proyecto)",
+  "resultados": null
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/Qui_225_Programa_Formulario.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/07/Qui_225_Programa_Presupuesto.pdf",
+   "https://www.iberbibliotecas.org/category/proyectos/quito/",
+   "https://macco.ec/2020/11/23/el-macco-gana-la-8a-convocatoria-de-ayudas-2020-de-iberbibliotecas/"
+  ],
+  "id": "rutas-de-leyenda-parque-he-perdido-una-novela",
+  "lat": -0.1807,
+  "lng": -78.4678,
+  "lugar": "Quito (parque El Ejido)",
+  "nombre": "Programa de fomento a la lectura nacional a través de la narración oral y el teatro en las inmediaciones de la biblioteca municipal del parque El Ejido: «Rutas de Leyenda – En el parque he perdido una novela»",
+  "pais": "Ecuador",
+  "periodo": "2021 (ganador de la 8ª Convocatoria de Ayudas Iberbibliotecas 2020; duración prevista de 5 meses, cronograma enero–mayo)",
+  "que_hizo": "Aplicó la herramienta de pedagogía e investigación escénica «Rutas de Leyenda» —teatro y narración oral con personajes teatralizados, desarrollada por Quito Eterno durante casi 18 años— para fomentar la literatura nacional entre jóvenes de 10 a 18 años en torno a la biblioteca municipal del parque El Ejido, una de las siete bibliotecas barriales de la Red Metropolitana de Bibliotecas de Quito. El proyecto incluyó selección de obras de literatura nacional con la biblioteca, montaje de rutas, cápsulas audiovisuales de 4 a 6 minutos, transmisión en vivo con lenguaje de señas y sistematización de la experiencia en una cartilla con licencias Creative Commons.",
+  "quien": "Fundación Quito Eterno, en alianza con la Red Metropolitana de Bibliotecas de Quito / Centro Cultural Benjamín Carrión (biblioteca municipal del parque El Ejido)",
+  "recursos": "Iberbibliotecas, 8ª Convocatoria de Ayudas 2020: monto solicitado 9.992 USD sobre un costo total de 13.974 USD (formulario y presupuesto publicados por Iberbibliotecas)",
+  "resultados": "Iberbibliotecas publica entre la documentación oficial del proyecto su informe técnico, lo que acredita su ejecución y cierre. Las fuentes consultadas no aportan cifras finales de público participante."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://guayaquil.gob.ec/cuenta-cuentos-educacion-cultura-recreacion-3000-ninos-adolescentes/",
+   "https://guayaquil.gob.ec/fomento-lectura-bastion-popular-zumar/",
+   "https://guayaquil.gob.ec/relatos-historias-cuentos-toman-zumar/"
+  ],
+  "id": "cuenta-cuentos-zumar-guayaquil-ecuador",
+  "lat": -2.1709,
+  "lng": -79.9224,
+  "lugar": "Guayaquil (Bastión Popular), Ecuador",
+  "nombre": "Programa municipal Cuenta Cuentos – ZUMAR, Guayaquil",
+  "pais": "Ecuador",
+  "periodo": "En ejecución (balance publicado de lo transcurrido de 2026)",
+  "que_hizo": "Programa municipal de narración de cuentos que se realiza los miércoles en el Centro Polifuncional ZUMAR de Bastión Popular y los viernes en territorio, en distintas unidades educativas de Guayaquil. Cada jornada combina la narración de un cuento o fábula con rondas de preguntas y participación de estudiantes y docentes, para despertar el interés por la lectura y estimular imaginación, creatividad y razonamiento.",
+  "quien": "Alcaldía de Guayaquil – Coordinación General de Proyectos ZUMAR",
+  "recursos": "Alcaldía de Guayaquil / Proyectos ZUMAR",
+  "resultados": "Según la Alcaldía de Guayaquil: en lo que va de 2026 el programa registra 60 presentaciones realizadas en el Polifuncional ZUMAR y en diversas instituciones educativas, beneficiando a alrededor de 3.000 niños, niñas, adolescentes, jóvenes y padres de familia."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://cerlalc.org/wp-content/uploads/2019/11/Proyecto-Tambos-de-Lectura-Ecuador.pdf",
+   "https://oei.int/offices/ecuador/news/los-tambos-trasladan-sus-actividades-a-medios-digitales/",
+   "https://revistas.uca.es/index.php/periferica/es/article/view/9927"
+  ],
+  "id": "tambos-de-lectura-ecuador",
+  "lat": -0.1807,
+  "lng": -78.4678,
+  "lugar": "Ecuador (ámbito nacional; coordenada aproximada de Quito)",
+  "nombre": "Proyecto Tambos de Lectura – Plan Nacional de Promoción del Libro y la Lectura José de la Cuadra",
+  "pais": "Ecuador",
+  "periodo": "Implementado en el marco del Plan José de la Cuadra (documentado 2018–2021; traslado a medios digitales en mayo de 2020)",
+  "que_hizo": "Espacios no convencionales de mediación lectora atendidos por un mediador, instalados en bibliotecas, museos y casas culturales, pero también en aulas hospitalarias, centros de detención y casas de acogida, para fortalecer comportamientos lectores en poblaciones relegadas de la cultura escrita. Los mediadores realizan actividades lúdicas en torno a la lectura —incluidos cuentos y videocuentos— y en pandemia trasladaron su trabajo a medios digitales. Una línea específica se implementó en seis hospitales de Quito.",
+  "quien": "Ministerio de Cultura y Patrimonio del Ecuador, en cooperación interinstitucional con la Organización de Estados Iberoamericanos (OEI)",
+  "recursos": "Ministerio de Cultura y Patrimonio del Ecuador / Organización de Estados Iberoamericanos (OEI)",
+  "resultados": "38 Tambos vigentes en 18 de las 24 provincias del país, según la sistematización citada en las memorias del foro iberoamericano de promoción de la lectura. En aulas hospitalarias de Quito: 6 hospitales, 6 mediadores, 6 docentes involucrados y 1.356 niños, niñas y adolescentes beneficiarios (Hospital Docente de Calderón 200; San Francisco IESS 320; Quito Sur IESS 400; Psiquiátrico Julio Endara 96; Pediátrico Baca Ortiz 240; Fuerzas Armadas 100), según la presentación del proyecto ante CERLALC."
+ },
+ {
+  "id": "bebetecas-crecer-juntos-sv",
+  "nombre": "Bebetecas — Ley Crecer Juntos",
+  "que_hizo": "Espacios bibliotecarios y lúdicos de estimulación temprana para niños y niñas de 0 a 7 años, sus familias y mujeres gestantes, con sesiones de lectura, cuentos y juego para familiarizar a la primera infancia con la lectura y fortalecer su desarrollo cognitivo y social. Funcionan en formato fijo (casas de cultura, CUBO, bibliotecas públicas, parques) y móvil, que se traslada a espacios comunitarios y centros educativos. NOTA: el componente oral es lectura en voz alta/cuentacuentos dentro de la estimulación temprana, no cuentería tradicional.",
+  "quien": "Despacho de la Primera Dama de El Salvador e Instituto Crecer Juntos, en el marco de la Ley Crecer Juntos",
+  "lugar": "Nacional (primera etapa en La Unión, San Miguel, Cabañas, La Paz, Ahuachapán, Santa Ana, Sonsonate, La Libertad y San Salvador)",
+  "pais": "El Salvador",
+  "lat": 13.6929,
+  "lng": -89.2182,
+  "coord_aprox": true,
+  "periodo": "2023–actualidad (lanzadas en abril de 2023 según Diario El Salvador)",
+  "recursos": "Gobierno de El Salvador (Despacho de la Primera Dama / Instituto Crecer Juntos)",
+  "resultados": "Primera etapa: 15 bebetecas lanzadas (13 fijas y 2 móviles). La bebeteca del Sistema de Coros y Orquestas atiende a más de 1.400 niños, incluida población con discapacidad (Diario El Salvador). No se localizó una cifra nacional total de usuarios: queda null.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://diarioelsalvador.com/primera-dama-gabriela-de-bukele-lanza-bebetecas-para-atencion-de-la-primera-infancia/351620/",
+   "https://diarioelsalvador.com/delegacion-turca-conoce-el-modelo-de-atencion-de-las-bebetecas-en-el-salvador/573882/",
+   "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=ZraWw7WbZx8QUkEsHvvLDzsB0Uh51o8tGdUg7NE0CrhldZe3EVusN4C2aCyr49bY9VWJRrcBenW09Aw2D3mKpw%3D%3D"
+  ]
+ },
+ {
+  "id": "archivo-tradicion-oral-asturias-atoa",
+  "nombre": "Archivo de la Tradición Oral de Asturias (ATOA) — Atlas Sonoru de la Llingua Asturiana",
+  "que_hizo": "Archivo dedicado a la documentación, salvaguarda y difusión del patrimonio oral e inmaterial de Asturias mediante trabajo de campo sistemático y continuado, catalogación científica, edición rigurosa y difusión a especialistas y público general. Su fondo reúne mitos y leyendas, cuentos populares, romances, canciones, oraciones, ensalmos, conjuros, refranes, adivinanzas y memorias autobiográficas. Edita la serie Atlas Sonoru de la Llingua Asturiana, que muestra el habla viva de cada zona mediante relatos y testimonios orales de hablantes naturales.",
+  "quien": "Muséu del Pueblu d'Asturies — Red de Museos Etnográficos de Asturias; investigador principal y director del Archivo desde 1996: Jesús Suárez López",
+  "lugar": "Gijón/Xixón, Asturias",
+  "pais": "España",
+  "lat": 43.5322,
+  "lng": -5.6611,
+  "coord_aprox": true,
+  "periodo": "1996 (dirección del Archivo) – en ejecución; Atlas Sonoru con volúmenes documentados desde 2006",
+  "recursos": "Muséu del Pueblu d'Asturies / Red de Museos Etnográficos de Asturias",
+  "resultados": "La serie Atlas Sonoru de la Llingua Asturiana consta, según la ficha del investigador principal, de ocho volúmenes publicados hasta el momento de la fuente; el primer volumen reúne 19 grabaciones realizadas en siete concejos del suroccidente asturiano.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://lanmo.unam.mx/riemo/grupoinvestigacion.php?grupo=10",
+   "https://drupal.gijon.es/sites/default/files/2022-02/1-%20Suroccidente%20de%20Asturias.pdf"
+  ]
+ },
+ {
+  "id": "apoi-arquivo-patrimonio-oral-identidade",
+  "nombre": "Arquivo do Patrimonio Oral da Identidade (APOI) — Museo do Pobo Galego",
+  "que_hizo": "Programa de digitalización, catalogación, estudio y difusión del patrimonio inmaterial gallego puesto en marcha por el Instituto de Estudos das Identidades del Museo do Pobo Galego. Ofrece en abierto grabaciones orales y musicales con los datos necesarios para contextualizarlas culturalmente, a partir de fondos cedidos por recopiladores. Un convenio con la Deputación de Lugo extendió el trabajo a la creación de un archivo del patrimonio oral lucense, en continuidad con el proyecto Sons e Voces da Identidade.",
+  "quien": "Museo do Pobo Galego — Instituto de Estudos das Identidades; convenio con el Área de Cultura de la Deputación de Lugo",
+  "lugar": "Santiago de Compostela, A Coruña",
+  "pais": "España",
+  "lat": 42.8782,
+  "lng": -8.5448,
+  "coord_aprox": true,
+  "periodo": "Abril de 2007 – en ejecución",
+  "recursos": "Museo do Pobo Galego / Deputación de Lugo (convenio de colaboración para el archivo lucense)",
+  "resultados": "Archivo público y accesible en línea (apoi.museodopobo.gal); en mayo de 2025 se registraron cerca de 11.000 descargas en el repositorio y la exposición «Cantareiras» basada en sus fondos sonoros llegó a 24.000 visitas, según la técnica del APOI citada por GC Diario.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "http://cultura.galiciadigital.com/nota/6921",
+   "https://gcdiario.com/cultura/546045-la-rag-resalta-la-extraordinaria-respuesta-a-las-letras-galegas-de-2025-con-una-positiva-acogida-entre-jovenes/",
+   "https://www.podcasts-online.org/es/cultura-a-todas-luzes-1634816790"
+  ]
+ },
+ {
+  "id": "tesoros-de-papel-caceres",
+  "nombre": "Campaña de Animación a la Lectura «Tesoros de Papel» (Cáceres)",
+  "que_hizo": "Campaña provincial itinerante de animación a la lectura y dinamización de bibliotecas y salas de lectura en municipios pequeños, con cuentos, talleres, teatro, exposiciones y formación para personal bibliotecario. Es la campaña de la Diputación de Cáceres dentro de los convenios de fomento de la lectura que AGCEX mantiene con las dos diputaciones extremeñas; en su edición documentada de 2025 en una localidad participante, la campaña giró en torno a la tradición oral, con cuentacuentos y exposición sobre tradición oral.",
+  "quien": "Diputación Provincial de Cáceres y Asociación de Gestoras y Gestores Culturales de Extremadura (AGCEX)",
+  "lugar": "Cáceres (provincia; municipios participantes)",
+  "pais": "España",
+  "lat": 39.4743,
+  "lng": -6.3717,
+  "coord_aprox": true,
+  "periodo": "Ediciones documentadas en 2018, 2021, 2022 y 2025 – en ejecución",
+  "recursos": "Diputación Provincial de Cáceres (convenio de colaboración con AGCEX)",
+  "resultados": "La edición de 2021 se desarrolló en 14 localidades de la provincia, según la Diputación de Cáceres; AGCEX declara que sus dos campañas conveniadas (Tesoros de Papel en Cáceres y Caminos de Tinta y Papel en Badajoz) llegan anualmente a 32 poblaciones de Extremadura.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.dip-caceres.es/actualidad/noticias/?wpv-tema=deportes&wpv_view_count=623&wpv_paged=29",
+   "https://www.agcex.org/servicios/fomento-de-la-lectura/",
+   "https://bandomovil.com/guijodecoria/1453591/0"
+  ]
+ },
+ {
+  "id": "circuito-infantil-juvenil-centro-andaluz-letras",
+  "nombre": "Circuito Infantil y Juvenil — Centro Andaluz de las Letras",
+  "que_hizo": "Programa autonómico de fomento y difusión de la literatura infantil y juvenil que organiza en municipios andaluces encuentros con autores e ilustradores y sesiones de narración oral con profesionales de experiencia contrastada. Los municipios se adscriben mediante convenio de colaboración con el Centro Andaluz de las Letras. Forma parte de los Circuitos Literarios de la Junta de Andalucía, cuyo Circuito Literario Andaluz acumula más de 22 años de trayectoria según la programación oficial de 2021.",
+  "quien": "Centro Andaluz de las Letras (Agencia Andaluza de Instituciones Culturales, Junta de Andalucía), con los municipios adheridos por convenio",
+  "lugar": "Málaga (sede del Centro Andaluz de las Letras); actividades en municipios de toda Andalucía",
+  "pais": "España",
+  "lat": 36.7213,
+  "lng": -4.4214,
+  "coord_aprox": true,
+  "periodo": "En ejecución (programación documentada en 2021 y 2022)",
+  "recursos": "Junta de Andalucía — Consejería competente en cultura / Centro Andaluz de las Letras",
+  "resultados": "En octubre de 2022 los Circuitos Literarios programaron en municipios andaluces más de 40 actividades protagonizadas por autoras, ilustradoras y narradoras orales, según la nota oficial de la Junta de Andalucía; la programación de octubre de 2021 documenta sesiones de narración oral del Circuito Infantil y Juvenil en bibliotecas y centros escolares municipales.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.juntadeandalucia.es/cultura/caletras/content/circuito-infantil-y-juvenil",
+   "https://www.juntadeandalucia.es/presidencia/portavoz/cultura/175815/ConsejeriadeTurismo/CulturayDeporte/DiadelasEscritoras/CentroAndaluzdelasLetras/bibliotecaspublicasdeAndalucia"
+  ]
+ },
+ {
+  "id": "corpus-de-literatura-oral-ujaen",
+  "nombre": "Corpus de Literatura Oral (CLO) — Universidad de Jaén",
+  "que_hizo": "Plataforma digital de acceso libre que recopila, transcribe, cataloga y difunde registros sonoros y audiovisuales de la tradición oral en español y otras lenguas romances (romances, canciones, cuentos y leyendas). Nació del Corpus Digital Giennense (2009) y creció con proyectos regionales y nacionales, entre ellos el proyecto CONOCOM sobre el corpus de la narrativa oral en la cuenca occidental del Mediterráneo. Su objetivo declarado es preservar un patrimonio inmaterial en peligro de desaparición y ponerlo a disposición de investigadores y público general.",
+  "quien": "Universidad de Jaén (grupo dirigido por David Mañero Lozano)",
+  "lugar": "Jaén, Andalucía",
+  "pais": "España",
+  "lat": 37.7796,
+  "lng": -3.7849,
+  "coord_aprox": true,
+  "periodo": "2009 (corpus precursor) / plataforma creada en 2015 – en ejecución; proyecto CONOCOM ref. PID2021-122438NB-I00",
+  "recursos": "Agencia Estatal de Investigación (AEI) y Fondo Europeo de Desarrollo Regional (FEDER) — proyecto CONOCOM PID2021-122438NB-I00: 31.339 EUR; Proyectos regionales y nacionales previos (proyecto de excelencia 2018 de documentación del patrimonio oral en Andalucía Oriental)",
+  "resultados": "Más de 5.000 registros sonoros, vídeos y transcripciones publicados en acceso abierto, de un fondo total de unos 20.000 registros recopilados desde 1975; equipo integrado por unas 200 personas entre recopiladores e investigadores (cifras de la presentación editorial de la UJA).",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.ujaen.es/servicios/servpub/sites/servicio_servpub/files/uploads/UJA%20EDITORIAL/Literatura%20Oral.pdf",
+   "https://www.aei.gob.es/ayudas-concedidas/buscador-ayudas-concedidas?area=&ccaa=All&cif=&code=&convocatory=All&gender=All&granted%5Bmin%5D=&granted%5Bmax%5D=&keywords=&name=&page=6759&province=All&subarea=&summary=&tit=&title=&year=All&order=subarea&sort=asc",
+   "https://revistaselectronicas.ujaen.es/index.php/blo/article/download/2940/2343"
+  ]
+ },
+ {
+  "id": "escuela-de-verano-aeda",
+  "nombre": "Escuela de Verano de AEDA — Asociación de Profesionales de la Narración Oral en España",
+  "que_hizo": "Escuela formativa anual para narradores y narradoras orales y personas interesadas en contar de viva voz, con jornada previa sobre literatura y narración oral, cursos monográficos intensivos, talleres y sesiones dialogadas de narración con coloquio. La VII edición (2022) incluyó un curso monográfico de 18 horas dentro de cinco días de formación en Morella (Castelló) y estuvo centrada en las creadoras; la VIII edición se celebró en la misma localidad en julio de 2023. AEDA la presenta como un referente internacional para la formación de quienes se dedican profesionalmente al cuento contado.",
+  "quien": "AEDA — Asociación de Profesionales de la Narración Oral en España",
+  "lugar": "Morella, Castelló",
+  "pais": "España",
+  "lat": 40.6192,
+  "lng": -0.1014,
+  "coord_aprox": true,
+  "periodo": "VII edición: 4–8 de julio de 2022; VIII edición: julio de 2023 – programa recurrente en ejecución",
+  "recursos": "Ministerio de Cultura y Deporte (actividad subvencionada, según la propia AEDA)",
+  "resultados": "Siete ediciones celebradas hasta 2022 (con memoria de las seis anteriores accesible desde la web de AEDA) y octava edición convocada y celebrada en 2023, por segundo año consecutivo en Morella.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.narracionoral.es/index.php/es/escuela/que-es/escuela-de-verano-2022",
+   "https://www.narracionoral.es/index.php/es/agenda/icalrepeat.detail/2023/7/6/83033/-/viii-escuela-de-verano-de-aeda",
+   "https://www.narracionoral.es/index.php/es/albumes/fotografias/1827-vii-escuela-y-jornada-de-aeda-2022?tmpl=component&print=1&layout=default&page="
+  ]
+ },
+ {
+  "id": "euskal-herriko-ahotsak",
+  "nombre": "Euskal Herriko Ahotsak (ahotsak.eus)",
+  "que_hizo": "Proyecto de documentación, catalogación y difusión abierta de la tradición oral y la diversidad dialectal del euskera mediante entrevistas en profundidad a personas mayores en su variedad local. Construyó un archivo y base de datos públicos y gratuitos con testimonios sobre vida y costumbres de la primera mitad del siglo XX. En 2025 amplió el archivo con el subproyecto Diasporako Ahotsak, con trabajo de campo entre la diáspora vasca en Estados Unidos.",
+  "quien": "Badihardugu Euskara Elkartea (asociación cultural), con participación del Gobierno Vasco, las diputaciones forales de Bizkaia y Gipuzkoa, la Fundación Kutxa y más de 60 ayuntamientos",
+  "lugar": "Eibar, Gipuzkoa (sede de Badihardugu); cobertura en todo Euskal Herria",
+  "pais": "España",
+  "lat": 43.1844,
+  "lng": -2.4718,
+  "coord_aprox": true,
+  "periodo": "Bases metodológicas 2002–2003; recopilación principal 2004–2007 – en ejecución (ampliación Diasporako Ahotsak documentada en 2025)",
+  "recursos": "Gobierno Vasco, Diputación Foral de Bizkaia, Diputación Foral de Gipuzkoa, Fundación Kutxa y más de 60 ayuntamientos",
+  "resultados": "Más de 7.000 entrevistas a más de 5.000 personas en la fase 2004–2007; según Euskal Kultura (2025) el archivo reúne entrevistas en 375 localidades, con 7.173 personas entrevistadas y 77.392 cortes de vídeo; el subproyecto de diáspora documentó 106 testimonios y más de 100 horas de grabación en cinco estados de EE. UU. (Idaho 31, Oregón 1, Utah 6, Nevada 29 y California 39).",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.euskalkultura.eus/espanol/noticias/la-iniciativa-diasporako-ahotsak-publica-en-la-web-mas-de-un-centenar-de-entrevistas-a-vascos-y-vascas-de-la-diaspora",
+   "https://www.gipuzkoa.eus/es/web/hizkuntzaberdintasuna/actividades/premios-abbadia/ahotsak.eus",
+   "https://hoydiario.es/noticias/euskadi/cultura/diasporako-ahotsak-106-testimonios-diaspora-vasca-euskera.html"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://castillalamancha.es/node/224713",
+   "https://www.anabad.org/?p=5282",
+   "https://www.iberbibliotecas.org/leyendas-que-conectan-jovenes-y-territorios/",
+   "https://www.ccbiblio.es/reunion-del-pleno-del-consejo-cooperacion-bibliotecaria-lanzarote-24-25-abril/"
+  ],
+  "id": "leyendas-que-conectan-jovenes-y-territorios",
+  "lat": 39.8628,
+  "lng": -4.0273,
+  "lugar": "Toledo",
+  "nombre": "Leyendas que conectan jóvenes y territorios",
+  "pais": "España",
+  "periodo": "2015–2016 (ganador de la 3ª Convocatoria de Ayudas Iberbibliotecas 2015; desarrollo hasta el 30 de septiembre de 2016)",
+  "que_hizo": "Programa de la Biblioteca de Castilla-La Mancha que usó las leyendas como herramienta para atraer a jóvenes a la biblioteca y renovar sus lazos con la comunidad mediante la recuperación de memorias orales y del territorio. Combinó participación juvenil, uso de nuevas tecnologías y alianzas interinstitucionales e intergeneracionales. Las personas jóvenes recibieron formación en tecnologías de la información y la comunicación, promoción de lectura, gestión cultural y memoria.",
+  "quien": "Biblioteca de Castilla-La Mancha (Consejería de Educación, Cultura y Deportes de la Junta de Comunidades de Castilla-La Mancha)",
+  "recursos": "Iberbibliotecas, 3ª Convocatoria de Ayudas 2015: ayuda de 29.960 sobre un coste global de 38.510 (el Gobierno de Castilla-La Mancha expresa ambas cifras en euros; la nota de ANABAD sobre la resolución del CERLALC las expresa en dólares USA)",
+  "resultados": "Proyecto desarrollado hasta el 30 de septiembre de 2016 conforme a las bases de la convocatoria. Fue presentado como experiencia ejecutada en la reunión del Pleno del Consejo de Cooperación Bibliotecaria (Lanzarote, 24–25 de abril de 2017), donde se expuso su repercusión en el acercamiento de los jóvenes a la biblioteca. Las fuentes consultadas no aportan cifras de participantes."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.ibermuseos.org/recursos/boas-praticas/un-objecte-tres-visions-museu-virtual-dintegraci-un-objeto-tres-visiones-museo-virtual-de-integracin/",
+   "https://www.ibermuseos.org/recursos/noticias/el-museo-del-calzado-y-la-industria-promociona-la-integracion-entre-jovenes-y-adultos-mayores-a-traves-de-la-recuperacion-de-un-oficio-centenario/",
+   "http://revista.museologia.cat/uploads/articulos/pdf/s2w40x53w844hbjgbru5ryhcu5.pdf",
+   "https://museu.incaciutat.com/es/2021/10/18/un-objecte-tres-visions-museu-virtual-dintegracio/"
+  ],
+  "id": "un-objeto-tres-visiones",
+  "lat": 39.7174,
+  "lng": 2.9113,
+  "lugar": "Inca, Islas Baleares",
+  "nombre": "Un objeto, tres visiones. Museo virtual de integración",
+  "pais": "España",
+  "periodo": "2020–2021 (iniciado a finales de 2020; Premio Ibermuseos de Educación 2020, 11ª edición especial COVID-19)",
+  "que_hizo": "Proyecto socioeducativo de base comunitaria que creó grupos de trabajo de tres personas —un antiguo trabajador o trabajadora de la industria del calzado, una persona llegada de fuera de Inca y un joven de la comarca— que, a partir de un objeto de trabajo elegido por la persona mayor, mantuvieron conversaciones en las que compartieron historias de vida e historias profesionales. Las conversaciones se realizaron por medios telemáticos y fueron registradas, archivadas, analizadas y puestas a disposición en la web del museo, generando un diálogo intergeneracional e intercultural. El proyecto continúa el trabajo previo del museo de documentar la memoria oral vinculada a la industria del calzado.",
+  "quien": "Museo del Calzado y de la Industria (Inca); responsable del proyecto: Aina Ferrero Horrach, directora",
+  "recursos": "Premio Ibermuseos de Educación 2020 (Ibermuseos): los 20 museos ganadores de la edición recibían 2.500 USD cada uno para desarrollar el proyecto, según la Revista Catalana de Museologia (n.º 12, 2022)",
+  "resultados": "Las conversaciones de los grupos fueron registradas y quedaron al alcance de todo el mundo a través del museo virtual accesible desde la web del museo (museu.incaciutat.com). El 20 de mayo de 2021 los integrantes de los grupos se reencontraron presencialmente en el museo, donde se expusieron los objetos a partir de los cuales dialogaron, fotografías del proceso y vídeos de sus conversaciones (noticia de Ibermuseos). Las fuentes consultadas no aportan el número total de participantes."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://pdf.guidestar.org/PDF_Images/2024/133/753/2024-133753011-202503219349316580-9.pdf",
+   "https://www.macfound.org/grantee/storycorps-24984/",
+   "https://knightfoundation.org/articles/storycorps-a-model-for-capturing-community-voices/"
+  ],
+  "id": "storycorps",
+  "lat": 40.7128,
+  "lng": -74.006,
+  "lugar": "Nueva York (alcance nacional, EE. UU.)",
+  "nombre": "StoryCorps",
+  "pais": "Estados Unidos",
+  "periodo": "2003–presente",
+  "que_hizo": "Proyecto nacional de historia oral que invita a personas comunes a grabar conversaciones de unos 40 minutos con un ser querido, guiadas por facilitadores formados. Las grabaciones se preservan en el American Folklife Center de la Library of Congress, se difunden por NPR y se complementan con la app, el MobileBooth itinerante e iniciativas como One Small Step y Military Voices Initiative.",
+  "quien": "StoryCorps, Inc. (fundado por Dave Isay)",
+  "recursos": "Financiador histórico principal: Corporation for Public Broadcasting (CPB, fondos federales); MacArthur Foundation: USD 3.675.000 acumulados en 12 grants (1997–2025), incluido un grant de USD 300.000 en 2025 tras la pérdida de fondos de CPB (consta en MacArthur). Knight Foundation: USD 600.000 anunciados para la app/plataforma (consta en Knight).",
+  "resultados": "Según su Form 990 de 2024: en 2024 realizó más de 20.670 entrevistas con participantes en todo EE. UU. (más de 2.000 entrevistas 'signature' con facilitadores y 18.610 conversaciones subidas por participantes vía app/OSS Connect); el Mobile Tour visitó 10 ciudades en 2024 con 742 entrevistas; desde su fundación, más de 60.000 participantes solo vía Mobile Tour según ese documento. Según Knight (2017): la app alcanzó casi 367.000 usuarios registrados y más de 129.000 historias grabadas y preservadas en menos de tres años desde su lanzamiento en 2015."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://lamaisonduconte.com/presentation-acc/",
+   "https://lamaisonduconte.com/english/"
+  ],
+  "id": "maison-du-conte-helice-traffic",
+  "lat": 48.7667,
+  "lng": 2.35,
+  "lugar": "Chevilly-Larue, Île-de-France",
+  "nombre": "La Maison du Conte — Hélice y Traffic (acompañamiento a la creación en artes del relato)",
+  "pais": "Francia",
+  "periodo": "1993–presente (Maison du Conte); Hélice: equipos acompañados 2024–2025–2026 y 2026–2027; Traffic: gira de laureados de la convocatoria n.º 3 en 2025, 2026 y 2027",
+  "que_hizo": "Dispositivos de acompañamiento a la creación en conte y récit: Hélice es un parcours de acompañamiento cruzado para equipos artísticos emergentes francilianos, con un segundo año de estructuración de compañías; Traffic es una red de 10 estructuras que apoya la creación contemporánea en torno al relato mediante una convocatoria bienal, con gira de los equipos laureados por los espacios socios.",
+  "quien": "La Maison du Conte (Chevilly-Larue, fundada en 1993) con Théâtre des Sources (Fontenay-aux-Roses) y Rumeurs Urbaines / Cie Le Temps de Vivre, y la red Traffic (10 estructuras)",
+  "recursos": "La Maison du Conte está financiada por la Ville de Chevilly-Larue, el Département du Val-de-Marne, la Région Île-de-France y la DRAC Île-de-France (Ministère de la Culture); Hélice cuenta con apoyo de la Région Île-de-France y la DRAC Île-de-France; Traffic está apoyado por el Ministère de la Culture / Direction Générale de la Création Artistique. Montos: no constan en las fuentes consultadas, null.",
+  "resultados": "Según La Maison du Conte: Hélice acompaña a 4 equipos emergentes por cohorte (cohortes 2024–2026 y 2026–2027 documentadas); la convocatoria n.º 3 de Traffic seleccionó 3 equipos laureados (AntigoneS — Cie Hej Hej Tak; Chut.e ! — Cie Productions anecdotiques; Mon mec veut devenir rappeur — Collectif Bajour) en gira por los 10 espacios socios en 2025–2027."
+ },
+ {
+  "id": "leamos-juntos-gt",
+  "nombre": "Programa Nacional de Lectura «Leamos Juntos»",
+  "que_hizo": "Programa del Ministerio de Educación que promovió la lectura en todo el sistema educativo con estrategias orales explícitas: cuentacuentos presenciales en las 22 cabeceras departamentales, radiocuentos transmitidos en idiomas nacionales, lectura por líderes, concursos de cuentos en familia y 30 minutos diarios de lectura. Dotó bibliotecas escolares de preprimaria, primaria y nivel medio.",
+  "quien": "Ministerio de Educación de Guatemala (MINEDUC)",
+  "lugar": "Nacional, 22 departamentos (sede Ciudad de Guatemala)",
+  "pais": "Guatemala",
+  "lat": 14.6349,
+  "lng": -90.5069,
+  "coord_aprox": true,
+  "periodo": "2012–2014 (documento del programa abr-2012; resultados presentados abr-2014)",
+  "recursos": "Ministerio de Educación de Guatemala",
+  "resultados": "Presentación oficial de resultados (MINEDUC, abr-2014): cuentacuentos con 334 presentaciones a nivel municipal que alcanzaron a más de 97.000 participantes; 26 radiocuentos transmitidos por TGW y 30 radios locales, narrados en k'iche' (11), kaqchikel (11), tz'utujil (3) y xinka (1); 107 talleres con más de 3.000 voluntarios; 4,5 millones de libros entregados en 2013 y 27.839 escuelas públicas dotadas en el primer trimestre de 2013.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "http://www.empresariosporlaeducacion.org/sites/default/files/presentacion_leamos_juntos_mineduc_240414.pdf",
+   "https://1library.co/document/y8gvpr85-programa-nacional-de-lectura-leamos-juntos.html"
+  ]
+ },
+ {
+  "id": "bibliotecas-blue-lupin-hn",
+  "nombre": "Bibliotecas Blue Lupin",
+  "que_hizo": "Red de bibliotecas escolares y públicas diseñadas por los propios niños y niñas, con animación lectora lúdica: grupos de teatro, títeres, mimo, cine infantil, cuentacuentos y animación lectora, más «mochilas viajeras» con las que niños visitan otras escuelas y comunidades haciendo teatro, títeres y cuentacuentos y leyendo con otros pequeños. Las bibliotecas son gestionadas por comités locales protagonizados por la niñez.",
+  "quien": "Plan International Honduras y Fundación Blue Lupin, con Dirección Departamental de Educación de Lempira y municipalidades",
+  "lugar": "Lempira, Santa Bárbara e Intibucá (sede inicial Gracias, Lempira)",
+  "pais": "Honduras",
+  "lat": 14.588,
+  "lng": -88.582,
+  "coord_aprox": true,
+  "periodo": "2014–actualidad",
+  "recursos": "Plan International Honduras / Fundación Blue Lupin (proyecto con donantes, según su dirección)",
+  "resultados": "A 2024: 41 bibliotecas Blue Lupin (escolares, públicas, mixta y minibibliotecas) en 15 municipios y 52 comunidades, con 30.609 niños y niñas usuarios (52% niñas) que participan en talleres de cine, dibujo, cuentacuentos y mimo (El Heraldo, presentación de logros de Plan International). Cobertura inicial documentada: 280 grupos infantiles de teatro, títeres, cuentacuentos y animación lectora.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.elheraldo.hn/honduras/bibliotecas-blue-lupin-espacio-empoderamiento-ninos-honduras-EO19713502",
+   "https://www.elheraldo.hn/revistas/siempre/las-islas-magicas-de-lempira-BBEH1341819",
+   "https://www.hondurastips.hn/2015/04/30/ninos-de-lempira-presentaran-su-libro-el-barro-es-nuestro-corazon/?amp=1"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.katha.org/wp-content/uploads/2017/07/Executive-Directors-Report-2013-14.pdf",
+   "https://www.katha.org/wp-content/uploads/2022/07/Millenium-Alliance-Report_2013-15.pdf"
+  ],
+  "id": "katha-i-love-reading",
+  "lat": 28.6139,
+  "lng": 77.209,
+  "lugar": "Nueva Delhi",
+  "nombre": "I Love Reading (ILR) — Katha",
+  "pais": "India",
+  "periodo": "2008/2010–presente (iniciado como campaña en 2008/2010 según informes de Katha; cifras verificadas hasta 2014–2015)",
+  "que_hizo": "Programa de lectura y transformación escolar basado en StoryPedagogy™: usa cuentos e historias ilustradas de Katha para llevar a niños de escuelas municipales (MCD) y comunidades de barrios marginales de Delhi a la lectura de su nivel, formando a docentes y mentores de lectura y voluntarios comunitarios.",
+  "quien": "Katha (fundada por Geeta Dharmarajan)",
+  "recursos": "Apoyo documentado: Millennium Alliance Award (FICCI, USAID y Gobierno de la India), ganador en 2013, que catalizó la escala del programa; apoyo anterior de Bernard van Leer Foundation a programas de Katha. Monto del premio/programa: no consta en las fuentes consultadas, null.",
+  "resultados": "Según el Executive Director's Report 2013–14 de Katha: ILR alcanzó 178.000 niños y 1.300 docentes en 138 escuelas gubernamentales y 248 comunidades desde 2010. Según el informe de progreso Millennium Alliance 2013–15: en 2014–15 solo, alcanzó 80.000 niños en 88 escuelas MCD y 126 comunidades, y extendió formación a 1.998 docentes de escuelas gubernamentales."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "http://prathambooks.org/wp-content/uploads/2018/05/PressRelease_Storyweaver-April-2017.pdf",
+   "https://www.thehindubusinessline.com/blink/know/tell-me-a-story/article25848620.ece"
+  ],
+  "id": "storyweaver-pratham-books",
+  "lat": 12.9716,
+  "lng": 77.5946,
+  "lugar": "Bengaluru (alcance nacional e internacional)",
+  "nombre": "StoryWeaver — Pratham Books",
+  "pais": "India",
+  "periodo": "2015–presente (lanzado el Día Internacional de la Alfabetización de 2015)",
+  "que_hizo": "Plataforma digital abierta de cuentos infantiles: repositorio con herramientas para leer, crear, traducir y reutilizar historias en lenguas maternas, incluidas lenguas minoritarias, tribales y en peligro. Todo el contenido se publica con licencia abierta para que docentes y organizaciones impriman y distribuyan cuentos en su lengua.",
+  "quien": "Pratham Books (editorial sin fines de lucro)",
+  "recursos": "Financiador documentado: Google.org (grant para escalar la creación de historias multilingües y el acceso offline, anunciado en 2017). Monto: no consta en el comunicado de Pratham Books consultado, null.",
+  "resultados": "Según el comunicado de Pratham Books (2017): en 18 meses pasó de 800 historias en 24 lenguas a más de 3.100 historias en 67 lenguas, leídas cerca de 1 millón de veces y descargadas más de 100.000 veces. Según The Hindu BusinessLine (2018): más de 10.000 historias en 124 lenguas. Cifras posteriores mayores circulan en fuentes secundarias y no se incorporan por no verificarse en fuente primaria en esta búsqueda."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "http://mediakitab.com/en/training-en/hakaya-un-projet-euro-arabe-pour-le-conte/",
+   "https://www.janacenter.org/inspirational-memory-encounter-2/",
+   "https://www.babelmed.net/en/article/amman-hakaya-annual-festival"
+  ],
+  "id": "hakaya",
+  "lat": 31.9454,
+  "lng": 35.9284,
+  "lugar": "Amán (red regional: Jordania, Líbano, Palestina, Egipto y socios europeos)",
+  "nombre": "Hakaya — Euro-Arab / Pan-Mediterranean Storytelling Programme",
+  "pais": "Jordania",
+  "periodo": "2006–2012 (creado en 2006; encuentro regional en el Líbano en 2011 y reunión regional en Alejandría en 2012 documentados)",
+  "que_hizo": "Programa euro-árabe y panmediterráneo que reivindica la centralidad de las historias (hakaya) en el desarrollo comunitario, la identidad y el diálogo intercultural. Articuló una red de artistas, historiadores, narradores y educadores con residencias, talleres, encuentros regionales, publicación de antologías de historias locales y producciones teatrales basadas en relatos, como Zawaya de El Warsha.",
+  "quien": "Arab Education Forum (Jordania) con socios como Tamer Institute (Palestina), ARCPA / Al-JANA (Líbano), Al Balad Theatre (Jordania), El Warsha (Egipto) y MS/ActionAid (Dinamarca)",
+  "recursos": "Financiador: Unión Europea (programa panmediterráneo financiado por la UE, según AL-JANA y la cobertura del encuentro de 2012). Monto: no consta en las fuentes consultadas, null.",
+  "resultados": null
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.unicef.org/lebanon/press-releases/unicef-and-zakira-celebrate-work-more-70-adolescents-participating-soura-wa-hikaya",
+   "https://www.unicef.org/lebanon/soura-w-hikaya"
+  ],
+  "id": "soura-wa-hikaya",
+  "lat": 33.8938,
+  "lng": 35.5018,
+  "lugar": "Beirut",
+  "nombre": "Soura wa Hikaya (Una foto y una historia)",
+  "pais": "Líbano",
+  "periodo": "2016–2017 (lanzado a principios de 2016; exposición de cierre el 3-feb-2017 en el Madina Theatre)",
+  "que_hizo": "Programa de narración y reportaje comunitario juvenil: adolescentes vulnerables libaneses, sirios, palestinos e iraquíes recibieron formación práctica intensiva en fotografía, escritura y reportaje para contar historias de sus comunidades como 'community reporters', culminando en foto-ensayos, piezas escritas y una exposición pública, con el fin de reforzar la cohesión entre comunidades locales y refugiadas.",
+  "quien": "Zakira NGO en alianza con UNICEF Líbano",
+  "recursos": "Alianza/financiación institucional: UNICEF Líbano (implementación de Zakira NGO). Monto: no consta en las fuentes de UNICEF consultadas, null.",
+  "resultados": "Según UNICEF: más de 70 adolescentes (70 niños y niñas de 14 a 18 años, según el comunicado) participaron; cada grupo de 20 participantes completó una formación intensiva de 3 meses que culminó en un foto-ensayo y una pieza escrita; los trabajos se presentaron en la exposición Soura wa Hikaya (febrero de 2017)."
+ },
+ {
+  "id": "alas-y-raices-narraciones-orales-mx",
+  "nombre": "Alas y Raíces — Programación de Narraciones Orales y Tradición Oral",
+  "que_hizo": "Programa nacional de desarrollo cultural infantil que, entre sus vertientes permanentes, programa narraciones orales con narradoras, cuentacuentos, versadores, trovadores y profesionales de la palabra hablada para bebés, niñas, niños y adolescentes en municipios y zonas de atención prioritaria. En 2026 seleccionó narradores mediante invitación nacional y los integró a un Laboratorio de Cocreación virtual previo a la programación en los estados.",
+  "quien": "Secretaría de Cultura del Gobierno de México, Coordinación Nacional de Desarrollo Cultural Infantil (CNDCI) – Alas y Raíces, en vinculación con secretarías/institutos de cultura estatales",
+  "lugar": "Nacional (sede Ciudad de México; selección 2026 en municipios de 20+ estados)",
+  "pais": "México",
+  "lat": 19.4326,
+  "lng": -99.1332,
+  "coord_aprox": true,
+  "periodo": "1996–actualidad (30º aniversario en 2026; invitación Narraciones Orales 2026 verificada)",
+  "recursos": "Secretaría de Cultura del Gobierno de México",
+  "resultados": "Resultados oficiales Narraciones Orales 2026: 30 personas seleccionadas en todo el país (lista oficial CNDCI, 4-mar-2026). A nivel estatal, el informe de Puebla (IV trimestre 2024) reporta 50 actividades del programa —incluidas presentaciones de narración oral— con 2.050 beneficiarios en oct–dic 2024.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://convocatorias.cultura.gob.mx/vigentes/detalle/4016/narraciones-orales-2026",
+   "https://convocatorias.cultura.gob.mx/assets/uploads/recursos/convocatorias/resultados-narraciones-orales-c-2026.pdf",
+   "https://aperturainstitucional.puebla.gob.mx/cultura/alas-y-raices-cuarto-trimestre-2024"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/03/Pre_jovenes15.pdf",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2023/03/Insc_jovenes15.pdf",
+   "https://hagamosalgoac.org/wp-content/uploads/2019/06/CV-Hagamos-algo-2019.pdf?srsltid=AfmBOoomb80U0gzmI6brBklpELvFJ5EZ9F_uqN98rCaEyS2guU-RVarF",
+   "https://www.iberbibliotecas.org/wp-content/uploads/2021/03/XX-Intergubernamental-Quito.pdf"
+  ],
+  "id": "jovenes-que-leen-sociedad-igualitaria",
+  "lat": 19.7686,
+  "lng": -96.4319,
+  "lugar": "Centro de Internamiento Juvenil de Palma Sola, Veracruz (entidad proponente con sede en Xalapa)",
+  "nombre": "Jóvenes que leen para construir una sociedad igualitaria de derechos y oportunidades",
+  "pais": "México",
+  "periodo": "abril – diciembre de 2016 (ganador de la 3ª Convocatoria de Ayudas Iberbibliotecas 2015)",
+  "que_hizo": "Serie de actividades de lectura y dinámicas grupales e individuales con adolescentes en reclusión del Centro de Internamiento Especial para Adolescentes del Estado de Veracruz, orientadas a la cultura de los derechos humanos, la igualdad y la no violencia de género. Entre sus líneas de acción incluyó un Taller de Narración Oral de Violencia de Género (5 talleres según el presupuesto presentado a Iberbibliotecas), además de taller literario de derechos humanos, maratón literario de estereotipos de género y tertulia literaria feminista.",
+  "quien": "Hagamos Algo, Asociación para el Desarrollo Integral de Grupos Vulnerables con Perspectiva de Género A.C.; representante legal: Rosa Aurora García Luna",
+  "recursos": "Iberbibliotecas, 3ª Convocatoria de Ayudas 2015: monto solicitado 32.000 USD sobre un costo total de 40.000 USD (formulario y presupuesto de postulación publicados por Iberbibliotecas; no consta en las fuentes consultadas un acta con el monto finalmente desembolsado)",
+  "resultados": "Participaron 56 jóvenes en situación de reclusión, que adquirieron capacidades sobre lectura feminista, promoción de la no violencia y literatura de derechos humanos (currícula institucional 2019 de Hagamos Algo A.C.). Las actas del XIX y XX Consejo Intergubernamental de Iberbibliotecas registran que el proyecto quedó a la espera de la evaluación y aprobación de su informe final por el punto focal."
+ },
+ {
+  "id": "programa-nacional-salas-de-lectura-mx",
+  "nombre": "Programa Nacional Salas de Lectura (PNSL)",
+  "que_hizo": "Red nacional de espacios comunitarios de lectura atendidos por mediadores voluntarios formados en un Diplomado en Mediación Lectora. Los mediadores acompañan a sus comunidades en el disfrute de la palabra escrita y oral, compartiendo libros, narraciones y experiencias lectoras en salas creadas por la propia ciudadanía.",
+  "quien": "Fondo de Cultura Económica (antes Conaculta), con UAM-Xochimilco y secretarías de cultura estatales",
+  "lugar": "Nacional (sede Ciudad de México)",
+  "pais": "México",
+  "lat": 19.4326,
+  "lng": -99.1332,
+  "coord_aprox": true,
+  "periodo": "1995–actualidad (más de 30 años de trayectoria según Cerlalc, 2025)",
+  "recursos": "Fondo de Cultura Económica / Gobierno de México",
+  "resultados": "Diagnóstico Conaculta/UABC (2009, publicado en SciELO): más de 3.300 Salas de Lectura en todo México, cada una con fondo inicial de 100 libros aportado por el programa. Cerlalc (2025) lo presenta como referente regional de organización comunitaria en torno al libro con más de tres décadas de trayectoria.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-69612012000100006&lng=t&nrm=iso",
+   "https://boletines.guanajuato.gob.mx/tag/programa-nacional-de-salas-de-lectura/",
+   "https://cerlalc.org/el-programa-nacional-salas-de-lectura-de-mexico-compartio-sus-experiencias-de-trabajo-en-red-con-la-region/"
+  ]
+ },
+ {
+  "id": "unlock-literacy-clubes-lectura-ni",
+  "nombre": "Unlock Literacy (UL) — Clubes de Lectura comunitarios / ULLN Nicaragua",
+  "que_hizo": "Modelo de alfabetización temprana de World Vision cuyo componente comunitario son clubes de lectura donde niñas y niños leen, comentan y ejercitan la expresión oral y escrita fuera de la escuela, facilitados por voluntariado comunitario y articulados con el Ministerio de Educación. Fue objeto de una investigación pública (ULLN) sobre su implementación mediante redes comunitarias. NOTA: componente oral moderado (lectura compartida y discusión oral), no cuentería tradicional.",
+  "quien": "World Vision Nicaragua y World Vision Canadá; investigación ULLN: OISE–Universidad de Toronto, Universidad de Ghana y FOSDEH, con financiación IDRC/GPE-KIX",
+  "lugar": "10 comunidades rurales y urbanas de Estelí, León y Managua",
+  "pais": "Nicaragua",
+  "lat": 12.1149,
+  "lng": -86.2362,
+  "coord_aprox": true,
+  "periodo": "2021–2022 (primera fase investigada; informe consolidado mar-2022)",
+  "recursos": "IDRC y GPE-KIX (investigación ULLN); World Vision (implementación del modelo UL)",
+  "resultados": "Resumen ejecutivo ULLN Nicaragua (2022): 232 clubes de lectura que beneficiaron a más de 3.400 niñas y niños en 10 comunidades; la evaluación aplicó pruebas EGRA a 704 estudiantes de tercer grado y documentó mejoras en lectoescritura, confianza, creatividad y motivación escolar.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://biblioteca.fosdeh.hn/books/nicaragua-mejora-de-la-alfabetizacion-infantil-mediante-el-apoyo-de-las-redes-comunitarias-unlock-literacy-learning-network-ulln-resumen-ejecutivo/",
+   "https://biblioteca.fosdeh.hn/books/mejora-de-la-alfabetizacion-infantil-mediante-el-apoyo-de-las-redes-comunitarias-informe-consolidado-de-los-resultados-en-la-primera-fase-de-nicaragua-2021/",
+   "https://www.wvi.org/es/article/intercambio-de-experiencia-entre-lectores"
+  ]
+ },
+ {
+  "id": "circulo-narracion-oral-hector-collado-pa",
+  "nombre": "Círculo Infantil y Juvenil de Narración Oral «Héctor Collado»",
+  "que_hizo": "Semillero permanente de narradores: forma a niños, niñas y jóvenes en técnicas de narración oral y hábito lector, con sesiones sabatinas en la Sala Infantil de la Biblioteca Nacional. Sus integrantes narran cuentos, leyendas y relatos en bibliotecas, escuelas, ferias del libro y espacios culturales de distintas provincias, y el círculo creó espacios propios de narración e identidad cultural.",
+  "quien": "Ministerio de Cultura de Panamá y Biblioteca Nacional Ernesto J. Castillero R.; lidera Carlos Fong (MiCultura) con Anayansi Barrantes (Biblioteca Nacional)",
+  "lugar": "Ciudad de Panamá (Biblioteca Nacional, Parque Omar), con presentaciones en distintas provincias",
+  "pais": "Panamá",
+  "lat": 8.9824,
+  "lng": -79.5199,
+  "coord_aprox": true,
+  "periodo": "2016–actualidad (10º aniversario celebrado el 28-feb-2026)",
+  "recursos": "Ministerio de Cultura de Panamá y Biblioteca Nacional de Panamá",
+  "resultados": "MiCultura y Biblioteca Nacional (mar-2026): más de 80 niños, niñas y jóvenes han integrado el círculo en una década; 22 participantes lo conforman actualmente; participación en la Feria Internacional del Libro de Panamá desde 2016/2017 (las fuentes difieren en un año) y creación de los espacios «Pequeños Narradores de Grandes Historias», «Fiesta Intercultural de Cuentos y Leyendas» y «Para quererte Panamá: cuentos con sabor a Patria».",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://micultura.gob.pa/circulo-infantil-y-juvenil-hector-collado-celebra-10-anos-llevando-la-magia-de-los-cuentos-a-todo-panama/",
+   "https://binal.ac.pa/noticias/10-anos-contando-historias/",
+   "https://micultura.gob.pa/con-lectura-de-cuentos-el-ministerio-de-cultura-celebrara-dia-de-la-narracion-oral/?utm_source=rss&utm_medium=rss&utm_campaign=con-lectura-de-cuentos-el-ministerio-de-cultura-celebrara-dia-de-la-narracion-oral"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://segib.org/es/iberoamerica-impulsa-16-proyectos-para-preservar-las-lenguas-indigenas/",
+   "https://segib.org/wp-content/uploads/2024/07/Proyectos-Cenzontle-.pdf",
+   "https://tapeayvu.com/sites/www.tapeayvu.com/files/pdf-files/Libro_Original_Ayoreo_2024.pdf"
+  ],
+  "id": "nujnusinango-yocuu-bajade-voces-ancestras",
+  "lat": -22.34,
+  "lng": -60.03,
+  "lugar": "Montes del Chaco paraguayo (territorio ayoreo, Boquerón)",
+  "nombre": "Ñujnusinango Yocuu Bajade / Recuperando las voces ancestras",
+  "pais": "Paraguay",
+  "periodo": "2023 (trabajo de campo en agosto de 2023; Premio Cenzontle 2023; libro publicado en 2024)",
+  "que_hizo": "Registró en su lengua la memoria oral de ancianos ayoreos narradores de los montes del Chaco paraguayo, con rescate complementario de archivos de los primeros contactos, para recuperar las raíces identitarias del pueblo ayoreo (familia zamuco). El registro se centró en los juegos tradicionales ayoreos y se sistematizó como recurso de revitalización de la cultura y la lengua para las generaciones más jóvenes y como buena práctica de salvaguardia del patrimonio cultural ayoreo.",
+  "quien": "Oscar Posoraja (registro audiovisual, traducciones y transcripciones) y Celeste Escobar (registro audiovisual, edición y sistematización), con ancianos ayoreos colaboradores y acceso a archivos de la Congregación Salesiana en Paraguay",
+  "recursos": "Premio «Cenzontle: una ventana para las lenguas originarias de Iberoamérica» 2023, de Ibermemoria Sonora, Fotográfica y Audiovisual e IberCultura Viva (SEGIB): la convocatoria estuvo dotada en total con 16.500 USD para 16 proyectos, sin monto individual en las fuentes consultadas. La labor de rescate contó además con apoyo del Fondo Nacional de las Artes y la Cultura (FONDEC) de Paraguay, según la ficha técnica del libro resultante.",
+  "resultados": "Libro «Ñujnusinango Yocuu Bajade / Recuperando las voces ancestras: Juegos Tradicionales Ayoreos (Zamuco)» publicado (2024), con el registro audiovisual realizado en agosto de 2023 junto a ancianos ayoreos narradores. El proyecto fue uno de los 16 ganadores del Premio Cenzontle presentados por la SEGIB en el foro virtual del 21 y 22 de febrero de 2024, con motivo del Día Internacional de la Lengua Materna."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.ip.gov.py/ip/2025/12/22/mec-impulso-el-fomento-de-las-habilidades-orales-y-la-lectura-en-todo-el-pais/",
+   "https://www.ultimahora.com/luis-ramirez-destaca-mejora-en-la-comprension-lectora-de-alumnos-tras-el-programa-neery",
+   "https://revistas.uninter.edu.py/index.php/multidisciplinar/article/view/71"
+  ],
+  "id": "nery-paraguay",
+  "lat": -25.2637,
+  "lng": -57.5759,
+  "lugar": "Paraguay (ámbito nacional; coordenada aproximada de Asunción)",
+  "nombre": "Programa Ñe'êry – Lectura, escritura y oralidad",
+  "pais": "Paraguay",
+  "periodo": "En ejecución (medición de resultados 2024; rendición de cuentas diciembre de 2025; meta 2028)",
+  "que_hizo": "Programa nacional del MEC de fomento a la lectura, la escritura y la oralidad en castellano y guaraní, que convirtió a las bibliotecas escolares en espacios de exploración y distribuyó libros de cuentos en todo el país. En el aula trabaja con narrativa de cuentos cortos mediante lectura compartida, dramatización, reescritura y producción oral en ambas lenguas oficiales. Para educación inicial distribuyó libros de cuentos de autores paraguayos para llevar a las casas.",
+  "quien": "Ministerio de Educación y Ciencias (MEC) de Paraguay",
+  "recursos": "Ministerio de Educación y Ciencias (MEC) de Paraguay",
+  "resultados": "Rendición de cuentas del MEC (diciembre de 2025, vía Agencia IP): más de 12.000 bibliotecas escolares y más de 1.000.000 de libros distribuidos en todo el país, incluidos 38.600 libros de cuentos de autores paraguayos para educación inicial; meta de 24.000 bibliotecas en 2028. Medición del programa en 2024 citada por el ministro: mejora de la comprensión lectora del 17% en zonas rurales y del 10% en zonas urbanas. Un estudio de caso en la Escuela Básica Nº 142 de Asunción trabajó con 198 estudiantes y observó mejora en participación, gusto por la lectura y expresión oral y escrita."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.ultimahora.com/mas-de-75-000-ninos-mejoraron-su-lenguaje-oral-con-programa-neli-segun-mec",
+   "https://www.rdn.com.py/2026/11/20/mas-de-75-000-ninos-mejoraron-su-lenguaje-oral-con-programa-neli/",
+   "https://rcc.com.py/educacion-2/programa-neli-beneficio-a-mas-de-75-000-ninos-y-llego-a-1-276-escuelas-del-pais/?amp"
+  ],
+  "id": "neli-paraguay",
+  "lat": -25.2637,
+  "lng": -57.5759,
+  "lugar": "Paraguay (ámbito nacional; coordenada aproximada de Asunción)",
+  "nombre": "Programa NELI – Intervención Temprana del Lenguaje (Nuffield Early Language Intervention)",
+  "pais": "Paraguay",
+  "periodo": "Desde 2025 – en ejecución (resultados 2025 presentados por el MEC; continuidad prevista para 2027)",
+  "que_hizo": "Programa de intervención temprana del lenguaje oral para niños de 3 a 8 años, con nivel universal para todo el aula y nivel de intervención en grupos pequeños o individual para quienes presentan dificultades. Trabaja vocabulario, comprensión, construcción de oraciones y capacidad de narrar mediante actividades estructuradas y lúdicas con cuentos, repetición y recursos pedagógicos como el personaje del osito NELI, para fortalecer las bases de la comprensión lectora.",
+  "quien": "Ministerio de Educación y Ciencias (MEC) de Paraguay, con el programa desarrollado por la Universidad de Oxford",
+  "recursos": "Ministerio de Educación y Ciencias (MEC) de Paraguay",
+  "resultados": "Resultados 2025 presentados por el MEC: más de 75.000 niños y niñas del nivel inicial beneficiados (75.555 según la presentación oficial reproducida por MECDigital), 996 instituciones educativas en los 17 departamentos y la capital, y aproximadamente 3.500 educadores capacitados; la cobertura alcanzó cerca del 51% de los alumnos del país, según el ministro Luis Ramírez. Nota: una cobertura periodística posterior (RCC) eleva la cifra a 1.276 instituciones al presentar los primeros dos años; se consigna la cifra de la presentación 2025 por ser la trazable a la fuente ministerial."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/Tiktokeando%20en%20tu%20lengua_15.05_0.pdf"
+  ],
+  "id": "tiktokeando-en-tu-lengua-peru",
+  "lat": -12.0464,
+  "lng": -77.0428,
+  "lugar": "Perú (ámbito nacional; coordenada aproximada de Lima)",
+  "nombre": "Primer concurso Tiktokeando en tu lengua",
+  "pais": "Perú",
+  "periodo": "Primera edición sistematizada en publicación oficial de mayo de 2024",
+  "que_hizo": "Concurso del Ministerio de Cultura que impulsó la creación de contenidos digitales en lenguas indígenas u originarias y en lengua de señas peruana, con una categoría de narración en la que los participantes dieron a conocer parte de su tradición oral e identidad cultural. Formó parte de las acciones de la Dirección de Lenguas Indígenas en el marco del Decenio Internacional de las Lenguas Indígenas y del Día Internacional de la Lengua Materna, y sus resultados fueron sistematizados en una publicación oficial de mayo de 2024.",
+  "quien": "Ministerio de Cultura del Perú – Viceministerio de Interculturalidad, Dirección de Lenguas Indígenas, con instituciones aliadas (entre ellas Biblioteca Nacional del Perú, Conservación Internacional y universidades)",
+  "recursos": "Ministerio de Cultura del Perú",
+  "resultados": "Según la publicación oficial del Ministerio de Cultura: participaron más de 150 usuarios, en 16 lenguas distintas, provenientes de 17 regiones del Perú, en las categorías de canto y música y de narración."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.casadelaliteratura.gob.pe/abuelas-abuelos-cuentacuentos-convocatoria-2025/",
+   "https://www.casadelaliteratura.gob.pe/convocatoria-2023-del-programa-abuelas-abuelos-cuentacuentos/",
+   "https://www.casadelaliteratura.gob.pe/caslit-convoca-a-abuelos-cuentacuenteros/",
+   "https://andina.pe/agencia/noticia-milagros-saldarriaga-literatura-es-un-espacio-sublevacion-758060.aspx"
+  ],
+  "id": "abuelas-abuelos-cuentacuentos-peru",
+  "lat": -12.0464,
+  "lng": -77.0428,
+  "lugar": "Lima, Perú",
+  "nombre": "Programa Abuelas y Abuelos Cuentacuentos – Casa de la Literatura Peruana",
+  "pais": "Perú",
+  "periodo": "2013 – en ejecución (convocatoria 2025: voluntariado del 31 de marzo al 1 de diciembre de 2025)",
+  "que_hizo": "Voluntariado sin fines de lucro que capacita de forma permanente a personas adultas mayores (60 a 75 años) en narración oral y animación a la lectura para que se desempeñen como narradores orales. Los voluntarios comparten literatura e historias con escuelas y lectores jóvenes, dentro y fuera de la Casa de la Literatura. El programa se convoca anualmente al menos desde 2013, con ediciones documentadas en 2014, 2023 y 2025.",
+  "quien": "Casa de la Literatura Peruana (centro cultural público adscrito al Ministerio de Educación del Perú)",
+  "recursos": "Casa de la Literatura Peruana / Ministerio de Educación del Perú (programa de voluntariado sin fines de lucro)",
+  "resultados": "Convocatoria 2023: ante una demanda de más de mil postulantes se amplió el cupo previsto de 30 voluntarios y se publicó la lista de admitidos. Convocatoria 2025: 20 participantes seleccionados, con capacitación en marzo de 2025 e inicio del voluntariado el 31 de marzo de 2025, según la página oficial del programa."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://arenayesteras.org/2026/10/28/residencia-tikay-pasantia-intercultural-e-intergeneracional-por-el-cuidado-de-la-vida-a-traves-del-cuerpo-la-palabra-y-los-objetos/",
+   "https://arenayesteras.org/wp-content/uploads/2026/10/Cartilla-Tikay_Residencia-Arena-y-Esteras_-IBERESCENA2026.pdf"
+  ],
+  "id": "residencia-tikay",
+  "lat": -12.2132,
+  "lng": -76.9366,
+  "lugar": "Villa El Salvador, Lima",
+  "nombre": "Residencia Tikay: Pasantía Intercultural e Intergeneracional por el cuidado de la vida a través del cuerpo, la palabra y los objetos",
+  "pais": "Perú",
+  "periodo": "marzo – octubre de 2026 (proyecto ganador de la convocatoria Iberescena en la línea Creación en Residencia; la cartilla de resultados lo registra como «Beca de creación de residencia de Iberescena Perú 2026» y el sitio de Arena y Esteras como ganador de la convocatoria Iberescena 2025)",
+  "que_hizo": "Residencia de creación escénica que reunió a artistas de Colombia, Chile, Ecuador y Perú —provenientes, entre otras, de la narración oral, el teatro físico, los títeres y la mediación lectora— con jóvenes mediadoras comunitarias («Comadritas») y abuelas migrantes de Lima Sur. El proceso combinó encuentros virtuales de «Objetos Memoria», inmersión presencial en las huertas de las abuelas —sus saberes, comidas, plantas y medicinas— y la creación colectiva a partir de las memorias afectivas, las historias migrantes y el vínculo con las abuelas. Tikay articula tres lenguajes escénicos: narración oral, teatro físico y teatro de títeres y objetos, y tres generaciones.",
+  "quien": "Asociación Taller de Educación y Comunicación a través del Arte Arena y Esteras (Villa El Salvador, Lima), con artistas residentes de Colombia, Chile, Ecuador y Perú",
+  "recursos": "Iberescena, línea Creación en Residencia (sin monto en las fuentes consultadas)",
+  "resultados": "El proceso culminó en la «Ofrenda Escénica Tikay», compartida en las comunidades de Lima Sur, y en la publicación de la cartilla metodológica «Tikay: Cartilla para volver a la tierra, a la memoria y al teatro» (Arena y Esteras, 2026), presentada de forma simultánea en cuatro países de Latinoamérica. Las fuentes consultadas no aportan cifras de participantes."
+ },
+ {
+  "id": "arquivo-conto-tradicional-portugues-ceao",
+  "nombre": "Arquivo do Conto Tradicional Português e Catalogue of Portuguese Folktales (CEAO, Universidade do Algarve)",
+  "que_hizo": "Arquivo criado no Centro de Estudos Ataíde Oliveira (CEAO) para classificar e arquivar todas as versões portuguesas de contos tradicionais — publicadas em livros e revistas e inéditas — segundo o catálogo internacional Aarne-Thompson-Uther. A partir desse acervo foi elaborado o Catalogue of Portuguese Folktales (2006, em inglês, para colocar os contos portugueses no mapa europeu), com atualizações posteriores publicadas pelo IELT (catálogo em português em 2015 e primeira atualização em 2021).",
+  "quien": "Centro de Estudos Ataíde Oliveira (CEAO), Universidade do Algarve — equipa de Isabel Cardigos, com Paulo Correia e J. J. Dias Marques; atualizações no IELT – NOVA FCSH",
+  "lugar": "Faro, Algarve",
+  "pais": "Portugal",
+  "lat": 37.0194,
+  "lng": -7.9304,
+  "coord_aprox": true,
+  "periodo": "Dois financiamentos de três anos e meio cada: Praxis XXI (1997–2000) e FCT (2000–2003); catálogo publicado em 2006 e atualizações em 2015 e 2021",
+  "recursos": "Programa Praxis XXI; FCT — Fundação para a Ciência e a Tecnologia",
+  "resultados": "Mais de 7.000 versões de contos catalogadas, cada uma sinalizada com um número de arquivo APFT (Archive of Portuguese Folktales) que remete para o texto guardado no arquivo do CEAO, segundo a apresentação do catálogo por Isabel Cardigos.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://core.ac.uk/download/pdf/61503527.pdf",
+   "https://ielt.fcsh.unl.pt/wp-content/uploads/2021/12/contotradicionalportuguessecxxi-2021-ebook.pdf"
+  ]
+ },
+ {
+  "id": "contos-de-tantos-cantos-torres-vedras",
+  "nombre": "Contos de Tantos Cantos (Torres Vedras e Lourinhã)",
+  "que_hizo": "Projeto municipal de recolha de narrativas orais com membros de diversas comunidades imigrantes residentes nos concelhos de Torres Vedras e da Lourinhã e com autóctones, para evidenciar narrativas da tradição oral de países da Europa e da América do Sul. Desenvolveu-se em quatro fases: workshop de recolha de contos (3 sessões), atelier de ilustração aberto à comunidade, sessão pública de apresentação e avaliação, e edição do livro «Contos de Tantos Cantos». Foi registado como prática inspiradora na ficha de caracterização do Alto Comissariado para as Migrações.",
+  "quien": "Município de Torres Vedras e Município da Lourinhã, com parceria da Fábrica das Histórias – Casa Jaime Umbelino",
+  "lugar": "Torres Vedras, Lisboa",
+  "pais": "Portugal",
+  "lat": 39.0912,
+  "lng": -9.2586,
+  "coord_aprox": true,
+  "periodo": null,
+  "recursos": null,
+  "resultados": "18 participantes (imigrantes e autóctones) envolvidos na recolha e no atelier de ilustração; os 9 imigrantes participantes partilharam narrativas orais oriundas de seis países (Chile, Brasil, Marrocos, Moldávia, Ucrânia e Rússia); resultado final: livro editado com as narrativas trabalhadas literária e visualmente, segundo a ficha oficial da prática.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://arquivo.pt/wayback/20240829203736mp_/https://www.acm.gov.pt/documents/10181/95045/Contos/8743d685-4d4a-4ac0-8fb8-d2e0b032c88d"
+  ]
+ },
+ {
+  "id": "lu-gar-contado",
+  "nombre": "LU.GAR.CONTADO — Tradição oral, um património vivo",
+  "que_hizo": "Exposição multimédia itinerante acompanhada por sessões narrativas sobre a tradição oral portuguesa, construída a partir do arquivo vídeo do projeto MEMORIAMEDIA. Incide sobre seis composições tradicionais — um romance, uma lenda e quatro contos — recolhidas outrora por eruditos como José Leite de Vasconcelos e gravadas em vídeo ao longo da última década, relacionando-as com os repertórios dos narradores profissionais atuais (Ana Sofia Paiva, António Fontinha e Cristina Taquelim). Inaugurou no Museu Nacional de Arqueologia (Lisboa) e itinerou para Torres Vedras e Sobral de Monte Agraço.",
+  "quien": "Memória Imaterial CRL, em colaboração com o IELT – NOVA FCSH e o Museu Nacional de Arqueologia; curadoria de José Barbieri",
+  "lugar": "Lisboa (Museu Nacional de Arqueologia); itinerância a Torres Vedras e Sobral de Monte Agraço",
+  "pais": "Portugal",
+  "lat": 38.6979,
+  "lng": -9.2075,
+  "coord_aprox": true,
+  "periodo": "18 de maio – 19 de setembro de 2021 (Lisboa); itinerâncias documentadas em setembro–novembro de 2021",
+  "recursos": "DGARTES — Direção-Geral das Artes e municípios anfitriões (apoio declarado nas apresentações municipais)",
+  "resultados": "39.045 visitantes entre 18 de maio e 19 de setembro de 2021 no Museu Nacional de Arqueologia, segundo o IELT; a exposição e as atividades associadas passaram depois para a Fábrica das Histórias – Casa Jaime Umbelino (Torres Vedras) e para a Biblioteca Municipal de Sobral de Monte Agraço.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://ielt.fcsh.unl.pt/tag/memoriamedia/feed/",
+   "https://museunacionalarqueologia.gov.pt/?p=8867",
+   "https://www.cm-tvedras.pt/artigos/detalhes/patrimonio-imaterial-relacionado-com-a-tradicao-oral-divulgado-em-torres-vedras/"
+  ]
+ },
+ {
+  "id": "memoriamedia",
+  "nombre": "MEMORIAMEDIA — e-Museu do Património Cultural Imaterial",
+  "que_hizo": "Projeto iniciado em 2006 para estudar, inventariar e divulgar manifestações do património cultural imaterial — expressões orais, práticas performativas, celebrações, saber-fazer e conhecimentos sobre a natureza — com registo etnográfico em vídeo e publicação dos resultados num inventário nacional em linha, de consulta e partilha livres. A entidade gestora mantém ainda o Clube para a UNESCO MEMORIAMEDIA, com formações sobre salvaguarda do património imaterial para autarquias, escolas, museus e bibliotecas.",
+  "quien": "Memória Imaterial CRL (cooperativa cultural, ONG), com acolhimento do Instituto de Estudos de Literatura e Tradição (IELT) da NOVA FCSH",
+  "lugar": "Lisboa",
+  "pais": "Portugal",
+  "lat": 38.7223,
+  "lng": -9.1393,
+  "coord_aprox": true,
+  "periodo": "2006 – en ejecución (relatório de atividades de 2024 publicado)",
+  "recursos": "FCT — Fundação para a Ciência e a Tecnologia, através do IELT (apoio ao projeto, segundo a Bérose/IELT)",
+  "resultados": "Segundo o relatório de atividades de 2024 da Memória Imaterial CRL: nove formações presenciais e online sobre património cultural imaterial realizadas através do Clube UNESCO MEMORIAMEDIA e cerca de 70 entidades participantes ativas nas formações e atividades do Clube (câmaras municipais, agrupamentos escolares, museus, bibliotecas, associações culturais e instituições de ensino superior); resultados do inventário publicados em memoriamedia.net.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.memoriamedia.net/index.php/memoriamedia-inicio/equipas/8-dados-tecnicos/4323-relatorio-de-atividades?showall=1",
+   "https://memoriamedia.net/index.php/pci-e-memoriamedia",
+   "https://review.memoriamedia.net/index.php/editor-s-note"
+  ]
+ },
+ {
+  "id": "romanceiro-pt",
+  "nombre": "Romanceiro.pt — Arquivo do Romanceiro Português da Tradição Oral Moderna",
+  "que_hizo": "Plataforma digital que preserva e difunde o Arquivo do Romanceiro Português: digitalizou os dois núcleos documentais do arquivo (versões inéditas em arquivo sonoro e transcrições, e versões publicadas entre 1828 e 2000) e disponibiliza-os em acesso livre, em imagem e/ou som. O projeto de digitalização «O Arquivo do Romanceiro Português da Tradição Oral Moderna (1828-2010): sua preservação e difusão» arrancou em 2013; a plataforma foi apresentada publicamente em 2016 e a nova versão da base de dados em 2018.",
+  "quien": "Centro de Investigação em Artes e Comunicação (CIAC), Universidade do Algarve, em parceria com a Fundação Manuel Viegas Guerreiro; coordenação de Pere Ferré e responsabilidade científica de Sandra Boto; acolhimento atual no IELT – NOVA FCSH",
+  "lugar": "Loulé (Querença, Fundação Manuel Viegas Guerreiro); equipa CIAC na Universidade do Algarve, Faro",
+  "pais": "Portugal",
+  "lat": 37.136,
+  "lng": -8.0235,
+  "coord_aprox": true,
+  "periodo": "2013 (início da digitalização) – en ejecución (fase atual de ampliação do corpus)",
+  "recursos": "Fundação Calouste Gulbenkian — Concurso de Recuperação, Tratamento e Organização de Acervos Documentais (2013)",
+  "resultados": "Perto de 10.000 versões de romances disponibilizadas (cerca de 6.000 versões publicadas entre os séculos XIX e XXI e mais de 3.500 versões inéditas em 660 horas de gravação recolhidas desde 1980) e perto de 14.000 imagens de documentos acessíveis em rede, segundo a página oficial do projeto no IELT.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://ielt.fcsh.unl.pt/en/portfolio/romanceiro-pt/",
+   "https://www.ualg.pt/investigadores-do-centro-de-investigacao-em-artes-e-comunicacao-da-ualg-apresentam-o-projeto"
+  ]
+ },
+ {
+  "id": "tiempo-de-contar-pr",
+  "nombre": "Tiempo de Contar",
+  "que_hizo": "Organización sin fines de lucro que lleva narración oral, lecturas en voz alta y dramatizadas, picnics de lectura y clubes de lectura a comunidades, escuelas, museos y eventos culturales de Puerto Rico, con un equipo de promotores y mediadores formados en educación, artes, trabajo social y narración oral. También forma a padres, educadores y líderes comunitarios para fomentar la lectura en sus entornos.",
+  "quien": "Tiempo de Contar (fundadora y directora ejecutiva Lusiann Iturbe-Ortiz), organización sin fines de lucro incorporada en 2022",
+  "lugar": "Comunidades de toda la isla, con énfasis en el noreste (sede de referencia San Juan)",
+  "pais": "Puerto Rico",
+  "lat": 18.4655,
+  "lng": -66.1057,
+  "coord_aprox": true,
+  "periodo": "2022–actualidad",
+  "recursos": "Donaciones y campañas de pareo (p. ej. campaña Cuenta x 2 de Titín Foundation, pareo al 100% hasta USD 5.000 en 2025); apoyo de Fundación Ángel Ramos (difusión): USD 5.000 (tope del pareo de Titín Foundation en la campaña 2025, no monto total del proyecto)",
+  "resultados": "En 2024 impactó a 3.416 participantes: 1.203 niños y jóvenes en narraciones orales, lecturas y talleres, y 2.213 padres, educadores y líderes comunitarios en talleres y conferencias (datos de la organización difundidos en la campaña Cuenta x 2, 2025). La Fundación Ángel Ramos reporta más de 3.000 niños impactados en sus primeros años.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://magazine-pr.com/tiempo-de-contar-invita-a-multiplicar-la-lectura-al-unirse-a-la-campana-cuenta-x-2-de-titin-foundation/",
+   "https://www.fundacionangelramos.org/post/promocion-lectura-puerto-rico",
+   "https://www.tiempodecontar.org/sobre-nosotros"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://sbuhb.nhs.wales/news/swansea-bay-health-news/telling-patients-stories-digitally-is-helping-to-improve-services/",
+   "https://www.artsinhealth.wales/our-story.html",
+   "https://www.artsinhealth.wales/uploads/8/6/5/7/86577976/exploring_the_impact_of_digital_storytelling_for_health_-_report_for_swansea_bay.pdf"
+  ],
+  "id": "swansea-bay-digital-storytelling",
+  "lat": 51.6214,
+  "lng": -3.9436,
+  "lugar": "Swansea, Gales",
+  "nombre": "Digital Storytelling for Health — Swansea Bay University Health Board (Our Story / Swansea Bay Method)",
+  "pais": "Reino Unido",
+  "periodo": "2012–presente (introducido en 2012; informe de impacto publicado en 2023)",
+  "que_hizo": "Programa de narración digital en primera persona dentro del NHS galés: personal formado (story facilitators) ayuda a pacientes, familiares y personal a grabar su voz con imágenes en videos de menos de 3 minutos. Cada historia genera un plan de acción de mejora del servicio, se archiva en una biblioteca de historias y se usa en reuniones de directorio, formación y rediseño de servicios.",
+  "quien": "Swansea Bay University Health Board (NHS Wales), coordinado por Prue Thimbleby (Arts in Health); investigación de impacto con la University of South Wales / George Ewart Evans Centre for Storytelling",
+  "recursos": "Empleador/financiador institucional: Swansea Bay University Health Board (NHS Wales); la investigación de impacto fue financiada por Knowledge Economy Skills Scholarships (KESS, en parte con Fondo Social Europeo del Gobierno de Gales) y SBUHB vía University of South Wales. Montos: no constan en las fuentes consultadas, null.",
+  "resultados": "Según SBUHB y el capítulo 'Our Story': entre 200 y 300 historias digitales producidas en el Health Board (SBUHB precisa 'up to 300'); 12 facilitadores de historias de primera línea; la metodología (Swansea Bay Method) fue adoptada por NHS Wales como política para recoger historias digitales en todo Gales; historias vinculadas a mejoras documentadas en salud mental perinatal, reporte de incidentes y cuidados de fin de vida."
+ },
+ {
+  "id": "lideres-cuentacuentos-do",
+  "nombre": "Líderes Cuentacuentos (Estrategia de Cultura Escrita)",
+  "que_hizo": "Formó y acompañó a estudiantes de los primeros grados de primaria para que se convirtieran en promotores de lectura en su propio centro: leen, muestran, narran, dramatizan y recomiendan libros a sus compañeros, comparten cuentos en voz alta en distintos espacios de la escuela y motorizan clubes de lectura escolares, recreos literarios y títeres lectores. Incluyó capacitación simultánea de docentes en cultura escrita.",
+  "quien": "Organización de Estados Iberoamericanos (OEI) con Ministerio de Educación (MINERD) y Ministerio de Cultura de República Dominicana",
+  "lugar": "100 escuelas primarias públicas de la región Este (regionales de San Pedro de Macorís, Higüey y Monte Plata)",
+  "pais": "República Dominicana",
+  "lat": 18.4861,
+  "lng": -69.9312,
+  "coord_aprox": true,
+  "periodo": "2010–2015 (documentado por OEI hasta 2015; sistematizado por el estudio SICA/OEI/AECID en 2021)",
+  "recursos": "OEI y MINERD (Proyecto de Apoyo a la Calidad Educativa / Política de Apoyo a los Aprendizajes de los Primeros Grados)",
+  "resultados": "OEI: más de 1.500 niños y niñas formados como líderes cuentacuentos (afiche de la Estrategia de Cultura Escrita); en mayo 2015 la OEI reportaba más de 1.700 estudiantes líderes cuentacuentos activos en 100 escuelas de la región Este, y una cohorte de formación de más de 1.000 líderes con 130 docentes capacitados en simultáneo.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://oei.int/offices/republica-dominicana/news/nuevos-afiches-de-la-estrategia-de-cultura-escrita/",
+   "https://oei.int/offices/republica-dominicana/news/escritores-dominicanos-comparten-con-lideres-cuentacuentos-de-miches/",
+   "https://oei.int/pt/escritorios/republica-dominicana/noticia/oei-capacita-1-000-estudiantes-del-nivel-primario-como-lideres-cuentacuentos/",
+   "https://sibeycra.mep.go.cr/wp-content/uploads/2022/01/4MEP_final_sep.pdf"
+  ]
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.oerdynamiccoalition.org/sites/default/files/documents/2026/09/african-storybook.pdf",
+   "https://www.globalissues.org/amp/news/2022/02/10/30036"
+  ],
+  "id": "african-storybook",
+  "lat": -26.2041,
+  "lng": 28.0473,
+  "lugar": "Johannesburgo (operación panafricana subsahariana)",
+  "nombre": "African Storybook (ASb)",
+  "pais": "Sudáfrica",
+  "periodo": "2014–presente (lanzamiento oficial en Pretoria, junio de 2014)",
+  "que_hizo": "Iniciativa multilingüe de alfabetización que crea, traduce, adapta y publica cuentos ilustrados con licencia abierta para lectura temprana en lenguas africanas. Su plataforma permite leer, crear, descargar y traducir cuentos, y trabaja con 'champions' locales, escuelas y bibliotecas.",
+  "quien": "Saide (South African Institute for Distance Education)",
+  "recursos": "Financiación inicial de Comic Relief (Reino Unido) y de la Unión Europea para el lanzamiento; financiación posterior de diversas fuentes citadas en la fuente (Cameron Schrier Foundation, Zenex Foundation, Oppenheimer Memorial Trust). Montos: no constan en las fuentes consultadas, null.",
+  "resultados": "Según el caso OER Dynamic Coalition (datos al 8-abr-2022): 3.178 cuentos únicos, 7.383 traducciones en lenguas del África subsahariana y recursos en 224 lenguas; piloto en 14 sitios en Sudáfrica, Kenia, Lesoto y Uganda y extensión a otros países africanos. Según IPS/Global Issues (2022): más de 1,5 millones de niños beneficiados por las descargas."
+ },
+ {
+  "coord_aprox": true,
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://sabooksellers.com/heres-story-nalibali/?rel=author",
+   "https://report.nalibali.org/?p=224",
+   "https://iol.co.za/news/south-africa/2026-09-17-library-of-congress-awards-nalibali-more-than-r816000-to-promote-reading-in-sa-languages/"
+  ],
+  "id": "nalibali",
+  "lat": -33.9249,
+  "lng": 18.4241,
+  "lugar": "Sudáfrica (nacional; sede referenciada en Ciudad del Cabo)",
+  "nombre": "Nal'ibali (Here's the Story)",
+  "pais": "Sudáfrica",
+  "periodo": "2012–presente (establecido en 2011, lanzado al público en 2012)",
+  "que_hizo": "Campaña nacional de lectura por placer basada en narración y cuentos en lenguas maternas sudafricanas. Distribuye suplementos bilingües con historias, sostiene una red de clubes de lectura comunitarios, forma a voluntarios (FUNda Leaders) y emite historias por radio en las lenguas oficiales.",
+  "quien": "Nal'ibali Trust; fundado por PRAESA y DG Murray Trust",
+  "recursos": "Financiadores/fundadores: PRAESA y DG Murray Trust; premio Library of Congress International Literacy Prize 2026: USD 50.000 (consta en la fuente periodística sobre el premio). Monto global del programa: no consta en una sola fuente, va null en agregado.",
+  "resultados": "Según SABA (con datos de Nal'ibali): más de 4.000 clubes de lectura; más de 33,8 millones de copias del suplemento bilingüe distribuidas desde 2012; casi medio millón de libros distribuidos; 646 historias en el sitio web en las once lenguas; más de 7,4 millones de oyentes semanales en la temporada radial más reciente en SABC. Según su informe anual 2019: casi 160.000 niños miembros de clubes de lectura en 2019 y 5,2 millones de suplementos distribuidos ese año."
+ },
+ {
+  "id": "relatos-conectados",
+  "nombre": "Relatos Conectados",
+  "que_hizo": "Planificación, diseño, publicación y gestión de una plataforma digital para que jóvenes de 13 a 17 años escriban, publiquen y lean relatos de otros jóvenes de distintas comunidades; incluyó talleres virtuales para personal de bibliotecas y webinars con jóvenes escritores.",
+  "quien": "Carretica Cuentera (director citado: Alberto Barrantes); plataforma diseñada para el Sistema Nacional de Bibliotecas (SINABI).",
+  "lugar": "Ámbito nacional (digital)",
+  "pais": "Costa Rica",
+  "lat": 9.9281,
+  "lng": -84.0907,
+  "coord_aprox": true,
+  "periodo": "Ganador de la 8ª Convocatoria Iberbibliotecas 2020; desarrollo en 2021",
+  "recursos": "Iberbibliotecas, 8ª Convocatoria 2020 (seleccionado entre 259 proyectos). Monto individual no verificado: el acta general habla de ganadores que reciben hasta USD 15.000, lo que no prueba el monto de este proyecto.",
+  "resultados": "Producto verificable: la plataforma digital de relatos para jóvenes. Iberbibliotecas clasifica el proyecto como «Finalizado». Cifras de usuarios: no verificadas.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/category/proyectos/finalizado/",
+   "https://www.mcj.go.cr/sala-de-prensa/noticias/proyecto-de-carretica-cuentera-resulto-ganador-en-convocatoria"
+  ]
+ },
+ {
+  "id": "te-hare-de-la-vida-un-cuento",
+  "nombre": "Te haré de la vida un cuento",
+  "que_hizo": "Mantuvo durante la pandemia, reinventados en formato virtual, los proyectos de extensión bibliotecaria con colectivos vulnerables: animación a la lectura y narración para personas mayores, población reclusa (grupo mixto con internos del Centro Penitenciario Madrid V y club de lectura), personas en riesgo de exclusión o con capacidades diferentes, y actividades en residencias de mayores.",
+  "quien": "Biblioteca Municipal de Soto del Real «Pedro de Lorenzo».",
+  "lugar": "Soto del Real, Madrid",
+  "pais": "España",
+  "lat": 40.7547,
+  "lng": -3.7861,
+  "coord_aprox": true,
+  "periodo": "Trayectoria premiada desde 2010; versión Iberbibliotecas en 2020",
+  "recursos": "Iberbibliotecas 2020 (monto no verificado). Premio REBIUN 2019 con dotación de 3.000 € (ese premio, no Iberbibliotecas).",
+  "resultados": "Reconocimientos verificables: Campaña de Animación a la Lectura María Moliner 2010 e III Premio REBIUN 2019. Cifras de participantes: no verificadas.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/te-hare-de-la-vida-un-cuento/",
+   "https://www.crue.org/2019/10/iii-premio-rebiun/"
+  ]
+ },
+ {
+  "id": "bibliokiosko-cambalache",
+  "nombre": "Bibliokiosko Cambalache",
+  "que_hizo": "Sucursal bibliotecaria al aire libre en el Parque Anfiteatro El Hoyo (sector norte de Rancagua), con dos jornadas semanales: servicio itinerante de biblioteca y mediación lectora con «La Hora del CuentaCuentos» y un Taller de Cómics, con colección infantil y juvenil. La narración oral es un componente del proyecto, no su único objeto.",
+  "quien": "Agrupación Social Cultural Recreativo Colectivo Ensamble.",
+  "lugar": "Rancagua",
+  "pais": "Chile",
+  "lat": -34.1708,
+  "lng": -70.7398,
+  "coord_aprox": true,
+  "periodo": "Varios años de trabajo comunitario; clasificado «Finalizado» por Iberbibliotecas (convocatoria 2020)",
+  "recursos": "Iberbibliotecas. Monto no verificado.",
+  "resultados": "Iberbibliotecas lo clasifica como «Finalizado». Cifras de público: no verificadas.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.iberbibliotecas.org/category/proyectos/finalizado/",
+   "https://www.iberbibliotecas.org/category/proyectos/chile/"
+  ]
+ },
+ {
+  "id": "escuela-cuenteria-medellin",
+  "nombre": "Escuela de Cuentería y Oralidad de Medellín",
+  "que_hizo": "Programa de formación integral y permanente en cuentería: nivel básico (2 semestres) y avanzado (3 semestres), con trabajo final de puesta en escena de un espectáculo de narración. En 2020 las clases pasaron a formato virtual (86 clases por Zoom para 2 grupos, según su informe 2020).",
+  "quien": "Corporación Cultural VIVAPALABRA (dirección artística: Jorge Ambrosio Villa Zapata, «Jota Villaza»).",
+  "lugar": "Medellín",
+  "pais": "Colombia",
+  "lat": 6.2442,
+  "lng": -75.5812,
+  "coord_aprox": true,
+  "periodo": "Desde 2001, con ejecución continuada documentada hasta 2024",
+  "recursos": "Ministerio de las Culturas, las Artes y los Saberes (convenio de concertación) y Secretaría de Cultura Ciudadana de Medellín. Ingresos ejecutados del proyecto según el Informe de Gestión 2024 de VIVAPALABRA (declarados por la ejecutora, en pesos colombianos): 2021: $15.000.000; 2022: $19.183.000; 2023: $16.258.000; 2024: $22.337.000.",
+  "resultados": "Según AEDA: 25 egresados y más de 100 alumnos hasta ~2013; la escuela sigue activa con informes de gestión anuales.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://vivapalabra.com/wp-content/uploads/2025/06/informe-de-gestion-vivapalabra-2024.pdf"
+  ]
+ },
+ {
+  "id": "canas-al-cuento",
+  "nombre": "Canas al Cuento",
+  "que_hizo": "Un grupo de adultos mayores se reunió cada sábado en VIVAPALABRA durante más de un año para crear y preparar cuentos propios (de imaginación y de vida real), respetando su lenguaje oral y coloquial; el proceso culminó en un espectáculo oral y en un libro publicado con los cuentos de los participantes.",
+  "quien": "Corporación Cultural VIVAPALABRA; coordinación, redacción y edición: Jorge Ambrosio Villa Zapata; dirección general: Luz Marina Arcila Toro.",
+  "lugar": "Medellín",
+  "pais": "Colombia",
+  "lat": 6.2542,
+  "lng": -75.5712,
+  "coord_aprox": true,
+  "periodo": "Ganador de la Convocatoria de Fomento y Estímulos para el Arte y la Cultura 2022",
+  "recursos": "Secretaría de Cultura Ciudadana de Medellín (convocatoria 2022). Monto no verificado.",
+  "resultados": "Producto verificable: el libro «Canas al Cuento» (Colección Te Cuento nº 8, La Butaca Editorial). La fuente no afirma una cifra total de participantes.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://vivapalabra.com/wp-content/uploads/2023/03/1.-libro-canas-al-cuento-.pdf"
+  ]
+ },
+ {
+  "id": "abuelos-cuentacuentos-santa-fe",
+  "nombre": "Abuelos Cuentacuentos (Santa Fe)",
+  "que_hizo": "Personas mayores comparten historias, lecturas y experiencias con niños de los jardines municipales, tras instancias formativas municipales. La primera ronda cerró con balance colectivo y reactivación prevista.",
+  "quien": "Municipalidad de Santa Fe (coordinación citada: Cielo Michlig, Secretaría de Educación), en el Proyecto de Educación Intergeneracional.",
+  "lugar": "Santa Fe (17 jardines municipales)",
+  "pais": "Argentina",
+  "lat": -31.7413,
+  "lng": -60.5116,
+  "coord_aprox": true,
+  "periodo": "Gestado en 2025, consolidado en 2026; primera ronda culminada",
+  "recursos": "Municipalidad de Santa Fe. Monto no verificado.",
+  "resultados": "Según la fuente municipal: 40 abuelos activos y alcance a los 17 jardines municipales.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://santafenoticias.gob.ar/el-programa-abuelos-cuentacuentos-cerro-su-primera-ronda-en-los-jardines-municipales/"
+  ]
+ },
+ {
+  "id": "abuelas-cuentacuentos-giarinelli",
+  "nombre": "Programa de Abuelas Cuentacuentos (Fundación Mempo Giardinelli)",
+  "que_hizo": "Voluntarias mayores leen y narran cuentos semanalmente a grupos de niños, creando un vínculo abuela-nieto; reciben capacitación en literatura infantil, voz y expresividad. Ámbitos: escuelas, comedores, orfanatos, hospitales, cárceles y geriátricos. La propia documentación aclara que son lectoras voluntarias, no narradoras orales profesionales.",
+  "quien": "Fundación Mempo Giardinelli (idea de Mempo Giardinelli, gestada en 1999).",
+  "lugar": "Resistencia, Chaco (primer grupo), con transferencia nacional e internacional",
+  "pais": "Argentina",
+  "lat": -27.4514,
+  "lng": -58.9867,
+  "coord_aprox": true,
+  "periodo": "Primeras experiencias en 2000; inicio oficial en 2001; programa continuado",
+  "recursos": "Fundación Mempo Giardinelli; en 2006 el Ministerio de Educación de la Nación solicitó su transferencia y luego trabajó con PAMI (según fuente parlamentaria). Montos no verificados.",
+  "resultados": "Según fuente parlamentaria: transferido a más de 60 ciudades de Argentina y 6 de Latinoamérica; la Fundación acompaña a más de 700 voluntarios; lectura sistemática en gran parte de las 145 escuelas primarias del Gran Resistencia. Seleccionado BEST en el Concurso de Buenas Prácticas de Dubái 2006 (ONU-Hábitat).",
+  "estado": "en ejecución",
+  "fuentes": [
+   "http://www.hcdn.gob.ar/proyectos/proyectoTP.jsp?exp=0572-D-2011"
+  ]
+ },
+ {
+  "id": "relatos-en-transito",
+  "nombre": "Relatos en Tránsito",
+  "que_hizo": "Promoción de la narración oral infantil y juvenil mediante relatos y epew (historias mapuche transmitidas oralmente): técnicas teatrales y de relato, construcción colectiva de historias llevadas a formato escénico y podcast, puesta en escena de epew y documental del proceso, en cinco escuelas de La Araucanía.",
+  "quien": "Organización Cultural En Tránsito, con el epewtufe Ramón Cayumil, en convenio con la Seremi de las Culturas de La Araucanía.",
+  "lugar": "Galvarino, Nueva Imperial, Toltén, Vilcún y Lonquimay, La Araucanía",
+  "pais": "Chile",
+  "lat": -38.7359,
+  "lng": -72.5904,
+  "coord_aprox": true,
+  "periodo": "Proceso artístico septiembre–diciembre 2022; entrega de resultados en abril 2023",
+  "recursos": "Ministerio de las Culturas, las Artes y el Patrimonio de Chile, programa Acciona (convenio). Monto no verificado.",
+  "resultados": "Según la fuente ministerial: más de 500 estudiantes participaron y se entregaron gratuitamente casi 500 libros de cuentos mapuche creados por los propios estudiantes.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.cultura.gob.cl/acciona/estudiantes-de-cinco-escuelas-de-la-araucania-crean-libro-de-cuentos-mapuche/"
+  ]
+ },
+ {
+  "id": "cuentame-un-cuento-peru",
+  "nombre": "Cuéntame un Cuento — «Coser para Contar y Educar»",
+  "que_hizo": "Formación intensiva (sesiones presenciales y virtuales) de Promotoras Educativas Comunales en creación, producción (tapetes textiles cuentacuentos) y narración de cuentos para fortalecer el lenguaje y el desarrollo integral en educación inicial; clausura con demostración de narración con tapetes.",
+  "quien": "UGEL Nº 07 (Área AGEBRE), con MINEDU y FONDEP; experto a cargo: Lenin Luis Canchari, narrador textil «Hijo de la Luna».",
+  "lugar": "Ámbito de la UGEL 07, Lima",
+  "pais": "Perú",
+  "lat": -12.0464,
+  "lng": -77.0428,
+  "coord_aprox": true,
+  "periodo": "Ejecutado y clausurado (noticia oficial de la UGEL 07)",
+  "recursos": "FONDEP (Fondo Nacional de Desarrollo de la Educación Peruana) / MINEDU. Monto no verificado.",
+  "resultados": "Según la fuente oficial: 80 Promotoras Educativas Comunales (PRONOEI ciclos I y II) conocieron y practicaron las estrategias.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.gob.pe/institucion/ugel07/noticias/952987-clausura-del-proyecto-de-innovacion-cuentame-un-cuento"
+  ]
+ },
+ {
+  "id": "rescate-historia-oral-36-lenguas",
+  "nombre": "Rescate de la historia oral en 36 lenguas",
+  "que_hizo": "Equipos multidisciplinarios viajaron a comunidades indígenas de Bolivia, recogieron cuentos, mitos e historias narrados por las propias comunidades en sus lenguas originarias y los recrearon en cortometrajes educativos con participación activa comunitaria (guiones con dibujos, puesta en escena y aprobación comunitaria del material editado).",
+  "quien": "OEI (Organización de Estados Iberoamericanos) con el Ministerio de Culturas y Turismo de Bolivia; apoyo de AECID; productora Docuandantes.",
+  "lugar": "Comunidades de 31 naciones y pueblos de Bolivia (ámbito nacional)",
+  "pais": "Bolivia",
+  "lat": -16.4897,
+  "lng": -68.1193,
+  "coord_aprox": true,
+  "periodo": "Colección presentada públicamente el 28–30 de agosto de 2015",
+  "recursos": "OEI y Ministerio de Culturas y Turismo de Bolivia, con apoyo de AECID. Monto no verificado.",
+  "resultados": "Colección de 31 cortometrajes y videos educativos: el proyecto apuntaba a 36 pueblos y accedió a 31 comunidades dispuestas a participar.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://www.exteriores.gob.es/Embajadas/lapaz/es/Comunicacion/Noticias/Paginas/Articulos/20150829_NOT1.aspx"
+  ]
+ },
+ {
+  "id": "palabras-al-viento-cuba",
+  "nombre": "Palabras al Viento — trabajo comunitario en Holguín",
+  "que_hizo": "Presentaciones de narración oral en escuelas, barrios de difícil acceso, escuelas especiales, la Biblioteca Provincial Alex Urquiola y el Museo Casa Natal de Calixto García, combinando danza, canto, escenografía e improvisación, dirigidas principalmente a público infantil y familias (espacios «Contraportada», «La hora del cuento», «Contar la historia» y «Lecturas Multicolores»). Es la actividad continuada de una compañía, no un proyecto acotado con inicio y cierre.",
+  "quien": "Compañía de Narración Oral Palabras al Viento (fundada en abril de 2004).",
+  "lugar": "Holguín",
+  "pais": "Cuba",
+  "lat": 20.8872,
+  "lng": -76.2631,
+  "coord_aprox": true,
+  "periodo": "Compañía activa desde 2004; acciones comunitarias documentadas por la ACN",
+  "recursos": "Instituciones culturales provinciales cubanas como aliadas. Financiador y monto específicos no verificados.",
+  "resultados": "Reconocimientos citados: Premios de la Ciudad, Premios Contarte y Juglar Honorífico de la UNEAC. Cifras de público: no verificadas.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://www.acn.cu/cultura/palabras-al-viento-lleva-la-narracion-oral-a-barrios-en-holguin"
+  ]
+ },
+ {
+  "id": "land-of-legends-suecia",
+  "nombre": "Land-of-Legends Programme",
+  "que_hizo": "Programa integral de salvaguardia de la narración oral: festival de narración, campamentos para adolescentes, actividades en escuelas y academia, cursos para futuros docentes y actividades comunitarias; incluye un curso universitario de narración educativa (Universidad Linnaeus).",
+  "quien": "Storytelling Network of Kronoberg (creada en noviembre de 1990 por bibliotecarios y docentes de la región).",
+  "lugar": "Región de Kronoberg",
+  "pais": "Suecia",
+  "lat": 56.8777,
+  "lng": 14.8091,
+  "coord_aprox": true,
+  "periodo": "Desde 1990; seleccionado en 2018 por UNESCO para el Registro de Buenas Prácticas de Salvaguardia",
+  "recursos": "Financiador y monto no verificados en las fuentes UNESCO consultadas.",
+  "resultados": "Según UNESCO, el programa devolvió la narración a la vida pública, produjo nuevos narradores y se extendió a otras partes de Suecia y países nórdicos, sirviendo de modelo. El informe periódico 2020–2024 afirma que la red tiene 225 miembros.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "https://ich.unesco.org/en/BSP/land-of-legends-programme-for-promoting-and-revitalizing-the-art-of-storytelling-in-kronoberg-region-01392"
+  ]
+ },
+ {
+  "id": "malawi-proverbios-cuentos",
+  "nombre": "Salvaguardia de proverbios y cuentos nkhonde, tumbuka y chewa",
+  "que_hizo": "Formación en inventario comunitario del patrimonio, documentación de proverbios y cuentos populares de los pueblos nkhonde, tumbuka y chewa, producción de libros y diccionarios, y un programa de narración para niños en la Biblioteca Nacional para transmitirlos.",
+  "quien": "Malawi National Commission for UNESCO, con la Oral Traditions Association of Malawi y especialistas de Mzuzu University.",
+  "lugar": "Biblioteca Nacional y bibliotecas comunitarias de Malawi",
+  "pais": "Malawi",
+  "lat": -13.9626,
+  "lng": 33.7741,
+  "coord_aprox": true,
+  "periodo": "30 de junio de 2016 – 16 de junio de 2017 (fechas de implementación UNESCO)",
+  "recursos": "UNESCO (proyecto de patrimonio cultural inmaterial). Monto no verificado en la página consultada.",
+  "resultados": "Según UNESCO: 156 proverbios y 153 cuentos documentados; 59 informantes entrevistados y grabados; 500 copias de cada libro y diccionario producidas y distribuidas a bibliotecas; el programa de narración reunió a 210 niños, frente a 90 planeados.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://ich.unesco.org/en/project-education/safeguarding-of-nkhonde-tumbuka-and-chewa-proverbs-and-folktales-00431?projectID=00431"
+  ]
+ },
+ {
+  "id": "performing-stories-sudafrica",
+  "nombre": "Performing Stories",
+  "que_hizo": "Formación de jóvenes de 18 a 35 años en historia oral: recogieron historias de vida en sus comunidades, las digitalizaron y transcribieron, y las convirtieron en productos públicos: una exposición audiovisual, guiones y obras de teatro. (Historia oral performada, lindante con la narración oral.)",
+  "quien": "Centre for Popular Memory (CPM), University of Cape Town, en colaboración entre la South African National Youth Commission y la Comunidad Flamenca, con 4 centros comunitarios.",
+  "lugar": "Ciudad del Cabo, Thaba Nchu, Durban y Soweto",
+  "pais": "Sudáfrica",
+  "lat": -33.9249,
+  "lng": 18.4241,
+  "coord_aprox": true,
+  "periodo": "2008–2010",
+  "recursos": "National Youth Commission y Comunidad Flamenca. Monto no verificado.",
+  "resultados": "Según el reporte del CPM: 60 jóvenes formados en cuatro provincias; 120 entrevistas de audio y 90 transcripciones en 5 lenguas; productos: 1 exposición audiovisual y 2 producciones teatrales.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://oral-history.ir/enshow.php?page=post&id=4293"
+  ]
+ },
+ {
+  "id": "kathalaya-india",
+  "nombre": "Kathalaya — narración oral como herramienta educativa",
+  "que_hizo": "Uso del cuento (folclore, mitos, leyendas, épicas, biografías) para enseñar historia, lenguas, ciencias y matemáticas: currículo de storytelling de kínder a VII grado, kits educativos, formación de docentes y de adolescentes.",
+  "quien": "Kathalaya Trust (fundadora: Geeta Ramanujam).",
+  "lugar": "Bangalore y sur de la India",
+  "pais": "India",
+  "lat": 12.9716,
+  "lng": 77.5946,
+  "coord_aprox": true,
+  "periodo": "Fundada en 1998; actividad continuada",
+  "recursos": "Financiador institucional y monto histórico no verificados.",
+  "resultados": "Según The Tribune (2005): el método era seguido por 50 escuelas rurales y 10 urbanas del sur de la India.",
+  "estado": "en ejecución",
+  "fuentes": [
+   "http://www.tribuneindia.com/2005/20050717/society.htm",
+   "http://yourstory.com/2012/09/kathalaya-spreading-storytelling-to-the-classroom-and-beyond"
+  ]
+ },
+ {
+  "id": "contos-sem-fronteiras",
+  "nombre": "Contos sem Fronteiras: da tradição ao digital",
+  "que_hizo": "Durante un año lectivo: sesiones de lectura de cuentos tradicionales por la profesora bibliotecaria; abuelos que volvieron a la escuela a contar historias a nietos y compañeros; sesiones con usuarios de la Santa Casa da Misericórdia; sesiones de una contadora profesional; y talleres donde los alumnos crearon ilustraciones con IA generativa y libros digitales a partir de los cuentos trabajados.",
+  "quien": "Biblioteca Escolar del Agrupamento de Escolas de Fronteira; distinguido en la candidatura al proyecto BePlan de la Rede de Bibliotecas Escolares.",
+  "lugar": "Fronteira",
+  "pais": "Portugal",
+  "lat": 39.0569,
+  "lng": -7.6489,
+  "coord_aprox": true,
+  "periodo": "Un año lectivo completo ejecutado",
+  "recursos": "Rede de Bibliotecas Escolares / BePlan. Monto no verificado.",
+  "resultados": "Productos verificables: libros digitales creados por los alumnos (A princesa e a ervilha, Os músicos de Bremen, O coelhinho branco, Os sete cabritinhos). Cifras de alumnos: no verificadas.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://blogue.rbe.mec.pt/contos-sem-fronteiras-da-tradicao-ao-digital/"
+  ]
+ },
+ {
+  "id": "veni-contame-ve",
+  "nombre": "«Vení, contame ve» — verificación parcial",
+  "que_hizo": "Creación de espacios de narración oral para la construcción colectiva de conocimientos sobre diversidad sociocultural, abiertos a todas las personas. Ficha con verificación parcial: la evidencia localizada es una sola fuente académica secundaria (UNAD); se mantiene señalada hasta contar con fuente primaria.",
+  "quien": "Liderado por Julián Maya (según la fuente académica).",
+  "lugar": "Palmira, Valle del Cauca",
+  "pais": "Colombia",
+  "lat": 3.5394,
+  "lng": -76.3036,
+  "coord_aprox": true,
+  "periodo": "Referenciado en literatura académica de 2017; años exactos de ejecución no verificados",
+  "recursos": null,
+  "resultados": "La fuente lo clasifica como innovación social educativa centrada en desarrollo comunitario y creatividad; ninguna cifra verificada.",
+  "estado": "ejecutado",
+  "fuentes": [
+   "https://repository.unad.edu.co/jspui/bitstream/10596/67859/1/hmdelgadov.pdf"
+  ]
+ }
+]
