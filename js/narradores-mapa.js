@@ -63,7 +63,22 @@
       });
       if (pts.length) map.fitBounds(pts, { padding: [20, 20] });
       var c = document.getElementById('narr-mapa-count');
-      if (c) c.textContent = data.length + ' narradores ubicados en el mapa.';
+      if (c) c.textContent = data.length + ' narradores ubicados en el mapa · ★ la estrella azul, en Tres Ríos, es la sede de la Fundación.';
     })
     .catch(function () { /* si falla la carga, la página sigue sin el mapa */ });
+
+  // Sede de la Fundación Festival Puro Cuento, administradora de este mapa:
+  // estrella azul en Condominio La Floresta (Tres Ríos) con su perfil.
+  var fundIcon = L.divIcon({
+    className: 'map-dot admin-dot',
+    html: '<span style="display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#00AAE3;border:2px solid #fff;box-shadow:0 0 0 2px #00AAE3;color:#fff;font-size:14px;line-height:1;">★</span>',
+    iconSize: [28, 28], iconAnchor: [14, 14], popupAnchor: [0, -14]
+  });
+  var fundHtml = '<strong>Fundación Festival Puro Cuento — Sede</strong>' +
+    '<img src="https://festivalpurocuento.com/wp-content/uploads/2023/01/Logo-FPC-2023-FC.png" alt="Fundación Festival Puro Cuento" style="max-width:170px;display:block;margin:.45rem auto;" onerror="this.remove()">' +
+    'Condominio La Floresta, Concepción de Tres Ríos · La Unión · Cartago, Costa Rica' +
+    '<br><br>Hay empresas que se miden en mapas, y esta nació para trazar uno distinto: el de las historias que la gente se cuenta cuando cae la tarde. La Fundación Festival Puro Cuento se constituyó en 2021 y, desde su sede entre las montañas verdes de Tres Ríos, sostiene un festival que desde 2002 reúne a narradoras y narradores de muchos países: 18 ediciones, cerca de 200.000 oyentes en el camino y 10.350 asistentes presenciales en 2026, además de 7.190 en escuelas.' +
+    '<br><br>Administra este Mapa Mundial de la Narración Oral —una carta de navegación por los festivales, las bibliotecas y las voces del planeta— y la Escuela Nacional de Narración Oral Escénica. Como los viajeros de Julio Verne, cree que el mundo entero cabe en un relato y que cada puerto —una plaza, una escuela, una biblioteca, una sala— guarda una historia esperando ser contada. Su lema lo dice todo: «¡Dejá que te echen el cuento!»' +
+    '<br><br><a href="https://festivalpurocuento.com" target="_blank" rel="noopener">festivalpurocuento.com</a> · <a href="mailto:info@festivalpurocuento.com">info@festivalpurocuento.com</a>';
+  L.marker([9.92747, -84.00141], { icon: fundIcon }).addTo(map).bindPopup(fundHtml, { maxWidth: 320 });
 })();
