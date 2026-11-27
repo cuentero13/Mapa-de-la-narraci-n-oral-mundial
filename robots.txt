@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mapa-de-la-narraci-n-oral-mundial.vercel.app/sitemap.xml

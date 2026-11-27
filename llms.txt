@@ -1,0 +1,13 @@
+# Mapa Mundial de la Narración Oral
+
+> Mapa interactivo y archivo vivo de la narración oral escénica en el mundo: 386 festivales en 122 países y territorios, 297 narradores, 120 libros, prensa y una cronología de 350 hitos. Lo administra la Fundación Festival Puro Cuento (Costa Rica).
+
+## Contenido
+- Festivales de narración oral por país y ciudad, con historia, fundadores y ediciones.
+- Narradores y narradoras con enlaces.
+- Biblioteca de la narración oral: libros y fuentes verificadas.
+- Lugares míticos de la tradición oral (capa opcional del mapa).
+
+## Enlaces
+- Mapa: https://mapa-de-la-narraci-n-oral-mundial.vercel.app/
+- Fundación Festival Puro Cuento: https://festivalpurocuento.com
