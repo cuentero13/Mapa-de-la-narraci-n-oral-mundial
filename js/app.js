@@ -53,7 +53,7 @@
 
   async function init() {
     try {
-      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro] =
+      const [mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro, narrMapa] =
         await Promise.all([
           loadJSON("festivales-mundo.json"),
           loadJSON("colombia.json"),
@@ -71,8 +71,9 @@
           loadJSON("colaboradores.json"),
           loadJSON("blog.json"),
           loadJSON("foro.json"),
+          loadJSON("narradores-mapa.json"),
         ]);
-      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro });
+      Object.assign(DATA, { mundo, colombia, narradores, libros, parciales, prensa, menciones, destacados, miticos, fuentes, premios, noticias, eventos, colaboradores, blog, foro, narrMapa });
     } catch (e) {
       console.error(e);
       const dl = $("dir-list");
@@ -169,6 +170,8 @@
     if (f.fundacion) parts.push(`<div>${t("founded")} ${f.fundacion}</div>`);
     if (f.ediciones_num) parts.push(`<div>${f.ediciones_num} ${t("editions")}</div>`);
     parts.push(`<div>${esc(f.vigencia)}</div>`);
+    if (f.web) parts.push(`<div><a href="${esc(f.web)}" target="_blank" rel="noopener">${t("f_web")}</a></div>`);
+    if (f.contacto) parts.push(`<div>${esc(f.contacto)}</div>`);
     if (f.relato) parts.push(`<div class="relato-popup"><strong>${t("relato_label")}: ${esc(f.relato.titulo)}</strong><br>${esc(f.relato.texto)}</div>`);
     if (f.coord_aprox) parts.push(`<div class="aprox">${t("approx")}</div>`);
     const src = (f.fuentes || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, "").split("/")[0])}</a>`).join(" · ");
@@ -203,6 +206,28 @@
     parts.push(`<div>${esc(n.localidad || "")}${n.localidad && n.pais ? " · " : ""}${esc(n.pais || "")}</div>`);
     if (n.memoria) parts.push(`<div>${t("in_memoriam")}</div>`);
     parts.push(`<div class="aprox">${t("approx_general")}</div>`);
+    parts.push(`<div><a href="narradores.html">${t("nav_narradores")}</a></div>`);
+    return parts.join("");
+  }
+
+  // Popup completo de narrador (capa del mapa principal, 27-nov-2026):
+  // usa data/narradores-mapa.json — TODOS los narradores ubicables de la red
+  // (no solo Costa Rica y Argentina) con su información completa.
+  function narrMapaPopup(n) {
+    const LABELS = { web: "Web", facebook: "Facebook", instagram: "Instagram", youtube: "YouTube", x: "X", tiktok: "TikTok", otros: "Enlace" };
+    const parts = [];
+    parts.push(`<h4>${esc(n.n)}</h4>`);
+    const lugar = [n.l, n.p].filter(Boolean).join(" · ");
+    if (lugar) parts.push(`<div>${esc(lugar)}</div>`);
+    if (n.m) parts.push(`<div>${t("in_memoriam")}</div>`);
+    if (n.a) parts.push(`<div class="aprox">${t("approx")}</div>`);
+    const links = [];
+    Object.keys(n.links || {}).forEach(k => {
+      const v = n.links[k];
+      if (Array.isArray(v)) v.forEach(o => { if (o && o.url) links.push(`<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.etiqueta || o.url)}</a>`); });
+      else if (v && String(v).indexOf("http") === 0) links.push(`<a href="${esc(v)}" target="_blank" rel="noopener">${esc(LABELS[k] || k)}</a>`);
+    });
+    if (links.length) parts.push(`<div>${links.join(" · ")}</div>`);
     parts.push(`<div><a href="narradores.html">${t("nav_narradores")}</a></div>`);
     return parts.join("");
   }
@@ -282,7 +307,7 @@
     const showN = $("toggle-narradores") && $("toggle-narradores").checked;
     const showP = $("toggle-premios") && $("toggle-premios").checked;
     const showL = $("toggle-libros") && $("toggle-libros").checked;
-    const narr = showN ? (DATA.narradores || []).filter(n => n.lat != null && (country === "all" || n.pais === country)) : [];
+    const narr = showN ? (DATA.narrMapa || []).filter(n => (country === "all" || n.p === country)) : [];
     const prem = showP ? (DATA.premios || []).filter(p => p.lat != null && (country === "all" || p.pais_ambito === country)) : [];
     const libr = showL ? (DATA.libros || []).filter(l => l.lat != null && (country === "all" || l.pais === country)) : [];
     return { narr, prem, libr };
@@ -312,7 +337,7 @@
     });
     const { narr, prem, libr } = layersFiltered();
     narr.forEach(n => {
-      L.marker([n.lat, n.lng], { icon: dotIcon("#2E86AB", n.coord_aprox) }).bindPopup(narratorPopup(n)).addTo(narrLayer);
+      L.marker([n.lat, n.lng], { icon: dotIcon("#2E86AB", !!n.a) }).bindPopup(narrMapaPopup(n)).addTo(narrLayer);
     });
     prem.forEach(p => {
       L.marker([p.lat, p.lng], { icon: dotIcon("#D4A017", p.coord_aprox) }).bindPopup(premioPopup(p)).addTo(premLayer);
