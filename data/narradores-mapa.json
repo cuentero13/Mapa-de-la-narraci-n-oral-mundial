@@ -3979,5 +3979,27 @@
     }
    ]
   }
+ },
+ {
+  "n": "Michael Navarro Hernández (El Cuentero)",
+  "l": "San José",
+  "p": "Costa Rica",
+  "lat": 9.9328,
+  "lng": -84.0722,
+  "a": 0,
+  "m": 0,
+  "links": {
+   "web": "https://cuentero13.github.io/Portafolio-Michael-Navarro-Hernandez/",
+   "otros": [
+    {
+     "url": "https://festivalpurocuento.com",
+     "etiqueta": "Fundación Festival Puro Cuento"
+    },
+    {
+     "url": "https://cuentero13.blogspot.com",
+     "etiqueta": "Blog «Escribo borracho, edito sobrio»"
+    }
+   ]
+  }
  }
 ]

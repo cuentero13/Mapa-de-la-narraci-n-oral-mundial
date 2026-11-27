@@ -29,7 +29,11 @@
     var parts = [];
     Object.keys(links).forEach(function (k) {
       var v = links[k];
-      if (v && String(v).indexOf('http') === 0) {
+      if (Array.isArray(v)) {
+        v.forEach(function (o) {
+          if (o && o.url) parts.push('<a href="' + esc(o.url) + '" target="_blank" rel="noopener">' + esc(o.etiqueta || o.url) + '</a>');
+        });
+      } else if (v && String(v).indexOf('http') === 0) {
         parts.push('<a href="' + esc(v) + '" target="_blank" rel="noopener">' + esc(LABELS[k] || k) + '</a>');
       }
     });
