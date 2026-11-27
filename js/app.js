@@ -42,7 +42,7 @@
     return "";
   }
 
-  let map, worldLayer, adminLayer, mythLayer, narrLayer, premLayer, librLayer;
+  let map, worldLayer, adminLayer, mythLayer, narrLayer, premLayer, librLayer, proyLayer;
 
   // ---------- carga de datos ----------
   async function loadJSON(path) {

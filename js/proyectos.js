@@ -3,7 +3,7 @@
 (function () {
   var lang = "es";
   try { lang = localStorage.getItem("noe-lang") || "es"; } catch (e) {}
-  var L = (lang === "en") ? {
+  var T = (lang === "en") ? {
     que: "What it did", quien: "Executed by", periodo: "Period", recursos: "Resources",
     resultados: "Results", fuentes: "Sources", ejecutado: "Executed", encurso: "In progress",
     aprox: "Approximate location", proyectos: "documented projects", en: "in", paises: "countries"
@@ -17,16 +17,16 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
-  function estadoTxt(e) { return e === "ejecutado" ? L.ejecutado : L.encurso; }
+  function estadoTxt(e) { return e === "ejecutado" ? T.ejecutado : T.encurso; }
   function filas(p, completa) {
     var rows = "";
-    if (p.que_hizo) rows += "<div><dt>" + esc(L.que) + "</dt><dd>" + esc(p.que_hizo) + "</dd></div>";
-    if (p.quien) rows += "<div><dt>" + esc(L.quien) + "</dt><dd>" + esc(p.quien) + "</dd></div>";
-    if (p.periodo) rows += "<div><dt>" + esc(L.periodo) + "</dt><dd>" + esc(p.periodo) + "</dd></div>";
-    if (p.recursos) rows += "<div><dt>" + esc(L.recursos) + "</dt><dd>" + esc(p.recursos) + "</dd></div>";
-    if (p.resultados) rows += "<div><dt>" + esc(L.resultados) + "</dt><dd>" + esc(p.resultados) + "</dd></div>";
+    if (p.que_hizo) rows += "<div><dt>" + esc(T.que) + "</dt><dd>" + esc(p.que_hizo) + "</dd></div>";
+    if (p.quien) rows += "<div><dt>" + esc(T.quien) + "</dt><dd>" + esc(p.quien) + "</dd></div>";
+    if (p.periodo) rows += "<div><dt>" + esc(T.periodo) + "</dt><dd>" + esc(p.periodo) + "</dd></div>";
+    if (p.recursos) rows += "<div><dt>" + esc(T.recursos) + "</dt><dd>" + esc(p.recursos) + "</dd></div>";
+    if (p.resultados) rows += "<div><dt>" + esc(T.resultados) + "</dt><dd>" + esc(p.resultados) + "</dd></div>";
     if (completa && p.fuentes && p.fuentes.length) {
-      rows += "<div><dt>" + esc(L.fuentes) + "</dt><dd>" + p.fuentes.map(function (u, i) {
+      rows += "<div><dt>" + esc(T.fuentes) + "</dt><dd>" + p.fuentes.map(function (u, i) {
         return '<a href="' + esc(u) + '" target="_blank" rel="noopener">[' + (i + 1) + "]</a>";
       }).join(" ") + "</dd></div>";
     }
@@ -36,7 +36,7 @@
     return "<h4>" + esc(p.nombre) + "</h4>" +
       "<div>" + esc([p.lugar, p.pais].filter(Boolean).join(" · ")) + "</div>" +
       "<div><em>" + esc(estadoTxt(p.estado)) + "</em></div>" +
-      (p.coord_aprox ? '<div class="aprox">' + esc(L.aprox) + "</div>" : "") +
+      (p.coord_aprox ? '<div class="aprox">' + esc(T.aprox) + "</div>" : "") +
       '<dl class="fest-fields">' + filas(p, false) + "</dl>";
   }
   function cardHTML(p) {
@@ -78,7 +78,7 @@
       var paises = {};
       all.forEach(function (p) { if (p.pais) paises[p.pais] = 1; });
       var c = document.getElementById("proy-count");
-      if (c) c.textContent = all.length + " " + L.proyectos + " " + L.en + " " + Object.keys(paises).length + " " + L.paises + ".";
+      if (c) c.textContent = all.length + " " + T.proyectos + " " + T.en + " " + Object.keys(paises).length + " " + T.paises + ".";
       render("todas");
     })
     .catch(function () { render("todas"); });
