@@ -95,7 +95,7 @@ const I18N = {
     foot_nosotros: "Nosotros",
     foot_links: "Enlaces",
     foot_nosotros_text: "El Mapa Mundial de la Narración Oral es un registro en construcción de los festivales donde la palabra se vuelve fiesta, en todo el mundo. Lo impulsa la Fundación Festival Puro Cuento.",
-    foot_fundacion_text: "Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y lleva 18 ediciones; su próxima edición, la 19.ª, es del 13 al 21 de marzo de 2027. Presidente: Víctor Michael Navarro Hernández. Cédula jurídica: 3-006-829758.",
+    foot_fundacion_text: "Fundación costarricense de narración oral. Su Festival Internacional Puro Cuento nació en 2002 y lleva 18 ediciones; su próxima edición, la 19.ª, es del 13 al 21 de marzo de 2027. Administra este Mapa Mundial de la Narración Oral.",
     // dinámicos
     founded: "Fundado en", editions: "ediciones", editions_label: "Ediciones",
     founders: "Fundadores", directors: "Directores", org: "Organiza",
@@ -340,7 +340,7 @@ const I18N = {
     foot_nosotros: "About us",
     foot_links: "Links",
     foot_nosotros_text: "The World Map of Oral Storytelling is a work-in-progress register of the festivals where words become celebration, around the world. It is driven by the Fundación Festival Puro Cuento.",
-    foot_fundacion_text: "Costa Rican oral storytelling foundation. Its Festival Internacional Puro Cuento was born in 2002 and has held 18 editions; its next edition, the 19th, is 13–21 March 2027. President: Víctor Michael Navarro Hernández. Legal ID: 3-006-829758.",
+    foot_fundacion_text: "Costa Rican oral storytelling foundation. Its Festival Internacional Puro Cuento was born in 2002 and has held 18 editions; its next edition, the 19th, is 13–21 March 2027. It runs this World Map of Oral Storytelling.",
     founded: "Founded in", editions: "editions", editions_label: "Editions",
     founders: "Founders", directors: "Directors", org: "Organised by",
     sources: "Sources", cita_apa: "APA citation",
