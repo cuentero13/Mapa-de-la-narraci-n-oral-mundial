@@ -36,6 +36,12 @@
     return parts.length ? '<br>' + parts.join(' · ') : '';
   }
 
+  // Leaflet calcula el tamaño al crear el mapa; si el diseño termina de
+  // cargar después (fuentes, desplazamiento), las baldosas quedan cortadas.
+  // Se recalcula al terminar la carga y poco después de abrir la página.
+  window.addEventListener('load', function () { map.invalidateSize(); });
+  setTimeout(function () { map.invalidateSize(); }, 400);
+
   fetch('data/narradores-mapa.json')
     .then(function (r) { return r.json(); })
     .then(function (data) {
